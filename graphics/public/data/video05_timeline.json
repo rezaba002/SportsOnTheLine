@@ -1,0 +1,1690 @@
+{
+ "fps": 30,
+ "total": 9733,
+ "audio": [
+  {
+   "id": "h01",
+   "file": "narration05/h01.mp3",
+   "from": 18
+  },
+  {
+   "id": "h02",
+   "file": "narration05/h02.mp3",
+   "from": 198
+  },
+  {
+   "id": "h03",
+   "file": "narration05/h03.mp3",
+   "from": 315
+  },
+  {
+   "id": "h04",
+   "file": "narration05/h04.mp3",
+   "from": 656
+  },
+  {
+   "id": "r01",
+   "file": "narration05/r01.mp3",
+   "from": 816
+  },
+  {
+   "id": "r02",
+   "file": "narration05/r02.mp3",
+   "from": 1059
+  },
+  {
+   "id": "r03",
+   "file": "narration05/r03.mp3",
+   "from": 1401
+  },
+  {
+   "id": "e01",
+   "file": "narration05/e01.mp3",
+   "from": 1615
+  },
+  {
+   "id": "e02",
+   "file": "narration05/e02.mp3",
+   "from": 1776
+  },
+  {
+   "id": "e03",
+   "file": "narration05/e03.mp3",
+   "from": 2063
+  },
+  {
+   "id": "e04",
+   "file": "narration05/e04.mp3",
+   "from": 2368
+  },
+  {
+   "id": "e05",
+   "file": "narration05/e05.mp3",
+   "from": 2554
+  },
+  {
+   "id": "e06",
+   "file": "narration05/e06.mp3",
+   "from": 2740
+  },
+  {
+   "id": "e07",
+   "file": "narration05/e07.mp3",
+   "from": 3082
+  },
+  {
+   "id": "e08",
+   "file": "narration05/e08.mp3",
+   "from": 3226
+  },
+  {
+   "id": "e11",
+   "file": "narration05/e11.mp3",
+   "from": 3574
+  },
+  {
+   "id": "e12",
+   "file": "narration05/e12.mp3",
+   "from": 3932
+  },
+  {
+   "id": "e13",
+   "file": "narration05/e13.mp3",
+   "from": 4182
+  },
+  {
+   "id": "e14",
+   "file": "narration05/e14.mp3",
+   "from": 4406
+  },
+  {
+   "id": "e15",
+   "file": "narration05/e15.mp3",
+   "from": 4606
+  },
+  {
+   "id": "a01",
+   "file": "narration05/a01.mp3",
+   "from": 4849
+  },
+  {
+   "id": "a02",
+   "file": "narration05/a02.mp3",
+   "from": 5078
+  },
+  {
+   "id": "a03",
+   "file": "narration05/a03.mp3",
+   "from": 5243
+  },
+  {
+   "id": "a04",
+   "file": "narration05/a04.mp3",
+   "from": 5423
+  },
+  {
+   "id": "a05",
+   "file": "narration05/a05.mp3",
+   "from": 5581
+  },
+  {
+   "id": "a06",
+   "file": "narration05/a06.mp3",
+   "from": 5812
+  },
+  {
+   "id": "a07",
+   "file": "narration05/a07.mp3",
+   "from": 6103
+  },
+  {
+   "id": "a08",
+   "file": "narration05/a08.mp3",
+   "from": 6284
+  },
+  {
+   "id": "s01",
+   "file": "narration05/s01.mp3",
+   "from": 6677
+  },
+  {
+   "id": "s01b",
+   "file": "narration05/s01b.mp3",
+   "from": 6794
+  },
+  {
+   "id": "s01c",
+   "file": "narration05/s01c.mp3",
+   "from": 7291
+  },
+  {
+   "id": "s02",
+   "file": "narration05/s02.mp3",
+   "from": 7601
+  },
+  {
+   "id": "s03",
+   "file": "narration05/s03.mp3",
+   "from": 7791
+  },
+  {
+   "id": "s04",
+   "file": "narration05/s04.mp3",
+   "from": 8020
+  },
+  {
+   "id": "s05",
+   "file": "narration05/s05.mp3",
+   "from": 8144
+  },
+  {
+   "id": "s07",
+   "file": "narration05/s07.mp3",
+   "from": 8415
+  },
+  {
+   "id": "s08",
+   "file": "narration05/s08.mp3",
+   "from": 8652
+  },
+  {
+   "id": "s09",
+   "file": "narration05/s09.mp3",
+   "from": 8853
+  },
+  {
+   "id": "s10",
+   "file": "narration05/s10.mp3",
+   "from": 8993
+  },
+  {
+   "id": "o01",
+   "file": "narration05/o01.mp3",
+   "from": 9276
+  },
+  {
+   "id": "o02",
+   "file": "narration05/o02.mp3",
+   "from": 9466
+  }
+ ],
+ "segments": [
+  {
+   "kind": "page",
+   "page": "teams32",
+   "from": 18,
+   "dur": 180,
+   "cues": {
+    "h01:Thirty-two:0": 3,
+    "h01:teams:1": 15,
+    "h01:are:2": 30,
+    "h01:going:3": 35,
+    "h01:to:4": 43,
+    "h01:the:5": 48,
+    "h01:Singapore:6": 51,
+    "h01:Major.:7": 68,
+    "h01:And:8": 94,
+    "h01:this:9": 98,
+    "h01:time,:10": 104,
+    "h01:there:11": 118,
+    "h01:were:12": 123,
+    "h01:no:13": 126,
+    "h01:qualifiers.:14": 133
+   }
+  },
+  {
+   "kind": "page",
+   "page": "cutoff",
+   "from": 198,
+   "dur": 117,
+   "cues": {
+    "h02:One:0": 3,
+    "h02:ranking.:1": 10,
+    "h02:One:2": 38,
+    "h02:date.:3": 44,
+    "h02:November:4": 65,
+    "h02:second.:5": 79
+   }
+  },
+  {
+   "kind": "page",
+   "page": "teasers",
+   "from": 315,
+   "dur": 341,
+   "cues": {
+    "h03:One:0": 3,
+    "h03:team:1": 9,
+    "h03:got:2": 19,
+    "h03:in:3": 26,
+    "h03:on:4": 35,
+    "h03:the:5": 41,
+    "h03:very:6": 43,
+    "h03:last:7": 52,
+    "h03:day.:8": 63,
+    "h03:One:9": 84,
+    "h03:missed:10": 91,
+    "h03:by:11": 100,
+    "h03:two:12": 105,
+    "h03:points.:13": 111,
+    "h03:One:14": 139,
+    "h03:team:15": 146,
+    "h03:that:16": 157,
+    "h03:sat:17": 161,
+    "h03:thirteenth:18": 170,
+    "h03:in:19": 187,
+    "h03:Europe:20": 191,
+    "h03:a:21": 201,
+    "h03:month:22": 203,
+    "h03:ago:23": 211,
+    "h03:is:24": 221,
+    "h03:staying:25": 225,
+    "h03:home.:26": 235,
+    "h03:And:27": 258,
+    "h03:s1mple:28": 262,
+    "h03:is:29": 276,
+    "h03:going:30": 280,
+    "h03:back:31": 289,
+    "h03:to:32": 296,
+    "h03:a:33": 301,
+    "h03:Major.:34": 303
+   }
+  },
+  {
+   "kind": "page",
+   "page": "title",
+   "from": 656,
+   "dur": 160,
+   "cues": {
+    "h04:This:0": 2,
+    "h04:is:1": 7,
+    "h04:how:2": 11,
+    "h04:the:3": 18,
+    "h04:final:4": 22,
+    "h04:month:5": 32,
+    "h04:played:6": 43,
+    "h04:out.:7": 51,
+    "h04:Day:8": 73,
+    "h04:by:9": 78,
+    "h04:day.:10": 84,
+    "h04:Region:11": 105,
+    "h04:by:12": 117,
+    "h04:region.:13": 123
+   }
+  },
+  {
+   "kind": "page",
+   "page": "ranking",
+   "from": 816,
+   "dur": 243,
+   "cues": {
+    "r01:Valve:0": 3,
+    "r01:ranks:1": 13,
+    "r01:every:2": 26,
+    "r01:team:3": 35,
+    "r01:on:4": 48,
+    "r01:its:5": 53,
+    "r01:results:6": 59,
+    "r01:over:7": 75,
+    "r01:the:8": 83,
+    "r01:last:9": 86,
+    "r01:six:10": 96,
+    "r01:months.:11": 104,
+    "r01:On:12": 129,
+    "r01:November:13": 134,
+    "r01:second,:14": 146,
+    "r01:that:15": 163,
+    "r01:ranking:16": 173,
+    "r01:decided:17": 186,
+    "r01:the:18": 201,
+    "r01:invites.:19": 203
+   }
+  },
+  {
+   "kind": "page",
+   "page": "spots",
+   "from": 1059,
+   "dur": 342,
+   "cues": {
+    "r02:Europe:0": 2,
+    "r02:gets:1": 13,
+    "r02:eighteen:2": 21,
+    "r02:spots.:3": 33,
+    "r02:The:4": 61,
+    "r02:Americas,:5": 63,
+    "r02:nine.:6": 83,
+    "r02:Asia,:7": 108,
+    "r02:five.:8": 126,
+    "r02:And:9": 151,
+    "r02:the:10": 154,
+    "r02:higher:11": 156,
+    "r02:you:12": 166,
+    "r02:finish,:13": 170,
+    "r02:the:14": 184,
+    "r02:later:15": 188,
+    "r02:you:16": 196,
+    "r02:start::17": 199,
+    "r02:the:18": 231,
+    "r02:top:19": 234,
+    "r02:teams:20": 243,
+    "r02:skip:21": 252,
+    "r02:straight:22": 259,
+    "r02:to:23": 269,
+    "r02:Stage:24": 272,
+    "r02:2:25": 284,
+    "r02:or:26": 293,
+    "r02:Stage:27": 299,
+    "r02:3.:28": 310
+   }
+  },
+  {
+   "kind": "page",
+   "page": "daily",
+   "from": 1401,
+   "dur": 186,
+   "cues": {
+    "r03:HLTV:0": 3,
+    "r03:runs:1": 26,
+    "r03:Valve's:2": 36,
+    "r03:model:3": 46,
+    "r03:every:4": 59,
+    "r03:single:5": 67,
+    "r03:day,:6": 77,
+    "r03:so:7": 103,
+    "r03:we:8": 108,
+    "r03:can:9": 111,
+    "r03:watch:10": 116,
+    "r03:the:11": 125,
+    "r03:whole:12": 127,
+    "r03:month:13": 135,
+    "r03:unfold.:14": 147
+   }
+  },
+  {
+   "kind": "race",
+   "ds": "euDaily",
+   "start": "2026-10-06",
+   "steps": [],
+   "focus": [],
+   "banner": {
+    "title": "EUROPE",
+    "sub": "18 SPOTS"
+   },
+   "rows": 24,
+   "from": 1615,
+   "dur": 162,
+   "startDay": 1
+  },
+  {
+   "kind": "race",
+   "free": true,
+   "ds": "euDaily",
+   "start": "2026-10-06",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 18,
+     "card": null,
+     "move": null
+    }
+   ],
+   "focus": [],
+   "banner": null,
+   "rows": 24,
+   "from": 1776,
+   "dur": 287,
+   "startDay": 1
+  },
+  {
+   "kind": "race",
+   "ds": "euDaily",
+   "start": "2026-10-23",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 20,
+     "card": {
+      "type": "list",
+      "team": "Natus Vincere",
+      "event": "PGL Masters",
+      "title": "THE RUN THAT SENT THEM",
+      "tag": null,
+      "tagOpp": null,
+      "rows": [
+       {
+        "date": "Oct 24",
+        "opp": "G2",
+        "wl": "W",
+        "event": "PGL Masters Bucharest",
+        "pts": 19
+       },
+       {
+        "date": "Oct 25",
+        "opp": "FURIA",
+        "wl": "W",
+        "event": "PGL Masters Bucharest",
+        "pts": 27
+       }
+      ],
+      "impact": {
+       "team": "Natus Vincere",
+       "rankFrom": 26,
+       "rankTo": 10,
+       "points": 46
+      }
+     },
+     "move": 155
+    }
+   ],
+   "focus": [
+    "Natus Vincere"
+   ],
+   "banner": null,
+   "rows": 24,
+   "from": 2063,
+   "dur": 304,
+   "startDay": 18
+  },
+  {
+   "kind": "race",
+   "free": true,
+   "ds": "euDaily",
+   "start": "2026-10-25",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 23,
+     "card": null,
+     "move": null
+    }
+   ],
+   "focus": [],
+   "banner": null,
+   "rows": 24,
+   "from": 2368,
+   "dur": 187,
+   "startDay": 20
+  },
+  {
+   "kind": "race",
+   "ds": "euDaily",
+   "start": "2026-10-28",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 24,
+     "card": {
+      "type": "duel",
+      "sides": [
+       {
+        "team": "FaZe",
+        "event": "RLG Tesla",
+        "rows": [
+         {
+          "date": "Oct 29",
+          "opp": "B8",
+          "wl": "W",
+          "event": "RLG Tesla Cup 2026",
+          "pts": 13
+         }
+        ],
+        "impact": {
+         "team": "FaZe",
+         "rankFrom": 14,
+         "rankTo": 15,
+         "points": 13
+        }
+       },
+       {
+        "team": "B8",
+        "event": "RLG Tesla",
+        "rows": [
+         {
+          "date": "Oct 29",
+          "opp": "FaZe",
+          "wl": "L",
+          "event": "RLG Tesla Cup 2026",
+          "pts": -13
+         }
+        ],
+        "impact": {
+         "team": "B8",
+         "rankFrom": 17,
+         "rankTo": 20,
+         "points": -13
+        }
+       }
+      ],
+      "sameEvent": true
+     },
+     "move": 102
+    }
+   ],
+   "focus": [
+    "B8",
+    "FaZe"
+   ],
+   "banner": null,
+   "rows": 24,
+   "from": 2554,
+   "dur": 185,
+   "startDay": 23
+  },
+  {
+   "kind": "race",
+   "ds": "euDaily",
+   "start": "2026-10-29",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 25,
+     "card": {
+      "type": "duel",
+      "sides": [
+       {
+        "team": "Eternal Fire",
+        "event": "Stake Ranked",
+        "rows": [
+         {
+          "date": "Oct 30",
+          "opp": "fnatic",
+          "wl": "W",
+          "event": "Stake Ranked Episode 5",
+          "pts": 15
+         }
+        ],
+        "impact": {
+         "team": "Eternal Fire",
+         "rankFrom": 21,
+         "rankTo": 17,
+         "points": 15
+        }
+       },
+       {
+        "team": "fnatic",
+        "event": "Stake Ranked",
+        "rows": [
+         {
+          "date": "Oct 30",
+          "opp": "Eternal Fire",
+          "wl": "L",
+          "event": "Stake Ranked Episode 5",
+          "pts": -15
+         }
+        ],
+        "impact": {
+         "team": "fnatic",
+         "rankFrom": 17,
+         "rankTo": 19,
+         "points": -15
+        }
+       }
+      ],
+      "sameEvent": true
+     },
+     "move": 226
+    }
+   ],
+   "focus": [
+    "Eternal Fire",
+    "fnatic"
+   ],
+   "banner": null,
+   "rows": 24,
+   "from": 2740,
+   "dur": 342,
+   "startDay": 24
+  },
+  {
+   "kind": "race",
+   "free": true,
+   "ds": "euDaily",
+   "start": "2026-10-30",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 26,
+     "card": null,
+     "move": null
+    }
+   ],
+   "focus": [],
+   "banner": null,
+   "rows": 24,
+   "from": 3082,
+   "dur": 144,
+   "startDay": 25
+  },
+  {
+   "kind": "race",
+   "ds": "euDaily",
+   "start": "2026-10-31",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 27,
+     "card": {
+      "type": "duel",
+      "sides": [
+       {
+        "team": "HOTU",
+        "event": "GLuck Moscow",
+        "rows": [
+         {
+          "date": "Nov 1",
+          "opp": "1win",
+          "wl": "L",
+          "event": "GLuck Moscow Cyber Games 2026",
+          "pts": -12
+         }
+        ],
+        "impact": {
+         "team": "HOTU",
+         "rankFrom": 18,
+         "rankTo": 19,
+         "points": -12
+        }
+       },
+       {
+        "team": "100 Thieves",
+        "event": "FiRe Last Chance",
+        "rows": [
+         {
+          "date": "Nov 1",
+          "opp": "Wildcard",
+          "wl": "W",
+          "event": "FiRe Last Chance 2026",
+          "pts": 11
+         },
+         {
+          "date": "Nov 1",
+          "opp": "BESTIA",
+          "wl": "W",
+          "event": "FiRe Last Chance 2026",
+          "pts": 8
+         },
+         {
+          "date": "Nov 1",
+          "opp": "Isurus",
+          "wl": "W",
+          "event": "FiRe Last Chance 2026",
+          "pts": 1
+         }
+        ],
+        "impact": {
+         "team": "100 Thieves",
+         "rankFrom": 19,
+         "rankTo": 18,
+         "points": 20
+        }
+       }
+      ],
+      "sameEvent": false
+     },
+     "move": 261
+    }
+   ],
+   "focus": [
+    "HOTU",
+    "100 Thieves"
+   ],
+   "banner": null,
+   "rows": 24,
+   "from": 3226,
+   "dur": 347,
+   "startDay": 26
+  },
+  {
+   "kind": "verdict",
+   "ds": "euDaily",
+   "date": "2026-11-02",
+   "spots": 18,
+   "rows": [
+    {
+     "rank": 16,
+     "name": "FaZe",
+     "points": 1541
+    },
+    {
+     "rank": 17,
+     "name": "Eternal Fire",
+     "points": 1515
+    },
+    {
+     "rank": 18,
+     "name": "100 Thieves",
+     "points": 1512
+    },
+    {
+     "rank": 19,
+     "name": "HOTU",
+     "points": 1490
+    },
+    {
+     "rank": 20,
+     "name": "fnatic",
+     "points": 1490
+    },
+    {
+     "rank": 21,
+     "name": "B8",
+     "points": 1463
+    }
+   ],
+   "switch": [
+    "hotu",
+    1
+   ],
+   "region": "Europe",
+   "from": 3574,
+   "dur": 358,
+   "switchAt": 159,
+   "dayIndex": 28
+  },
+  {
+   "kind": "missed",
+   "ds": "euDaily",
+   "region": "Europe",
+   "teams": [
+    {
+     "name": "fnatic",
+     "rank": 20,
+     "points": 1490,
+     "short": 22,
+     "at": 80
+    },
+    {
+     "name": "HOTU",
+     "rank": 19,
+     "points": 1490,
+     "short": 22,
+     "at": 108
+    },
+    {
+     "name": "B8",
+     "rank": 21,
+     "points": 1463,
+     "short": 49,
+     "at": 132
+    },
+    {
+     "name": "Virtus.pro",
+     "rank": 23,
+     "points": 1423,
+     "short": 89,
+     "at": 153
+    },
+    {
+     "name": "BIG",
+     "rank": 24,
+     "points": 1410,
+     "short": 102,
+     "at": 187
+    },
+    {
+     "name": "GamerLegion",
+     "rank": 28,
+     "points": 1394,
+     "short": 118,
+     "at": 205
+    }
+   ],
+   "lastIn": "100 Thieves",
+   "lastPoints": 1512,
+   "from": 3932,
+   "dur": 250
+  },
+  {
+   "kind": "madeit",
+   "ds": "euDaily",
+   "region": "Europe",
+   "stages": [
+    {
+     "label": "STAGE 3",
+     "block": "e13",
+     "teams": [
+      "MOUZ",
+      "Vitality",
+      "Aurora",
+      "Spirit",
+      "BETBOOM",
+      "Falcons"
+     ],
+     "at": 0,
+     "teamAt": [
+      56,
+      67,
+      88,
+      103,
+      128,
+      147
+     ]
+    },
+    {
+     "label": "STAGE 2",
+     "block": "e14",
+     "teams": [
+      "FUT",
+      "Nemiga",
+      "G2",
+      "1win",
+      "Natus Vincere",
+      "Astralis"
+     ],
+     "at": 224,
+     "teamAt": [
+      225,
+      243,
+      274,
+      299,
+      336,
+      354
+     ]
+    },
+    {
+     "label": "STAGE 1",
+     "block": "e15",
+     "teams": [
+      "Ninjas in Pyjamas",
+      "PARIVISION",
+      "HEROIC",
+      "FaZe",
+      "Eternal Fire",
+      "100 Thieves"
+     ],
+     "at": 424,
+     "teamAt": [
+      431,
+      468,
+      489,
+      519,
+      534,
+      564
+     ]
+    }
+   ],
+   "from": 4182,
+   "dur": 640
+  },
+  {
+   "kind": "race",
+   "ds": "amDaily",
+   "start": "2026-10-06",
+   "steps": [],
+   "focus": [],
+   "banner": {
+    "title": "AMERICAS",
+    "sub": "9 SPOTS"
+   },
+   "rows": 14,
+   "from": 4849,
+   "dur": 229,
+   "startDay": 1
+  },
+  {
+   "kind": "race",
+   "free": true,
+   "ds": "amDaily",
+   "start": "2026-10-06",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 16,
+     "card": null,
+     "move": null
+    }
+   ],
+   "focus": [],
+   "banner": null,
+   "rows": 14,
+   "from": 5078,
+   "dur": 165,
+   "startDay": 1
+  },
+  {
+   "kind": "race",
+   "ds": "amDaily",
+   "start": "2026-10-21",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 21,
+     "card": {
+      "type": "list",
+      "team": "Imperial",
+      "event": "Circuit X",
+      "title": "CURITIBA",
+      "tag": null,
+      "tagOpp": null,
+      "rows": [
+       {
+        "date": "Oct 22",
+        "opp": "BESTIA",
+        "wl": "L",
+        "event": "Circuit X Curitiba Season 4",
+        "pts": -19
+       },
+       {
+        "date": "Oct 22",
+        "opp": "Turma do Pagode",
+        "wl": "W",
+        "event": "Circuit X Curitiba Season 4",
+        "pts": 4
+       },
+       {
+        "date": "Oct 23",
+        "opp": "ShindeN",
+        "wl": "W",
+        "event": "Circuit X Curitiba Season 4",
+        "pts": 7
+       },
+       {
+        "date": "Oct 24",
+        "opp": "paiN",
+        "wl": "W",
+        "event": "Circuit X Curitiba Season 4",
+        "pts": 14
+       },
+       {
+        "date": "Oct 25",
+        "opp": "BESTIA",
+        "wl": "W",
+        "event": "Circuit X Curitiba Season 4",
+        "pts": 12
+       },
+       {
+        "date": "Oct 26",
+        "opp": "paiN",
+        "wl": "W",
+        "event": "Circuit X Curitiba Season 4",
+        "pts": 13
+       }
+      ],
+      "impact": {
+       "team": "Imperial",
+       "rankFrom": 9,
+       "rankTo": 8,
+       "points": 31
+      }
+     },
+     "move": 127
+    }
+   ],
+   "focus": [
+    "Imperial"
+   ],
+   "banner": null,
+   "rows": 14,
+   "from": 5243,
+   "dur": 180,
+   "startDay": 16
+  },
+  {
+   "kind": "race",
+   "free": true,
+   "ds": "amDaily",
+   "start": "2026-10-26",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 26,
+     "card": null,
+     "move": null
+    }
+   ],
+   "focus": [],
+   "banner": null,
+   "rows": 14,
+   "from": 5423,
+   "dur": 158,
+   "startDay": 21
+  },
+  {
+   "kind": "race",
+   "ds": "amDaily",
+   "start": "2026-10-31",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 27,
+     "card": {
+      "type": "duel",
+      "sides": [
+       {
+        "team": "Wildcard",
+        "event": "FiRe Last Chance",
+        "rows": [
+         {
+          "date": "Nov 1",
+          "opp": "NRG",
+          "wl": "W",
+          "event": "FiRe Last Chance 2026",
+          "pts": 13
+         }
+        ],
+        "impact": {
+         "team": "Wildcard",
+         "rankFrom": 9,
+         "rankTo": 9,
+         "points": 13
+        }
+       },
+       {
+        "team": "NRG",
+        "event": "FiRe Last Chance",
+        "rows": [
+         {
+          "date": "Nov 1",
+          "opp": "Wildcard",
+          "wl": "L",
+          "event": "FiRe Last Chance 2026",
+          "pts": -13
+         }
+        ],
+        "impact": {
+         "team": "NRG",
+         "rankFrom": 10,
+         "rankTo": 10,
+         "points": -13
+        }
+       }
+      ],
+      "sameEvent": true
+     },
+     "move": 147
+    }
+   ],
+   "focus": [
+    "Wildcard",
+    "NRG"
+   ],
+   "banner": null,
+   "rows": 14,
+   "from": 5581,
+   "dur": 231,
+   "startDay": 26
+  },
+  {
+   "kind": "verdict",
+   "ds": "amDaily",
+   "date": "2026-11-02",
+   "spots": 9,
+   "rows": [
+    {
+     "rank": 7,
+     "name": "DENDELE",
+     "points": 1466
+    },
+    {
+     "rank": 8,
+     "name": "Imperial",
+     "points": 1406
+    },
+    {
+     "rank": 9,
+     "name": "Wildcard",
+     "points": 1391
+    },
+    {
+     "rank": 10,
+     "name": "NRG",
+     "points": 1323
+    },
+    {
+     "rank": 11,
+     "name": "BESTIA",
+     "points": 1313
+    },
+    {
+     "rank": 12,
+     "name": "paiN",
+     "points": 1296
+    }
+   ],
+   "switch": [
+    "nrg",
+    1
+   ],
+   "region": "Americas",
+   "from": 5812,
+   "dur": 291,
+   "switchAt": 118,
+   "dayIndex": 28
+  },
+  {
+   "kind": "missed",
+   "ds": "amDaily",
+   "region": "Americas",
+   "teams": [
+    {
+     "name": "NRG",
+     "rank": 10,
+     "points": 1323,
+     "short": 68,
+     "at": 62
+    },
+    {
+     "name": "BESTIA",
+     "rank": 11,
+     "points": 1313,
+     "short": 78,
+     "at": 97
+    },
+    {
+     "name": "paiN",
+     "rank": 12,
+     "points": 1296,
+     "short": 95,
+     "at": 124
+    },
+    {
+     "name": "Fluxo",
+     "rank": 13,
+     "points": 1249,
+     "short": 142,
+     "at": 141
+    }
+   ],
+   "lastIn": "Wildcard",
+   "lastPoints": 1391,
+   "from": 6103,
+   "dur": 181
+  },
+  {
+   "kind": "madeit",
+   "ds": "amDaily",
+   "region": "Americas",
+   "stages": [
+    {
+     "label": "STAGE 3",
+     "block": "a08",
+     "teams": [
+      "FURIA",
+      "Legacy"
+     ],
+     "at": 0,
+     "teamAt": [
+      31,
+      53
+     ]
+    },
+    {
+     "label": "STAGE 2",
+     "block": "a08",
+     "teams": [
+      "MIBR"
+     ],
+     "at": 0,
+     "teamAt": [
+      114
+     ]
+    },
+    {
+     "label": "STAGE 1",
+     "block": "a08",
+     "teams": [
+      "Liquid",
+      "9z",
+      "M80",
+      "DENDELE",
+      "Imperial",
+      "Wildcard"
+     ],
+     "at": 0,
+     "teamAt": [
+      176,
+      196,
+      218,
+      249,
+      277,
+      301
+     ]
+    }
+   ],
+   "from": 6284,
+   "dur": 366
+  },
+  {
+   "kind": "race",
+   "ds": "asDaily",
+   "start": "2026-10-06",
+   "steps": [],
+   "focus": [],
+   "banner": {
+    "title": "ASIA",
+    "sub": "5 SPOTS"
+   },
+   "rows": 10,
+   "from": 6677,
+   "dur": 117,
+   "startDay": 1
+  },
+  {
+   "kind": "story",
+   "ds": "asDaily",
+   "team": "BC.Game",
+   "roster": [
+    [
+     "s1mple",
+     ""
+    ],
+    [
+     "Magisk",
+     ""
+    ],
+    [
+     "asap",
+     ""
+    ],
+    [
+     "Senzu",
+     "ex-MongolZ"
+    ],
+    [
+     "mzinho",
+     "ex-MongolZ"
+    ]
+   ],
+   "rank": [
+    2,
+    1338
+   ],
+   "from": 6794,
+   "dur": 807,
+   "cues": {
+    "s01b:But:0": 2,
+    "s01b:first,:1": 6,
+    "s01b:BC.Game.:2": 29,
+    "s01b:s1mple,:3": 64,
+    "s01b:Magisk,:4": 80,
+    "s01b:and:5": 100,
+    "s01b:two:6": 106,
+    "s01b:former:7": 112,
+    "s01b:MongolZ:8": 123,
+    "s01b:players.:9": 137,
+    "s01b:In:10": 165,
+    "s01b:October,:11": 167,
+    "s01b:Valve:12": 199,
+    "s01b:blocked:13": 210,
+    "s01b:them:14": 220,
+    "s01b:from:15": 226,
+    "s01b:qualifying:16": 231,
+    "s01b:through:17": 248,
+    "s01b:Asia,:18": 255,
+    "s01b:part:19": 287,
+    "s01b:of:20": 293,
+    "s01b:a:21": 295,
+    "s01b:crackdown:22": 297,
+    "s01b:on:23": 314,
+    "s01b:teams:24": 319,
+    "s01b:switching:25": 331,
+    "s01b:regions:26": 344,
+    "s01b:for:27": 357,
+    "s01b:an:28": 361,
+    "s01b:easier:29": 363,
+    "s01b:path.:30": 374,
+    "s01b:BC.Game:31": 398,
+    "s01b:appealed,:32": 416,
+    "s01b:and:33": 444,
+    "s01b:Valve:34": 450,
+    "s01b:agreed.:35": 459,
+    "s01c:They:0": 498,
+    "s01c:finished:1": 502,
+    "s01c:second:2": 514,
+    "s01c:in:3": 527,
+    "s01c:Asia.:4": 533,
+    "s01c:So:5": 558,
+    "s01c:s1mple:6": 562,
+    "s01c:is:7": 576,
+    "s01c:back:8": 580,
+    "s01c:at:9": 589,
+    "s01c:a:10": 592,
+    "s01c:Major,:11": 594,
+    "s01c:after:12": 617,
+    "s01c:missing:13": 627,
+    "s01c:the:14": 638,
+    "s01c:last:15": 641,
+    "s01c:two.:16": 651,
+    "s01c:His:17": 672,
+    "s01c:last:18": 677,
+    "s01c:one:19": 688,
+    "s01c:was:20": 695,
+    "s01c:Austin,:21": 700,
+    "s01c:in:22": 717,
+    "s01c:2025,:23": 727,
+    "s01c:on:24": 750,
+    "s01c:loan:25": 756,
+    "s01c:with:26": 766,
+    "s01c:FaZe.:27": 770
+   }
+  },
+  {
+   "kind": "race",
+   "free": true,
+   "ds": "asDaily",
+   "start": "2026-10-06",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 17,
+     "card": null,
+     "move": null
+    }
+   ],
+   "focus": [],
+   "banner": null,
+   "rows": 10,
+   "from": 7601,
+   "dur": 190,
+   "startDay": 1
+  },
+  {
+   "kind": "race",
+   "ds": "asDaily",
+   "start": "2026-10-22",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 19,
+     "card": {
+      "type": "duel",
+      "sides": [
+       {
+        "team": "Lynn Vision",
+        "event": "MaceMedia",
+        "rows": [
+         {
+          "date": "Oct 23",
+          "opp": "Chinggis Warriors",
+          "wl": "W",
+          "event": "MaceMedia VOID Autumn Cup 2026",
+          "pts": 19
+         },
+         {
+          "date": "Oct 24",
+          "opp": "Chinggis Warriors",
+          "wl": "W",
+          "event": "MaceMedia VOID Autumn Cup 2026",
+          "pts": 17
+         }
+        ],
+        "impact": {
+         "team": "Lynn Vision",
+         "rankFrom": 7,
+         "rankTo": 3,
+         "points": 36
+        }
+       },
+       {
+        "team": "Chinggis Warriors",
+        "event": "MaceMedia",
+        "rows": [
+         {
+          "date": "Oct 23",
+          "opp": "Lynn Vision",
+          "wl": "L",
+          "event": "MaceMedia VOID Autumn Cup 2026",
+          "pts": -19
+         },
+         {
+          "date": "Oct 24",
+          "opp": "Lynn Vision",
+          "wl": "L",
+          "event": "MaceMedia VOID Autumn Cup 2026",
+          "pts": -17
+         }
+        ],
+        "impact": {
+         "team": "Chinggis Warriors",
+         "rankFrom": 3,
+         "rankTo": 4,
+         "points": -36
+        }
+       }
+      ],
+      "sameEvent": true
+     },
+     "move": 166
+    }
+   ],
+   "focus": [
+    "TYLOO",
+    "Lynn Vision",
+    "Chinggis Warriors"
+   ],
+   "banner": null,
+   "rows": 10,
+   "from": 7791,
+   "dur": 229,
+   "startDay": 17
+  },
+  {
+   "kind": "race",
+   "free": true,
+   "ds": "asDaily",
+   "start": "2026-10-24",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 25,
+     "card": null,
+     "move": null
+    }
+   ],
+   "focus": [],
+   "banner": null,
+   "rows": 10,
+   "from": 8020,
+   "dur": 124,
+   "startDay": 19
+  },
+  {
+   "kind": "race",
+   "ds": "asDaily",
+   "start": "2026-10-30",
+   "steps": [
+    {
+     "at": 0,
+     "toDay": 26,
+     "card": {
+      "type": "list",
+      "team": "TYLOO",
+      "event": "HyperX",
+      "title": null,
+      "tag": "FORFEIT",
+      "tagOpp": "Metizport",
+      "rows": [
+       {
+        "date": "Oct 31",
+        "opp": "Metizport",
+        "wl": "L",
+        "event": "HyperX Retake Season 13",
+        "pts": -16
+       }
+      ],
+      "impact": {
+       "team": "TYLOO",
+       "rankFrom": 4,
+       "rankTo": 6,
+       "points": -16
+      }
+     },
+     "move": 162
+    }
+   ],
+   "focus": [
+    "TYLOO",
+    "Lynn Vision",
+    "Chinggis Warriors"
+   ],
+   "banner": null,
+   "rows": 10,
+   "from": 8144,
+   "dur": 270,
+   "startDay": 25
+  },
+  {
+   "kind": "verdict",
+   "ds": "asDaily",
+   "date": "2026-11-02",
+   "spots": 5,
+   "rows": [
+    {
+     "rank": 2,
+     "name": "BC.Game",
+     "points": 1338
+    },
+    {
+     "rank": 3,
+     "name": "FlyQuest",
+     "points": 1318
+    },
+    {
+     "rank": 4,
+     "name": "Chinggis Warriors",
+     "points": 1272
+    },
+    {
+     "rank": 5,
+     "name": "Lynn Vision",
+     "points": 1268
+    },
+    {
+     "rank": 6,
+     "name": "TYLOO",
+     "points": 1266
+    },
+    {
+     "rank": 7,
+     "name": "5star",
+     "points": 1169
+    }
+   ],
+   "switch": null,
+   "region": "Asia",
+   "from": 8415,
+   "dur": 439,
+   "switchAt": 237,
+   "dayIndex": 28
+  },
+  {
+   "kind": "missed",
+   "ds": "asDaily",
+   "region": "Asia",
+   "teams": [
+    {
+     "name": "TYLOO",
+     "rank": 6,
+     "points": 1266,
+     "short": 2,
+     "at": 50
+    },
+    {
+     "name": "5star",
+     "rank": 7,
+     "points": 1169,
+     "short": 99,
+     "at": 72
+    },
+    {
+     "name": "NEXVOID",
+     "rank": 8,
+     "points": 1158,
+     "short": 110,
+     "at": 98
+    }
+   ],
+   "lastIn": "Lynn Vision",
+   "lastPoints": 1268,
+   "from": 8853,
+   "dur": 139
+  },
+  {
+   "kind": "madeit",
+   "ds": "asDaily",
+   "region": "Asia",
+   "stages": [
+    {
+     "label": "STAGE 2",
+     "block": "s10",
+     "teams": [
+      "The MongolZ"
+     ],
+     "at": 0,
+     "teamAt": [
+      41
+     ]
+    },
+    {
+     "label": "STAGE 1",
+     "block": "s10",
+     "teams": [
+      "BC.Game",
+      "FlyQuest",
+      "Chinggis Warriors",
+      "Lynn Vision"
+     ],
+     "at": 0,
+     "teamAt": [
+      109,
+      140,
+      173,
+      211
+     ]
+    }
+   ],
+   "from": 8993,
+   "dur": 283
+  },
+  {
+   "kind": "page",
+   "page": "field",
+   "from": 9276,
+   "dur": 190,
+   "cues": {
+    "o01:So:0": 1,
+    "o01:that's:1": 6,
+    "o01:the:2": 16,
+    "o01:field.:3": 19,
+    "o01:Thirty-two:4": 46,
+    "o01:teams.:5": 62,
+    "o01:Stage:6": 89,
+    "o01:1:7": 102,
+    "o01:starts:8": 112,
+    "o01:on:9": 127,
+    "o01:November:10": 133,
+    "o01:twenty-fourth.:11": 146
+   }
+  },
+  {
+   "kind": "page",
+   "page": "next",
+   "from": 9466,
+   "dur": 222,
+   "cues": {
+    "o02:Next,:0": 3,
+    "o02:I'm:1": 17,
+    "o02:going:2": 21,
+    "o02:to:3": 25,
+    "o02:play:4": 27,
+    "o02:the:5": 34,
+    "o02:whole:6": 37,
+    "o02:Major:7": 45,
+    "o02:a:8": 59,
+    "o02:hundred:9": 60,
+    "o02:thousand:10": 69,
+    "o02:times,:11": 80,
+    "o02:and:12": 102,
+    "o02:see:13": 108,
+    "o02:who:14": 116,
+    "o02:wins:15": 121,
+    "o02:it.:16": 130,
+    "o02:Subscribe,:17": 148,
+    "o02:so:18": 168,
+    "o02:you:19": 174,
+    "o02:don't:20": 177,
+    "o02:miss:21": 185,
+    "o02:it.:22": 193
+   }
+  }
+ ]
+}

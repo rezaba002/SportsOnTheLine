@@ -1,0 +1,2542 @@
+{
+ "region": "Europe",
+ "spots": 18,
+ "show": 26,
+ "teams": [
+  "100 Thieves",
+  "1win",
+  "3DMAX",
+  "9INE",
+  "Alliance",
+  "Astralis",
+  "Aurora",
+  "B8",
+  "BETBOOM",
+  "BIG",
+  "Betclic",
+  "CYBERSHOKE",
+  "ECSTATIC",
+  "ENCE",
+  "EYEBALLERS",
+  "FOKUS",
+  "FUT",
+  "FaZe",
+  "Falcons",
+  "G2",
+  "GamerLegion",
+  "HEROIC",
+  "HOTU",
+  "INFINITE",
+  "Inner Circle",
+  "JiJieHao",
+  "K27",
+  "Luminosity",
+  "MOUZ",
+  "Natus Vincere",
+  "Nemesis",
+  "Nemiga",
+  "Ninjas in Pyjamas",
+  "Nuclear TigeRES",
+  "PARIVISION",
+  "SAW",
+  "SINNERS",
+  "Spirit",
+  "Virtus.pro",
+  "Vitality",
+  "fnatic",
+  "illwill",
+  "magic"
+ ],
+ "frames": [
+  {
+   "label": "Jan 5",
+   "teams": [
+    {
+     "name": "Vitality",
+     "points": 1986,
+     "rank": 1,
+     "sourceRank": 2
+    },
+    {
+     "name": "Falcons",
+     "points": 1892,
+     "rank": 2,
+     "sourceRank": 3
+    },
+    {
+     "name": "Spirit",
+     "points": 1849,
+     "rank": 3,
+     "sourceRank": 4
+    },
+    {
+     "name": "Natus Vincere",
+     "points": 1848,
+     "rank": 4,
+     "sourceRank": 5
+    },
+    {
+     "name": "MOUZ",
+     "points": 1841,
+     "rank": 5,
+     "sourceRank": 6
+    },
+    {
+     "name": "FaZe",
+     "points": 1803,
+     "rank": 6,
+     "sourceRank": 7
+    },
+    {
+     "name": "Aurora",
+     "points": 1721,
+     "rank": 7,
+     "sourceRank": 9
+    },
+    {
+     "name": "B8",
+     "points": 1713,
+     "rank": 8,
+     "sourceRank": 10
+    },
+    {
+     "name": "G2",
+     "points": 1663,
+     "rank": 9,
+     "sourceRank": 12
+    },
+    {
+     "name": "3DMAX",
+     "points": 1610,
+     "rank": 10,
+     "sourceRank": 14
+    },
+    {
+     "name": "Astralis",
+     "points": 1592,
+     "rank": 11,
+     "sourceRank": 15
+    },
+    {
+     "name": "PARIVISION",
+     "points": 1571,
+     "rank": 12,
+     "sourceRank": 16
+    },
+    {
+     "name": "HEROIC",
+     "points": 1566,
+     "rank": 13,
+     "sourceRank": 17
+    },
+    {
+     "name": "FUT",
+     "points": 1559,
+     "rank": 14,
+     "sourceRank": 19
+    },
+    {
+     "name": "Ninjas in Pyjamas",
+     "points": 1546,
+     "rank": 15,
+     "sourceRank": 20
+    },
+    {
+     "name": "SAW",
+     "points": 1526,
+     "rank": 16,
+     "sourceRank": 22
+    },
+    {
+     "name": "GamerLegion",
+     "points": 1485,
+     "rank": 17,
+     "sourceRank": 24
+    },
+    {
+     "name": "HOTU",
+     "points": 1467,
+     "rank": 18,
+     "sourceRank": 28
+    },
+    {
+     "name": "fnatic",
+     "points": 1434,
+     "rank": 19,
+     "sourceRank": 30
+    },
+    {
+     "name": "EYEBALLERS",
+     "points": 1383,
+     "rank": 20,
+     "sourceRank": 31
+    },
+    {
+     "name": "K27",
+     "points": 1365,
+     "rank": 21,
+     "sourceRank": 33
+    },
+    {
+     "name": "9INE",
+     "points": 1358,
+     "rank": 22,
+     "sourceRank": 34
+    },
+    {
+     "name": "BIG",
+     "points": 1334,
+     "rank": 23,
+     "sourceRank": 35
+    },
+    {
+     "name": "ECSTATIC",
+     "points": 1327,
+     "rank": 24,
+     "sourceRank": 36
+    },
+    {
+     "name": "ENCE",
+     "points": 1294,
+     "rank": 25,
+     "sourceRank": 39
+    },
+    {
+     "name": "SINNERS",
+     "points": 1289,
+     "rank": 26,
+     "sourceRank": 40
+    },
+    {
+     "name": "Alliance",
+     "points": 1285,
+     "rank": 27,
+     "sourceRank": 42
+    },
+    {
+     "name": "CYBERSHOKE",
+     "points": 1279,
+     "rank": 28,
+     "sourceRank": 44
+    },
+    {
+     "name": "Inner Circle",
+     "points": 1262,
+     "rank": 29,
+     "sourceRank": 47
+    },
+    {
+     "name": "Virtus.pro",
+     "points": 1217,
+     "rank": 31,
+     "sourceRank": 50
+    },
+    {
+     "name": "magic",
+     "points": 1198,
+     "rank": 32,
+     "sourceRank": 52
+    },
+    {
+     "name": "Nuclear TigeRES",
+     "points": 1148,
+     "rank": 35,
+     "sourceRank": 60
+    },
+    {
+     "name": "1win",
+     "points": 1104,
+     "rank": 41,
+     "sourceRank": 69
+    },
+    {
+     "name": "Nemiga",
+     "points": 1029,
+     "rank": 46,
+     "sourceRank": 81
+    },
+    {
+     "name": "illwill",
+     "points": 1013,
+     "rank": 48,
+     "sourceRank": 87
+    },
+    {
+     "name": "Nemesis",
+     "points": 987,
+     "rank": 51,
+     "sourceRank": 90
+    },
+    {
+     "name": "JiJieHao",
+     "points": 960,
+     "rank": 53,
+     "sourceRank": 96
+    },
+    {
+     "name": "Betclic",
+     "points": 801,
+     "rank": 69,
+     "sourceRank": 148
+    }
+   ]
+  },
+  {
+   "label": "Feb 2",
+   "teams": [
+    {
+     "name": "Vitality",
+     "points": 1940,
+     "rank": 1,
+     "sourceRank": 2
+    },
+    {
+     "name": "PARIVISION",
+     "points": 1939,
+     "rank": 2,
+     "sourceRank": 3
+    },
+    {
+     "name": "Falcons",
+     "points": 1906,
+     "rank": 3,
+     "sourceRank": 4
+    },
+    {
+     "name": "Natus Vincere",
+     "points": 1777,
+     "rank": 4,
+     "sourceRank": 5
+    },
+    {
+     "name": "Spirit",
+     "points": 1766,
+     "rank": 5,
+     "sourceRank": 6
+    },
+    {
+     "name": "MOUZ",
+     "points": 1752,
+     "rank": 6,
+     "sourceRank": 7
+    },
+    {
+     "name": "FaZe",
+     "points": 1737,
+     "rank": 7,
+     "sourceRank": 8
+    },
+    {
+     "name": "Aurora",
+     "points": 1730,
+     "rank": 8,
+     "sourceRank": 9
+    },
+    {
+     "name": "B8",
+     "points": 1641,
+     "rank": 9,
+     "sourceRank": 12
+    },
+    {
+     "name": "G2",
+     "points": 1623,
+     "rank": 10,
+     "sourceRank": 13
+    },
+    {
+     "name": "3DMAX",
+     "points": 1611,
+     "rank": 11,
+     "sourceRank": 14
+    },
+    {
+     "name": "Astralis",
+     "points": 1610,
+     "rank": 12,
+     "sourceRank": 15
+    },
+    {
+     "name": "GamerLegion",
+     "points": 1581,
+     "rank": 13,
+     "sourceRank": 18
+    },
+    {
+     "name": "FUT",
+     "points": 1558,
+     "rank": 14,
+     "sourceRank": 19
+    },
+    {
+     "name": "Ninjas in Pyjamas",
+     "points": 1536,
+     "rank": 15,
+     "sourceRank": 24
+    },
+    {
+     "name": "HEROIC",
+     "points": 1536,
+     "rank": 16,
+     "sourceRank": 25
+    },
+    {
+     "name": "HOTU",
+     "points": 1498,
+     "rank": 17,
+     "sourceRank": 28
+    },
+    {
+     "name": "BIG",
+     "points": 1466,
+     "rank": 18,
+     "sourceRank": 30
+    },
+    {
+     "name": "EYEBALLERS",
+     "points": 1389,
+     "rank": 19,
+     "sourceRank": 33
+    },
+    {
+     "name": "9INE",
+     "points": 1381,
+     "rank": 20,
+     "sourceRank": 34
+    },
+    {
+     "name": "fnatic",
+     "points": 1380,
+     "rank": 21,
+     "sourceRank": 35
+    },
+    {
+     "name": "SINNERS",
+     "points": 1345,
+     "rank": 22,
+     "sourceRank": 39
+    },
+    {
+     "name": "Alliance",
+     "points": 1337,
+     "rank": 23,
+     "sourceRank": 40
+    },
+    {
+     "name": "K27",
+     "points": 1331,
+     "rank": 24,
+     "sourceRank": 41
+    },
+    {
+     "name": "Inner Circle",
+     "points": 1311,
+     "rank": 25,
+     "sourceRank": 43
+    },
+    {
+     "name": "CYBERSHOKE",
+     "points": 1292,
+     "rank": 26,
+     "sourceRank": 45
+    },
+    {
+     "name": "ECSTATIC",
+     "points": 1281,
+     "rank": 27,
+     "sourceRank": 46
+    },
+    {
+     "name": "ENCE",
+     "points": 1262,
+     "rank": 28,
+     "sourceRank": 47
+    },
+    {
+     "name": "Nemesis",
+     "points": 1225,
+     "rank": 29,
+     "sourceRank": 51
+    },
+    {
+     "name": "Nuclear TigeRES",
+     "points": 1211,
+     "rank": 32,
+     "sourceRank": 55
+    },
+    {
+     "name": "magic",
+     "points": 1187,
+     "rank": 33,
+     "sourceRank": 59
+    },
+    {
+     "name": "illwill",
+     "points": 1183,
+     "rank": 34,
+     "sourceRank": 61
+    },
+    {
+     "name": "Nemiga",
+     "points": 1168,
+     "rank": 37,
+     "sourceRank": 64
+    },
+    {
+     "name": "1win",
+     "points": 1143,
+     "rank": 39,
+     "sourceRank": 68
+    },
+    {
+     "name": "Virtus.pro",
+     "points": 1112,
+     "rank": 42,
+     "sourceRank": 72
+    },
+    {
+     "name": "JiJieHao",
+     "points": 1055,
+     "rank": 50,
+     "sourceRank": 87
+    },
+    {
+     "name": "Betclic",
+     "points": 1031,
+     "rank": 54,
+     "sourceRank": 92
+    },
+    {
+     "name": "SAW",
+     "points": 710,
+     "rank": 82,
+     "sourceRank": 195
+    },
+    {
+     "name": "INFINITE",
+     "points": 542,
+     "rank": 89,
+     "sourceRank": 265
+    }
+   ]
+  },
+  {
+   "label": "Mar 2",
+   "teams": [
+    {
+     "name": "Vitality",
+     "points": 2029,
+     "rank": 1,
+     "sourceRank": 1
+    },
+    {
+     "name": "MOUZ",
+     "points": 1886,
+     "rank": 2,
+     "sourceRank": 3
+    },
+    {
+     "name": "PARIVISION",
+     "points": 1873,
+     "rank": 3,
+     "sourceRank": 4
+    },
+    {
+     "name": "Falcons",
+     "points": 1842,
+     "rank": 4,
+     "sourceRank": 5
+    },
+    {
+     "name": "Spirit",
+     "points": 1777,
+     "rank": 5,
+     "sourceRank": 6
+    },
+    {
+     "name": "Aurora",
+     "points": 1707,
+     "rank": 6,
+     "sourceRank": 7
+    },
+    {
+     "name": "Natus Vincere",
+     "points": 1686,
+     "rank": 7,
+     "sourceRank": 8
+    },
+    {
+     "name": "Astralis",
+     "points": 1588,
+     "rank": 8,
+     "sourceRank": 10
+    },
+    {
+     "name": "G2",
+     "points": 1587,
+     "rank": 9,
+     "sourceRank": 11
+    },
+    {
+     "name": "FaZe",
+     "points": 1552,
+     "rank": 10,
+     "sourceRank": 12
+    },
+    {
+     "name": "GamerLegion",
+     "points": 1535,
+     "rank": 11,
+     "sourceRank": 13
+    },
+    {
+     "name": "FUT",
+     "points": 1530,
+     "rank": 12,
+     "sourceRank": 14
+    },
+    {
+     "name": "HEROIC",
+     "points": 1475,
+     "rank": 13,
+     "sourceRank": 16
+    },
+    {
+     "name": "B8",
+     "points": 1404,
+     "rank": 14,
+     "sourceRank": 21
+    },
+    {
+     "name": "HOTU",
+     "points": 1401,
+     "rank": 15,
+     "sourceRank": 22
+    },
+    {
+     "name": "3DMAX",
+     "points": 1397,
+     "rank": 16,
+     "sourceRank": 24
+    },
+    {
+     "name": "illwill",
+     "points": 1369,
+     "rank": 17,
+     "sourceRank": 26
+    },
+    {
+     "name": "Ninjas in Pyjamas",
+     "points": 1349,
+     "rank": 18,
+     "sourceRank": 28
+    },
+    {
+     "name": "BIG",
+     "points": 1340,
+     "rank": 19,
+     "sourceRank": 30
+    },
+    {
+     "name": "SINNERS",
+     "points": 1338,
+     "rank": 20,
+     "sourceRank": 31
+    },
+    {
+     "name": "K27",
+     "points": 1307,
+     "rank": 21,
+     "sourceRank": 35
+    },
+    {
+     "name": "100 Thieves",
+     "points": 1306,
+     "rank": 22,
+     "sourceRank": 37
+    },
+    {
+     "name": "Alliance",
+     "points": 1303,
+     "rank": 23,
+     "sourceRank": 38
+    },
+    {
+     "name": "ECSTATIC",
+     "points": 1270,
+     "rank": 24,
+     "sourceRank": 40
+    },
+    {
+     "name": "fnatic",
+     "points": 1238,
+     "rank": 25,
+     "sourceRank": 41
+    },
+    {
+     "name": "9INE",
+     "points": 1225,
+     "rank": 26,
+     "sourceRank": 42
+    },
+    {
+     "name": "EYEBALLERS",
+     "points": 1204,
+     "rank": 27,
+     "sourceRank": 44
+    },
+    {
+     "name": "Nemiga",
+     "points": 1203,
+     "rank": 28,
+     "sourceRank": 45
+    },
+    {
+     "name": "magic",
+     "points": 1201,
+     "rank": 29,
+     "sourceRank": 47
+    },
+    {
+     "name": "Nuclear TigeRES",
+     "points": 1200,
+     "rank": 30,
+     "sourceRank": 49
+    },
+    {
+     "name": "ENCE",
+     "points": 1192,
+     "rank": 32,
+     "sourceRank": 52
+    },
+    {
+     "name": "CYBERSHOKE",
+     "points": 1182,
+     "rank": 33,
+     "sourceRank": 53
+    },
+    {
+     "name": "Betclic",
+     "points": 1164,
+     "rank": 34,
+     "sourceRank": 54
+    },
+    {
+     "name": "Nemesis",
+     "points": 1160,
+     "rank": 35,
+     "sourceRank": 55
+    },
+    {
+     "name": "1win",
+     "points": 1134,
+     "rank": 37,
+     "sourceRank": 59
+    },
+    {
+     "name": "Inner Circle",
+     "points": 1102,
+     "rank": 41,
+     "sourceRank": 65
+    },
+    {
+     "name": "JiJieHao",
+     "points": 945,
+     "rank": 63,
+     "sourceRank": 102
+    },
+    {
+     "name": "Virtus.pro",
+     "points": 882,
+     "rank": 70,
+     "sourceRank": 123
+    },
+    {
+     "name": "SAW",
+     "points": 873,
+     "rank": 71,
+     "sourceRank": 126
+    },
+    {
+     "name": "FOKUS",
+     "points": 751,
+     "rank": 85,
+     "sourceRank": 179
+    },
+    {
+     "name": "INFINITE",
+     "points": 608,
+     "rank": 93,
+     "sourceRank": 247
+    }
+   ]
+  },
+  {
+   "label": "Apr 6",
+   "teams": [
+    {
+     "name": "Vitality",
+     "points": 2063,
+     "rank": 1,
+     "sourceRank": 1
+    },
+    {
+     "name": "Natus Vincere",
+     "points": 1903,
+     "rank": 2,
+     "sourceRank": 2
+    },
+    {
+     "name": "PARIVISION",
+     "points": 1798,
+     "rank": 3,
+     "sourceRank": 3
+    },
+    {
+     "name": "Aurora",
+     "points": 1777,
+     "rank": 4,
+     "sourceRank": 5
+    },
+    {
+     "name": "Falcons",
+     "points": 1769,
+     "rank": 5,
+     "sourceRank": 6
+    },
+    {
+     "name": "MOUZ",
+     "points": 1769,
+     "rank": 6,
+     "sourceRank": 7
+    },
+    {
+     "name": "Spirit",
+     "points": 1721,
+     "rank": 7,
+     "sourceRank": 9
+    },
+    {
+     "name": "Astralis",
+     "points": 1689,
+     "rank": 8,
+     "sourceRank": 10
+    },
+    {
+     "name": "G2",
+     "points": 1664,
+     "rank": 9,
+     "sourceRank": 11
+    },
+    {
+     "name": "FUT",
+     "points": 1619,
+     "rank": 10,
+     "sourceRank": 12
+    },
+    {
+     "name": "GamerLegion",
+     "points": 1529,
+     "rank": 11,
+     "sourceRank": 17
+    },
+    {
+     "name": "BIG",
+     "points": 1526,
+     "rank": 12,
+     "sourceRank": 18
+    },
+    {
+     "name": "B8",
+     "points": 1518,
+     "rank": 13,
+     "sourceRank": 20
+    },
+    {
+     "name": "HEROIC",
+     "points": 1502,
+     "rank": 14,
+     "sourceRank": 21
+    },
+    {
+     "name": "SINNERS",
+     "points": 1480,
+     "rank": 15,
+     "sourceRank": 22
+    },
+    {
+     "name": "Alliance",
+     "points": 1470,
+     "rank": 16,
+     "sourceRank": 23
+    },
+    {
+     "name": "3DMAX",
+     "points": 1458,
+     "rank": 17,
+     "sourceRank": 24
+    },
+    {
+     "name": "FaZe",
+     "points": 1454,
+     "rank": 18,
+     "sourceRank": 26
+    },
+    {
+     "name": "Ninjas in Pyjamas",
+     "points": 1429,
+     "rank": 19,
+     "sourceRank": 28
+    },
+    {
+     "name": "K27",
+     "points": 1410,
+     "rank": 20,
+     "sourceRank": 30
+    },
+    {
+     "name": "Nemiga",
+     "points": 1389,
+     "rank": 21,
+     "sourceRank": 33
+    },
+    {
+     "name": "illwill",
+     "points": 1367,
+     "rank": 22,
+     "sourceRank": 36
+    },
+    {
+     "name": "1win",
+     "points": 1365,
+     "rank": 23,
+     "sourceRank": 37
+    },
+    {
+     "name": "Nemesis",
+     "points": 1365,
+     "rank": 24,
+     "sourceRank": 38
+    },
+    {
+     "name": "EYEBALLERS",
+     "points": 1362,
+     "rank": 25,
+     "sourceRank": 39
+    },
+    {
+     "name": "100 Thieves",
+     "points": 1351,
+     "rank": 26,
+     "sourceRank": 41
+    },
+    {
+     "name": "magic",
+     "points": 1336,
+     "rank": 27,
+     "sourceRank": 42
+    },
+    {
+     "name": "HOTU",
+     "points": 1319,
+     "rank": 28,
+     "sourceRank": 46
+    },
+    {
+     "name": "9INE",
+     "points": 1318,
+     "rank": 29,
+     "sourceRank": 47
+    },
+    {
+     "name": "FOKUS",
+     "points": 1290,
+     "rank": 31,
+     "sourceRank": 52
+    },
+    {
+     "name": "Betclic",
+     "points": 1274,
+     "rank": 32,
+     "sourceRank": 57
+    },
+    {
+     "name": "ECSTATIC",
+     "points": 1262,
+     "rank": 35,
+     "sourceRank": 61
+    },
+    {
+     "name": "Nuclear TigeRES",
+     "points": 1250,
+     "rank": 37,
+     "sourceRank": 63
+    },
+    {
+     "name": "JiJieHao",
+     "points": 1201,
+     "rank": 43,
+     "sourceRank": 73
+    },
+    {
+     "name": "fnatic",
+     "points": 1200,
+     "rank": 44,
+     "sourceRank": 74
+    },
+    {
+     "name": "Inner Circle",
+     "points": 1196,
+     "rank": 45,
+     "sourceRank": 75
+    },
+    {
+     "name": "CYBERSHOKE",
+     "points": 1179,
+     "rank": 48,
+     "sourceRank": 80
+    },
+    {
+     "name": "ENCE",
+     "points": 1163,
+     "rank": 52,
+     "sourceRank": 85
+    },
+    {
+     "name": "SAW",
+     "points": 901,
+     "rank": 80,
+     "sourceRank": 142
+    },
+    {
+     "name": "INFINITE",
+     "points": 811,
+     "rank": 93,
+     "sourceRank": 174
+    },
+    {
+     "name": "Virtus.pro",
+     "points": 753,
+     "rank": 97,
+     "sourceRank": 194
+    }
+   ]
+  },
+  {
+   "label": "May 4",
+   "teams": [
+    {
+     "name": "Vitality",
+     "points": 2081,
+     "rank": 1,
+     "sourceRank": 1
+    },
+    {
+     "name": "Natus Vincere",
+     "points": 1885,
+     "rank": 2,
+     "sourceRank": 2
+    },
+    {
+     "name": "Falcons",
+     "points": 1823,
+     "rank": 3,
+     "sourceRank": 3
+    },
+    {
+     "name": "FUT",
+     "points": 1808,
+     "rank": 4,
+     "sourceRank": 4
+    },
+    {
+     "name": "Spirit",
+     "points": 1807,
+     "rank": 5,
+     "sourceRank": 5
+    },
+    {
+     "name": "Astralis",
+     "points": 1800,
+     "rank": 6,
+     "sourceRank": 6
+    },
+    {
+     "name": "PARIVISION",
+     "points": 1747,
+     "rank": 7,
+     "sourceRank": 8
+    },
+    {
+     "name": "Aurora",
+     "points": 1742,
+     "rank": 8,
+     "sourceRank": 9
+    },
+    {
+     "name": "MOUZ",
+     "points": 1730,
+     "rank": 9,
+     "sourceRank": 11
+    },
+    {
+     "name": "G2",
+     "points": 1673,
+     "rank": 10,
+     "sourceRank": 12
+    },
+    {
+     "name": "GamerLegion",
+     "points": 1566,
+     "rank": 11,
+     "sourceRank": 13
+    },
+    {
+     "name": "3DMAX",
+     "points": 1552,
+     "rank": 12,
+     "sourceRank": 15
+    },
+    {
+     "name": "B8",
+     "points": 1547,
+     "rank": 13,
+     "sourceRank": 16
+    },
+    {
+     "name": "HEROIC",
+     "points": 1482,
+     "rank": 14,
+     "sourceRank": 20
+    },
+    {
+     "name": "FaZe",
+     "points": 1460,
+     "rank": 15,
+     "sourceRank": 22
+    },
+    {
+     "name": "BIG",
+     "points": 1445,
+     "rank": 16,
+     "sourceRank": 23
+    },
+    {
+     "name": "Alliance",
+     "points": 1413,
+     "rank": 17,
+     "sourceRank": 25
+    },
+    {
+     "name": "Ninjas in Pyjamas",
+     "points": 1411,
+     "rank": 18,
+     "sourceRank": 26
+    },
+    {
+     "name": "Nemesis",
+     "points": 1394,
+     "rank": 19,
+     "sourceRank": 28
+    },
+    {
+     "name": "EYEBALLERS",
+     "points": 1383,
+     "rank": 20,
+     "sourceRank": 29
+    },
+    {
+     "name": "SINNERS",
+     "points": 1379,
+     "rank": 21,
+     "sourceRank": 30
+    },
+    {
+     "name": "FOKUS",
+     "points": 1374,
+     "rank": 22,
+     "sourceRank": 33
+    },
+    {
+     "name": "Nemiga",
+     "points": 1347,
+     "rank": 23,
+     "sourceRank": 35
+    },
+    {
+     "name": "K27",
+     "points": 1338,
+     "rank": 24,
+     "sourceRank": 36
+    },
+    {
+     "name": "HOTU",
+     "points": 1301,
+     "rank": 25,
+     "sourceRank": 41
+    },
+    {
+     "name": "illwill",
+     "points": 1293,
+     "rank": 26,
+     "sourceRank": 42
+    },
+    {
+     "name": "100 Thieves",
+     "points": 1276,
+     "rank": 27,
+     "sourceRank": 45
+    },
+    {
+     "name": "magic",
+     "points": 1274,
+     "rank": 28,
+     "sourceRank": 46
+    },
+    {
+     "name": "INFINITE",
+     "points": 1253,
+     "rank": 29,
+     "sourceRank": 48
+    },
+    {
+     "name": "1win",
+     "points": 1248,
+     "rank": 30,
+     "sourceRank": 50
+    },
+    {
+     "name": "Nuclear TigeRES",
+     "points": 1229,
+     "rank": 31,
+     "sourceRank": 52
+    },
+    {
+     "name": "Inner Circle",
+     "points": 1227,
+     "rank": 32,
+     "sourceRank": 53
+    },
+    {
+     "name": "Betclic",
+     "points": 1204,
+     "rank": 35,
+     "sourceRank": 60
+    },
+    {
+     "name": "9INE",
+     "points": 1199,
+     "rank": 36,
+     "sourceRank": 61
+    },
+    {
+     "name": "JiJieHao",
+     "points": 1189,
+     "rank": 38,
+     "sourceRank": 64
+    },
+    {
+     "name": "CYBERSHOKE",
+     "points": 1165,
+     "rank": 43,
+     "sourceRank": 72
+    },
+    {
+     "name": "fnatic",
+     "points": 1130,
+     "rank": 48,
+     "sourceRank": 81
+    },
+    {
+     "name": "ECSTATIC",
+     "points": 1123,
+     "rank": 49,
+     "sourceRank": 83
+    },
+    {
+     "name": "ENCE",
+     "points": 1015,
+     "rank": 62,
+     "sourceRank": 107
+    },
+    {
+     "name": "SAW",
+     "points": 780,
+     "rank": 100,
+     "sourceRank": 191
+    }
+   ]
+  },
+  {
+   "label": "Jun 1",
+   "teams": [
+    {
+     "name": "Vitality",
+     "points": 2024,
+     "rank": 1,
+     "sourceRank": 1
+    },
+    {
+     "name": "Spirit",
+     "points": 1990,
+     "rank": 2,
+     "sourceRank": 2
+    },
+    {
+     "name": "Falcons",
+     "points": 1954,
+     "rank": 3,
+     "sourceRank": 3
+    },
+    {
+     "name": "Natus Vincere",
+     "points": 1940,
+     "rank": 4,
+     "sourceRank": 4
+    },
+    {
+     "name": "MOUZ",
+     "points": 1859,
+     "rank": 5,
+     "sourceRank": 5
+    },
+    {
+     "name": "Aurora",
+     "points": 1741,
+     "rank": 6,
+     "sourceRank": 8
+    },
+    {
+     "name": "GamerLegion",
+     "points": 1724,
+     "rank": 7,
+     "sourceRank": 9
+    },
+    {
+     "name": "Astralis",
+     "points": 1721,
+     "rank": 8,
+     "sourceRank": 10
+    },
+    {
+     "name": "FUT",
+     "points": 1694,
+     "rank": 9,
+     "sourceRank": 12
+    },
+    {
+     "name": "G2",
+     "points": 1683,
+     "rank": 10,
+     "sourceRank": 13
+    },
+    {
+     "name": "PARIVISION",
+     "points": 1679,
+     "rank": 11,
+     "sourceRank": 14
+    },
+    {
+     "name": "B8",
+     "points": 1582,
+     "rank": 12,
+     "sourceRank": 16
+    },
+    {
+     "name": "magic",
+     "points": 1550,
+     "rank": 13,
+     "sourceRank": 18
+    },
+    {
+     "name": "FaZe",
+     "points": 1492,
+     "rank": 14,
+     "sourceRank": 22
+    },
+    {
+     "name": "Ninjas in Pyjamas",
+     "points": 1460,
+     "rank": 15,
+     "sourceRank": 23
+    },
+    {
+     "name": "3DMAX",
+     "points": 1429,
+     "rank": 16,
+     "sourceRank": 26
+    },
+    {
+     "name": "HEROIC",
+     "points": 1420,
+     "rank": 17,
+     "sourceRank": 27
+    },
+    {
+     "name": "BIG",
+     "points": 1416,
+     "rank": 18,
+     "sourceRank": 28
+    },
+    {
+     "name": "Alliance",
+     "points": 1405,
+     "rank": 19,
+     "sourceRank": 29
+    },
+    {
+     "name": "HOTU",
+     "points": 1402,
+     "rank": 20,
+     "sourceRank": 31
+    },
+    {
+     "name": "SINNERS",
+     "points": 1378,
+     "rank": 21,
+     "sourceRank": 34
+    },
+    {
+     "name": "Nemesis",
+     "points": 1376,
+     "rank": 22,
+     "sourceRank": 35
+    },
+    {
+     "name": "EYEBALLERS",
+     "points": 1368,
+     "rank": 23,
+     "sourceRank": 36
+    },
+    {
+     "name": "FOKUS",
+     "points": 1368,
+     "rank": 24,
+     "sourceRank": 37
+    },
+    {
+     "name": "Nuclear TigeRES",
+     "points": 1333,
+     "rank": 25,
+     "sourceRank": 39
+    },
+    {
+     "name": "Nemiga",
+     "points": 1329,
+     "rank": 26,
+     "sourceRank": 40
+    },
+    {
+     "name": "Virtus.pro",
+     "points": 1329,
+     "rank": 27,
+     "sourceRank": 41
+    },
+    {
+     "name": "K27",
+     "points": 1323,
+     "rank": 28,
+     "sourceRank": 42
+    },
+    {
+     "name": "Inner Circle",
+     "points": 1316,
+     "rank": 29,
+     "sourceRank": 43
+    },
+    {
+     "name": "JiJieHao",
+     "points": 1315,
+     "rank": 30,
+     "sourceRank": 44
+    },
+    {
+     "name": "100 Thieves",
+     "points": 1275,
+     "rank": 32,
+     "sourceRank": 47
+    },
+    {
+     "name": "INFINITE",
+     "points": 1269,
+     "rank": 33,
+     "sourceRank": 48
+    },
+    {
+     "name": "1win",
+     "points": 1247,
+     "rank": 34,
+     "sourceRank": 51
+    },
+    {
+     "name": "illwill",
+     "points": 1206,
+     "rank": 38,
+     "sourceRank": 60
+    },
+    {
+     "name": "CYBERSHOKE",
+     "points": 1171,
+     "rank": 42,
+     "sourceRank": 67
+    },
+    {
+     "name": "fnatic",
+     "points": 1117,
+     "rank": 49,
+     "sourceRank": 81
+    },
+    {
+     "name": "ECSTATIC",
+     "points": 1092,
+     "rank": 53,
+     "sourceRank": 90
+    },
+    {
+     "name": "Betclic",
+     "points": 1082,
+     "rank": 54,
+     "sourceRank": 92
+    },
+    {
+     "name": "9INE",
+     "points": 1077,
+     "rank": 56,
+     "sourceRank": 95
+    },
+    {
+     "name": "ENCE",
+     "points": 955,
+     "rank": 71,
+     "sourceRank": 128
+    },
+    {
+     "name": "SAW",
+     "points": 734,
+     "rank": 110,
+     "sourceRank": 208
+    }
+   ]
+  },
+  {
+   "label": "Jul 6",
+   "teams": [
+    {
+     "name": "Spirit",
+     "points": 1993,
+     "rank": 1,
+     "sourceRank": 1
+    },
+    {
+     "name": "Falcons",
+     "points": 1988,
+     "rank": 2,
+     "sourceRank": 2
+    },
+    {
+     "name": "Vitality",
+     "points": 1908,
+     "rank": 3,
+     "sourceRank": 3
+    },
+    {
+     "name": "Natus Vincere",
+     "points": 1837,
+     "rank": 4,
+     "sourceRank": 4
+    },
+    {
+     "name": "MOUZ",
+     "points": 1762,
+     "rank": 5,
+     "sourceRank": 6
+    },
+    {
+     "name": "Aurora",
+     "points": 1723,
+     "rank": 6,
+     "sourceRank": 8
+    },
+    {
+     "name": "G2",
+     "points": 1713,
+     "rank": 7,
+     "sourceRank": 9
+    },
+    {
+     "name": "FUT",
+     "points": 1692,
+     "rank": 8,
+     "sourceRank": 11
+    },
+    {
+     "name": "B8",
+     "points": 1563,
+     "rank": 9,
+     "sourceRank": 14
+    },
+    {
+     "name": "Astralis",
+     "points": 1551,
+     "rank": 10,
+     "sourceRank": 15
+    },
+    {
+     "name": "GamerLegion",
+     "points": 1534,
+     "rank": 11,
+     "sourceRank": 16
+    },
+    {
+     "name": "PARIVISION",
+     "points": 1483,
+     "rank": 12,
+     "sourceRank": 19
+    },
+    {
+     "name": "magic",
+     "points": 1453,
+     "rank": 13,
+     "sourceRank": 20
+    },
+    {
+     "name": "FaZe",
+     "points": 1404,
+     "rank": 14,
+     "sourceRank": 23
+    },
+    {
+     "name": "Inner Circle",
+     "points": 1372,
+     "rank": 15,
+     "sourceRank": 25
+    },
+    {
+     "name": "BIG",
+     "points": 1371,
+     "rank": 16,
+     "sourceRank": 26
+    },
+    {
+     "name": "Alliance",
+     "points": 1365,
+     "rank": 17,
+     "sourceRank": 27
+    },
+    {
+     "name": "Ninjas in Pyjamas",
+     "points": 1358,
+     "rank": 18,
+     "sourceRank": 28
+    },
+    {
+     "name": "Nuclear TigeRES",
+     "points": 1307,
+     "rank": 19,
+     "sourceRank": 32
+    },
+    {
+     "name": "3DMAX",
+     "points": 1291,
+     "rank": 20,
+     "sourceRank": 33
+    },
+    {
+     "name": "HOTU",
+     "points": 1281,
+     "rank": 21,
+     "sourceRank": 34
+    },
+    {
+     "name": "INFINITE",
+     "points": 1273,
+     "rank": 22,
+     "sourceRank": 35
+    },
+    {
+     "name": "Nemesis",
+     "points": 1272,
+     "rank": 23,
+     "sourceRank": 36
+    },
+    {
+     "name": "HEROIC",
+     "points": 1268,
+     "rank": 24,
+     "sourceRank": 38
+    },
+    {
+     "name": "EYEBALLERS",
+     "points": 1252,
+     "rank": 25,
+     "sourceRank": 41
+    },
+    {
+     "name": "100 Thieves",
+     "points": 1251,
+     "rank": 26,
+     "sourceRank": 42
+    },
+    {
+     "name": "FOKUS",
+     "points": 1240,
+     "rank": 28,
+     "sourceRank": 45
+    },
+    {
+     "name": "K27",
+     "points": 1227,
+     "rank": 30,
+     "sourceRank": 47
+    },
+    {
+     "name": "Virtus.pro",
+     "points": 1223,
+     "rank": 31,
+     "sourceRank": 48
+    },
+    {
+     "name": "JiJieHao",
+     "points": 1208,
+     "rank": 32,
+     "sourceRank": 49
+    },
+    {
+     "name": "SINNERS",
+     "points": 1195,
+     "rank": 33,
+     "sourceRank": 50
+    },
+    {
+     "name": "Nemiga",
+     "points": 1191,
+     "rank": 34,
+     "sourceRank": 51
+    },
+    {
+     "name": "1win",
+     "points": 1147,
+     "rank": 36,
+     "sourceRank": 54
+    },
+    {
+     "name": "fnatic",
+     "points": 1083,
+     "rank": 45,
+     "sourceRank": 70
+    },
+    {
+     "name": "CYBERSHOKE",
+     "points": 1078,
+     "rank": 46,
+     "sourceRank": 72
+    },
+    {
+     "name": "9INE",
+     "points": 1071,
+     "rank": 47,
+     "sourceRank": 73
+    },
+    {
+     "name": "Betclic",
+     "points": 1064,
+     "rank": 50,
+     "sourceRank": 78
+    },
+    {
+     "name": "illwill",
+     "points": 992,
+     "rank": 59,
+     "sourceRank": 98
+    },
+    {
+     "name": "ECSTATIC",
+     "points": 966,
+     "rank": 62,
+     "sourceRank": 105
+    },
+    {
+     "name": "ENCE",
+     "points": 836,
+     "rank": 89,
+     "sourceRank": 152
+    }
+   ]
+  },
+  {
+   "label": "Aug 3",
+   "teams": [
+    {
+     "name": "Spirit",
+     "points": 2011,
+     "rank": 1,
+     "sourceRank": 1
+    },
+    {
+     "name": "Falcons",
+     "points": 1950,
+     "rank": 2,
+     "sourceRank": 2
+    },
+    {
+     "name": "MOUZ",
+     "points": 1873,
+     "rank": 3,
+     "sourceRank": 3
+    },
+    {
+     "name": "Vitality",
+     "points": 1836,
+     "rank": 4,
+     "sourceRank": 5
+    },
+    {
+     "name": "Natus Vincere",
+     "points": 1802,
+     "rank": 5,
+     "sourceRank": 6
+    },
+    {
+     "name": "Aurora",
+     "points": 1690,
+     "rank": 6,
+     "sourceRank": 10
+    },
+    {
+     "name": "G2",
+     "points": 1688,
+     "rank": 7,
+     "sourceRank": 11
+    },
+    {
+     "name": "PARIVISION",
+     "points": 1685,
+     "rank": 8,
+     "sourceRank": 12
+    },
+    {
+     "name": "FaZe",
+     "points": 1677,
+     "rank": 9,
+     "sourceRank": 13
+    },
+    {
+     "name": "FUT",
+     "points": 1663,
+     "rank": 10,
+     "sourceRank": 14
+    },
+    {
+     "name": "Alliance",
+     "points": 1583,
+     "rank": 11,
+     "sourceRank": 17
+    },
+    {
+     "name": "Astralis",
+     "points": 1555,
+     "rank": 12,
+     "sourceRank": 19
+    },
+    {
+     "name": "B8",
+     "points": 1550,
+     "rank": 13,
+     "sourceRank": 20
+    },
+    {
+     "name": "BIG",
+     "points": 1516,
+     "rank": 14,
+     "sourceRank": 21
+    },
+    {
+     "name": "GamerLegion",
+     "points": 1504,
+     "rank": 15,
+     "sourceRank": 22
+    },
+    {
+     "name": "magic",
+     "points": 1478,
+     "rank": 16,
+     "sourceRank": 23
+    },
+    {
+     "name": "Luminosity",
+     "points": 1468,
+     "rank": 17,
+     "sourceRank": 24
+    },
+    {
+     "name": "Inner Circle",
+     "points": 1464,
+     "rank": 18,
+     "sourceRank": 25
+    },
+    {
+     "name": "Ninjas in Pyjamas",
+     "points": 1444,
+     "rank": 19,
+     "sourceRank": 27
+    },
+    {
+     "name": "HEROIC",
+     "points": 1427,
+     "rank": 20,
+     "sourceRank": 30
+    },
+    {
+     "name": "3DMAX",
+     "points": 1410,
+     "rank": 21,
+     "sourceRank": 31
+    },
+    {
+     "name": "EYEBALLERS",
+     "points": 1385,
+     "rank": 22,
+     "sourceRank": 33
+    },
+    {
+     "name": "Nemesis",
+     "points": 1374,
+     "rank": 23,
+     "sourceRank": 34
+    },
+    {
+     "name": "HOTU",
+     "points": 1365,
+     "rank": 24,
+     "sourceRank": 35
+    },
+    {
+     "name": "Virtus.pro",
+     "points": 1359,
+     "rank": 25,
+     "sourceRank": 37
+    },
+    {
+     "name": "K27",
+     "points": 1319,
+     "rank": 26,
+     "sourceRank": 39
+    },
+    {
+     "name": "100 Thieves",
+     "points": 1310,
+     "rank": 27,
+     "sourceRank": 40
+    },
+    {
+     "name": "FOKUS",
+     "points": 1285,
+     "rank": 28,
+     "sourceRank": 43
+    },
+    {
+     "name": "INFINITE",
+     "points": 1272,
+     "rank": 29,
+     "sourceRank": 46
+    },
+    {
+     "name": "Nuclear TigeRES",
+     "points": 1259,
+     "rank": 30,
+     "sourceRank": 47
+    },
+    {
+     "name": "Nemiga",
+     "points": 1202,
+     "rank": 33,
+     "sourceRank": 52
+    },
+    {
+     "name": "SINNERS",
+     "points": 1196,
+     "rank": 34,
+     "sourceRank": 53
+    },
+    {
+     "name": "JiJieHao",
+     "points": 1159,
+     "rank": 37,
+     "sourceRank": 58
+    },
+    {
+     "name": "fnatic",
+     "points": 1141,
+     "rank": 38,
+     "sourceRank": 61
+    },
+    {
+     "name": "CYBERSHOKE",
+     "points": 1114,
+     "rank": 42,
+     "sourceRank": 67
+    },
+    {
+     "name": "9INE",
+     "points": 1009,
+     "rank": 57,
+     "sourceRank": 89
+    },
+    {
+     "name": "Betclic",
+     "points": 981,
+     "rank": 66,
+     "sourceRank": 104
+    },
+    {
+     "name": "ENCE",
+     "points": 898,
+     "rank": 82,
+     "sourceRank": 133
+    },
+    {
+     "name": "illwill",
+     "points": 875,
+     "rank": 87,
+     "sourceRank": 140
+    },
+    {
+     "name": "ECSTATIC",
+     "points": 870,
+     "rank": 89,
+     "sourceRank": 144
+    }
+   ]
+  },
+  {
+   "label": "Sep 7",
+   "teams": [
+    {
+     "name": "Spirit",
+     "points": 2031,
+     "rank": 1,
+     "sourceRank": 1
+    },
+    {
+     "name": "MOUZ",
+     "points": 1902,
+     "rank": 2,
+     "sourceRank": 2
+    },
+    {
+     "name": "Falcons",
+     "points": 1881,
+     "rank": 3,
+     "sourceRank": 3
+    },
+    {
+     "name": "FUT",
+     "points": 1846,
+     "rank": 4,
+     "sourceRank": 4
+    },
+    {
+     "name": "Vitality",
+     "points": 1841,
+     "rank": 5,
+     "sourceRank": 5
+    },
+    {
+     "name": "G2",
+     "points": 1723,
+     "rank": 6,
+     "sourceRank": 6
+    },
+    {
+     "name": "FaZe",
+     "points": 1599,
+     "rank": 7,
+     "sourceRank": 7
+    },
+    {
+     "name": "Natus Vincere",
+     "points": 1579,
+     "rank": 8,
+     "sourceRank": 8
+    },
+    {
+     "name": "Aurora",
+     "points": 1552,
+     "rank": 9,
+     "sourceRank": 9
+    },
+    {
+     "name": "B8",
+     "points": 1515,
+     "rank": 10,
+     "sourceRank": 10
+    },
+    {
+     "name": "Inner Circle",
+     "points": 1502,
+     "rank": 11,
+     "sourceRank": 11
+    },
+    {
+     "name": "BETBOOM",
+     "points": 1499,
+     "rank": 12,
+     "sourceRank": 12
+    },
+    {
+     "name": "BIG",
+     "points": 1480,
+     "rank": 13,
+     "sourceRank": 13
+    },
+    {
+     "name": "PARIVISION",
+     "points": 1461,
+     "rank": 14,
+     "sourceRank": 14
+    },
+    {
+     "name": "Astralis",
+     "points": 1446,
+     "rank": 15,
+     "sourceRank": 15
+    },
+    {
+     "name": "Alliance",
+     "points": 1402,
+     "rank": 16,
+     "sourceRank": 16
+    },
+    {
+     "name": "magic",
+     "points": 1402,
+     "rank": 17,
+     "sourceRank": 17
+    },
+    {
+     "name": "HEROIC",
+     "points": 1379,
+     "rank": 18,
+     "sourceRank": 18
+    },
+    {
+     "name": "HOTU",
+     "points": 1371,
+     "rank": 19,
+     "sourceRank": 19
+    },
+    {
+     "name": "100 Thieves",
+     "points": 1347,
+     "rank": 20,
+     "sourceRank": 20
+    },
+    {
+     "name": "GamerLegion",
+     "points": 1345,
+     "rank": 21,
+     "sourceRank": 21
+    },
+    {
+     "name": "Ninjas in Pyjamas",
+     "points": 1338,
+     "rank": 22,
+     "sourceRank": 22
+    },
+    {
+     "name": "Betclic",
+     "points": 1331,
+     "rank": 23,
+     "sourceRank": 23
+    },
+    {
+     "name": "1win",
+     "points": 1314,
+     "rank": 24,
+     "sourceRank": 24
+    },
+    {
+     "name": "JiJieHao",
+     "points": 1313,
+     "rank": 25,
+     "sourceRank": 25
+    },
+    {
+     "name": "fnatic",
+     "points": 1310,
+     "rank": 26,
+     "sourceRank": 26
+    },
+    {
+     "name": "3DMAX",
+     "points": 1298,
+     "rank": 27,
+     "sourceRank": 27
+    },
+    {
+     "name": "EYEBALLERS",
+     "points": 1290,
+     "rank": 28,
+     "sourceRank": 28
+    },
+    {
+     "name": "K27",
+     "points": 1283,
+     "rank": 29,
+     "sourceRank": 29
+    },
+    {
+     "name": "Virtus.pro",
+     "points": 1270,
+     "rank": 30,
+     "sourceRank": 31
+    },
+    {
+     "name": "Nuclear TigeRES",
+     "points": 1241,
+     "rank": 31,
+     "sourceRank": 32
+    },
+    {
+     "name": "Luminosity",
+     "points": 1228,
+     "rank": 32,
+     "sourceRank": 33
+    },
+    {
+     "name": "Nemesis",
+     "points": 1228,
+     "rank": 33,
+     "sourceRank": 34
+    },
+    {
+     "name": "INFINITE",
+     "points": 1206,
+     "rank": 35,
+     "sourceRank": 36
+    },
+    {
+     "name": "Nemiga",
+     "points": 1169,
+     "rank": 37,
+     "sourceRank": 38
+    },
+    {
+     "name": "FOKUS",
+     "points": 1162,
+     "rank": 38,
+     "sourceRank": 39
+    },
+    {
+     "name": "SINNERS",
+     "points": 1116,
+     "rank": 42,
+     "sourceRank": 44
+    },
+    {
+     "name": "9INE",
+     "points": 1070,
+     "rank": 52,
+     "sourceRank": 54
+    },
+    {
+     "name": "CYBERSHOKE",
+     "points": 1029,
+     "rank": 57,
+     "sourceRank": 59
+    },
+    {
+     "name": "ENCE",
+     "points": 862,
+     "rank": 87,
+     "sourceRank": 92
+    },
+    {
+     "name": "illwill",
+     "points": 739,
+     "rank": 115,
+     "sourceRank": 125
+    },
+    {
+     "name": "ECSTATIC",
+     "points": 652,
+     "rank": 146,
+     "sourceRank": 166
+    }
+   ]
+  },
+  {
+   "label": "Oct 5",
+   "teams": [
+    {
+     "name": "Spirit",
+     "points": 2046,
+     "rank": 1,
+     "sourceRank": 1
+    },
+    {
+     "name": "Vitality",
+     "points": 1911,
+     "rank": 2,
+     "sourceRank": 2
+    },
+    {
+     "name": "MOUZ",
+     "points": 1863,
+     "rank": 3,
+     "sourceRank": 3
+    },
+    {
+     "name": "G2",
+     "points": 1847,
+     "rank": 4,
+     "sourceRank": 4
+    },
+    {
+     "name": "Falcons",
+     "points": 1843,
+     "rank": 5,
+     "sourceRank": 5
+    },
+    {
+     "name": "FUT",
+     "points": 1799,
+     "rank": 6,
+     "sourceRank": 6
+    },
+    {
+     "name": "Aurora",
+     "points": 1716,
+     "rank": 7,
+     "sourceRank": 7
+    },
+    {
+     "name": "Astralis",
+     "points": 1674,
+     "rank": 8,
+     "sourceRank": 8
+    },
+    {
+     "name": "BETBOOM",
+     "points": 1596,
+     "rank": 9,
+     "sourceRank": 9
+    },
+    {
+     "name": "B8",
+     "points": 1555,
+     "rank": 10,
+     "sourceRank": 10
+    },
+    {
+     "name": "Nemiga",
+     "points": 1551,
+     "rank": 11,
+     "sourceRank": 11
+    },
+    {
+     "name": "HEROIC",
+     "points": 1550,
+     "rank": 12,
+     "sourceRank": 12
+    },
+    {
+     "name": "Luminosity",
+     "points": 1547,
+     "rank": 13,
+     "sourceRank": 13
+    },
+    {
+     "name": "Ninjas in Pyjamas",
+     "points": 1534,
+     "rank": 14,
+     "sourceRank": 14
+    },
+    {
+     "name": "Inner Circle",
+     "points": 1516,
+     "rank": 15,
+     "sourceRank": 15
+    },
+    {
+     "name": "3DMAX",
+     "points": 1500,
+     "rank": 16,
+     "sourceRank": 16
+    },
+    {
+     "name": "magic",
+     "points": 1489,
+     "rank": 17,
+     "sourceRank": 17
+    },
+    {
+     "name": "Alliance",
+     "points": 1483,
+     "rank": 18,
+     "sourceRank": 18
+    },
+    {
+     "name": "BIG",
+     "points": 1482,
+     "rank": 19,
+     "sourceRank": 19
+    },
+    {
+     "name": "FaZe",
+     "points": 1482,
+     "rank": 20,
+     "sourceRank": 20
+    },
+    {
+     "name": "GamerLegion",
+     "points": 1479,
+     "rank": 21,
+     "sourceRank": 21
+    },
+    {
+     "name": "100 Thieves",
+     "points": 1478,
+     "rank": 22,
+     "sourceRank": 22
+    },
+    {
+     "name": "Nemesis",
+     "points": 1455,
+     "rank": 23,
+     "sourceRank": 23
+    },
+    {
+     "name": "JiJieHao",
+     "points": 1454,
+     "rank": 24,
+     "sourceRank": 24
+    },
+    {
+     "name": "HOTU",
+     "points": 1437,
+     "rank": 25,
+     "sourceRank": 25
+    },
+    {
+     "name": "K27",
+     "points": 1435,
+     "rank": 26,
+     "sourceRank": 26
+    },
+    {
+     "name": "Natus Vincere",
+     "points": 1427,
+     "rank": 28,
+     "sourceRank": 28
+    },
+    {
+     "name": "fnatic",
+     "points": 1417,
+     "rank": 29,
+     "sourceRank": 29
+    },
+    {
+     "name": "PARIVISION",
+     "points": 1411,
+     "rank": 30,
+     "sourceRank": 30
+    },
+    {
+     "name": "1win",
+     "points": 1383,
+     "rank": 32,
+     "sourceRank": 32
+    },
+    {
+     "name": "SINNERS",
+     "points": 1359,
+     "rank": 34,
+     "sourceRank": 34
+    },
+    {
+     "name": "SAW",
+     "points": 1346,
+     "rank": 35,
+     "sourceRank": 35
+    },
+    {
+     "name": "EYEBALLERS",
+     "points": 1343,
+     "rank": 36,
+     "sourceRank": 36
+    },
+    {
+     "name": "Betclic",
+     "points": 1333,
+     "rank": 37,
+     "sourceRank": 37
+    },
+    {
+     "name": "Nuclear TigeRES",
+     "points": 1324,
+     "rank": 38,
+     "sourceRank": 38
+    },
+    {
+     "name": "FOKUS",
+     "points": 1321,
+     "rank": 39,
+     "sourceRank": 39
+    },
+    {
+     "name": "Virtus.pro",
+     "points": 1309,
+     "rank": 40,
+     "sourceRank": 40
+    },
+    {
+     "name": "INFINITE",
+     "points": 1259,
+     "rank": 42,
+     "sourceRank": 42
+    },
+    {
+     "name": "CYBERSHOKE",
+     "points": 1201,
+     "rank": 46,
+     "sourceRank": 46
+    },
+    {
+     "name": "9INE",
+     "points": 1112,
+     "rank": 59,
+     "sourceRank": 59
+    },
+    {
+     "name": "ENCE",
+     "points": 1025,
+     "rank": 76,
+     "sourceRank": 76
+    },
+    {
+     "name": "illwill",
+     "points": 638,
+     "rank": 166,
+     "sourceRank": 173
+    },
+    {
+     "name": "ECSTATIC",
+     "points": 483,
+     "rank": 213,
+     "sourceRank": 232
+    }
+   ]
+  }
+ ],
+ "approximate": [
+  "Jan 5",
+  "Feb 2",
+  "Mar 2",
+  "Apr 6",
+  "May 4",
+  "Jun 1",
+  "Jul 6",
+  "Aug 3"
+ ]
+}

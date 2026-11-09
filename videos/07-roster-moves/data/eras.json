@@ -1,0 +1,1410 @@
+{
+ "eras": {
+  "A": [
+   "2026-04-01",
+   "2026-06-21"
+  ],
+  "B": [
+   "2026-09-08",
+   "2026-11-07"
+  ]
+ },
+ "maps": 3977,
+ "teams": [
+  {
+   "team": "Nemiga",
+   "hltv": "7969",
+   "major": true,
+   "maps_A": 65,
+   "maps_B": 86,
+   "win_A": 0.366,
+   "win_B": 0.591,
+   "delta_logit": 0.916,
+   "delta_se": 0.344,
+   "clear": true,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "Xant3r",
+      "robo"
+     ],
+     "out": [
+      "1eeR",
+      "sowalio"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 40,
+    "nov": 10
+   }
+  },
+  {
+   "team": "Chinggis Warriors",
+   "hltv": "12646",
+   "major": true,
+   "maps_A": 47,
+   "maps_B": 63,
+   "win_A": 0.219,
+   "win_B": 0.341,
+   "delta_logit": 0.612,
+   "delta_se": 0.376,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "Redka",
+      "cool4st"
+     ],
+     "out": [
+      "hasteka",
+      "yAmi"
+     ]
+    },
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "hasteka",
+      "yAmi"
+     ],
+     "out": [
+      "Redka",
+      "cool4st"
+     ]
+    },
+    {
+     "between": [
+      "2026_09_07",
+      "2026_10_05"
+     ],
+     "in": [
+      "cool4st",
+      "fury5k",
+      "sk0R"
+     ],
+     "out": [
+      "Efire",
+      "hasteka",
+      "tikuak"
+     ]
+    },
+    {
+     "between": [
+      "2026_10_05",
+      "2026_11_02"
+     ],
+     "in": [
+      "tikuak"
+     ],
+     "out": [
+      "yAmi"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 84,
+    "nov": 55
+   }
+  },
+  {
+   "team": "1win",
+   "hltv": "10621",
+   "major": true,
+   "maps_A": 53,
+   "maps_B": 34,
+   "win_A": 0.323,
+   "win_B": 0.462,
+   "delta_logit": 0.59,
+   "delta_se": 0.398,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_09_07"
+     ],
+     "in": [
+      "ArtFr0st",
+      "Ax1Le",
+      "BELCHONOKK",
+      "fame",
+      "nafany"
+     ],
+     "out": [
+      "Qikert",
+      "cronuss",
+      "lattykk",
+      "oz1k",
+      "reyoz"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 51,
+    "nov": 12
+   }
+  },
+  {
+   "team": "FlyQuest",
+   "hltv": "12774",
+   "major": true,
+   "maps_A": 28,
+   "maps_B": 46,
+   "win_A": 0.389,
+   "win_B": 0.534,
+   "delta_logit": 0.589,
+   "delta_se": 0.47,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "Gratisfaction"
+     ],
+     "out": [
+      "story"
+     ]
+    },
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "aliStair"
+     ],
+     "out": [
+      "Gratisfaction"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 83,
+    "nov": 48
+   }
+  },
+  {
+   "team": "BC.Game",
+   "hltv": "12878",
+   "major": true,
+   "maps_A": 17,
+   "maps_B": 36,
+   "win_A": 0.205,
+   "win_B": 0.316,
+   "delta_logit": 0.586,
+   "delta_se": 0.494,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "Magisk",
+      "Senzu",
+      "mzinho"
+     ],
+     "out": [
+      "MUTiRiS",
+      "aragornN",
+      "krazy"
+     ]
+    },
+    {
+     "between": [
+      "2026_09_07",
+      "2026_10_05"
+     ],
+     "in": [
+      "asap"
+     ],
+     "out": [
+      "electroNic"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 103,
+    "nov": 45
+   }
+  },
+  {
+   "team": "Lynn Vision",
+   "hltv": "8840",
+   "major": true,
+   "maps_A": 27,
+   "maps_B": 28,
+   "win_A": 0.364,
+   "win_B": 0.48,
+   "delta_logit": 0.479,
+   "delta_se": 0.476,
+   "clear": false,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 24,
+    "nov": 56
+   }
+  },
+  {
+   "team": "fnatic",
+   "hltv": "4991",
+   "major": false,
+   "maps_A": 68,
+   "maps_B": 62,
+   "win_A": 0.334,
+   "win_B": 0.444,
+   "delta_logit": 0.465,
+   "delta_se": 0.347,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_06_01",
+      "2026_07_06"
+     ],
+     "in": [
+      "Polbandana"
+     ],
+     "out": [
+      "KRIMZ"
+     ]
+    },
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "cairne",
+      "mazay"
+     ],
+     "out": [
+      "Br4tkO",
+      "Polbandana"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 81,
+    "nov": 27
+   }
+  },
+  {
+   "team": "Virtus.pro",
+   "hltv": "5378",
+   "major": false,
+   "maps_A": 41,
+   "maps_B": 33,
+   "win_A": 0.37,
+   "win_B": 0.48,
+   "delta_logit": 0.454,
+   "delta_se": 0.423,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_10_05",
+      "2026_11_02"
+     ],
+     "in": [
+      "Patsi"
+     ],
+     "out": [
+      "F0R3VER"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 41,
+    "nov": 31
+   }
+  },
+  {
+   "team": "Imperial",
+   "hltv": "9455",
+   "major": true,
+   "maps_A": 39,
+   "maps_B": 56,
+   "win_A": 0.231,
+   "win_B": 0.321,
+   "delta_logit": 0.451,
+   "delta_se": 0.414,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "saadzin"
+     ],
+     "out": [
+      "levi"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 73,
+    "nov": 35
+   }
+  },
+  {
+   "team": "100 Thieves",
+   "hltv": "8474",
+   "major": true,
+   "maps_A": 71,
+   "maps_B": 54,
+   "win_A": 0.39,
+   "win_B": 0.492,
+   "delta_logit": 0.414,
+   "delta_se": 0.361,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "Gizmy"
+     ],
+     "out": [
+      "Ag1l"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 47,
+    "nov": 23
+   }
+  },
+  {
+   "team": "Liquid",
+   "hltv": "5973",
+   "major": true,
+   "maps_A": 25,
+   "maps_B": 64,
+   "win_A": 0.322,
+   "win_B": 0.412,
+   "delta_logit": 0.387,
+   "delta_se": 0.418,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "JT",
+      "Jorko"
+     ],
+     "out": [
+      "siuhy",
+      "ultimate"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 45,
+    "nov": 21
+   }
+  },
+  {
+   "team": "MOUZ",
+   "hltv": "4494",
+   "major": true,
+   "maps_A": 53,
+   "maps_B": 48,
+   "win_A": 0.67,
+   "win_B": 0.748,
+   "delta_logit": 0.383,
+   "delta_se": 0.388,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "PR"
+     ],
+     "out": [
+      "jL"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 5,
+    "nov": 1
+   }
+  },
+  {
+   "team": "Eternal Fire",
+   "hltv": "11251",
+   "major": true,
+   "maps_A": 38,
+   "maps_B": 80,
+   "win_A": 0.352,
+   "win_B": 0.437,
+   "delta_logit": 0.354,
+   "delta_se": 0.376,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "Kvem",
+      "soulfly"
+     ],
+     "out": [
+      "DemQQ",
+      "rigoN"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 58,
+    "nov": 22
+   }
+  },
+  {
+   "team": "HEROIC",
+   "hltv": "7175",
+   "major": true,
+   "maps_A": 39,
+   "maps_B": 53,
+   "win_A": 0.423,
+   "win_B": 0.504,
+   "delta_logit": 0.328,
+   "delta_se": 0.39,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "Brollan",
+      "MartinezSa"
+     ],
+     "out": [
+      "xfl0ud",
+      "yxngstxr"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 27,
+    "nov": 18
+   }
+  },
+  {
+   "team": "PARIVISION",
+   "hltv": "12467",
+   "major": true,
+   "maps_A": 38,
+   "maps_B": 48,
+   "win_A": 0.389,
+   "win_B": 0.468,
+   "delta_logit": 0.323,
+   "delta_se": 0.397,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "HObbit",
+      "slaxejezzz"
+     ],
+     "out": [
+      "BELCHONOKK",
+      "nota"
+     ]
+    },
+    {
+     "between": [
+      "2026_09_07",
+      "2026_10_05"
+     ],
+     "in": [
+      "FL1T"
+     ],
+     "out": [
+      "HObbit"
+     ]
+    },
+    {
+     "between": [
+      "2026_10_05",
+      "2026_11_02"
+     ],
+     "in": [
+      "HObbit"
+     ],
+     "out": [
+      "slaxejezzz"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 14,
+    "nov": 16
+   }
+  },
+  {
+   "team": "FUT",
+   "hltv": "13286",
+   "major": true,
+   "maps_A": 46,
+   "maps_B": 9,
+   "win_A": 0.603,
+   "win_B": 0.642,
+   "delta_logit": 0.168,
+   "delta_se": 0.52,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "xfl0ud"
+     ],
+     "out": [
+      "lauNX"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 12,
+    "nov": 8
+   }
+  },
+  {
+   "team": "The MongolZ",
+   "hltv": "6248",
+   "major": true,
+   "maps_A": 51,
+   "maps_B": 40,
+   "win_A": 0.55,
+   "win_B": 0.587,
+   "delta_logit": 0.153,
+   "delta_se": 0.389,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "DarkMeister",
+      "tikuak"
+     ],
+     "out": [
+      "cobrazera",
+      "mzinho"
+     ]
+    },
+    {
+     "between": [
+      "2026_10_05",
+      "2026_11_02"
+     ],
+     "in": [
+      "cobrazera",
+      "nin9"
+     ],
+     "out": [
+      "DarkMeister",
+      "tikuak"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 7,
+    "nov": 17
+   }
+  },
+  {
+   "team": "3DMAX",
+   "hltv": "4914",
+   "major": false,
+   "maps_A": 44,
+   "maps_B": 30,
+   "win_A": 0.318,
+   "win_B": 0.347,
+   "delta_logit": 0.132,
+   "delta_se": 0.417,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "Kursy"
+     ],
+     "out": [
+      "Ex3rcice"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 26,
+    "nov": null
+   }
+  },
+  {
+   "team": "MIBR",
+   "hltv": "9215",
+   "major": true,
+   "maps_A": 34,
+   "maps_B": 47,
+   "win_A": 0.444,
+   "win_B": 0.471,
+   "delta_logit": 0.106,
+   "delta_se": 0.403,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "nqz"
+     ],
+     "out": [
+      "kl1m"
+     ]
+    },
+    {
+     "between": [
+      "2026_09_07",
+      "2026_10_05"
+     ],
+     "in": [
+      "tomaszin"
+     ],
+     "out": [
+      "brnz4n"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 20,
+    "nov": 19
+   }
+  },
+  {
+   "team": "Aurora",
+   "hltv": "11861",
+   "major": true,
+   "maps_A": 37,
+   "maps_B": 58,
+   "win_A": 0.608,
+   "win_B": 0.626,
+   "delta_logit": 0.075,
+   "delta_se": 0.39,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "Jimpphat",
+      "kyxsan"
+     ],
+     "out": [
+      "MAJ3R",
+      "soulfly"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 8,
+    "nov": 4
+   }
+  },
+  {
+   "team": "BETBOOM",
+   "hltv": "12394",
+   "major": true,
+   "maps_A": 55,
+   "maps_B": 58,
+   "win_A": 0.581,
+   "win_B": 0.587,
+   "delta_logit": 0.025,
+   "delta_se": 0.363,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_06_01",
+      "2026_07_06"
+     ],
+     "in": [
+      "d1Ledez"
+     ],
+     "out": [
+      "S1ren"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 17,
+    "nov": null
+   }
+  },
+  {
+   "team": "CYBERSHOKE",
+   "hltv": "12380",
+   "major": false,
+   "maps_A": 76,
+   "maps_B": 21,
+   "win_A": 0.272,
+   "win_B": 0.271,
+   "delta_logit": -0.004,
+   "delta_se": 0.437,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "Alkaren"
+     ],
+     "out": [
+      "fluffy"
+     ]
+    },
+    {
+     "between": [
+      "2026_09_07",
+      "2026_10_05"
+     ],
+     "in": [
+      "nota",
+      "yiksrezo"
+     ],
+     "out": [
+      "bl1x1",
+      "glowiing"
+     ]
+    },
+    {
+     "between": [
+      "2026_10_05",
+      "2026_11_02"
+     ],
+     "in": [
+      "H4SAN4TOR"
+     ],
+     "out": [
+      "yiksrezo"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 67,
+    "nov": 95
+   }
+  },
+  {
+   "team": "Astralis",
+   "hltv": "6665",
+   "major": true,
+   "maps_A": 35,
+   "maps_B": 56,
+   "win_A": 0.46,
+   "win_B": 0.457,
+   "delta_logit": -0.013,
+   "delta_se": 0.388,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_10_05",
+      "2026_11_02"
+     ],
+     "in": [
+      "siuhy"
+     ],
+     "out": [
+      "HooXi"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 10,
+    "nov": 14
+   }
+  },
+  {
+   "team": "Inner Circle",
+   "hltv": "13117",
+   "major": false,
+   "maps_A": 36,
+   "maps_B": 28,
+   "win_A": 0.339,
+   "win_B": 0.333,
+   "delta_logit": -0.025,
+   "delta_se": 0.436,
+   "clear": false,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 43,
+    "nov": 30
+   }
+  },
+  {
+   "team": "M80",
+   "hltv": "12376",
+   "major": true,
+   "maps_A": 45,
+   "maps_B": 43,
+   "win_A": 0.382,
+   "win_B": 0.371,
+   "delta_logit": -0.049,
+   "delta_se": 0.399,
+   "clear": false,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 33,
+    "nov": 25
+   }
+  },
+  {
+   "team": "OG",
+   "hltv": "10503",
+   "major": false,
+   "maps_A": 17,
+   "maps_B": 16,
+   "win_A": 0.225,
+   "win_B": 0.215,
+   "delta_logit": -0.06,
+   "delta_se": 0.524,
+   "clear": false,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 57,
+    "nov": 132
+   }
+  },
+  {
+   "team": "Vitality",
+   "hltv": "9565",
+   "major": true,
+   "maps_A": 52,
+   "maps_B": 45,
+   "win_A": 0.786,
+   "win_B": 0.774,
+   "delta_logit": -0.066,
+   "delta_se": 0.398,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "jL"
+     ],
+     "out": [
+      "mezii"
+     ]
+    },
+    {
+     "between": [
+      "2026_09_07",
+      "2026_10_05"
+     ],
+     "in": [
+      "mezii"
+     ],
+     "out": [
+      "jL"
+     ]
+    },
+    {
+     "between": [
+      "2026_10_05",
+      "2026_11_02"
+     ],
+     "in": [
+      "jL"
+     ],
+     "out": [
+      "apEX"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 1,
+    "nov": 2
+   }
+  },
+  {
+   "team": "FURIA",
+   "hltv": "8297",
+   "major": true,
+   "maps_A": 45,
+   "maps_B": 80,
+   "win_A": 0.66,
+   "win_B": 0.635,
+   "delta_logit": -0.109,
+   "delta_se": 0.361,
+   "clear": false,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 11,
+    "nov": 3
+   }
+  },
+  {
+   "team": "Ninjas in Pyjamas",
+   "hltv": "4411",
+   "major": true,
+   "maps_A": 36,
+   "maps_B": 62,
+   "win_A": 0.473,
+   "win_B": 0.443,
+   "delta_logit": -0.123,
+   "delta_se": 0.381,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "n0te"
+     ],
+     "out": [
+      "cairne"
+     ]
+    },
+    {
+     "between": [
+      "2026_09_07",
+      "2026_10_05"
+     ],
+     "in": [
+      "Krimbo",
+      "adamb"
+     ],
+     "out": [
+      "Snappi",
+      "n0te"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 23,
+    "nov": 15
+   }
+  },
+  {
+   "team": "BIG",
+   "hltv": "7532",
+   "major": false,
+   "maps_A": 55,
+   "maps_B": 30,
+   "win_A": 0.407,
+   "win_B": 0.365,
+   "delta_logit": -0.178,
+   "delta_se": 0.406,
+   "clear": false,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 28,
+    "nov": 32
+   }
+  },
+  {
+   "team": "Wildcard",
+   "hltv": "12257",
+   "major": true,
+   "maps_A": 39,
+   "maps_B": 50,
+   "win_A": 0.343,
+   "win_B": 0.294,
+   "delta_logit": -0.225,
+   "delta_se": 0.406,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_09_07",
+      "2026_10_05"
+     ],
+     "in": [
+      "fr3nd"
+     ],
+     "out": [
+      "mhL"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 25,
+    "nov": 38
+   }
+  },
+  {
+   "team": "Natus Vincere",
+   "hltv": "4608",
+   "major": true,
+   "maps_A": 51,
+   "maps_B": 49,
+   "win_A": 0.675,
+   "win_B": 0.61,
+   "delta_logit": -0.283,
+   "delta_se": 0.381,
+   "clear": false,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 4,
+    "nov": 13
+   }
+  },
+  {
+   "team": "Legacy",
+   "hltv": "12468",
+   "major": true,
+   "maps_A": 70,
+   "maps_B": 45,
+   "win_A": 0.584,
+   "win_B": 0.5,
+   "delta_logit": -0.339,
+   "delta_se": 0.362,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "try"
+     ],
+     "out": [
+      "saadzin"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 6,
+    "nov": 9
+   }
+  },
+  {
+   "team": "FaZe",
+   "hltv": "6667",
+   "major": true,
+   "maps_A": 41,
+   "maps_B": 49,
+   "win_A": 0.476,
+   "win_B": 0.388,
+   "delta_logit": -0.361,
+   "delta_se": 0.395,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_07_06",
+      "2026_08_03"
+     ],
+     "in": [
+      "JBOEN"
+     ],
+     "out": [
+      "broky"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 22,
+    "nov": 20
+   }
+  },
+  {
+   "team": "B8",
+   "hltv": "11241",
+   "major": false,
+   "maps_A": 78,
+   "maps_B": 45,
+   "win_A": 0.464,
+   "win_B": 0.362,
+   "delta_logit": -0.425,
+   "delta_se": 0.356,
+   "clear": false,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 16,
+    "nov": 28
+   }
+  },
+  {
+   "team": "GamerLegion",
+   "hltv": "9928",
+   "major": false,
+   "maps_A": 48,
+   "maps_B": 50,
+   "win_A": 0.472,
+   "win_B": 0.344,
+   "delta_logit": -0.535,
+   "delta_se": 0.377,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "FL4MUS"
+     ],
+     "out": [
+      "PR"
+     ]
+    },
+    {
+     "between": [
+      "2026_10_05",
+      "2026_11_02"
+     ],
+     "in": [
+      "shalfey"
+     ],
+     "out": [
+      "Snax"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 9,
+    "nov": 37
+   }
+  },
+  {
+   "team": "magic",
+   "hltv": "13592",
+   "major": false,
+   "maps_A": 59,
+   "maps_B": 38,
+   "win_A": 0.503,
+   "win_B": 0.356,
+   "delta_logit": -0.605,
+   "delta_se": 0.385,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_10_05",
+      "2026_11_02"
+     ],
+     "in": [
+      "lattykk"
+     ],
+     "out": [
+      "mo0N"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 18,
+    "nov": 41
+   }
+  },
+  {
+   "team": "Falcons",
+   "hltv": "11283",
+   "major": true,
+   "maps_A": 61,
+   "maps_B": 33,
+   "win_A": 0.749,
+   "win_B": 0.618,
+   "delta_logit": -0.612,
+   "delta_se": 0.401,
+   "clear": false,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 3,
+    "nov": 7
+   }
+  },
+  {
+   "team": "9z",
+   "hltv": "9996",
+   "major": true,
+   "maps_A": 64,
+   "maps_B": 36,
+   "win_A": 0.551,
+   "win_B": 0.382,
+   "delta_logit": -0.687,
+   "delta_se": 0.399,
+   "clear": false,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 15,
+    "nov": 24
+   }
+  },
+  {
+   "team": "G2",
+   "hltv": "5995",
+   "major": true,
+   "maps_A": 65,
+   "maps_B": 42,
+   "win_A": 0.627,
+   "win_B": 0.441,
+   "delta_logit": -0.76,
+   "delta_se": 0.372,
+   "clear": true,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_08_03",
+      "2026_09_07"
+     ],
+     "in": [
+      "r1nkle"
+     ],
+     "out": [
+      "SunPayus"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 13,
+    "nov": 11
+   }
+  },
+  {
+   "team": "paiN",
+   "hltv": "4773",
+   "major": false,
+   "maps_A": 41,
+   "maps_B": 45,
+   "win_A": 0.393,
+   "win_B": 0.224,
+   "delta_logit": -0.81,
+   "delta_se": 0.414,
+   "clear": false,
+   "roster_changed": true,
+   "changes": [
+    {
+     "between": [
+      "2026_09_07",
+      "2026_10_05"
+     ],
+     "in": [
+      "Rkzinho",
+      "Tatu"
+     ],
+     "out": [
+      "piriajr",
+      "vsm"
+     ]
+    }
+   ],
+   "valve_rank": {
+    "jun": 19,
+    "nov": 53
+   }
+  },
+  {
+   "team": "Spirit",
+   "hltv": "7020",
+   "major": true,
+   "maps_A": 48,
+   "maps_B": 33,
+   "win_A": 0.807,
+   "win_B": 0.61,
+   "delta_logit": -0.982,
+   "delta_se": 0.421,
+   "clear": true,
+   "roster_changed": false,
+   "changes": [],
+   "valve_rank": {
+    "jun": 2,
+    "nov": 5
+   }
+  }
+ ]
+}

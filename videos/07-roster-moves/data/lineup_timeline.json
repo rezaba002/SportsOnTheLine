@@ -1,0 +1,12329 @@
+{
+ "MOUZ": {
+  "rank_nov": 1,
+  "matches": 49,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "Spinx",
+     "jL",
+     "torzsi",
+     "xelex",
+     "xertioN"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-05-23",
+    "n": 14
+   },
+   {
+    "five": [
+     "Brollan",
+     "Spinx",
+     "torzsi",
+     "xelex",
+     "xertioN"
+    ],
+    "from": "2026-06-11",
+    "to": "2026-06-14",
+    "n": 4
+   },
+   {
+    "five": [
+     "PR",
+     "Spinx",
+     "torzsi",
+     "xelex",
+     "xertioN"
+    ],
+    "from": "2026-07-21",
+    "to": "2026-10-31",
+    "n": 31
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-11",
+    "in": [
+     "Brollan"
+    ],
+    "out": [
+     "jL"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-06-14"
+   },
+   {
+    "date": "2026-07-21",
+    "in": [
+     "PR"
+    ],
+    "out": [
+     "Brollan"
+    ],
+    "kind": "permanent",
+    "run_matches": 31,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "Vitality": {
+  "rank_nov": 2,
+  "matches": 40,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "ZywOo",
+     "apEX",
+     "flameZ",
+     "mezii",
+     "ropz"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-08-21",
+    "n": 16
+   },
+   {
+    "five": [
+     "ZywOo",
+     "apEX",
+     "flameZ",
+     "jL",
+     "ropz"
+    ],
+    "from": "2026-08-27",
+    "to": "2026-09-05",
+    "n": 6
+   },
+   {
+    "five": [
+     "ZywOo",
+     "apEX",
+     "flameZ",
+     "mezii",
+     "ropz"
+    ],
+    "from": "2026-09-17",
+    "to": "2026-10-11",
+    "n": 11
+   },
+   {
+    "five": [
+     "ZywOo",
+     "flameZ",
+     "jL",
+     "mezii",
+     "ropz"
+    ],
+    "from": "2026-10-24",
+    "to": "2026-10-31",
+    "n": 7
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-27",
+    "in": [
+     "jL"
+    ],
+    "out": [
+     "mezii"
+    ],
+    "kind": "stand-in",
+    "run_matches": 6,
+    "run_until": "2026-09-05"
+   },
+   {
+    "date": "2026-09-17",
+    "in": [
+     "mezii"
+    ],
+    "out": [
+     "jL"
+    ],
+    "kind": "stand-in",
+    "run_matches": 11,
+    "run_until": "2026-10-11"
+   },
+   {
+    "date": "2026-10-24",
+    "in": [
+     "jL"
+    ],
+    "out": [
+     "apEX"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 7,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "FURIA": {
+  "rank_nov": 3,
+  "matches": 49,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "FalleN",
+     "KSCERATO",
+     "YEKINDAR",
+     "molodoy",
+     "yuurih"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-10-31",
+    "n": 49
+   }
+  ],
+  "events": []
+ },
+ "Aurora": {
+  "rank_nov": 4,
+  "matches": 46,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "MAJ3R",
+     "Wicadia",
+     "XANTARES",
+     "soulfly",
+     "woxic"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-06-20",
+    "n": 12
+   },
+   {
+    "five": [
+     "Jimpphat",
+     "Wicadia",
+     "XANTARES",
+     "kyxsan",
+     "woxic"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-10-29",
+    "n": 34
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-22",
+    "in": [
+     "Jimpphat",
+     "kyxsan"
+    ],
+    "out": [
+     "MAJ3R",
+     "soulfly"
+    ],
+    "kind": "permanent",
+    "run_matches": 34,
+    "run_until": "2026-10-29"
+   }
+  ]
+ },
+ "Spirit": {
+  "rank_nov": 5,
+  "matches": 44,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "donk",
+     "magixx",
+     "sh1ro",
+     "tN1R",
+     "zont1x"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-10-28",
+    "n": 44
+   }
+  ],
+  "events": []
+ },
+ "BETBOOM": {
+  "rank_nov": 6,
+  "matches": 41,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "Boombl4",
+     "FL4MUS",
+     "Magnojez",
+     "S1ren",
+     "zorte"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-05-17",
+    "n": 5
+   },
+   {
+    "five": [
+     "Boombl4",
+     "FL4MUS",
+     "Magnojez",
+     "d1Ledez",
+     "zorte"
+    ],
+    "from": "2026-06-02",
+    "to": "2026-06-18",
+    "n": 13
+   },
+   {
+    "five": [
+     "Boombl4",
+     "Magnojez",
+     "S1ren",
+     "d1Ledez",
+     "zorte"
+    ],
+    "from": "2026-07-01",
+    "to": "2026-10-29",
+    "n": 23
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-02",
+    "in": [
+     "d1Ledez"
+    ],
+    "out": [
+     "S1ren"
+    ],
+    "kind": "stand-in",
+    "run_matches": 13,
+    "run_until": "2026-06-18"
+   },
+   {
+    "date": "2026-07-01",
+    "in": [
+     "S1ren"
+    ],
+    "out": [
+     "FL4MUS"
+    ],
+    "kind": "permanent",
+    "run_matches": 23,
+    "run_until": "2026-10-29"
+   }
+  ]
+ },
+ "Falcons": {
+  "rank_nov": 7,
+  "matches": 38,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "NiKo",
+     "TeSeS",
+     "karrigan",
+     "kyousuke",
+     "m0NESY"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-10-18",
+    "n": 38
+   }
+  ],
+  "events": []
+ },
+ "FUT": {
+  "rank_nov": 8,
+  "matches": 27,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "Krabeni",
+     "cmtry",
+     "dem0n",
+     "dziugss",
+     "lauNX"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-06-15",
+    "n": 11
+   },
+   {
+    "five": [
+     "Krabeni",
+     "cmtry",
+     "dem0n",
+     "dziugss",
+     "xfl0ud"
+    ],
+    "from": "2026-07-23",
+    "to": "2026-08-31",
+    "n": 12
+   },
+   {
+    "five": [
+     "Krabeni",
+     "SunPayus",
+     "dem0n",
+     "dziugss",
+     "xfl0ud"
+    ],
+    "from": "2026-10-24",
+    "to": "2026-10-29",
+    "n": 4
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-23",
+    "in": [
+     "xfl0ud"
+    ],
+    "out": [
+     "lauNX"
+    ],
+    "kind": "permanent",
+    "run_matches": 12,
+    "run_until": "2026-08-31"
+   },
+   {
+    "date": "2026-10-24",
+    "in": [
+     "SunPayus"
+    ],
+    "out": [
+     "cmtry"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 4,
+    "run_until": "2026-10-29"
+   }
+  ]
+ },
+ "Legacy": {
+  "rank_nov": 9,
+  "matches": 46,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "arT",
+     "dumau",
+     "latto",
+     "n1ssim",
+     "saadzin"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-06-14",
+    "n": 20
+   },
+   {
+    "five": [
+     "arT",
+     "dumau",
+     "latto",
+     "n1ssim",
+     "try"
+    ],
+    "from": "2026-08-12",
+    "to": "2026-09-13",
+    "n": 15
+   },
+   {
+    "five": [
+     "bobz",
+     "dumau",
+     "latto",
+     "n1ssim",
+     "try"
+    ],
+    "from": "2026-10-03",
+    "to": "2026-10-06",
+    "n": 4
+   },
+   {
+    "five": [
+     "arT",
+     "dumau",
+     "latto",
+     "n1ssim",
+     "try"
+    ],
+    "from": "2026-10-14",
+    "to": "2026-10-27",
+    "n": 7
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-12",
+    "in": [
+     "try"
+    ],
+    "out": [
+     "saadzin"
+    ],
+    "kind": "permanent",
+    "run_matches": 15,
+    "run_until": "2026-09-13"
+   },
+   {
+    "date": "2026-10-03",
+    "in": [
+     "bobz"
+    ],
+    "out": [
+     "arT"
+    ],
+    "kind": "stand-in",
+    "run_matches": 4,
+    "run_until": "2026-10-06"
+   },
+   {
+    "date": "2026-10-14",
+    "in": [
+     "arT"
+    ],
+    "out": [
+     "bobz"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 7,
+    "run_until": "2026-10-27"
+   }
+  ]
+ },
+ "Nemiga": {
+  "rank_nov": 10,
+  "matches": 76,
+  "first": "2026-05-07",
+  "runs": [
+   {
+    "five": [
+     "1eeR",
+     "KaiR0N-",
+     "khaN",
+     "sowalio",
+     "syph0"
+    ],
+    "from": "2026-05-07",
+    "to": "2026-05-31",
+    "n": 16
+   },
+   {
+    "five": [
+     "1eeR",
+     "Xant3r",
+     "khaN",
+     "sowalio",
+     "syph0"
+    ],
+    "from": "2026-06-04",
+    "to": "2026-06-04",
+    "n": 1
+   },
+   {
+    "five": [
+     "KaiR0N-",
+     "khaN",
+     "robo",
+     "sowalio",
+     "syph0"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-08-04",
+    "n": 5
+   },
+   {
+    "five": [
+     "KaiR0N-",
+     "Xant3r",
+     "khaN",
+     "robo",
+     "syph0"
+    ],
+    "from": "2026-08-22",
+    "to": "2026-10-31",
+    "n": 54
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-04",
+    "in": [
+     "Xant3r"
+    ],
+    "out": [
+     "KaiR0N-"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-06-04"
+   },
+   {
+    "date": "2026-07-22",
+    "in": [
+     "KaiR0N-",
+     "robo"
+    ],
+    "out": [
+     "1eeR",
+     "Xant3r"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-08-04"
+   },
+   {
+    "date": "2026-08-22",
+    "in": [
+     "Xant3r"
+    ],
+    "out": [
+     "sowalio"
+    ],
+    "kind": "permanent",
+    "run_matches": 54,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "G2": {
+  "rank_nov": 11,
+  "matches": 41,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "HeavyGod",
+     "MATYS",
+     "NertZ",
+     "SunPayus",
+     "huNter-"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-06-19",
+    "n": 16
+   },
+   {
+    "five": [
+     "HeavyGod",
+     "MATYS",
+     "NertZ",
+     "huNter-",
+     "r1nkle"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-10-26",
+    "n": 25
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-22",
+    "in": [
+     "r1nkle"
+    ],
+    "out": [
+     "SunPayus"
+    ],
+    "kind": "permanent",
+    "run_matches": 25,
+    "run_until": "2026-10-26"
+   }
+  ]
+ },
+ "1win": {
+  "rank_nov": 12,
+  "matches": 70,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "ArtFr0st",
+     "Ax1Le",
+     "Xant3r",
+     "nafany",
+     "sugaR"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-06-21",
+    "n": 28
+   },
+   {
+    "five": [
+     "ArtFr0st",
+     "Ax1Le",
+     "BELCHONOKK",
+     "fame",
+     "nafany"
+    ],
+    "from": "2026-07-28",
+    "to": "2026-09-01",
+    "n": 21
+   },
+   {
+    "five": [
+     "ArtFr0st",
+     "Ax1Le",
+     "ct0m",
+     "fame",
+     "nafany"
+    ],
+    "from": "2026-09-02",
+    "to": "2026-09-02",
+    "n": 1
+   },
+   {
+    "five": [
+     "ArtFr0st",
+     "Ax1Le",
+     "BELCHONOKK",
+     "fame",
+     "nafany"
+    ],
+    "from": "2026-09-04",
+    "to": "2026-11-01",
+    "n": 20
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-28",
+    "in": [
+     "BELCHONOKK",
+     "fame"
+    ],
+    "out": [
+     "Xant3r",
+     "sugaR"
+    ],
+    "kind": "permanent",
+    "run_matches": 21,
+    "run_until": "2026-09-01"
+   },
+   {
+    "date": "2026-09-02",
+    "in": [
+     "ct0m"
+    ],
+    "out": [
+     "BELCHONOKK"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-09-02"
+   },
+   {
+    "date": "2026-09-04",
+    "in": [
+     "BELCHONOKK"
+    ],
+    "out": [
+     "ct0m"
+    ],
+    "kind": "permanent",
+    "run_matches": 20,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "Natus Vincere": {
+  "rank_nov": 13,
+  "matches": 32,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "Aleksib",
+     "b1t",
+     "iM",
+     "makazze",
+     "w0nderful"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-10-30",
+    "n": 32
+   }
+  ],
+  "events": []
+ },
+ "Astralis": {
+  "rank_nov": 14,
+  "matches": 39,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "HooXi",
+     "Staehr",
+     "jabbi",
+     "phzy",
+     "ryu"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-10-04",
+    "n": 32
+   },
+   {
+    "five": [
+     "Staehr",
+     "cmtry",
+     "phzy",
+     "ryu",
+     "siuhy"
+    ],
+    "from": "2026-10-14",
+    "to": "2026-10-27",
+    "n": 4
+   },
+   {
+    "five": [
+     "Staehr",
+     "jabbi",
+     "phzy",
+     "ryu",
+     "siuhy"
+    ],
+    "from": "2026-10-28",
+    "to": "2026-10-29",
+    "n": 3
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-10-14",
+    "in": [
+     "cmtry",
+     "siuhy"
+    ],
+    "out": [
+     "HooXi",
+     "jabbi"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-10-27"
+   },
+   {
+    "date": "2026-10-28",
+    "in": [
+     "jabbi"
+    ],
+    "out": [
+     "cmtry"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 3,
+    "run_until": "2026-10-29"
+   }
+  ]
+ },
+ "Ninjas in Pyjamas": {
+  "rank_nov": 15,
+  "matches": 58,
+  "first": "2026-05-19",
+  "runs": [
+   {
+    "five": [
+     "Snappi",
+     "cairne",
+     "sjuush",
+     "stavn",
+     "xKacpersky"
+    ],
+    "from": "2026-05-19",
+    "to": "2026-05-30",
+    "n": 7
+   },
+   {
+    "five": [
+     "Snappi",
+     "n0te",
+     "sjuush",
+     "stavn",
+     "xKacpersky"
+    ],
+    "from": "2026-07-01",
+    "to": "2026-08-16",
+    "n": 18
+   },
+   {
+    "five": [
+     "Krimbo",
+     "n0te",
+     "sjuush",
+     "stavn",
+     "xKacpersky"
+    ],
+    "from": "2026-09-03",
+    "to": "2026-09-11",
+    "n": 8
+   },
+   {
+    "five": [
+     "Krimbo",
+     "adamb",
+     "sjuush",
+     "stavn",
+     "xKacpersky"
+    ],
+    "from": "2026-09-17",
+    "to": "2026-10-17",
+    "n": 25
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-01",
+    "in": [
+     "n0te"
+    ],
+    "out": [
+     "cairne"
+    ],
+    "kind": "permanent",
+    "run_matches": 18,
+    "run_until": "2026-08-16"
+   },
+   {
+    "date": "2026-09-03",
+    "in": [
+     "Krimbo"
+    ],
+    "out": [
+     "Snappi"
+    ],
+    "kind": "permanent",
+    "run_matches": 8,
+    "run_until": "2026-09-11"
+   },
+   {
+    "date": "2026-09-17",
+    "in": [
+     "adamb"
+    ],
+    "out": [
+     "n0te"
+    ],
+    "kind": "permanent",
+    "run_matches": 25,
+    "run_until": "2026-10-17"
+   }
+  ]
+ },
+ "PARIVISION": {
+  "rank_nov": 16,
+  "matches": 36,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "BELCHONOKK",
+     "Jame",
+     "nota",
+     "xiELO",
+     "zweih"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-06-13",
+    "n": 11
+   },
+   {
+    "five": [
+     "HObbit",
+     "Jame",
+     "slaxejezzz",
+     "xiELO",
+     "zweih"
+    ],
+    "from": "2026-07-01",
+    "to": "2026-07-12",
+    "n": 7
+   },
+   {
+    "five": [
+     "FL1T",
+     "Jame",
+     "slaxejezzz",
+     "xiELO",
+     "zweih"
+    ],
+    "from": "2026-08-12",
+    "to": "2026-09-10",
+    "n": 6
+   },
+   {
+    "five": [
+     "FL1T",
+     "HObbit",
+     "Jame",
+     "xiELO",
+     "zweih"
+    ],
+    "from": "2026-10-03",
+    "to": "2026-10-22",
+    "n": 12
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-01",
+    "in": [
+     "HObbit",
+     "slaxejezzz"
+    ],
+    "out": [
+     "BELCHONOKK",
+     "nota"
+    ],
+    "kind": "permanent",
+    "run_matches": 7,
+    "run_until": "2026-07-12"
+   },
+   {
+    "date": "2026-08-12",
+    "in": [
+     "FL1T"
+    ],
+    "out": [
+     "HObbit"
+    ],
+    "kind": "stand-in",
+    "run_matches": 6,
+    "run_until": "2026-09-10"
+   },
+   {
+    "date": "2026-10-03",
+    "in": [
+     "HObbit"
+    ],
+    "out": [
+     "slaxejezzz"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 12,
+    "run_until": "2026-10-22"
+   }
+  ]
+ },
+ "The MongolZ": {
+  "rank_nov": 17,
+  "matches": 35,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "910",
+     "Techno",
+     "bLitz",
+     "cobrazera",
+     "mzinho"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-06-15",
+    "n": 15
+   },
+   {
+    "five": [
+     "910",
+     "DarkMeister",
+     "Techno",
+     "bLitz",
+     "tikuak"
+    ],
+    "from": "2026-07-24",
+    "to": "2026-08-20",
+    "n": 7
+   },
+   {
+    "five": [
+     "910",
+     "DarkMeister",
+     "bLitz",
+     "cobrazera",
+     "tikuak"
+    ],
+    "from": "2026-09-08",
+    "to": "2026-09-08",
+    "n": 2
+   },
+   {
+    "five": [
+     "910",
+     "Techno",
+     "bLitz",
+     "cobrazera",
+     "nin9"
+    ],
+    "from": "2026-10-19",
+    "to": "2026-10-28",
+    "n": 11
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-24",
+    "in": [
+     "DarkMeister",
+     "tikuak"
+    ],
+    "out": [
+     "cobrazera",
+     "mzinho"
+    ],
+    "kind": "permanent",
+    "run_matches": 7,
+    "run_until": "2026-08-20"
+   },
+   {
+    "date": "2026-09-08",
+    "in": [
+     "cobrazera"
+    ],
+    "out": [
+     "Techno"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-08"
+   },
+   {
+    "date": "2026-10-19",
+    "in": [
+     "Techno",
+     "nin9"
+    ],
+    "out": [
+     "DarkMeister",
+     "tikuak"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 11,
+    "run_until": "2026-10-28"
+   }
+  ]
+ },
+ "HEROIC": {
+  "rank_nov": 18,
+  "matches": 51,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "Chr1zN",
+     "nilo",
+     "susp",
+     "xfl0ud",
+     "yxngstxr"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-06-04",
+    "n": 10
+   },
+   {
+    "five": [
+     "Brollan",
+     "Chr1zN",
+     "MartinezSa",
+     "nilo",
+     "susp"
+    ],
+    "from": "2026-07-15",
+    "to": "2026-10-21",
+    "n": 41
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-15",
+    "in": [
+     "Brollan",
+     "MartinezSa"
+    ],
+    "out": [
+     "xfl0ud",
+     "yxngstxr"
+    ],
+    "kind": "permanent",
+    "run_matches": 41,
+    "run_until": "2026-10-21"
+   }
+  ]
+ },
+ "MIBR": {
+  "rank_nov": 19,
+  "matches": 48,
+  "first": "2026-05-19",
+  "runs": [
+   {
+    "five": [
+     "LNZ",
+     "brnz4n",
+     "insani",
+     "kl1m",
+     "venomzera"
+    ],
+    "from": "2026-05-19",
+    "to": "2026-06-08",
+    "n": 13
+   },
+   {
+    "five": [
+     "LNZ",
+     "brnz4n",
+     "insani",
+     "nqz",
+     "venomzera"
+    ],
+    "from": "2026-07-01",
+    "to": "2026-08-16",
+    "n": 12
+   },
+   {
+    "five": [
+     "LNZ",
+     "insani",
+     "nqz",
+     "tomaszin",
+     "venomzera"
+    ],
+    "from": "2026-09-02",
+    "to": "2026-10-30",
+    "n": 23
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-01",
+    "in": [
+     "nqz"
+    ],
+    "out": [
+     "kl1m"
+    ],
+    "kind": "permanent",
+    "run_matches": 12,
+    "run_until": "2026-08-16"
+   },
+   {
+    "date": "2026-09-02",
+    "in": [
+     "tomaszin"
+    ],
+    "out": [
+     "brnz4n"
+    ],
+    "kind": "permanent",
+    "run_matches": 23,
+    "run_until": "2026-10-30"
+   }
+  ]
+ },
+ "FaZe": {
+  "rank_nov": 20,
+  "matches": 39,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "Neityu",
+     "Twistzz",
+     "broky",
+     "frozen",
+     "jcobbb"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-05-30",
+    "n": 8
+   },
+   {
+    "five": [
+     "JBOEN",
+     "Neityu",
+     "Twistzz",
+     "frozen",
+     "jcobbb"
+    ],
+    "from": "2026-07-01",
+    "to": "2026-10-29",
+    "n": 31
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-01",
+    "in": [
+     "JBOEN"
+    ],
+    "out": [
+     "broky"
+    ],
+    "kind": "permanent",
+    "run_matches": 31,
+    "run_until": "2026-10-29"
+   }
+  ]
+ },
+ "Liquid": {
+  "rank_nov": 21,
+  "matches": 46,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "EliGE",
+     "NAF",
+     "malbsMd",
+     "siuhy",
+     "ultimate"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-06-05",
+    "n": 10
+   },
+   {
+    "five": [
+     "EliGE",
+     "JT",
+     "Jorko",
+     "NAF",
+     "malbsMd"
+    ],
+    "from": "2026-07-24",
+    "to": "2026-09-12",
+    "n": 16
+   },
+   {
+    "five": [
+     "EliGE",
+     "JT",
+     "Jorko",
+     "NAF",
+     "VLDN"
+    ],
+    "from": "2026-09-18",
+    "to": "2026-09-18",
+    "n": 5
+   },
+   {
+    "five": [
+     "EliGE",
+     "JT",
+     "Jorko",
+     "NAF",
+     "malbsMd"
+    ],
+    "from": "2026-09-25",
+    "to": "2026-10-28",
+    "n": 15
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-24",
+    "in": [
+     "JT",
+     "Jorko"
+    ],
+    "out": [
+     "siuhy",
+     "ultimate"
+    ],
+    "kind": "permanent",
+    "run_matches": 16,
+    "run_until": "2026-09-12"
+   },
+   {
+    "date": "2026-09-18",
+    "in": [
+     "VLDN"
+    ],
+    "out": [
+     "malbsMd"
+    ],
+    "kind": "stand-in",
+    "run_matches": 5,
+    "run_until": "2026-09-18"
+   },
+   {
+    "date": "2026-09-25",
+    "in": [
+     "malbsMd"
+    ],
+    "out": [
+     "VLDN"
+    ],
+    "kind": "permanent",
+    "run_matches": 15,
+    "run_until": "2026-10-28"
+   }
+  ]
+ },
+ "Eternal Fire": {
+  "rank_nov": 22,
+  "matches": 69,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "DemQQ",
+     "MisteM",
+     "jottAAA",
+     "regali",
+     "rigoN"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-06-24",
+    "n": 13
+   },
+   {
+    "five": [
+     "Kvem",
+     "MisteM",
+     "br0",
+     "jottAAA",
+     "regali"
+    ],
+    "from": "2026-07-18",
+    "to": "2026-08-09",
+    "n": 9
+   },
+   {
+    "five": [
+     "Kvem",
+     "MisteM",
+     "jottAAA",
+     "regali",
+     "soulfly"
+    ],
+    "from": "2026-08-24",
+    "to": "2026-10-30",
+    "n": 47
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-18",
+    "in": [
+     "Kvem",
+     "br0"
+    ],
+    "out": [
+     "DemQQ",
+     "rigoN"
+    ],
+    "kind": "permanent",
+    "run_matches": 9,
+    "run_until": "2026-08-09"
+   },
+   {
+    "date": "2026-08-24",
+    "in": [
+     "soulfly"
+    ],
+    "out": [
+     "br0"
+    ],
+    "kind": "permanent",
+    "run_matches": 47,
+    "run_until": "2026-10-30"
+   }
+  ]
+ },
+ "100 Thieves": {
+  "rank_nov": 23,
+  "matches": 60,
+  "first": "2026-05-10",
+  "runs": [
+   {
+    "five": [
+     "Ag1l",
+     "device",
+     "poiii",
+     "rain",
+     "sirah"
+    ],
+    "from": "2026-05-10",
+    "to": "2026-06-21",
+    "n": 21
+   },
+   {
+    "five": [
+     "Gizmy",
+     "device",
+     "poiii",
+     "rain",
+     "sirah"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-11-01",
+    "n": 39
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-22",
+    "in": [
+     "Gizmy"
+    ],
+    "out": [
+     "Ag1l"
+    ],
+    "kind": "permanent",
+    "run_matches": 39,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "9z": {
+  "rank_nov": 24,
+  "matches": 44,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "HUASOPEEK",
+     "dgt",
+     "luchov",
+     "max",
+     "meyern"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-10-26",
+    "n": 44
+   }
+  ],
+  "events": []
+ },
+ "M80": {
+  "rank_nov": 25,
+  "matches": 45,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "JBa",
+     "Lake",
+     "Swisher",
+     "s1n",
+     "slaxz-"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-10-07",
+    "n": 45
+   }
+  ],
+  "events": []
+ },
+ "HOTU": {
+  "rank_nov": 26,
+  "matches": 70,
+  "first": "2026-05-12",
+  "runs": [
+   {
+    "five": [
+     "frontales",
+     "gokushima",
+     "kade0",
+     "mizu",
+     "n0rb3r7"
+    ],
+    "from": "2026-05-12",
+    "to": "2026-05-21",
+    "n": 5
+   },
+   {
+    "five": [
+     "dwushka",
+     "frontales",
+     "kade0",
+     "mizu",
+     "n0rb3r7"
+    ],
+    "from": "2026-05-29",
+    "to": "2026-11-01",
+    "n": 65
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-29",
+    "in": [
+     "dwushka"
+    ],
+    "out": [
+     "gokushima"
+    ],
+    "kind": "permanent",
+    "run_matches": 65,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "fnatic": {
+  "rank_nov": 27,
+  "matches": 64,
+  "first": "2026-05-12",
+  "runs": [
+   {
+    "five": [
+     "Br4tkO",
+     "KRIMZ",
+     "fEAR",
+     "jackasmo",
+     "jambo"
+    ],
+    "from": "2026-05-12",
+    "to": "2026-05-30",
+    "n": 14
+   },
+   {
+    "five": [
+     "Br4tkO",
+     "Polbandana",
+     "fEAR",
+     "jackasmo",
+     "jambo"
+    ],
+    "from": "2026-06-13",
+    "to": "2026-06-14",
+    "n": 5
+   },
+   {
+    "five": [
+     "cairne",
+     "fEAR",
+     "jackasmo",
+     "jambo",
+     "mazay"
+    ],
+    "from": "2026-07-12",
+    "to": "2026-10-30",
+    "n": 45
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-13",
+    "in": [
+     "Polbandana"
+    ],
+    "out": [
+     "KRIMZ"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-06-14"
+   },
+   {
+    "date": "2026-07-12",
+    "in": [
+     "cairne",
+     "mazay"
+    ],
+    "out": [
+     "Br4tkO",
+     "Polbandana"
+    ],
+    "kind": "permanent",
+    "run_matches": 45,
+    "run_until": "2026-10-30"
+   }
+  ]
+ },
+ "B8": {
+  "rank_nov": 28,
+  "matches": 52,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "alex666",
+     "esenthial",
+     "kensizor",
+     "npl",
+     "s1zzi"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-10-29",
+    "n": 52
+   }
+  ],
+  "events": []
+ },
+ "DENDELE": {
+  "rank_nov": 29,
+  "matches": 49,
+  "first": "2026-05-22",
+  "runs": [
+   {
+    "five": [
+     "doc",
+     "gafolo",
+     "koala",
+     "maxxkor",
+     "rdnzao"
+    ],
+    "from": "2026-05-22",
+    "to": "2026-11-01",
+    "n": 49
+   }
+  ],
+  "events": []
+ },
+ "Inner Circle": {
+  "rank_nov": 30,
+  "matches": 45,
+  "first": "2026-05-21",
+  "runs": [
+   {
+    "five": [
+     "Dawy",
+     "cptkurtka023",
+     "headtr1ck",
+     "onic",
+     "zeRRoFIX"
+    ],
+    "from": "2026-05-21",
+    "to": "2026-10-29",
+    "n": 45
+   }
+  ],
+  "events": []
+ },
+ "Virtus.pro": {
+  "rank_nov": 31,
+  "matches": 47,
+  "first": "2026-05-26",
+  "runs": [
+   {
+    "five": [
+     "AquaRS",
+     "F0R3VER",
+     "b1st",
+     "mir",
+     "tO0RO"
+    ],
+    "from": "2026-05-26",
+    "to": "2026-09-22",
+    "n": 42
+   },
+   {
+    "five": [
+     "AquaRS",
+     "Patsi",
+     "b1st",
+     "mir",
+     "tO0RO"
+    ],
+    "from": "2026-10-21",
+    "to": "2026-10-23",
+    "n": 5
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-10-21",
+    "in": [
+     "Patsi"
+    ],
+    "out": [
+     "F0R3VER"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 5,
+    "run_until": "2026-10-23"
+   }
+  ]
+ },
+ "BIG": {
+  "rank_nov": 32,
+  "matches": 39,
+  "first": "2026-06-02",
+  "runs": [
+   {
+    "five": [
+     "JDC",
+     "blameF",
+     "faveN",
+     "gr1ks",
+     "tabseN"
+    ],
+    "from": "2026-06-02",
+    "to": "2026-10-29",
+    "n": 39
+   }
+  ],
+  "events": []
+ },
+ "SINNERS": {
+  "rank_nov": 33,
+  "matches": 56,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "MoDo",
+     "SHOCK",
+     "beastik",
+     "kisserek",
+     "stressarN"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-10-23",
+    "n": 56
+   }
+  ],
+  "events": []
+ },
+ "K27": {
+  "rank_nov": 34,
+  "matches": 72,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "X5G7V",
+     "fame",
+     "kashl1d",
+     "qw1nk1",
+     "xeedo"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-06-23",
+    "n": 17
+   },
+   {
+    "five": [
+     "X5G7V",
+     "kashl1d",
+     "qw1nk1",
+     "shalfey",
+     "xeedo"
+    ],
+    "from": "2026-07-15",
+    "to": "2026-07-18",
+    "n": 6
+   },
+   {
+    "five": [
+     "X5G7V",
+     "clax",
+     "kashl1d",
+     "qw1nk1",
+     "xeedo"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-07-23",
+    "n": 2
+   },
+   {
+    "five": [
+     "X5G7V",
+     "azukay",
+     "kashl1d",
+     "qw1nk1",
+     "xeedo"
+    ],
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "n": 1
+   },
+   {
+    "five": [
+     "X5G7V",
+     "clax",
+     "kashl1d",
+     "qw1nk1",
+     "xeedo"
+    ],
+    "from": "2026-08-07",
+    "to": "2026-10-28",
+    "n": 46
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-15",
+    "in": [
+     "shalfey"
+    ],
+    "out": [
+     "fame"
+    ],
+    "kind": "permanent",
+    "run_matches": 6,
+    "run_until": "2026-07-18"
+   },
+   {
+    "date": "2026-07-22",
+    "in": [
+     "clax"
+    ],
+    "out": [
+     "shalfey"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-07-23"
+   },
+   {
+    "date": "2026-07-31",
+    "in": [
+     "azukay"
+    ],
+    "out": [
+     "clax"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-31"
+   },
+   {
+    "date": "2026-08-07",
+    "in": [
+     "clax"
+    ],
+    "out": [
+     "azukay"
+    ],
+    "kind": "permanent",
+    "run_matches": 46,
+    "run_until": "2026-10-28"
+   }
+  ]
+ },
+ "Imperial": {
+  "rank_nov": 35,
+  "matches": 63,
+  "first": "2026-05-07",
+  "runs": [
+   {
+    "five": [
+     "VINI",
+     "chelo",
+     "decenty",
+     "levi",
+     "noway"
+    ],
+    "from": "2026-05-07",
+    "to": "2026-05-28",
+    "n": 5
+   },
+   {
+    "five": [
+     "VINI",
+     "chelo",
+     "decenty",
+     "noway",
+     "saadzin"
+    ],
+    "from": "2026-07-06",
+    "to": "2026-11-01",
+    "n": 58
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-06",
+    "in": [
+     "saadzin"
+    ],
+    "out": [
+     "levi"
+    ],
+    "kind": "permanent",
+    "run_matches": 58,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "JiJieHao": {
+  "rank_nov": 36,
+  "matches": 46,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "0SAMAS",
+     "Bibu",
+     "CacaNito",
+     "m1N1",
+     "sinnopsyy"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-11-01",
+    "n": 46
+   }
+  ],
+  "events": []
+ },
+ "GamerLegion": {
+  "rank_nov": 37,
+  "matches": 45,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "PR",
+     "REZ",
+     "Snax",
+     "Tauson",
+     "hypex"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-06-24",
+    "n": 16
+   },
+   {
+    "five": [
+     "FL4MUS",
+     "REZ",
+     "Snax",
+     "Tauson",
+     "hypex"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-08-19",
+    "n": 4
+   },
+   {
+    "five": [
+     "FL4MUS",
+     "Maden",
+     "REZ",
+     "Snax",
+     "hypex"
+    ],
+    "from": "2026-09-02",
+    "to": "2026-09-02",
+    "n": 2
+   },
+   {
+    "five": [
+     "FL4MUS",
+     "Grashog",
+     "REZ",
+     "Tauson",
+     "hypex"
+    ],
+    "from": "2026-09-08",
+    "to": "2026-09-09",
+    "n": 2
+   },
+   {
+    "five": [
+     "FL4MUS",
+     "Snax",
+     "Tauson",
+     "hypex",
+     "kRaSnaL"
+    ],
+    "from": "2026-09-17",
+    "to": "2026-09-17",
+    "n": 5
+   },
+   {
+    "five": [
+     "FL4MUS",
+     "REZ",
+     "Snax",
+     "Tauson",
+     "hypex"
+    ],
+    "from": "2026-09-25",
+    "to": "2026-10-17",
+    "n": 11
+   },
+   {
+    "five": [
+     "Grashog",
+     "REZ",
+     "Tauson",
+     "hypex",
+     "shalfey"
+    ],
+    "from": "2026-10-27",
+    "to": "2026-10-27",
+    "n": 1
+   },
+   {
+    "five": [
+     "FL4MUS",
+     "REZ",
+     "Tauson",
+     "hypex",
+     "shalfey"
+    ],
+    "from": "2026-10-28",
+    "to": "2026-10-29",
+    "n": 4
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-22",
+    "in": [
+     "FL4MUS"
+    ],
+    "out": [
+     "PR"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-08-19"
+   },
+   {
+    "date": "2026-09-02",
+    "in": [
+     "Maden"
+    ],
+    "out": [
+     "Tauson"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-02"
+   },
+   {
+    "date": "2026-09-08",
+    "in": [
+     "Grashog",
+     "Tauson"
+    ],
+    "out": [
+     "Maden",
+     "Snax"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-09-09"
+   },
+   {
+    "date": "2026-09-17",
+    "in": [
+     "Snax",
+     "kRaSnaL"
+    ],
+    "out": [
+     "Grashog",
+     "REZ"
+    ],
+    "kind": "stand-in",
+    "run_matches": 5,
+    "run_until": "2026-09-17"
+   },
+   {
+    "date": "2026-09-25",
+    "in": [
+     "REZ"
+    ],
+    "out": [
+     "kRaSnaL"
+    ],
+    "kind": "permanent",
+    "run_matches": 11,
+    "run_until": "2026-10-17"
+   },
+   {
+    "date": "2026-10-27",
+    "in": [
+     "Grashog",
+     "shalfey"
+    ],
+    "out": [
+     "FL4MUS",
+     "Snax"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-10-27"
+   },
+   {
+    "date": "2026-10-28",
+    "in": [
+     "FL4MUS"
+    ],
+    "out": [
+     "Grashog"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 4,
+    "run_until": "2026-10-29"
+   }
+  ]
+ },
+ "Wildcard": {
+  "rank_nov": 38,
+  "matches": 32,
+  "first": "2026-05-22",
+  "runs": [
+   {
+    "five": [
+     "Cxzi",
+     "HexT",
+     "mhL",
+     "nEMANHA",
+     "reck"
+    ],
+    "from": "2026-05-22",
+    "to": "2026-09-12",
+    "n": 14
+   },
+   {
+    "five": [
+     "Cxzi",
+     "HexT",
+     "fr3nd",
+     "nEMANHA",
+     "reck"
+    ],
+    "from": "2026-09-25",
+    "to": "2026-11-01",
+    "n": 18
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-25",
+    "in": [
+     "fr3nd"
+    ],
+    "out": [
+     "mhL"
+    ],
+    "kind": "permanent",
+    "run_matches": 18,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "Nemesis": {
+  "rank_nov": 39,
+  "matches": 65,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "SELLTER",
+     "Sdaim",
+     "mag1k3Y",
+     "r3salt",
+     "tex1y"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-10-26",
+    "n": 62
+   },
+   {
+    "five": [
+     "Sdaim",
+     "heis999",
+     "mag1k3Y",
+     "notineki",
+     "r3salt"
+    ],
+    "from": "2026-10-27",
+    "to": "2026-10-27",
+    "n": 1
+   },
+   {
+    "five": [
+     "SELLTER",
+     "Sdaim",
+     "mag1k3Y",
+     "r3salt",
+     "tex1y"
+    ],
+    "from": "2026-10-27",
+    "to": "2026-10-27",
+    "n": 1
+   },
+   {
+    "five": [
+     "Sdaim",
+     "heis999",
+     "mag1k3Y",
+     "notineki",
+     "r3salt"
+    ],
+    "from": "2026-10-28",
+    "to": "2026-10-28",
+    "n": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-10-27",
+    "in": [
+     "heis999",
+     "notineki"
+    ],
+    "out": [
+     "SELLTER",
+     "tex1y"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-27"
+   },
+   {
+    "date": "2026-10-27",
+    "in": [
+     "SELLTER",
+     "tex1y"
+    ],
+    "out": [
+     "heis999",
+     "notineki"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-27"
+   },
+   {
+    "date": "2026-10-28",
+    "in": [
+     "heis999",
+     "notineki"
+    ],
+    "out": [
+     "SELLTER",
+     "tex1y"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 1,
+    "run_until": "2026-10-28"
+   }
+  ]
+ },
+ "Luminosity": {
+  "rank_nov": 40,
+  "matches": 39,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "AZUWU",
+     "Bymas",
+     "Gizmy",
+     "Rainwaker",
+     "afro"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-06-14",
+    "n": 14
+   },
+   {
+    "five": [
+     "AZUWU",
+     "Bymas",
+     "Rainwaker",
+     "afro",
+     "lux"
+    ],
+    "from": "2026-07-01",
+    "to": "2026-08-13",
+    "n": 5
+   },
+   {
+    "five": [
+     "AZUWU",
+     "Rainwaker",
+     "afro",
+     "lux",
+     "yxngstxr"
+    ],
+    "from": "2026-09-11",
+    "to": "2026-10-28",
+    "n": 20
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-01",
+    "in": [
+     "lux"
+    ],
+    "out": [
+     "Gizmy"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-08-13"
+   },
+   {
+    "date": "2026-09-11",
+    "in": [
+     "yxngstxr"
+    ],
+    "out": [
+     "Bymas"
+    ],
+    "kind": "permanent",
+    "run_matches": 20,
+    "run_until": "2026-10-28"
+   }
+  ]
+ },
+ "magic": {
+  "rank_nov": 41,
+  "matches": 42,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "AW",
+     "MaSvAl",
+     "mo0N",
+     "sFade8",
+     "tenzy"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-09-10",
+    "n": 31
+   },
+   {
+    "five": [
+     "MaSvAl",
+     "eksiver",
+     "mo0N",
+     "sFade8",
+     "tenzy"
+    ],
+    "from": "2026-09-17",
+    "to": "2026-09-18",
+    "n": 2
+   },
+   {
+    "five": [
+     "AW",
+     "MaSvAl",
+     "mo0N",
+     "sFade8",
+     "tenzy"
+    ],
+    "from": "2026-09-25",
+    "to": "2026-09-28",
+    "n": 4
+   },
+   {
+    "five": [
+     "AW",
+     "MaSvAl",
+     "lattykk",
+     "sFade8",
+     "tenzy"
+    ],
+    "from": "2026-10-19",
+    "to": "2026-10-28",
+    "n": 5
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-17",
+    "in": [
+     "eksiver"
+    ],
+    "out": [
+     "AW"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-18"
+   },
+   {
+    "date": "2026-09-25",
+    "in": [
+     "AW"
+    ],
+    "out": [
+     "eksiver"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-09-28"
+   },
+   {
+    "date": "2026-10-19",
+    "in": [
+     "lattykk"
+    ],
+    "out": [
+     "mo0N"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 5,
+    "run_until": "2026-10-28"
+   }
+  ]
+ },
+ "BBL": {
+  "rank_nov": 42,
+  "matches": 66,
+  "first": "2026-05-07",
+  "runs": [
+   {
+    "five": [
+     "Boye",
+     "IceBerg",
+     "NickyB",
+     "leakz",
+     "salazar"
+    ],
+    "from": "2026-05-07",
+    "to": "2026-06-28",
+    "n": 20
+   },
+   {
+    "five": [
+     "IceBerg",
+     "Lucky",
+     "Vster",
+     "leakz",
+     "salazar"
+    ],
+    "from": "2026-07-19",
+    "to": "2026-07-19",
+    "n": 1
+   },
+   {
+    "five": [
+     "Altekz",
+     "Boye",
+     "IceBerg",
+     "leakz",
+     "salazar"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-07-23",
+    "n": 2
+   },
+   {
+    "five": [
+     "Boye",
+     "IceBerg",
+     "NickyB",
+     "leakz",
+     "salazar"
+    ],
+    "from": "2026-07-24",
+    "to": "2026-10-03",
+    "n": 35
+   },
+   {
+    "five": [
+     "IceBerg",
+     "MistR",
+     "NickyB",
+     "leakz",
+     "salazar"
+    ],
+    "from": "2026-10-13",
+    "to": "2026-10-21",
+    "n": 8
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-19",
+    "in": [
+     "Lucky",
+     "Vster"
+    ],
+    "out": [
+     "Boye",
+     "NickyB"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-19"
+   },
+   {
+    "date": "2026-07-22",
+    "in": [
+     "Altekz",
+     "Boye"
+    ],
+    "out": [
+     "Lucky",
+     "Vster"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-07-23"
+   },
+   {
+    "date": "2026-07-24",
+    "in": [
+     "NickyB"
+    ],
+    "out": [
+     "Altekz"
+    ],
+    "kind": "permanent",
+    "run_matches": 35,
+    "run_until": "2026-10-03"
+   },
+   {
+    "date": "2026-10-13",
+    "in": [
+     "MistR"
+    ],
+    "out": [
+     "Boye"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 8,
+    "run_until": "2026-10-21"
+   }
+  ]
+ },
+ "Envy": {
+  "rank_nov": 43,
+  "matches": 47,
+  "first": "2026-05-19",
+  "runs": [
+   {
+    "five": [
+     "Ex3rcice",
+     "Graviti",
+     "Lucky",
+     "Maka",
+     "misutaaa"
+    ],
+    "from": "2026-05-19",
+    "to": "2026-05-28",
+    "n": 4
+   },
+   {
+    "five": [
+     "Graviti",
+     "Kursy",
+     "Lucky",
+     "Maka",
+     "misutaaa"
+    ],
+    "from": "2026-07-01",
+    "to": "2026-07-21",
+    "n": 9
+   },
+   {
+    "five": [
+     "Ex3rcice",
+     "Graviti",
+     "Kursy",
+     "Maka",
+     "misutaaa"
+    ],
+    "from": "2026-07-23",
+    "to": "2026-07-23",
+    "n": 1
+   },
+   {
+    "five": [
+     "Graviti",
+     "Kursy",
+     "Lucky",
+     "Maka",
+     "misutaaa"
+    ],
+    "from": "2026-07-24",
+    "to": "2026-10-28",
+    "n": 33
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-01",
+    "in": [
+     "Kursy"
+    ],
+    "out": [
+     "Ex3rcice"
+    ],
+    "kind": "stand-in",
+    "run_matches": 9,
+    "run_until": "2026-07-21"
+   },
+   {
+    "date": "2026-07-23",
+    "in": [
+     "Ex3rcice"
+    ],
+    "out": [
+     "Lucky"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-23"
+   },
+   {
+    "date": "2026-07-24",
+    "in": [
+     "Lucky"
+    ],
+    "out": [
+     "Ex3rcice"
+    ],
+    "kind": "permanent",
+    "run_matches": 33,
+    "run_until": "2026-10-28"
+   }
+  ]
+ },
+ "Sangal": {
+  "rank_nov": 44,
+  "matches": 40,
+  "first": "2026-08-07",
+  "runs": [
+   {
+    "five": [
+     "Joey",
+     "R4DYX",
+     "adamS",
+     "bnox",
+     "puuha"
+    ],
+    "from": "2026-08-07",
+    "to": "2026-10-22",
+    "n": 40
+   }
+  ],
+  "events": []
+ },
+ "BC.Game": {
+  "rank_nov": 45,
+  "matches": 30,
+  "first": "2026-07-31",
+  "runs": [
+   {
+    "five": [
+     "Magisk",
+     "Senzu",
+     "electroNic",
+     "mzinho",
+     "s1mple"
+    ],
+    "from": "2026-07-31",
+    "to": "2026-09-04",
+    "n": 11
+   },
+   {
+    "five": [
+     "Magisk",
+     "Senzu",
+     "asap",
+     "mzinho",
+     "s1mple"
+    ],
+    "from": "2026-10-02",
+    "to": "2026-10-30",
+    "n": 19
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-10-02",
+    "in": [
+     "asap"
+    ],
+    "out": [
+     "electroNic"
+    ],
+    "kind": "permanent",
+    "run_matches": 19,
+    "run_until": "2026-10-30"
+   }
+  ]
+ },
+ "PRIVATE": {
+  "rank_nov": 46,
+  "matches": 43,
+  "first": "2026-07-17",
+  "runs": [
+   {
+    "five": [
+     "1eeR",
+     "H4SAN4TOR",
+     "fineshine52",
+     "relaxxie",
+     "sh1nejezzz"
+    ],
+    "from": "2026-07-17",
+    "to": "2026-08-03",
+    "n": 10
+   },
+   {
+    "five": [
+     "1eeR",
+     "H4SAN4TOR",
+     "relaxxie",
+     "sh1nejezzz",
+     "tommy"
+    ],
+    "from": "2026-08-21",
+    "to": "2026-08-21",
+    "n": 1
+   },
+   {
+    "five": [
+     "1eeR",
+     "H4SAN4TOR",
+     "relaxxie",
+     "sh1nejezzz",
+     "sowalio"
+    ],
+    "from": "2026-08-23",
+    "to": "2026-08-23",
+    "n": 1
+   },
+   {
+    "five": [
+     "1eeR",
+     "H4SAN4TOR",
+     "relaxxie",
+     "sh1nejezzz",
+     "tommy"
+    ],
+    "from": "2026-08-23",
+    "to": "2026-08-23",
+    "n": 1
+   },
+   {
+    "five": [
+     "1eeR",
+     "relaxxie",
+     "sh1nejezzz",
+     "sowalio",
+     "tommy"
+    ],
+    "from": "2026-08-24",
+    "to": "2026-08-24",
+    "n": 1
+   },
+   {
+    "five": [
+     "1eeR",
+     "H4SAN4TOR",
+     "relaxxie",
+     "sh1nejezzz",
+     "sowalio"
+    ],
+    "from": "2026-08-25",
+    "to": "2026-08-27",
+    "n": 3
+   },
+   {
+    "five": [
+     "1eeR",
+     "YumsaN",
+     "relaxxie",
+     "sh1nejezzz",
+     "sowalio"
+    ],
+    "from": "2026-08-28",
+    "to": "2026-08-28",
+    "n": 1
+   },
+   {
+    "five": [
+     "1eeR",
+     "H4SAN4TOR",
+     "relaxxie",
+     "sh1nejezzz",
+     "sowalio"
+    ],
+    "from": "2026-08-29",
+    "to": "2026-08-29",
+    "n": 1
+   },
+   {
+    "five": [
+     "1eeR",
+     "YumsaN",
+     "relaxxie",
+     "sh1nejezzz",
+     "sowalio"
+    ],
+    "from": "2026-08-29",
+    "to": "2026-08-29",
+    "n": 1
+   },
+   {
+    "five": [
+     "1eeR",
+     "H4SAN4TOR",
+     "relaxxie",
+     "sh1nejezzz",
+     "sowalio"
+    ],
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "n": 1
+   },
+   {
+    "five": [
+     "1eeR",
+     "relaxxie",
+     "sh1nejezzz",
+     "sowalio",
+     "tommy"
+    ],
+    "from": "2026-09-13",
+    "to": "2026-09-13",
+    "n": 2
+   },
+   {
+    "five": [
+     "1eeR",
+     "H4SAN4TOR",
+     "sh1nejezzz",
+     "sowalio",
+     "z1k4"
+    ],
+    "from": "2026-09-25",
+    "to": "2026-10-31",
+    "n": 20
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-21",
+    "in": [
+     "tommy"
+    ],
+    "out": [
+     "fineshine52"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-08-21"
+   },
+   {
+    "date": "2026-08-23",
+    "in": [
+     "sowalio"
+    ],
+    "out": [
+     "tommy"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-23"
+   },
+   {
+    "date": "2026-08-23",
+    "in": [
+     "tommy"
+    ],
+    "out": [
+     "sowalio"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-23"
+   },
+   {
+    "date": "2026-08-24",
+    "in": [
+     "sowalio"
+    ],
+    "out": [
+     "H4SAN4TOR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-24"
+   },
+   {
+    "date": "2026-08-25",
+    "in": [
+     "H4SAN4TOR"
+    ],
+    "out": [
+     "tommy"
+    ],
+    "kind": "stand-in",
+    "run_matches": 3,
+    "run_until": "2026-08-27"
+   },
+   {
+    "date": "2026-08-28",
+    "in": [
+     "YumsaN"
+    ],
+    "out": [
+     "H4SAN4TOR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-28"
+   },
+   {
+    "date": "2026-08-29",
+    "in": [
+     "H4SAN4TOR"
+    ],
+    "out": [
+     "YumsaN"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-29"
+   },
+   {
+    "date": "2026-08-29",
+    "in": [
+     "YumsaN"
+    ],
+    "out": [
+     "H4SAN4TOR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-29"
+   },
+   {
+    "date": "2026-08-31",
+    "in": [
+     "H4SAN4TOR"
+    ],
+    "out": [
+     "YumsaN"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-08-31"
+   },
+   {
+    "date": "2026-09-13",
+    "in": [
+     "tommy"
+    ],
+    "out": [
+     "H4SAN4TOR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-13"
+   },
+   {
+    "date": "2026-09-25",
+    "in": [
+     "H4SAN4TOR",
+     "z1k4"
+    ],
+    "out": [
+     "relaxxie",
+     "tommy"
+    ],
+    "kind": "permanent",
+    "run_matches": 20,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "NRG": {
+  "rank_nov": 47,
+  "matches": 37,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "Grim",
+     "Sonic",
+     "br0",
+     "nitr0",
+     "oSee"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-05-19",
+    "n": 3
+   },
+   {
+    "five": [
+     "Grim",
+     "Sonic",
+     "daps",
+     "nitr0",
+     "oSee"
+    ],
+    "from": "2026-05-20",
+    "to": "2026-05-20",
+    "n": 1
+   },
+   {
+    "five": [
+     "Grim",
+     "Sonic",
+     "br0",
+     "nitr0",
+     "oSee"
+    ],
+    "from": "2026-06-02",
+    "to": "2026-06-05",
+    "n": 5
+   },
+   {
+    "five": [
+     "Grim",
+     "Jeorge",
+     "Sonic",
+     "daps",
+     "nitr0"
+    ],
+    "from": "2026-07-12",
+    "to": "2026-07-12",
+    "n": 3
+   },
+   {
+    "five": [
+     "Grim",
+     "Jeorge",
+     "Sonic",
+     "hallzerk",
+     "nitr0"
+    ],
+    "from": "2026-07-28",
+    "to": "2026-10-31",
+    "n": 25
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-20",
+    "in": [
+     "daps"
+    ],
+    "out": [
+     "br0"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-05-20"
+   },
+   {
+    "date": "2026-06-02",
+    "in": [
+     "br0"
+    ],
+    "out": [
+     "daps"
+    ],
+    "kind": "stand-in",
+    "run_matches": 5,
+    "run_until": "2026-06-05"
+   },
+   {
+    "date": "2026-07-12",
+    "in": [
+     "Jeorge",
+     "daps"
+    ],
+    "out": [
+     "br0",
+     "oSee"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-07-12"
+   },
+   {
+    "date": "2026-07-28",
+    "in": [
+     "hallzerk"
+    ],
+    "out": [
+     "daps"
+    ],
+    "kind": "permanent",
+    "run_matches": 25,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "FlyQuest": {
+  "rank_nov": 48,
+  "matches": 45,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "INS",
+     "Vexite",
+     "jks",
+     "nettik",
+     "story"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-06-07",
+    "n": 11
+   },
+   {
+    "five": [
+     "Gratisfaction",
+     "INS",
+     "Vexite",
+     "jks",
+     "nettik"
+    ],
+    "from": "2026-07-17",
+    "to": "2026-07-18",
+    "n": 5
+   },
+   {
+    "five": [
+     "INS",
+     "Vexite",
+     "aliStair",
+     "jks",
+     "nettik"
+    ],
+    "from": "2026-09-02",
+    "to": "2026-10-31",
+    "n": 29
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-17",
+    "in": [
+     "Gratisfaction"
+    ],
+    "out": [
+     "story"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-07-18"
+   },
+   {
+    "date": "2026-09-02",
+    "in": [
+     "aliStair"
+    ],
+    "out": [
+     "Gratisfaction"
+    ],
+    "kind": "permanent",
+    "run_matches": 29,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "BESTIA": {
+  "rank_nov": 49,
+  "matches": 42,
+  "first": "2026-05-27",
+  "runs": [
+   {
+    "five": [
+     "buda",
+     "cass1n",
+     "nacho",
+     "timo",
+     "tomaszin"
+    ],
+    "from": "2026-05-27",
+    "to": "2026-08-15",
+    "n": 22
+   },
+   {
+    "five": [
+     "buda",
+     "cass1n",
+     "drop",
+     "kauez",
+     "timo"
+    ],
+    "from": "2026-09-09",
+    "to": "2026-11-01",
+    "n": 20
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-09",
+    "in": [
+     "drop",
+     "kauez"
+    ],
+    "out": [
+     "nacho",
+     "tomaszin"
+    ],
+    "kind": "permanent",
+    "run_matches": 20,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "Betclic": {
+  "rank_nov": 50,
+  "matches": 35,
+  "first": "2026-06-23",
+  "runs": [
+   {
+    "five": [
+     "Demho",
+     "Dr3nquu",
+     "Prism",
+     "Qlocuu",
+     "hades"
+    ],
+    "from": "2026-06-23",
+    "to": "2026-06-25",
+    "n": 4
+   },
+   {
+    "five": [
+     "Demho",
+     "Prism",
+     "Qlocuu",
+     "ex1st",
+     "ultimate"
+    ],
+    "from": "2026-07-19",
+    "to": "2026-07-19",
+    "n": 1
+   },
+   {
+    "five": [
+     "Demho",
+     "Prism",
+     "Qlocuu",
+     "ex1st",
+     "fr3nd"
+    ],
+    "from": "2026-08-01",
+    "to": "2026-08-09",
+    "n": 10
+   },
+   {
+    "five": [
+     "Demho",
+     "Prism",
+     "Qlocuu",
+     "ex1st",
+     "ultimate"
+    ],
+    "from": "2026-09-04",
+    "to": "2026-11-01",
+    "n": 20
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-19",
+    "in": [
+     "ex1st",
+     "ultimate"
+    ],
+    "out": [
+     "Dr3nquu",
+     "hades"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-07-19"
+   },
+   {
+    "date": "2026-08-01",
+    "in": [
+     "fr3nd"
+    ],
+    "out": [
+     "ultimate"
+    ],
+    "kind": "stand-in",
+    "run_matches": 10,
+    "run_until": "2026-08-09"
+   },
+   {
+    "date": "2026-09-04",
+    "in": [
+     "ultimate"
+    ],
+    "out": [
+     "fr3nd"
+    ],
+    "kind": "permanent",
+    "run_matches": 20,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "FOKUS": {
+  "rank_nov": 51,
+  "matches": 64,
+  "first": "2026-05-19",
+  "runs": [
+   {
+    "five": [
+     "Banjo",
+     "Jorko",
+     "Matheos",
+     "volt",
+     "ztr"
+    ],
+    "from": "2026-05-19",
+    "to": "2026-06-25",
+    "n": 17
+   },
+   {
+    "five": [
+     "Banjo",
+     "Matheos",
+     "jocab",
+     "podi",
+     "ztr"
+    ],
+    "from": "2026-07-21",
+    "to": "2026-11-01",
+    "n": 47
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-21",
+    "in": [
+     "jocab",
+     "podi"
+    ],
+    "out": [
+     "Jorko",
+     "volt"
+    ],
+    "kind": "permanent",
+    "run_matches": 47,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "Alliance": {
+  "rank_nov": 52,
+  "matches": 38,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "MaiL09",
+     "avid",
+     "eraa",
+     "twist",
+     "upE"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-05-29",
+    "n": 9
+   },
+   {
+    "five": [
+     "avid",
+     "bobeksde",
+     "eraa",
+     "twist",
+     "upE"
+    ],
+    "from": "2026-06-13",
+    "to": "2026-10-28",
+    "n": 29
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-13",
+    "in": [
+     "bobeksde"
+    ],
+    "out": [
+     "MaiL09"
+    ],
+    "kind": "permanent",
+    "run_matches": 29,
+    "run_until": "2026-10-28"
+   }
+  ]
+ },
+ "paiN": {
+  "rank_nov": 53,
+  "matches": 46,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "biguzera",
+     "piriajr",
+     "saffee",
+     "snow",
+     "vsm"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-09-02",
+    "n": 28
+   },
+   {
+    "five": [
+     "Rkzinho",
+     "biguzera",
+     "piriajr",
+     "saffee",
+     "snow"
+    ],
+    "from": "2026-09-09",
+    "to": "2026-09-11",
+    "n": 3
+   },
+   {
+    "five": [
+     "Rkzinho",
+     "Tatu",
+     "biguzera",
+     "saffee",
+     "snow"
+    ],
+    "from": "2026-09-16",
+    "to": "2026-10-31",
+    "n": 15
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-09",
+    "in": [
+     "Rkzinho"
+    ],
+    "out": [
+     "vsm"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-09-11"
+   },
+   {
+    "date": "2026-09-16",
+    "in": [
+     "Tatu"
+    ],
+    "out": [
+     "piriajr"
+    ],
+    "kind": "permanent",
+    "run_matches": 15,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "Iberian Soul": {
+  "rank_nov": 54,
+  "matches": 56,
+  "first": "2026-05-09",
+  "runs": [
+   {
+    "five": [
+     "MartinezSa",
+     "alex",
+     "dav1g",
+     "mopoz",
+     "sausol"
+    ],
+    "from": "2026-05-09",
+    "to": "2026-06-20",
+    "n": 16
+   },
+   {
+    "five": [
+     "CRUC1AL",
+     "alex",
+     "dav1g",
+     "mopoz",
+     "sausol"
+    ],
+    "from": "2026-07-15",
+    "to": "2026-09-13",
+    "n": 19
+   },
+   {
+    "five": [
+     "Ag1l",
+     "alex",
+     "dav1g",
+     "mopoz",
+     "sausol"
+    ],
+    "from": "2026-09-24",
+    "to": "2026-11-01",
+    "n": 21
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-15",
+    "in": [
+     "CRUC1AL"
+    ],
+    "out": [
+     "MartinezSa"
+    ],
+    "kind": "permanent",
+    "run_matches": 19,
+    "run_until": "2026-09-13"
+   },
+   {
+    "date": "2026-09-24",
+    "in": [
+     "Ag1l"
+    ],
+    "out": [
+     "CRUC1AL"
+    ],
+    "kind": "permanent",
+    "run_matches": 21,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "Chinggis Warriors": {
+  "rank_nov": 55,
+  "matches": 30,
+  "first": "2026-08-31",
+  "runs": [
+   {
+    "five": [
+     "ROUX",
+     "cool4st",
+     "fury5k",
+     "sk0R",
+     "yAmi"
+    ],
+    "from": "2026-08-31",
+    "to": "2026-09-03",
+    "n": 6
+   },
+   {
+    "five": [
+     "ROUX",
+     "cool4st",
+     "fury5k",
+     "sk0R",
+     "tikuak"
+    ],
+    "from": "2026-09-30",
+    "to": "2026-10-29",
+    "n": 24
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-30",
+    "in": [
+     "tikuak"
+    ],
+    "out": [
+     "yAmi"
+    ],
+    "kind": "permanent",
+    "run_matches": 24,
+    "run_until": "2026-10-29"
+   }
+  ]
+ },
+ "Lynn Vision": {
+  "rank_nov": 56,
+  "matches": 41,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "C4LLM3SU3",
+     "EmiliaQAQ",
+     "Starry",
+     "Westmelon",
+     "z4KR"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-10-24",
+    "n": 41
+   }
+  ],
+  "events": []
+ },
+ "Metizport": {
+  "rank_nov": 57,
+  "matches": 51,
+  "first": "2026-05-21",
+  "runs": [
+   {
+    "five": [
+     "F1KU",
+     "Plopski",
+     "forsyy",
+     "isak",
+     "stanislaw"
+    ],
+    "from": "2026-05-21",
+    "to": "2026-06-14",
+    "n": 9
+   },
+   {
+    "five": [
+     "F1KU",
+     "MaiL09",
+     "Plopski",
+     "forsyy",
+     "stanislaw"
+    ],
+    "from": "2026-08-03",
+    "to": "2026-11-01",
+    "n": 42
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-03",
+    "in": [
+     "MaiL09"
+    ],
+    "out": [
+     "isak"
+    ],
+    "kind": "permanent",
+    "run_matches": 42,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "Nuclear TigeRES": {
+  "rank_nov": 58,
+  "matches": 90,
+  "first": "2026-05-07",
+  "runs": [
+   {
+    "five": [
+     "ayuki",
+     "flouzer",
+     "m1QUSE",
+     "senka",
+     "z1k4"
+    ],
+    "from": "2026-05-07",
+    "to": "2026-09-13",
+    "n": 60
+   },
+   {
+    "five": [
+     "Djon8",
+     "ayuki",
+     "flouzer",
+     "senka",
+     "tronic"
+    ],
+    "from": "2026-09-25",
+    "to": "2026-10-08",
+    "n": 7
+   },
+   {
+    "five": [
+     "Djon8",
+     "ayuki",
+     "m1QUSE",
+     "senka",
+     "tronic"
+    ],
+    "from": "2026-10-09",
+    "to": "2026-10-09",
+    "n": 1
+   },
+   {
+    "five": [
+     "Djon8",
+     "ayuki",
+     "flouzer",
+     "senka",
+     "tronic"
+    ],
+    "from": "2026-10-11",
+    "to": "2026-10-31",
+    "n": 22
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-25",
+    "in": [
+     "Djon8",
+     "tronic"
+    ],
+    "out": [
+     "m1QUSE",
+     "z1k4"
+    ],
+    "kind": "permanent",
+    "run_matches": 7,
+    "run_until": "2026-10-08"
+   },
+   {
+    "date": "2026-10-09",
+    "in": [
+     "m1QUSE"
+    ],
+    "out": [
+     "flouzer"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-09"
+   },
+   {
+    "date": "2026-10-11",
+    "in": [
+     "flouzer"
+    ],
+    "out": [
+     "m1QUSE"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 22,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "TYLOO": {
+  "rank_nov": 59,
+  "matches": 50,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "JamYoung",
+     "Jee",
+     "Mercury",
+     "Moseyuh",
+     "Zero"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-10-25",
+    "n": 45
+   },
+   {
+    "five": [
+     "JamYoung",
+     "Mercury",
+     "Moseyuh",
+     "Zero",
+     "zhokiNg"
+    ],
+    "from": "2026-10-26",
+    "to": "2026-10-30",
+    "n": 5
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-10-26",
+    "in": [
+     "zhokiNg"
+    ],
+    "out": [
+     "Jee"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 5,
+    "run_until": "2026-10-30"
+   }
+  ]
+ },
+ "Fluxo": {
+  "rank_nov": 60,
+  "matches": 54,
+  "first": "2026-05-27",
+  "runs": [
+   {
+    "five": [
+     "Ltz",
+     "Lucaozy",
+     "dav1deuS",
+     "exit",
+     "zevy"
+    ],
+    "from": "2026-05-27",
+    "to": "2026-05-31",
+    "n": 4
+   },
+   {
+    "five": [
+     "Ltz",
+     "dav1deuS",
+     "exit",
+     "kye",
+     "zevy"
+    ],
+    "from": "2026-06-27",
+    "to": "2026-10-31",
+    "n": 50
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-27",
+    "in": [
+     "kye"
+    ],
+    "out": [
+     "Lucaozy"
+    ],
+    "kind": "permanent",
+    "run_matches": 50,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "Phantom": {
+  "rank_nov": 61,
+  "matches": 55,
+  "first": "2026-05-06",
+  "runs": [
+   {
+    "five": [
+     "Ayteel",
+     "KEi",
+     "Kunai",
+     "Kylar",
+     "mwlky"
+    ],
+    "from": "2026-05-06",
+    "to": "2026-05-06",
+    "n": 1
+   },
+   {
+    "five": [
+     "KEi",
+     "Kunai",
+     "Kylar",
+     "TMB",
+     "mwlky"
+    ],
+    "from": "2026-05-19",
+    "to": "2026-06-18",
+    "n": 15
+   },
+   {
+    "five": [
+     "Altekz",
+     "Kunai",
+     "Kylar",
+     "TMB",
+     "mwlky"
+    ],
+    "from": "2026-06-20",
+    "to": "2026-06-21",
+    "n": 2
+   },
+   {
+    "five": [
+     "KEi",
+     "Kunai",
+     "Kylar",
+     "TMB",
+     "nicoodoz"
+    ],
+    "from": "2026-07-15",
+    "to": "2026-07-17",
+    "n": 3
+   },
+   {
+    "five": [
+     "KEi",
+     "Kylar",
+     "TMB",
+     "cej0t",
+     "nicoodoz"
+    ],
+    "from": "2026-07-24",
+    "to": "2026-09-07",
+    "n": 17
+   },
+   {
+    "five": [
+     "KEi",
+     "Kunai",
+     "Kylar",
+     "TMB",
+     "nicoodoz"
+    ],
+    "from": "2026-09-15",
+    "to": "2026-09-24",
+    "n": 5
+   },
+   {
+    "five": [
+     "KEi",
+     "Kylar",
+     "TMB",
+     "cej0t",
+     "nicoodoz"
+    ],
+    "from": "2026-10-07",
+    "to": "2026-10-07",
+    "n": 1
+   },
+   {
+    "five": [
+     "KEi",
+     "Kunai",
+     "Kylar",
+     "TMB",
+     "nicoodoz"
+    ],
+    "from": "2026-10-13",
+    "to": "2026-11-01",
+    "n": 11
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-19",
+    "in": [
+     "TMB"
+    ],
+    "out": [
+     "Ayteel"
+    ],
+    "kind": "permanent",
+    "run_matches": 15,
+    "run_until": "2026-06-18"
+   },
+   {
+    "date": "2026-06-20",
+    "in": [
+     "Altekz"
+    ],
+    "out": [
+     "KEi"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-06-21"
+   },
+   {
+    "date": "2026-07-15",
+    "in": [
+     "KEi",
+     "nicoodoz"
+    ],
+    "out": [
+     "Altekz",
+     "mwlky"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-07-17"
+   },
+   {
+    "date": "2026-07-24",
+    "in": [
+     "cej0t"
+    ],
+    "out": [
+     "Kunai"
+    ],
+    "kind": "long stand-in / temporary",
+    "run_matches": 17,
+    "run_until": "2026-09-07"
+   },
+   {
+    "date": "2026-09-15",
+    "in": [
+     "Kunai"
+    ],
+    "out": [
+     "cej0t"
+    ],
+    "kind": "stand-in",
+    "run_matches": 5,
+    "run_until": "2026-09-24"
+   },
+   {
+    "date": "2026-10-07",
+    "in": [
+     "cej0t"
+    ],
+    "out": [
+     "Kunai"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-07"
+   },
+   {
+    "date": "2026-10-13",
+    "in": [
+     "Kunai"
+    ],
+    "out": [
+     "cej0t"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 11,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "SAW": {
+  "rank_nov": 62,
+  "matches": 33,
+  "first": "2026-08-07",
+  "runs": [
+   {
+    "five": [
+     "MUTiRiS",
+     "NOPEEj",
+     "ewjerkz",
+     "krazy",
+     "story"
+    ],
+    "from": "2026-08-07",
+    "to": "2026-10-21",
+    "n": 33
+   }
+  ],
+  "events": []
+ },
+ "EYEBALLERS": {
+  "rank_nov": 63,
+  "matches": 28,
+  "first": "2026-05-22",
+  "runs": [
+   {
+    "five": [
+     "JW",
+     "Ro1f",
+     "bobeksde",
+     "dex",
+     "maxster"
+    ],
+    "from": "2026-05-22",
+    "to": "2026-05-24",
+    "n": 3
+   },
+   {
+    "five": [
+     "JW",
+     "KRIMZ",
+     "Ro1f",
+     "dex",
+     "maxster"
+    ],
+    "from": "2026-07-01",
+    "to": "2026-07-05",
+    "n": 5
+   },
+   {
+    "five": [
+     "JW",
+     "KRIMZ",
+     "Ro1f",
+     "dex",
+     "yxngstxr"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-07-22",
+    "n": 1
+   },
+   {
+    "five": [
+     "JW",
+     "KRIMZ",
+     "Ro1f",
+     "dex",
+     "maxster"
+    ],
+    "from": "2026-08-07",
+    "to": "2026-10-18",
+    "n": 19
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-01",
+    "in": [
+     "KRIMZ"
+    ],
+    "out": [
+     "bobeksde"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-07-05"
+   },
+   {
+    "date": "2026-07-22",
+    "in": [
+     "yxngstxr"
+    ],
+    "out": [
+     "maxster"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-22"
+   },
+   {
+    "date": "2026-08-07",
+    "in": [
+     "maxster"
+    ],
+    "out": [
+     "yxngstxr"
+    ],
+    "kind": "permanent",
+    "run_matches": 19,
+    "run_until": "2026-10-18"
+   }
+  ]
+ },
+ "UNiTY": {
+  "rank_nov": 64,
+  "matches": 58,
+  "first": "2026-05-06",
+  "runs": [
+   {
+    "five": [
+     "2high",
+     "KWERTZZ",
+     "M1key",
+     "NEOFRAG",
+     "woozzzi"
+    ],
+    "from": "2026-05-06",
+    "to": "2026-05-09",
+    "n": 3
+   },
+   {
+    "five": [
+     "2high",
+     "KWERTZZ",
+     "M1key",
+     "NEOFRAG",
+     "juanflatroo"
+    ],
+    "from": "2026-05-23",
+    "to": "2026-05-23",
+    "n": 1
+   },
+   {
+    "five": [
+     "2high",
+     "KWERTZZ",
+     "M1key",
+     "NEOFRAG",
+     "woozzzi"
+    ],
+    "from": "2026-05-26",
+    "to": "2026-05-31",
+    "n": 5
+   },
+   {
+    "five": [
+     "2high",
+     "KWERTZZ",
+     "M1key",
+     "Sn0w",
+     "fnl"
+    ],
+    "from": "2026-07-27",
+    "to": "2026-09-15",
+    "n": 35
+   },
+   {
+    "five": [
+     "2high",
+     "Dytor",
+     "KWERTZZ",
+     "M1key",
+     "Sn0w"
+    ],
+    "from": "2026-09-21",
+    "to": "2026-10-26",
+    "n": 14
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-23",
+    "in": [
+     "juanflatroo"
+    ],
+    "out": [
+     "woozzzi"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-05-23"
+   },
+   {
+    "date": "2026-05-26",
+    "in": [
+     "woozzzi"
+    ],
+    "out": [
+     "juanflatroo"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-05-31"
+   },
+   {
+    "date": "2026-07-27",
+    "in": [
+     "Sn0w",
+     "fnl"
+    ],
+    "out": [
+     "NEOFRAG",
+     "woozzzi"
+    ],
+    "kind": "permanent",
+    "run_matches": 35,
+    "run_until": "2026-09-15"
+   },
+   {
+    "date": "2026-09-21",
+    "in": [
+     "Dytor"
+    ],
+    "out": [
+     "fnl"
+    ],
+    "kind": "permanent",
+    "run_matches": 14,
+    "run_until": "2026-10-26"
+   }
+  ]
+ },
+ "Nexus": {
+  "rank_nov": 65,
+  "matches": 38,
+  "first": "2026-06-13",
+  "runs": [
+   {
+    "five": [
+     "Nexius",
+     "SBT",
+     "fNk",
+     "s0und",
+     "shield"
+    ],
+    "from": "2026-06-13",
+    "to": "2026-06-14",
+    "n": 5
+   },
+   {
+    "five": [
+     "HOLY",
+     "XELLOW",
+     "fNk",
+     "lauNX",
+     "s0und"
+    ],
+    "from": "2026-07-19",
+    "to": "2026-07-19",
+    "n": 1
+   },
+   {
+    "five": [
+     "Nexius",
+     "SBT",
+     "fNk",
+     "s0und",
+     "shield"
+    ],
+    "from": "2026-08-07",
+    "to": "2026-08-17",
+    "n": 7
+   },
+   {
+    "five": [
+     "HOLY",
+     "Nexius",
+     "fNk",
+     "s0und",
+     "shield"
+    ],
+    "from": "2026-09-15",
+    "to": "2026-09-17",
+    "n": 3
+   },
+   {
+    "five": [
+     "H4rder",
+     "HOLY",
+     "fNk",
+     "s0und",
+     "shield"
+    ],
+    "from": "2026-09-19",
+    "to": "2026-09-19",
+    "n": 2
+   },
+   {
+    "five": [
+     "HOLY",
+     "Nexius",
+     "fNk",
+     "s0und",
+     "shield"
+    ],
+    "from": "2026-09-21",
+    "to": "2026-10-22",
+    "n": 20
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-19",
+    "in": [
+     "HOLY",
+     "XELLOW",
+     "lauNX"
+    ],
+    "out": [
+     "Nexius",
+     "SBT",
+     "shield"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-19"
+   },
+   {
+    "date": "2026-08-07",
+    "in": [
+     "Nexius",
+     "SBT",
+     "shield"
+    ],
+    "out": [
+     "HOLY",
+     "XELLOW",
+     "lauNX"
+    ],
+    "kind": "permanent",
+    "run_matches": 7,
+    "run_until": "2026-08-17"
+   },
+   {
+    "date": "2026-09-15",
+    "in": [
+     "HOLY"
+    ],
+    "out": [
+     "SBT"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-09-17"
+   },
+   {
+    "date": "2026-09-19",
+    "in": [
+     "H4rder"
+    ],
+    "out": [
+     "Nexius"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-19"
+   },
+   {
+    "date": "2026-09-21",
+    "in": [
+     "Nexius"
+    ],
+    "out": [
+     "H4rder"
+    ],
+    "kind": "permanent",
+    "run_matches": 20,
+    "run_until": "2026-10-22"
+   }
+  ]
+ },
+ "PURE": {
+  "rank_nov": 66,
+  "matches": 16,
+  "first": "2026-08-30",
+  "runs": [
+   {
+    "five": [
+     "Polbandana",
+     "aNdu",
+     "fr3nd",
+     "keen",
+     "tein"
+    ],
+    "from": "2026-08-30",
+    "to": "2026-08-30",
+    "n": 1
+   },
+   {
+    "five": [
+     "POLO",
+     "Polbandana",
+     "aNdu",
+     "keen",
+     "tein"
+    ],
+    "from": "2026-10-01",
+    "to": "2026-10-10",
+    "n": 15
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-10-01",
+    "in": [
+     "POLO"
+    ],
+    "out": [
+     "fr3nd"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 15,
+    "run_until": "2026-10-10"
+   }
+  ]
+ },
+ "BRUTE": {
+  "rank_nov": 67,
+  "matches": 46,
+  "first": "2026-07-09",
+  "runs": [
+   {
+    "five": [
+     "ZEDKO",
+     "aidKiT",
+     "hfah",
+     "majky",
+     "nbqq"
+    ],
+    "from": "2026-07-09",
+    "to": "2026-08-31",
+    "n": 21
+   },
+   {
+    "five": [
+     "ZEDKO",
+     "aidKiT",
+     "hfah",
+     "nbqq",
+     "tAk"
+    ],
+    "from": "2026-09-01",
+    "to": "2026-09-26",
+    "n": 13
+   },
+   {
+    "five": [
+     "ZEDKO",
+     "aidKiT",
+     "nbqq",
+     "oontoma",
+     "tAk"
+    ],
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "n": 1
+   },
+   {
+    "five": [
+     "ZEDKO",
+     "aidKiT",
+     "hfah",
+     "nbqq",
+     "tAk"
+    ],
+    "from": "2026-10-16",
+    "to": "2026-10-16",
+    "n": 1
+   },
+   {
+    "five": [
+     "ZEDKO",
+     "aidKiT",
+     "nbqq",
+     "oontoma",
+     "tAk"
+    ],
+    "from": "2026-10-18",
+    "to": "2026-10-27",
+    "n": 10
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-01",
+    "in": [
+     "tAk"
+    ],
+    "out": [
+     "majky"
+    ],
+    "kind": "permanent",
+    "run_matches": 13,
+    "run_until": "2026-09-26"
+   },
+   {
+    "date": "2026-10-15",
+    "in": [
+     "oontoma"
+    ],
+    "out": [
+     "hfah"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-15"
+   },
+   {
+    "date": "2026-10-16",
+    "in": [
+     "hfah"
+    ],
+    "out": [
+     "oontoma"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-16"
+   },
+   {
+    "date": "2026-10-18",
+    "in": [
+     "oontoma"
+    ],
+    "out": [
+     "hfah"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 10,
+    "run_until": "2026-10-27"
+   }
+  ]
+ },
+ "5star": {
+  "rank_nov": 68,
+  "matches": 41,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "NEUZ",
+     "ariucle",
+     "clouden",
+     "hoolig4n",
+     "rate"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-11-01",
+    "n": 41
+   }
+  ],
+  "events": []
+ },
+ "SportsBetExpert": {
+  "rank_nov": 69,
+  "matches": 43,
+  "first": "2026-05-24",
+  "runs": [
+   {
+    "five": [
+     "Infinite",
+     "Peeping",
+     "consti",
+     "dare",
+     "motm"
+    ],
+    "from": "2026-05-24",
+    "to": "2026-05-24",
+    "n": 2
+   },
+   {
+    "five": [
+     "Peeping",
+     "WolfY",
+     "consti",
+     "dare",
+     "motm"
+    ],
+    "from": "2026-05-30",
+    "to": "2026-05-31",
+    "n": 5
+   },
+   {
+    "five": [
+     "Infinite",
+     "Peeping",
+     "consti",
+     "dare",
+     "shane"
+    ],
+    "from": "2026-07-12",
+    "to": "2026-07-12",
+    "n": 3
+   },
+   {
+    "five": [
+     "Infinite",
+     "Peeping",
+     "consti",
+     "motm",
+     "shane"
+    ],
+    "from": "2026-07-29",
+    "to": "2026-10-10",
+    "n": 33
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-30",
+    "in": [
+     "WolfY"
+    ],
+    "out": [
+     "Infinite"
+    ],
+    "kind": "stand-in",
+    "run_matches": 5,
+    "run_until": "2026-05-31"
+   },
+   {
+    "date": "2026-07-12",
+    "in": [
+     "Infinite",
+     "shane"
+    ],
+    "out": [
+     "WolfY",
+     "motm"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-07-12"
+   },
+   {
+    "date": "2026-07-29",
+    "in": [
+     "motm"
+    ],
+    "out": [
+     "dare"
+    ],
+    "kind": "permanent",
+    "run_matches": 33,
+    "run_until": "2026-10-10"
+   }
+  ]
+ },
+ "WBT": {
+  "rank_nov": 70,
+  "matches": 28,
+  "first": "2026-08-02",
+  "runs": [
+   {
+    "five": [
+     "Marix",
+     "Polbandana",
+     "Smash",
+     "s4ltovsk1yy",
+     "tyr1k"
+    ],
+    "from": "2026-08-02",
+    "to": "2026-08-02",
+    "n": 2
+   },
+   {
+    "five": [
+     "Polbandana",
+     "Psycho",
+     "Smash",
+     "s4ltovsk1yy",
+     "tyr1k"
+    ],
+    "from": "2026-08-05",
+    "to": "2026-08-09",
+    "n": 8
+   },
+   {
+    "five": [
+     "DemQQ",
+     "Psycho",
+     "Smash",
+     "s4ltovsk1yy",
+     "tyr1k"
+    ],
+    "from": "2026-09-11",
+    "to": "2026-10-19",
+    "n": 18
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-05",
+    "in": [
+     "Psycho"
+    ],
+    "out": [
+     "Marix"
+    ],
+    "kind": "permanent",
+    "run_matches": 8,
+    "run_until": "2026-08-09"
+   },
+   {
+    "date": "2026-09-11",
+    "in": [
+     "DemQQ"
+    ],
+    "out": [
+     "Polbandana"
+    ],
+    "kind": "permanent",
+    "run_matches": 18,
+    "run_until": "2026-10-19"
+   }
+  ]
+ },
+ "NEXVOID": {
+  "rank_nov": 71,
+  "matches": 52,
+  "first": "2026-05-11",
+  "runs": [
+   {
+    "five": [
+     "AccuracyTG",
+     "Diesen",
+     "MiQ",
+     "erkaSt",
+     "sergelen19k"
+    ],
+    "from": "2026-05-11",
+    "to": "2026-05-11",
+    "n": 1
+   },
+   {
+    "five": [
+     "AccuracyTG",
+     "MiQ",
+     "Zesta",
+     "erkaSt",
+     "sergelen19k"
+    ],
+    "from": "2026-05-12",
+    "to": "2026-05-12",
+    "n": 1
+   },
+   {
+    "five": [
+     "AccuracyTG",
+     "MiQ",
+     "Zesta",
+     "erkaSt",
+     "xerolte"
+    ],
+    "from": "2026-07-23",
+    "to": "2026-09-22",
+    "n": 22
+   },
+   {
+    "five": [
+     "AccuracyTG",
+     "Diesen",
+     "Zesta",
+     "erkaSt",
+     "xerolte"
+    ],
+    "from": "2026-09-23",
+    "to": "2026-09-27",
+    "n": 3
+   },
+   {
+    "five": [
+     "AccuracyTG",
+     "MiQ",
+     "Zesta",
+     "erkaSt",
+     "xerolte"
+    ],
+    "from": "2026-09-28",
+    "to": "2026-10-31",
+    "n": 25
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-12",
+    "in": [
+     "Zesta"
+    ],
+    "out": [
+     "Diesen"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-05-12"
+   },
+   {
+    "date": "2026-07-23",
+    "in": [
+     "xerolte"
+    ],
+    "out": [
+     "sergelen19k"
+    ],
+    "kind": "permanent",
+    "run_matches": 22,
+    "run_until": "2026-09-22"
+   },
+   {
+    "date": "2026-09-23",
+    "in": [
+     "Diesen"
+    ],
+    "out": [
+     "MiQ"
+    ],
+    "kind": "stand-in",
+    "run_matches": 3,
+    "run_until": "2026-09-27"
+   },
+   {
+    "date": "2026-09-28",
+    "in": [
+     "MiQ"
+    ],
+    "out": [
+     "Diesen"
+    ],
+    "kind": "permanent",
+    "run_matches": 25,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "INFINITE": {
+  "rank_nov": 72,
+  "matches": 40,
+  "first": "2026-07-22",
+  "runs": [
+   {
+    "five": [
+     "Blytz",
+     "Dytor",
+     "kreaz",
+     "sl3nd",
+     "volt"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-09-07",
+    "n": 17
+   },
+   {
+    "five": [
+     "Blytz",
+     "hades",
+     "kreaz",
+     "kyuubii",
+     "volt"
+    ],
+    "from": "2026-09-09",
+    "to": "2026-09-10",
+    "n": 2
+   },
+   {
+    "five": [
+     "Blytz",
+     "kreaz",
+     "kyuubii",
+     "mwlky",
+     "volt"
+    ],
+    "from": "2026-09-18",
+    "to": "2026-09-18",
+    "n": 5
+   },
+   {
+    "five": [
+     "Blytz",
+     "kreaz",
+     "kyuubii",
+     "sl3nd",
+     "volt"
+    ],
+    "from": "2026-09-25",
+    "to": "2026-10-09",
+    "n": 11
+   },
+   {
+    "five": [
+     "Blytz",
+     "ScrunK",
+     "kyuubii",
+     "sl3nd",
+     "volt"
+    ],
+    "from": "2026-10-19",
+    "to": "2026-10-25",
+    "n": 5
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-09",
+    "in": [
+     "hades",
+     "kyuubii"
+    ],
+    "out": [
+     "Dytor",
+     "sl3nd"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-09-10"
+   },
+   {
+    "date": "2026-09-18",
+    "in": [
+     "mwlky"
+    ],
+    "out": [
+     "hades"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-09-18"
+   },
+   {
+    "date": "2026-09-25",
+    "in": [
+     "sl3nd"
+    ],
+    "out": [
+     "mwlky"
+    ],
+    "kind": "permanent",
+    "run_matches": 11,
+    "run_until": "2026-10-09"
+   },
+   {
+    "date": "2026-10-19",
+    "in": [
+     "ScrunK"
+    ],
+    "out": [
+     "kreaz"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 5,
+    "run_until": "2026-10-25"
+   }
+  ]
+ },
+ "Acend": {
+  "rank_nov": 73,
+  "matches": 61,
+  "first": "2026-05-10",
+  "runs": [
+   {
+    "five": [
+     "KalubeR",
+     "REDSTAR",
+     "SPELLAN",
+     "Skrimo",
+     "h4rn"
+    ],
+    "from": "2026-05-10",
+    "to": "2026-06-28",
+    "n": 31
+   },
+   {
+    "five": [
+     "REDSTAR",
+     "SHiPZ",
+     "SPELLAN",
+     "Skrimo",
+     "shaiK"
+    ],
+    "from": "2026-07-19",
+    "to": "2026-07-19",
+    "n": 1
+   },
+   {
+    "five": [
+     "KalubeR",
+     "REDSTAR",
+     "SPELLAN",
+     "Skrimo",
+     "h4rn"
+    ],
+    "from": "2026-08-02",
+    "to": "2026-08-24",
+    "n": 10
+   },
+   {
+    "five": [
+     "AwaykeN",
+     "KalubeR",
+     "REDSTAR",
+     "SPELLAN",
+     "Skrimo"
+    ],
+    "from": "2026-08-27",
+    "to": "2026-08-29",
+    "n": 2
+   },
+   {
+    "five": [
+     "KalubeR",
+     "REDSTAR",
+     "SHiPZ",
+     "SPELLAN",
+     "Skrimo"
+    ],
+    "from": "2026-09-09",
+    "to": "2026-09-11",
+    "n": 3
+   },
+   {
+    "five": [
+     "REDSTAR",
+     "SHiPZ",
+     "SPELLAN",
+     "Skrimo",
+     "h4rn"
+    ],
+    "from": "2026-09-25",
+    "to": "2026-10-09",
+    "n": 6
+   },
+   {
+    "five": [
+     "AwaykeN",
+     "REDSTAR",
+     "SHiPZ",
+     "SPELLAN",
+     "Skrimo"
+    ],
+    "from": "2026-10-22",
+    "to": "2026-11-01",
+    "n": 8
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-19",
+    "in": [
+     "SHiPZ",
+     "shaiK"
+    ],
+    "out": [
+     "KalubeR",
+     "h4rn"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-19"
+   },
+   {
+    "date": "2026-08-02",
+    "in": [
+     "KalubeR",
+     "h4rn"
+    ],
+    "out": [
+     "SHiPZ",
+     "shaiK"
+    ],
+    "kind": "permanent",
+    "run_matches": 10,
+    "run_until": "2026-08-24"
+   },
+   {
+    "date": "2026-08-27",
+    "in": [
+     "AwaykeN"
+    ],
+    "out": [
+     "h4rn"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-08-29"
+   },
+   {
+    "date": "2026-09-09",
+    "in": [
+     "SHiPZ"
+    ],
+    "out": [
+     "AwaykeN"
+    ],
+    "kind": "stand-in",
+    "run_matches": 3,
+    "run_until": "2026-09-11"
+   },
+   {
+    "date": "2026-09-25",
+    "in": [
+     "h4rn"
+    ],
+    "out": [
+     "KalubeR"
+    ],
+    "kind": "permanent",
+    "run_matches": 6,
+    "run_until": "2026-10-09"
+   },
+   {
+    "date": "2026-10-22",
+    "in": [
+     "AwaykeN"
+    ],
+    "out": [
+     "h4rn"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 8,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "QUAZAR": {
+  "rank_nov": 74,
+  "matches": 42,
+  "first": "2026-06-01",
+  "runs": [
+   {
+    "five": [
+     "Ne1XXX",
+     "Porya",
+     "gehji",
+     "kaiori",
+     "newt"
+    ],
+    "from": "2026-06-01",
+    "to": "2026-10-17",
+    "n": 42
+   }
+  ],
+  "events": []
+ },
+ "BARCA": {
+  "rank_nov": 75,
+  "matches": 64,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "Alisson",
+     "Leomonster",
+     "divine",
+     "happ",
+     "zmb"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-06-28",
+    "n": 24
+   },
+   {
+    "five": [
+     "Alisson",
+     "divine",
+     "fokiu",
+     "happ",
+     "zmb"
+    ],
+    "from": "2026-07-07",
+    "to": "2026-07-07",
+    "n": 1
+   },
+   {
+    "five": [
+     "Alisson",
+     "Leomonster",
+     "divine",
+     "happ",
+     "zmb"
+    ],
+    "from": "2026-07-08",
+    "to": "2026-09-26",
+    "n": 26
+   },
+   {
+    "five": [
+     "Alisson",
+     "divine",
+     "happ",
+     "pancc",
+     "zmb"
+    ],
+    "from": "2026-10-07",
+    "to": "2026-11-01",
+    "n": 13
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-07",
+    "in": [
+     "fokiu"
+    ],
+    "out": [
+     "Leomonster"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-07"
+   },
+   {
+    "date": "2026-07-08",
+    "in": [
+     "Leomonster"
+    ],
+    "out": [
+     "fokiu"
+    ],
+    "kind": "permanent",
+    "run_matches": 26,
+    "run_until": "2026-09-26"
+   },
+   {
+    "date": "2026-10-07",
+    "in": [
+     "pancc"
+    ],
+    "out": [
+     "Leomonster"
+    ],
+    "kind": "permanent",
+    "run_matches": 13,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "Color": {
+  "rank_nov": 76,
+  "matches": 55,
+  "first": "2026-05-18",
+  "runs": [
+   {
+    "five": [
+     "Qikert",
+     "cronuss",
+     "lattykk",
+     "oz1k",
+     "reyoz"
+    ],
+    "from": "2026-05-18",
+    "to": "2026-05-21",
+    "n": 4
+   },
+   {
+    "five": [
+     "KENSI",
+     "cronuss",
+     "lattykk",
+     "oz1k",
+     "reyoz"
+    ],
+    "from": "2026-05-26",
+    "to": "2026-05-26",
+    "n": 3
+   },
+   {
+    "five": [
+     "Qikert",
+     "cronuss",
+     "lattykk",
+     "oz1k",
+     "reyoz"
+    ],
+    "from": "2026-05-28",
+    "to": "2026-08-22",
+    "n": 22
+   },
+   {
+    "five": [
+     "Ryujin",
+     "cronuss",
+     "lattykk",
+     "oz1k",
+     "reyoz"
+    ],
+    "from": "2026-08-23",
+    "to": "2026-08-29",
+    "n": 8
+   },
+   {
+    "five": [
+     "Qikert",
+     "cronuss",
+     "lattykk",
+     "oz1k",
+     "reyoz"
+    ],
+    "from": "2026-08-31",
+    "to": "2026-09-03",
+    "n": 6
+   },
+   {
+    "five": [
+     "cronuss",
+     "kurosa",
+     "lattykk",
+     "oz1k",
+     "reyoz"
+    ],
+    "from": "2026-09-08",
+    "to": "2026-09-08",
+    "n": 1
+   },
+   {
+    "five": [
+     "Ryujin",
+     "cronuss",
+     "lattykk",
+     "oz1k",
+     "yiksrezo"
+    ],
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "n": 1
+   },
+   {
+    "five": [
+     "Ryujin",
+     "cronuss",
+     "lattykk",
+     "oz1k",
+     "reyoz"
+    ],
+    "from": "2026-09-13",
+    "to": "2026-09-13",
+    "n": 1
+   },
+   {
+    "five": [
+     "Ryujin",
+     "cronuss",
+     "lattykk",
+     "oz1k",
+     "yiksrezo"
+    ],
+    "from": "2026-09-14",
+    "to": "2026-09-14",
+    "n": 2
+   },
+   {
+    "five": [
+     "Patsi",
+     "cronuss",
+     "lattykk",
+     "oz1k",
+     "reyoz"
+    ],
+    "from": "2026-09-16",
+    "to": "2026-10-25",
+    "n": 7
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-26",
+    "in": [
+     "KENSI"
+    ],
+    "out": [
+     "Qikert"
+    ],
+    "kind": "stand-in",
+    "run_matches": 3,
+    "run_until": "2026-05-26"
+   },
+   {
+    "date": "2026-05-28",
+    "in": [
+     "Qikert"
+    ],
+    "out": [
+     "KENSI"
+    ],
+    "kind": "permanent",
+    "run_matches": 22,
+    "run_until": "2026-08-22"
+   },
+   {
+    "date": "2026-08-23",
+    "in": [
+     "Ryujin"
+    ],
+    "out": [
+     "Qikert"
+    ],
+    "kind": "stand-in",
+    "run_matches": 8,
+    "run_until": "2026-08-29"
+   },
+   {
+    "date": "2026-08-31",
+    "in": [
+     "Qikert"
+    ],
+    "out": [
+     "Ryujin"
+    ],
+    "kind": "stand-in",
+    "run_matches": 6,
+    "run_until": "2026-09-03"
+   },
+   {
+    "date": "2026-09-08",
+    "in": [
+     "kurosa"
+    ],
+    "out": [
+     "Qikert"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-09-08"
+   },
+   {
+    "date": "2026-09-12",
+    "in": [
+     "Ryujin",
+     "yiksrezo"
+    ],
+    "out": [
+     "kurosa",
+     "reyoz"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-09-12"
+   },
+   {
+    "date": "2026-09-13",
+    "in": [
+     "reyoz"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-09-13"
+   },
+   {
+    "date": "2026-09-14",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "reyoz"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-14"
+   },
+   {
+    "date": "2026-09-16",
+    "in": [
+     "Patsi",
+     "reyoz"
+    ],
+    "out": [
+     "Ryujin",
+     "yiksrezo"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 7,
+    "run_until": "2026-10-25"
+   }
+  ]
+ },
+ "ex-Zero Tenacity": {
+  "rank_nov": 77,
+  "matches": 99,
+  "first": "2026-05-07",
+  "runs": [
+   {
+    "five": [
+     "Cjoffo",
+     "Kind0",
+     "aVN",
+     "brutmonster",
+     "emi"
+    ],
+    "from": "2026-05-07",
+    "to": "2026-05-14",
+    "n": 2
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Kind0",
+     "aVN",
+     "andr1x",
+     "brutmonster"
+    ],
+    "from": "2026-05-15",
+    "to": "2026-05-15",
+    "n": 1
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Kind0",
+     "aVN",
+     "brutmonster",
+     "emi"
+    ],
+    "from": "2026-05-16",
+    "to": "2026-05-24",
+    "n": 9
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "aVN",
+     "brutmonster"
+    ],
+    "from": "2026-05-25",
+    "to": "2026-05-26",
+    "n": 4
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "RiiL3",
+     "aVN"
+    ],
+    "from": "2026-05-27",
+    "to": "2026-05-27",
+    "n": 1
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "aVN",
+     "brutmonster"
+    ],
+    "from": "2026-05-28",
+    "to": "2026-05-29",
+    "n": 3
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "RiiL3",
+     "aVN"
+    ],
+    "from": "2026-05-30",
+    "to": "2026-05-30",
+    "n": 1
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "aVN",
+     "brutmonster"
+    ],
+    "from": "2026-06-01",
+    "to": "2026-06-01",
+    "n": 1
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "RiiL3",
+     "aVN"
+    ],
+    "from": "2026-06-02",
+    "to": "2026-06-02",
+    "n": 1
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "aVN",
+     "brutmonster"
+    ],
+    "from": "2026-06-03",
+    "to": "2026-06-08",
+    "n": 5
+   },
+   {
+    "five": [
+     "Dragon",
+     "Kind0",
+     "VLDN",
+     "andr1x",
+     "emi"
+    ],
+    "from": "2026-07-19",
+    "to": "2026-07-19",
+    "n": 2
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "VLDN",
+     "brutmonster"
+    ],
+    "from": "2026-08-16",
+    "to": "2026-08-28",
+    "n": 20
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Kind0",
+     "VLDN",
+     "brutmonster",
+     "emi"
+    ],
+    "from": "2026-08-29",
+    "to": "2026-08-29",
+    "n": 1
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "VLDN",
+     "brutmonster"
+    ],
+    "from": "2026-08-29",
+    "to": "2026-09-13",
+    "n": 20
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "brutmonster",
+     "emi"
+    ],
+    "from": "2026-09-16",
+    "to": "2026-09-18",
+    "n": 2
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "RiiL3",
+     "VLDN"
+    ],
+    "from": "2026-09-19",
+    "to": "2026-09-19",
+    "n": 1
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "VLDN",
+     "brutmonster"
+    ],
+    "from": "2026-09-21",
+    "to": "2026-10-02",
+    "n": 10
+   },
+   {
+    "five": [
+     "Dragon",
+     "Kind0",
+     "VLDN",
+     "brutmonster",
+     "emi"
+    ],
+    "from": "2026-10-05",
+    "to": "2026-10-05",
+    "n": 1
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "VLDN",
+     "brutmonster"
+    ],
+    "from": "2026-10-06",
+    "to": "2026-10-20",
+    "n": 7
+   },
+   {
+    "five": [
+     "Dragon",
+     "Kind0",
+     "RiiL3",
+     "VLDN",
+     "brutmonster"
+    ],
+    "from": "2026-10-20",
+    "to": "2026-10-20",
+    "n": 1
+   },
+   {
+    "five": [
+     "Cjoffo",
+     "Dragon",
+     "Kind0",
+     "VLDN",
+     "brutmonster"
+    ],
+    "from": "2026-10-23",
+    "to": "2026-10-26",
+    "n": 6
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-15",
+    "in": [
+     "andr1x"
+    ],
+    "out": [
+     "emi"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-05-15"
+   },
+   {
+    "date": "2026-05-16",
+    "in": [
+     "emi"
+    ],
+    "out": [
+     "andr1x"
+    ],
+    "kind": "stand-in",
+    "run_matches": 9,
+    "run_until": "2026-05-24"
+   },
+   {
+    "date": "2026-05-25",
+    "in": [
+     "Dragon"
+    ],
+    "out": [
+     "emi"
+    ],
+    "kind": "stand-in",
+    "run_matches": 4,
+    "run_until": "2026-05-26"
+   },
+   {
+    "date": "2026-05-27",
+    "in": [
+     "RiiL3"
+    ],
+    "out": [
+     "brutmonster"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-05-27"
+   },
+   {
+    "date": "2026-05-28",
+    "in": [
+     "brutmonster"
+    ],
+    "out": [
+     "RiiL3"
+    ],
+    "kind": "stand-in",
+    "run_matches": 3,
+    "run_until": "2026-05-29"
+   },
+   {
+    "date": "2026-05-30",
+    "in": [
+     "RiiL3"
+    ],
+    "out": [
+     "brutmonster"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-05-30"
+   },
+   {
+    "date": "2026-06-01",
+    "in": [
+     "brutmonster"
+    ],
+    "out": [
+     "RiiL3"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-06-01"
+   },
+   {
+    "date": "2026-06-02",
+    "in": [
+     "RiiL3"
+    ],
+    "out": [
+     "brutmonster"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-06-02"
+   },
+   {
+    "date": "2026-06-03",
+    "in": [
+     "brutmonster"
+    ],
+    "out": [
+     "RiiL3"
+    ],
+    "kind": "stand-in",
+    "run_matches": 5,
+    "run_until": "2026-06-08"
+   },
+   {
+    "date": "2026-07-19",
+    "in": [
+     "VLDN",
+     "andr1x",
+     "emi"
+    ],
+    "out": [
+     "Cjoffo",
+     "aVN",
+     "brutmonster"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-07-19"
+   },
+   {
+    "date": "2026-08-16",
+    "in": [
+     "Cjoffo",
+     "brutmonster"
+    ],
+    "out": [
+     "andr1x",
+     "emi"
+    ],
+    "kind": "permanent",
+    "run_matches": 20,
+    "run_until": "2026-08-28"
+   },
+   {
+    "date": "2026-08-29",
+    "in": [
+     "emi"
+    ],
+    "out": [
+     "Dragon"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-29"
+   },
+   {
+    "date": "2026-08-29",
+    "in": [
+     "Dragon"
+    ],
+    "out": [
+     "emi"
+    ],
+    "kind": "stand-in",
+    "run_matches": 20,
+    "run_until": "2026-09-13"
+   },
+   {
+    "date": "2026-09-16",
+    "in": [
+     "emi"
+    ],
+    "out": [
+     "VLDN"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-18"
+   },
+   {
+    "date": "2026-09-19",
+    "in": [
+     "RiiL3",
+     "VLDN"
+    ],
+    "out": [
+     "brutmonster",
+     "emi"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-09-19"
+   },
+   {
+    "date": "2026-09-21",
+    "in": [
+     "brutmonster"
+    ],
+    "out": [
+     "RiiL3"
+    ],
+    "kind": "stand-in",
+    "run_matches": 10,
+    "run_until": "2026-10-02"
+   },
+   {
+    "date": "2026-10-05",
+    "in": [
+     "emi"
+    ],
+    "out": [
+     "Cjoffo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-05"
+   },
+   {
+    "date": "2026-10-06",
+    "in": [
+     "Cjoffo"
+    ],
+    "out": [
+     "emi"
+    ],
+    "kind": "permanent",
+    "run_matches": 7,
+    "run_until": "2026-10-20"
+   },
+   {
+    "date": "2026-10-20",
+    "in": [
+     "RiiL3"
+    ],
+    "out": [
+     "Cjoffo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-20"
+   },
+   {
+    "date": "2026-10-23",
+    "in": [
+     "Cjoffo"
+    ],
+    "out": [
+     "RiiL3"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 6,
+    "run_until": "2026-10-26"
+   }
+  ]
+ },
+ "Black Phoenix": {
+  "rank_nov": 78,
+  "matches": 121,
+  "first": "2026-05-07",
+  "runs": [
+   {
+    "five": [
+     "4X1s",
+     "Alv",
+     "Salazar",
+     "karnez",
+     "riskyb0b"
+    ],
+    "from": "2026-05-07",
+    "to": "2026-05-18",
+    "n": 3
+   },
+   {
+    "five": [
+     "4X1s",
+     "Alv",
+     "Jyo",
+     "Salazar",
+     "karnez"
+    ],
+    "from": "2026-05-19",
+    "to": "2026-05-22",
+    "n": 5
+   },
+   {
+    "five": [
+     "4X1s",
+     "Alv",
+     "Krad",
+     "Salazar",
+     "karnez"
+    ],
+    "from": "2026-05-25",
+    "to": "2026-05-28",
+    "n": 4
+   },
+   {
+    "five": [
+     "4X1s",
+     "Alv",
+     "Norwi",
+     "Salazar",
+     "karnez"
+    ],
+    "from": "2026-05-30",
+    "to": "2026-05-30",
+    "n": 1
+   },
+   {
+    "five": [
+     "4X1s",
+     "Alv",
+     "Krad",
+     "Salazar",
+     "karnez"
+    ],
+    "from": "2026-06-01",
+    "to": "2026-06-04",
+    "n": 3
+   },
+   {
+    "five": [
+     "4X1s",
+     "Alv",
+     "MRcreed",
+     "Salazar",
+     "karnez"
+    ],
+    "from": "2026-06-05",
+    "to": "2026-06-08",
+    "n": 2
+   },
+   {
+    "five": [
+     "4X1s",
+     "Alv",
+     "Krad",
+     "Salazar",
+     "karnez"
+    ],
+    "from": "2026-06-12",
+    "to": "2026-06-18",
+    "n": 3
+   },
+   {
+    "five": [
+     "4X1s",
+     "Sa1nTy",
+     "Salazar",
+     "karnez",
+     "topo"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-07-28",
+    "n": 6
+   },
+   {
+    "five": [
+     "4X1s",
+     "Salazar",
+     "karnez",
+     "topo",
+     "yiksrezo"
+    ],
+    "from": "2026-07-28",
+    "to": "2026-07-28",
+    "n": 1
+   },
+   {
+    "five": [
+     "4X1s",
+     "Sa1nTy",
+     "Salazar",
+     "karnez",
+     "topo"
+    ],
+    "from": "2026-07-29",
+    "to": "2026-07-29",
+    "n": 1
+   },
+   {
+    "five": [
+     "4X1s",
+     "Salazar",
+     "karnez",
+     "topo",
+     "yiksrezo"
+    ],
+    "from": "2026-07-30",
+    "to": "2026-07-30",
+    "n": 1
+   },
+   {
+    "five": [
+     "4X1s",
+     "Sa1nTy",
+     "Salazar",
+     "karnez",
+     "topo"
+    ],
+    "from": "2026-07-31",
+    "to": "2026-08-02",
+    "n": 4
+   },
+   {
+    "five": [
+     "4X1s",
+     "Salazar",
+     "karnez",
+     "topo",
+     "yiksrezo"
+    ],
+    "from": "2026-08-06",
+    "to": "2026-09-02",
+    "n": 25
+   },
+   {
+    "five": [
+     "4X1s",
+     "MRcreed",
+     "Salazar",
+     "karnez",
+     "topo"
+    ],
+    "from": "2026-09-04",
+    "to": "2026-10-29",
+    "n": 62
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-19",
+    "in": [
+     "Jyo"
+    ],
+    "out": [
+     "riskyb0b"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-05-22"
+   },
+   {
+    "date": "2026-05-25",
+    "in": [
+     "Krad"
+    ],
+    "out": [
+     "Jyo"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-05-28"
+   },
+   {
+    "date": "2026-05-30",
+    "in": [
+     "Norwi"
+    ],
+    "out": [
+     "Krad"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-05-30"
+   },
+   {
+    "date": "2026-06-01",
+    "in": [
+     "Krad"
+    ],
+    "out": [
+     "Norwi"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-06-04"
+   },
+   {
+    "date": "2026-06-05",
+    "in": [
+     "MRcreed"
+    ],
+    "out": [
+     "Krad"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-06-08"
+   },
+   {
+    "date": "2026-06-12",
+    "in": [
+     "Krad"
+    ],
+    "out": [
+     "MRcreed"
+    ],
+    "kind": "stand-in",
+    "run_matches": 3,
+    "run_until": "2026-06-18"
+   },
+   {
+    "date": "2026-07-22",
+    "in": [
+     "Sa1nTy",
+     "topo"
+    ],
+    "out": [
+     "Alv",
+     "Krad"
+    ],
+    "kind": "permanent",
+    "run_matches": 6,
+    "run_until": "2026-07-28"
+   },
+   {
+    "date": "2026-07-28",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "Sa1nTy"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-28"
+   },
+   {
+    "date": "2026-07-29",
+    "in": [
+     "Sa1nTy"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-29"
+   },
+   {
+    "date": "2026-07-30",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "Sa1nTy"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-30"
+   },
+   {
+    "date": "2026-07-31",
+    "in": [
+     "Sa1nTy"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 4,
+    "run_until": "2026-08-02"
+   },
+   {
+    "date": "2026-08-06",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "Sa1nTy"
+    ],
+    "kind": "permanent",
+    "run_matches": 25,
+    "run_until": "2026-09-02"
+   },
+   {
+    "date": "2026-09-04",
+    "in": [
+     "MRcreed"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "permanent",
+    "run_matches": 62,
+    "run_until": "2026-10-29"
+   }
+  ]
+ },
+ "Voca": {
+  "rank_nov": 79,
+  "matches": 31,
+  "first": "2026-05-27",
+  "runs": [
+   {
+    "five": [
+     "Jeorge",
+     "junior",
+     "nosraC",
+     "shane",
+     "snav"
+    ],
+    "from": "2026-05-27",
+    "to": "2026-05-28",
+    "n": 2
+   },
+   {
+    "five": [
+     "MarKE",
+     "junior",
+     "kmrn",
+     "nosraC",
+     "snav"
+    ],
+    "from": "2026-07-09",
+    "to": "2026-07-11",
+    "n": 3
+   },
+   {
+    "five": [
+     "MarKE",
+     "dare",
+     "junior",
+     "nosraC",
+     "snav"
+    ],
+    "from": "2026-07-28",
+    "to": "2026-10-16",
+    "n": 26
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-09",
+    "in": [
+     "MarKE",
+     "kmrn"
+    ],
+    "out": [
+     "Jeorge",
+     "shane"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-07-11"
+   },
+   {
+    "date": "2026-07-28",
+    "in": [
+     "dare"
+    ],
+    "out": [
+     "kmrn"
+    ],
+    "kind": "permanent",
+    "run_matches": 26,
+    "run_until": "2026-10-16"
+   }
+  ]
+ },
+ "NAVI Junior": {
+  "rank_nov": 80,
+  "matches": 50,
+  "first": "2026-06-19",
+  "runs": [
+   {
+    "five": [
+     "FAZERY",
+     "MahaR",
+     "kodak",
+     "skizzyee",
+     "yoki"
+    ],
+    "from": "2026-06-19",
+    "to": "2026-10-10",
+    "n": 50
+   }
+  ],
+  "events": []
+ },
+ "BASEMENT BOYS": {
+  "rank_nov": 81,
+  "matches": 65,
+  "first": "2026-05-10",
+  "runs": [
+   {
+    "five": [
+     "OWNER",
+     "Tr0ublE",
+     "fakerealityy",
+     "kr1vda",
+     "maggent"
+    ],
+    "from": "2026-05-10",
+    "to": "2026-08-16",
+    "n": 35
+   },
+   {
+    "five": [
+     "OWNER",
+     "Tr0ublE",
+     "kAlash",
+     "kr1vda",
+     "maggent"
+    ],
+    "from": "2026-08-27",
+    "to": "2026-10-31",
+    "n": 30
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-27",
+    "in": [
+     "kAlash"
+    ],
+    "out": [
+     "fakerealityy"
+    ],
+    "kind": "permanent",
+    "run_matches": 30,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "Lazer Cats": {
+  "rank_nov": 82,
+  "matches": 30,
+  "first": "2026-05-18",
+  "runs": [
+   {
+    "five": [
+     "Kiy0o",
+     "Magic",
+     "edixenn",
+     "nikitea",
+     "yab0ku"
+    ],
+    "from": "2026-05-18",
+    "to": "2026-06-11",
+    "n": 9
+   },
+   {
+    "five": [
+     "Kiy0o",
+     "Magic",
+     "Polbandana",
+     "nikitea",
+     "tripex17"
+    ],
+    "from": "2026-07-25",
+    "to": "2026-08-14",
+    "n": 8
+   },
+   {
+    "five": [
+     "Kiy0o",
+     "Magic",
+     "n0rths",
+     "nikitea",
+     "tripex17"
+    ],
+    "from": "2026-10-01",
+    "to": "2026-10-07",
+    "n": 13
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-25",
+    "in": [
+     "Polbandana",
+     "tripex17"
+    ],
+    "out": [
+     "edixenn",
+     "yab0ku"
+    ],
+    "kind": "permanent",
+    "run_matches": 8,
+    "run_until": "2026-08-14"
+   },
+   {
+    "date": "2026-10-01",
+    "in": [
+     "n0rths"
+    ],
+    "out": [
+     "Polbandana"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 13,
+    "run_until": "2026-10-07"
+   }
+  ]
+ },
+ "ShindeN": {
+  "rank_nov": 83,
+  "matches": 36,
+  "first": "2026-05-28",
+  "runs": [
+   {
+    "five": [
+     "abizz",
+     "guty",
+     "ivz",
+     "naz",
+     "tom1jed"
+    ],
+    "from": "2026-05-28",
+    "to": "2026-10-05",
+    "n": 30
+   },
+   {
+    "five": [
+     "abizz",
+     "guty",
+     "naz",
+     "reNTU",
+     "tom1jed"
+    ],
+    "from": "2026-10-22",
+    "to": "2026-10-31",
+    "n": 6
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-10-22",
+    "in": [
+     "reNTU"
+    ],
+    "out": [
+     "ivz"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 6,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "UPGRADE": {
+  "rank_nov": 84,
+  "matches": 63,
+  "first": "2026-05-14",
+  "runs": [
+   {
+    "five": [
+     "DAN9ARMATURA",
+     "SquEzxc",
+     "dezl3bio",
+     "pleynnn",
+     "tw1sterzaza"
+    ],
+    "from": "2026-05-14",
+    "to": "2026-05-24",
+    "n": 10
+   },
+   {
+    "five": [
+     "DAN9ARMATURA",
+     "dezl3bio",
+     "pleynnn",
+     "tried",
+     "tw1sterzaza"
+    ],
+    "from": "2026-05-26",
+    "to": "2026-05-26",
+    "n": 1
+   },
+   {
+    "five": [
+     "DAN9ARMATURA",
+     "SquEzxc",
+     "dezl3bio",
+     "pleynnn",
+     "tw1sterzaza"
+    ],
+    "from": "2026-05-30",
+    "to": "2026-06-25",
+    "n": 4
+   },
+   {
+    "five": [
+     "SquEzxc",
+     "dezl3bio",
+     "pleynnn",
+     "shoke",
+     "tw1sterzaza"
+    ],
+    "from": "2026-06-25",
+    "to": "2026-06-25",
+    "n": 1
+   },
+   {
+    "five": [
+     "DAN9ARMATURA",
+     "SquEzxc",
+     "dezl3bio",
+     "pleynnn",
+     "tw1sterzaza"
+    ],
+    "from": "2026-06-26",
+    "to": "2026-10-02",
+    "n": 38
+   },
+   {
+    "five": [
+     "DAN9ARMATURA",
+     "SquEzxc",
+     "pleynnn",
+     "synyx",
+     "tw1sterzaza"
+    ],
+    "from": "2026-10-13",
+    "to": "2026-10-22",
+    "n": 9
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-26",
+    "in": [
+     "tried"
+    ],
+    "out": [
+     "SquEzxc"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-05-26"
+   },
+   {
+    "date": "2026-05-30",
+    "in": [
+     "SquEzxc"
+    ],
+    "out": [
+     "tried"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-06-25"
+   },
+   {
+    "date": "2026-06-25",
+    "in": [
+     "shoke"
+    ],
+    "out": [
+     "DAN9ARMATURA"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-06-25"
+   },
+   {
+    "date": "2026-06-26",
+    "in": [
+     "DAN9ARMATURA"
+    ],
+    "out": [
+     "shoke"
+    ],
+    "kind": "permanent",
+    "run_matches": 38,
+    "run_until": "2026-10-02"
+   },
+   {
+    "date": "2026-10-13",
+    "in": [
+     "synyx"
+    ],
+    "out": [
+     "dezl3bio"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 9,
+    "run_until": "2026-10-22"
+   }
+  ]
+ },
+ "FORZE Reload": {
+  "rank_nov": 85,
+  "matches": 41,
+  "first": "2026-08-12",
+  "runs": [
+   {
+    "five": [
+     "HeCkBNk",
+     "Kaide",
+     "KusMe",
+     "Lack1",
+     "YumsaN"
+    ],
+    "from": "2026-08-12",
+    "to": "2026-10-04",
+    "n": 26
+   },
+   {
+    "five": [
+     "HeCkBNk",
+     "KusMe",
+     "Lack1",
+     "YumsaN",
+     "relaxxie"
+    ],
+    "from": "2026-10-14",
+    "to": "2026-10-19",
+    "n": 6
+   },
+   {
+    "five": [
+     "HeCkBNk",
+     "KusMe",
+     "Lack1",
+     "NickelBack",
+     "YumsaN"
+    ],
+    "from": "2026-10-20",
+    "to": "2026-10-20",
+    "n": 2
+   },
+   {
+    "five": [
+     "HeCkBNk",
+     "KusMe",
+     "Lack1",
+     "YumsaN",
+     "relaxxie"
+    ],
+    "from": "2026-10-22",
+    "to": "2026-10-22",
+    "n": 1
+   },
+   {
+    "five": [
+     "HeCkBNk",
+     "KusMe",
+     "Lack1",
+     "NickelBack",
+     "YumsaN"
+    ],
+    "from": "2026-10-22",
+    "to": "2026-10-24",
+    "n": 3
+   },
+   {
+    "five": [
+     "HeCkBNk",
+     "KusMe",
+     "Lack1",
+     "YumsaN",
+     "relaxxie"
+    ],
+    "from": "2026-10-24",
+    "to": "2026-10-29",
+    "n": 3
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-10-14",
+    "in": [
+     "relaxxie"
+    ],
+    "out": [
+     "Kaide"
+    ],
+    "kind": "permanent",
+    "run_matches": 6,
+    "run_until": "2026-10-19"
+   },
+   {
+    "date": "2026-10-20",
+    "in": [
+     "NickelBack"
+    ],
+    "out": [
+     "relaxxie"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-10-20"
+   },
+   {
+    "date": "2026-10-22",
+    "in": [
+     "relaxxie"
+    ],
+    "out": [
+     "NickelBack"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-22"
+   },
+   {
+    "date": "2026-10-22",
+    "in": [
+     "NickelBack"
+    ],
+    "out": [
+     "relaxxie"
+    ],
+    "kind": "stand-in",
+    "run_matches": 3,
+    "run_until": "2026-10-24"
+   },
+   {
+    "date": "2026-10-24",
+    "in": [
+     "relaxxie"
+    ],
+    "out": [
+     "NickelBack"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 3,
+    "run_until": "2026-10-29"
+   }
+  ]
+ },
+ "RBLS": {
+  "rank_nov": 86,
+  "matches": 15,
+  "first": "2026-09-17",
+  "runs": [
+   {
+    "five": [
+     "Icarus",
+     "Shr",
+     "aragornN",
+     "arrozdoce",
+     "stadodo"
+    ],
+    "from": "2026-09-17",
+    "to": "2026-10-08",
+    "n": 15
+   }
+  ],
+  "events": []
+ },
+ "Galorys": {
+  "rank_nov": 87,
+  "matches": 71,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "destiny",
+     "gbb",
+     "k1not1",
+     "nython",
+     "tomate"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-05-31",
+    "n": 19
+   },
+   {
+    "five": [
+     "PKL",
+     "destiny",
+     "detr0ittJ",
+     "gbb",
+     "tomate"
+    ],
+    "from": "2026-07-29",
+    "to": "2026-10-31",
+    "n": 52
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-29",
+    "in": [
+     "PKL",
+     "detr0ittJ"
+    ],
+    "out": [
+     "k1not1",
+     "nython"
+    ],
+    "kind": "permanent",
+    "run_matches": 52,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "aimclub": {
+  "rank_nov": 88,
+  "matches": 28,
+  "first": "2026-06-13",
+  "runs": [
+   {
+    "five": [
+     "ERSIN",
+     "RoberttMP",
+     "XELLOW",
+     "waZz",
+     "zewts"
+    ],
+    "from": "2026-06-13",
+    "to": "2026-06-13",
+    "n": 4
+   },
+   {
+    "five": [
+     "ADRON",
+     "ERSIN",
+     "ragga",
+     "waZz",
+     "zewts"
+    ],
+    "from": "2026-07-30",
+    "to": "2026-08-02",
+    "n": 3
+   },
+   {
+    "five": [
+     "ERSIN",
+     "mhN1",
+     "ragga",
+     "waZz",
+     "zewts"
+    ],
+    "from": "2026-09-04",
+    "to": "2026-10-03",
+    "n": 16
+   },
+   {
+    "five": [
+     "XELLOW",
+     "mhN1",
+     "ragga",
+     "waZz",
+     "zewts"
+    ],
+    "from": "2026-10-19",
+    "to": "2026-10-21",
+    "n": 5
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-30",
+    "in": [
+     "ADRON",
+     "ragga"
+    ],
+    "out": [
+     "RoberttMP",
+     "XELLOW"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-08-02"
+   },
+   {
+    "date": "2026-09-04",
+    "in": [
+     "mhN1"
+    ],
+    "out": [
+     "ADRON"
+    ],
+    "kind": "permanent",
+    "run_matches": 16,
+    "run_until": "2026-10-03"
+   },
+   {
+    "date": "2026-10-19",
+    "in": [
+     "XELLOW"
+    ],
+    "out": [
+     "ERSIN"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 5,
+    "run_until": "2026-10-21"
+   }
+  ]
+ },
+ "NT": {
+  "rank_nov": 89,
+  "matches": 21,
+  "first": "2026-09-17",
+  "runs": [
+   {
+    "five": [
+     "Ryuzak1",
+     "Woro2k",
+     "fakerealityy",
+     "m4d4ra",
+     "ta9z"
+    ],
+    "from": "2026-09-17",
+    "to": "2026-10-14",
+    "n": 20
+   },
+   {
+    "five": [
+     "Br4tkO",
+     "Woro2k",
+     "fakerealityy",
+     "notineki",
+     "ta9z"
+    ],
+    "from": "2026-10-20",
+    "to": "2026-10-20",
+    "n": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-10-20",
+    "in": [
+     "Br4tkO",
+     "notineki"
+    ],
+    "out": [
+     "Ryuzak1",
+     "m4d4ra"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 1,
+    "run_until": "2026-10-20"
+   }
+  ]
+ },
+ "ex-INOX": {
+  "rank_nov": 90,
+  "matches": 75,
+  "first": "2026-05-07",
+  "runs": [
+   {
+    "five": [
+     "FenomeN",
+     "finW",
+     "gooddeph",
+     "k0s",
+     "k1slll"
+    ],
+    "from": "2026-05-07",
+    "to": "2026-09-13",
+    "n": 54
+   },
+   {
+    "five": [
+     "El1an",
+     "finW",
+     "gooddeph",
+     "k0s",
+     "k1slll"
+    ],
+    "from": "2026-09-13",
+    "to": "2026-09-13",
+    "n": 3
+   },
+   {
+    "five": [
+     "FenomeN",
+     "finW",
+     "gooddeph",
+     "k0s",
+     "k1slll"
+    ],
+    "from": "2026-09-15",
+    "to": "2026-10-04",
+    "n": 12
+   },
+   {
+    "five": [
+     "El1an",
+     "finW",
+     "k0s",
+     "k1slll",
+     "m1QUSE"
+    ],
+    "from": "2026-10-23",
+    "to": "2026-10-24",
+    "n": 3
+   },
+   {
+    "five": [
+     "El1an",
+     "finW",
+     "gooddeph",
+     "k1slll",
+     "m1QUSE"
+    ],
+    "from": "2026-10-25",
+    "to": "2026-10-29",
+    "n": 3
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-13",
+    "in": [
+     "El1an"
+    ],
+    "out": [
+     "FenomeN"
+    ],
+    "kind": "stand-in",
+    "run_matches": 3,
+    "run_until": "2026-09-13"
+   },
+   {
+    "date": "2026-09-15",
+    "in": [
+     "FenomeN"
+    ],
+    "out": [
+     "El1an"
+    ],
+    "kind": "stand-in",
+    "run_matches": 12,
+    "run_until": "2026-10-04"
+   },
+   {
+    "date": "2026-10-23",
+    "in": [
+     "El1an",
+     "m1QUSE"
+    ],
+    "out": [
+     "FenomeN",
+     "gooddeph"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-10-24"
+   },
+   {
+    "date": "2026-10-25",
+    "in": [
+     "gooddeph"
+    ],
+    "out": [
+     "k0s"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 3,
+    "run_until": "2026-10-29"
+   }
+  ]
+ },
+ "Without a Roof": {
+  "rank_nov": 91,
+  "matches": 34,
+  "first": "2026-08-29",
+  "runs": [
+   {
+    "five": [
+     "Brehze",
+     "CeRq",
+     "FaNg",
+     "Stewie2K",
+     "autimatic"
+    ],
+    "from": "2026-08-29",
+    "to": "2026-10-10",
+    "n": 34
+   }
+  ],
+  "events": []
+ },
+ "Alter Ego": {
+  "rank_nov": 92,
+  "matches": 26,
+  "first": "2026-07-10",
+  "runs": [
+   {
+    "five": [
+     "BnTeT",
+     "Gratisfaction",
+     "PokemoN",
+     "adeX",
+     "laxiee"
+    ],
+    "from": "2026-07-10",
+    "to": "2026-08-26",
+    "n": 5
+   },
+   {
+    "five": [
+     "BnTeT",
+     "PokemoN",
+     "adeX",
+     "laxiee",
+     "shadiy"
+    ],
+    "from": "2026-08-26",
+    "to": "2026-08-26",
+    "n": 1
+   },
+   {
+    "five": [
+     "BnTeT",
+     "Gratisfaction",
+     "PokemoN",
+     "adeX",
+     "shadiy"
+    ],
+    "from": "2026-08-27",
+    "to": "2026-08-28",
+    "n": 2
+   },
+   {
+    "five": [
+     "BnTeT",
+     "Gratisfaction",
+     "PokemoN",
+     "adeX",
+     "laxiee"
+    ],
+    "from": "2026-08-29",
+    "to": "2026-08-29",
+    "n": 1
+   },
+   {
+    "five": [
+     "BnTeT",
+     "Gratisfaction",
+     "PokemoN",
+     "adeX",
+     "shadiy"
+    ],
+    "from": "2026-08-30",
+    "to": "2026-08-30",
+    "n": 1
+   },
+   {
+    "five": [
+     "Bloody",
+     "PokemoN",
+     "adeX",
+     "laxiee",
+     "shadiy"
+    ],
+    "from": "2026-10-07",
+    "to": "2026-10-31",
+    "n": 16
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-26",
+    "in": [
+     "shadiy"
+    ],
+    "out": [
+     "Gratisfaction"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-26"
+   },
+   {
+    "date": "2026-08-27",
+    "in": [
+     "Gratisfaction"
+    ],
+    "out": [
+     "laxiee"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-08-28"
+   },
+   {
+    "date": "2026-08-29",
+    "in": [
+     "laxiee"
+    ],
+    "out": [
+     "shadiy"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-29"
+   },
+   {
+    "date": "2026-08-30",
+    "in": [
+     "shadiy"
+    ],
+    "out": [
+     "laxiee"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-30"
+   },
+   {
+    "date": "2026-10-07",
+    "in": [
+     "Bloody",
+     "laxiee"
+    ],
+    "out": [
+     "BnTeT",
+     "Gratisfaction"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 16,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "Omega": {
+  "rank_nov": 93,
+  "matches": 38,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "Aldikon",
+     "Botpa1",
+     "adai",
+     "dan4o",
+     "def1zer"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-10-31",
+    "n": 38
+   }
+  ],
+  "events": []
+ },
+ "Bounty Hunters": {
+  "rank_nov": 94,
+  "matches": 64,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "KAISER",
+     "fREQ",
+     "pepe",
+     "ponter",
+     "zock"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-07-29",
+    "n": 28
+   },
+   {
+    "five": [
+     "KAISER",
+     "pepe",
+     "ponter",
+     "urban0",
+     "zock"
+    ],
+    "from": "2026-08-25",
+    "to": "2026-10-08",
+    "n": 30
+   },
+   {
+    "five": [
+     "JLK",
+     "KAISER",
+     "pepe",
+     "ponter",
+     "zock"
+    ],
+    "from": "2026-10-10",
+    "to": "2026-10-10",
+    "n": 1
+   },
+   {
+    "five": [
+     "JLK",
+     "KAISER",
+     "ponter",
+     "urban0",
+     "zock"
+    ],
+    "from": "2026-10-11",
+    "to": "2026-10-11",
+    "n": 1
+   },
+   {
+    "five": [
+     "KAISER",
+     "pepe",
+     "ponter",
+     "urban0",
+     "zock"
+    ],
+    "from": "2026-10-12",
+    "to": "2026-10-31",
+    "n": 4
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-25",
+    "in": [
+     "urban0"
+    ],
+    "out": [
+     "fREQ"
+    ],
+    "kind": "permanent",
+    "run_matches": 30,
+    "run_until": "2026-10-08"
+   },
+   {
+    "date": "2026-10-10",
+    "in": [
+     "JLK"
+    ],
+    "out": [
+     "urban0"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-10"
+   },
+   {
+    "date": "2026-10-11",
+    "in": [
+     "urban0"
+    ],
+    "out": [
+     "pepe"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-11"
+   },
+   {
+    "date": "2026-10-12",
+    "in": [
+     "pepe"
+    ],
+    "out": [
+     "JLK"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 4,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "CYBERSHOKE": {
+  "rank_nov": 95,
+  "matches": 23,
+  "first": "2026-07-19",
+  "runs": [
+   {
+    "five": [
+     "Alkaren",
+     "Mokuj1n",
+     "alpha",
+     "bl1x1",
+     "glowiing"
+    ],
+    "from": "2026-07-19",
+    "to": "2026-08-08",
+    "n": 14
+   },
+   {
+    "five": [
+     "Alkaren",
+     "H4SAN4TOR",
+     "Mokuj1n",
+     "alpha",
+     "nota"
+    ],
+    "from": "2026-08-24",
+    "to": "2026-09-16",
+    "n": 9
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-24",
+    "in": [
+     "H4SAN4TOR",
+     "nota"
+    ],
+    "out": [
+     "bl1x1",
+     "glowiing"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 9,
+    "run_until": "2026-09-16"
+   }
+  ]
+ },
+ "BAKS": {
+  "rank_nov": 96,
+  "matches": 44,
+  "first": "2026-07-28",
+  "runs": [
+   {
+    "five": [
+     "Norwi",
+     "danistzz",
+     "turbo",
+     "whisper",
+     "xdENiSZERA"
+    ],
+    "from": "2026-07-28",
+    "to": "2026-10-20",
+    "n": 36
+   },
+   {
+    "five": [
+     "Norwi",
+     "danistzz",
+     "glowiing",
+     "turbo",
+     "whisper"
+    ],
+    "from": "2026-10-21",
+    "to": "2026-10-31",
+    "n": 8
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-10-21",
+    "in": [
+     "glowiing"
+    ],
+    "out": [
+     "xdENiSZERA"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 8,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "Spirit Academy": {
+  "rank_nov": 97,
+  "matches": 51,
+  "first": "2026-06-07",
+  "runs": [
+   {
+    "five": [
+     "Kiryasoo",
+     "VILBy",
+     "kidofpain",
+     "mazay",
+     "s1nside"
+    ],
+    "from": "2026-06-07",
+    "to": "2026-06-18",
+    "n": 2
+   },
+   {
+    "five": [
+     "Kiryasoo",
+     "Netrix",
+     "VILBy",
+     "k0gaSs",
+     "s1nside"
+    ],
+    "from": "2026-07-17",
+    "to": "2026-09-27",
+    "n": 28
+   },
+   {
+    "five": [
+     "Flash_1",
+     "Kiryasoo",
+     "Netrix",
+     "k0gaSs",
+     "s1nside"
+    ],
+    "from": "2026-09-29",
+    "to": "2026-09-29",
+    "n": 1
+   },
+   {
+    "five": [
+     "Kiryasoo",
+     "Netrix",
+     "VILBy",
+     "k0gaSs",
+     "s1nside"
+    ],
+    "from": "2026-10-01",
+    "to": "2026-10-31",
+    "n": 20
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-17",
+    "in": [
+     "Netrix",
+     "k0gaSs"
+    ],
+    "out": [
+     "kidofpain",
+     "mazay"
+    ],
+    "kind": "permanent",
+    "run_matches": 28,
+    "run_until": "2026-09-27"
+   },
+   {
+    "date": "2026-09-29",
+    "in": [
+     "Flash_1"
+    ],
+    "out": [
+     "VILBy"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-09-29"
+   },
+   {
+    "date": "2026-10-01",
+    "in": [
+     "VILBy"
+    ],
+    "out": [
+     "Flash_1"
+    ],
+    "kind": "permanent",
+    "run_matches": 20,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "BET-M": {
+  "rank_nov": 98,
+  "matches": 52,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "KIRO",
+     "bluewh1te",
+     "executor",
+     "kinqie",
+     "z1Nny"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-06-19",
+    "n": 9
+   },
+   {
+    "five": [
+     "bluewh1te",
+     "executor",
+     "kinqie",
+     "sugaR",
+     "z1Nny"
+    ],
+    "from": "2026-07-19",
+    "to": "2026-07-19",
+    "n": 1
+   },
+   {
+    "five": [
+     "bluewh1te",
+     "executor",
+     "kinqie",
+     "shalfey",
+     "z1Nny"
+    ],
+    "from": "2026-07-21",
+    "to": "2026-07-21",
+    "n": 1
+   },
+   {
+    "five": [
+     "bluewh1te",
+     "executor",
+     "kinqie",
+     "sugaR",
+     "z1Nny"
+    ],
+    "from": "2026-07-23",
+    "to": "2026-07-23",
+    "n": 1
+   },
+   {
+    "five": [
+     "bluewh1te",
+     "executor",
+     "kinqie",
+     "la3euka",
+     "z1Nny"
+    ],
+    "from": "2026-07-25",
+    "to": "2026-07-25",
+    "n": 1
+   },
+   {
+    "five": [
+     "bluewh1te",
+     "executor",
+     "fluffy",
+     "kinqie",
+     "z1Nny"
+    ],
+    "from": "2026-07-28",
+    "to": "2026-07-28",
+    "n": 3
+   },
+   {
+    "five": [
+     "Wierd_1k",
+     "bluewh1te",
+     "executor",
+     "kinqie",
+     "z1Nny"
+    ],
+    "from": "2026-07-28",
+    "to": "2026-07-29",
+    "n": 2
+   },
+   {
+    "five": [
+     "bluewh1te",
+     "executor",
+     "kinqie",
+     "saizius",
+     "z1Nny"
+    ],
+    "from": "2026-08-06",
+    "to": "2026-08-08",
+    "n": 3
+   },
+   {
+    "five": [
+     "Raijin",
+     "bluewh1te",
+     "executor",
+     "synyx",
+     "z1Nny"
+    ],
+    "from": "2026-08-21",
+    "to": "2026-10-08",
+    "n": 25
+   },
+   {
+    "five": [
+     "Raijin",
+     "bluewh1te",
+     "executor",
+     "kurosse",
+     "z1Nny"
+    ],
+    "from": "2026-10-11",
+    "to": "2026-10-11",
+    "n": 1
+   },
+   {
+    "five": [
+     "Patsi",
+     "Raijin",
+     "bluewh1te",
+     "executor",
+     "z1Nny"
+    ],
+    "from": "2026-10-14",
+    "to": "2026-10-18",
+    "n": 3
+   },
+   {
+    "five": [
+     "Raijin",
+     "bluewh1te",
+     "executor",
+     "kurosse",
+     "z1Nny"
+    ],
+    "from": "2026-10-21",
+    "to": "2026-10-22",
+    "n": 2
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-19",
+    "in": [
+     "sugaR"
+    ],
+    "out": [
+     "KIRO"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-07-19"
+   },
+   {
+    "date": "2026-07-21",
+    "in": [
+     "shalfey"
+    ],
+    "out": [
+     "sugaR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-21"
+   },
+   {
+    "date": "2026-07-23",
+    "in": [
+     "sugaR"
+    ],
+    "out": [
+     "shalfey"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-07-23"
+   },
+   {
+    "date": "2026-07-25",
+    "in": [
+     "la3euka"
+    ],
+    "out": [
+     "sugaR"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-07-25"
+   },
+   {
+    "date": "2026-07-28",
+    "in": [
+     "fluffy"
+    ],
+    "out": [
+     "la3euka"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-07-28"
+   },
+   {
+    "date": "2026-07-28",
+    "in": [
+     "Wierd_1k"
+    ],
+    "out": [
+     "fluffy"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-07-29"
+   },
+   {
+    "date": "2026-08-06",
+    "in": [
+     "saizius"
+    ],
+    "out": [
+     "Wierd_1k"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-08-08"
+   },
+   {
+    "date": "2026-08-21",
+    "in": [
+     "Raijin",
+     "synyx"
+    ],
+    "out": [
+     "kinqie",
+     "saizius"
+    ],
+    "kind": "permanent",
+    "run_matches": 25,
+    "run_until": "2026-10-08"
+   },
+   {
+    "date": "2026-10-11",
+    "in": [
+     "kurosse"
+    ],
+    "out": [
+     "synyx"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-10-11"
+   },
+   {
+    "date": "2026-10-14",
+    "in": [
+     "Patsi"
+    ],
+    "out": [
+     "kurosse"
+    ],
+    "kind": "stand-in",
+    "run_matches": 3,
+    "run_until": "2026-10-18"
+   },
+   {
+    "date": "2026-10-21",
+    "in": [
+     "kurosse"
+    ],
+    "out": [
+     "Patsi"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 2,
+    "run_until": "2026-10-22"
+   }
+  ]
+ },
+ "ASTRAL": {
+  "rank_nov": 99,
+  "matches": 57,
+  "first": "2026-05-18",
+  "runs": [
+   {
+    "five": [
+     "Neqy",
+     "RaY5ive",
+     "gxx-",
+     "meowpop",
+     "swiz"
+    ],
+    "from": "2026-05-18",
+    "to": "2026-10-20",
+    "n": 57
+   }
+  ],
+  "events": []
+ },
+ "9INE": {
+  "rank_nov": 100,
+  "matches": 28,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "adamS",
+     "flayy",
+     "kraghen",
+     "notineki",
+     "raalz"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-05-08",
+    "n": 1
+   },
+   {
+    "five": [
+     "St0m4k",
+     "b1elany",
+     "cej0t",
+     "flayy",
+     "raalz"
+    ],
+    "from": "2026-06-23",
+    "to": "2026-06-25",
+    "n": 3
+   },
+   {
+    "five": [
+     "St0m4k",
+     "b1elany",
+     "flayy",
+     "kraghen",
+     "raalz"
+    ],
+    "from": "2026-08-02",
+    "to": "2026-08-09",
+    "n": 8
+   },
+   {
+    "five": [
+     "b1elany",
+     "flayy",
+     "kraghen",
+     "raalz",
+     "rim3"
+    ],
+    "from": "2026-08-28",
+    "to": "2026-09-25",
+    "n": 8
+   },
+   {
+    "five": [
+     "b1elany",
+     "flayy",
+     "kraghen",
+     "raalz",
+     "rigoN"
+    ],
+    "from": "2026-10-02",
+    "to": "2026-10-02",
+    "n": 5
+   },
+   {
+    "five": [
+     "b1elany",
+     "flayy",
+     "kraghen",
+     "raalz",
+     "rim3"
+    ],
+    "from": "2026-10-19",
+    "to": "2026-10-19",
+    "n": 1
+   },
+   {
+    "five": [
+     "anber",
+     "b1elany",
+     "flayy",
+     "kraghen",
+     "raalz"
+    ],
+    "from": "2026-10-29",
+    "to": "2026-10-31",
+    "n": 2
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-23",
+    "in": [
+     "St0m4k",
+     "b1elany",
+     "cej0t"
+    ],
+    "out": [
+     "adamS",
+     "kraghen",
+     "notineki"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-06-25"
+   },
+   {
+    "date": "2026-08-02",
+    "in": [
+     "kraghen"
+    ],
+    "out": [
+     "cej0t"
+    ],
+    "kind": "permanent",
+    "run_matches": 8,
+    "run_until": "2026-08-09"
+   },
+   {
+    "date": "2026-08-28",
+    "in": [
+     "rim3"
+    ],
+    "out": [
+     "St0m4k"
+    ],
+    "kind": "permanent",
+    "run_matches": 8,
+    "run_until": "2026-09-25"
+   },
+   {
+    "date": "2026-10-02",
+    "in": [
+     "rigoN"
+    ],
+    "out": [
+     "rim3"
+    ],
+    "kind": "stand-in",
+    "run_matches": 5,
+    "run_until": "2026-10-02"
+   },
+   {
+    "date": "2026-10-19",
+    "in": [
+     "rim3"
+    ],
+    "out": [
+     "rigoN"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-10-19"
+   },
+   {
+    "date": "2026-10-29",
+    "in": [
+     "anber"
+    ],
+    "out": [
+     "rim3"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 2,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "LAG": {
+  "rank_nov": 101,
+  "matches": 46,
+  "first": "2026-05-30",
+  "runs": [
+   {
+    "five": [
+     "Cryptic",
+     "Sandman",
+     "djay",
+     "kmrn",
+     "nicx"
+    ],
+    "from": "2026-05-30",
+    "to": "2026-05-30",
+    "n": 5
+   },
+   {
+    "five": [
+     "Cryptic",
+     "Sandman",
+     "consti",
+     "djay",
+     "kmrn"
+    ],
+    "from": "2026-06-06",
+    "to": "2026-06-12",
+    "n": 2
+   },
+   {
+    "five": [
+     "Bwills",
+     "Cryptic",
+     "SLIGHT",
+     "Sandman",
+     "djay"
+    ],
+    "from": "2026-07-09",
+    "to": "2026-09-05",
+    "n": 12
+   },
+   {
+    "five": [
+     "Bwills",
+     "SLIGHT",
+     "Sandman",
+     "djay",
+     "xaler"
+    ],
+    "from": "2026-09-06",
+    "to": "2026-09-06",
+    "n": 1
+   },
+   {
+    "five": [
+     "Bwills",
+     "Cryptic",
+     "SLIGHT",
+     "Sandman",
+     "djay"
+    ],
+    "from": "2026-09-10",
+    "to": "2026-11-01",
+    "n": 26
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-06",
+    "in": [
+     "consti"
+    ],
+    "out": [
+     "nicx"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-06-12"
+   },
+   {
+    "date": "2026-07-09",
+    "in": [
+     "Bwills",
+     "SLIGHT"
+    ],
+    "out": [
+     "consti",
+     "kmrn"
+    ],
+    "kind": "permanent",
+    "run_matches": 12,
+    "run_until": "2026-09-05"
+   },
+   {
+    "date": "2026-09-06",
+    "in": [
+     "xaler"
+    ],
+    "out": [
+     "Cryptic"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-09-06"
+   },
+   {
+    "date": "2026-09-10",
+    "in": [
+     "Cryptic"
+    ],
+    "out": [
+     "xaler"
+    ],
+    "kind": "permanent",
+    "run_matches": 26,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "GenOne": {
+  "rank_nov": 102,
+  "matches": 99,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "Brooxsy",
+     "Chucky",
+     "Djoko",
+     "Keoz",
+     "bL4SEZ"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-06-08",
+    "n": 31
+   },
+   {
+    "five": [
+     "Brooxsy",
+     "Chucky",
+     "Keoz",
+     "bL4SEZ",
+     "cHeuuuuk"
+    ],
+    "from": "2026-06-09",
+    "to": "2026-06-09",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brooxsy",
+     "Chucky",
+     "Djoko",
+     "Keoz",
+     "bL4SEZ"
+    ],
+    "from": "2026-06-11",
+    "to": "2026-07-09",
+    "n": 8
+   },
+   {
+    "five": [
+     "Brooxsy",
+     "Chucky",
+     "Djoko",
+     "Keoz",
+     "cHeuuuuk"
+    ],
+    "from": "2026-07-09",
+    "to": "2026-07-09",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brooxsy",
+     "Chucky",
+     "Djoko",
+     "Keoz",
+     "bL4SEZ"
+    ],
+    "from": "2026-07-12",
+    "to": "2026-09-26",
+    "n": 47
+   },
+   {
+    "five": [
+     "Brooxsy",
+     "Djoko",
+     "Keoz",
+     "SIXER",
+     "bL4SEZ"
+    ],
+    "from": "2026-10-11",
+    "to": "2026-10-30",
+    "n": 11
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-09",
+    "in": [
+     "cHeuuuuk"
+    ],
+    "out": [
+     "Djoko"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-06-09"
+   },
+   {
+    "date": "2026-06-11",
+    "in": [
+     "Djoko"
+    ],
+    "out": [
+     "cHeuuuuk"
+    ],
+    "kind": "stand-in",
+    "run_matches": 8,
+    "run_until": "2026-07-09"
+   },
+   {
+    "date": "2026-07-09",
+    "in": [
+     "cHeuuuuk"
+    ],
+    "out": [
+     "bL4SEZ"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-09"
+   },
+   {
+    "date": "2026-07-12",
+    "in": [
+     "bL4SEZ"
+    ],
+    "out": [
+     "cHeuuuuk"
+    ],
+    "kind": "permanent",
+    "run_matches": 47,
+    "run_until": "2026-09-26"
+   },
+   {
+    "date": "2026-10-11",
+    "in": [
+     "SIXER"
+    ],
+    "out": [
+     "Chucky"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 11,
+    "run_until": "2026-10-30"
+   }
+  ]
+ },
+ "WBT Academy": {
+  "rank_nov": 103,
+  "matches": 50,
+  "first": "2026-07-01",
+  "runs": [
+   {
+    "five": [
+     "NxStep",
+     "fl1peR",
+     "marat2k",
+     "svemyy",
+     "tired73"
+    ],
+    "from": "2026-07-01",
+    "to": "2026-09-11",
+    "n": 33
+   },
+   {
+    "five": [
+     "L1seYoung",
+     "NxStep",
+     "fl1peR",
+     "svemyy",
+     "tired73"
+    ],
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "n": 1
+   },
+   {
+    "five": [
+     "NxStep",
+     "fl1peR",
+     "marat2k",
+     "svemyy",
+     "tired73"
+    ],
+    "from": "2026-09-13",
+    "to": "2026-10-09",
+    "n": 7
+   },
+   {
+    "five": [
+     "NxStep",
+     "OneUn1que",
+     "fl1peR",
+     "svemyy",
+     "tired73"
+    ],
+    "from": "2026-10-10",
+    "to": "2026-10-10",
+    "n": 1
+   },
+   {
+    "five": [
+     "NxStep",
+     "fl1peR",
+     "marat2k",
+     "svemyy",
+     "tired73"
+    ],
+    "from": "2026-10-22",
+    "to": "2026-10-23",
+    "n": 3
+   },
+   {
+    "five": [
+     "NxStep",
+     "fl1peR",
+     "kL1o",
+     "marat2k",
+     "tired73"
+    ],
+    "from": "2026-10-29",
+    "to": "2026-11-01",
+    "n": 5
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-12",
+    "in": [
+     "L1seYoung"
+    ],
+    "out": [
+     "marat2k"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-09-12"
+   },
+   {
+    "date": "2026-09-13",
+    "in": [
+     "marat2k"
+    ],
+    "out": [
+     "L1seYoung"
+    ],
+    "kind": "permanent",
+    "run_matches": 7,
+    "run_until": "2026-10-09"
+   },
+   {
+    "date": "2026-10-10",
+    "in": [
+     "OneUn1que"
+    ],
+    "out": [
+     "marat2k"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-10"
+   },
+   {
+    "date": "2026-10-22",
+    "in": [
+     "marat2k"
+    ],
+    "out": [
+     "OneUn1que"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-10-23"
+   },
+   {
+    "date": "2026-10-29",
+    "in": [
+     "kL1o"
+    ],
+    "out": [
+     "svemyy"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 5,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "The Huns": {
+  "rank_nov": 104,
+  "matches": 45,
+  "first": "2026-06-25",
+  "runs": [
+   {
+    "five": [
+     "Annihilation",
+     "Bart4k",
+     "bexyz",
+     "controlez",
+     "nin9"
+    ],
+    "from": "2026-06-25",
+    "to": "2026-09-02",
+    "n": 23
+   },
+   {
+    "five": [
+     "Annihilation",
+     "Bart4k",
+     "Cozen",
+     "bexyz",
+     "nin9"
+    ],
+    "from": "2026-09-09",
+    "to": "2026-09-09",
+    "n": 2
+   },
+   {
+    "five": [
+     "Bart4k",
+     "Cozen",
+     "bexyz",
+     "controlez",
+     "nin9"
+    ],
+    "from": "2026-09-22",
+    "to": "2026-09-22",
+    "n": 1
+   },
+   {
+    "five": [
+     "Annihilation",
+     "Bart4k",
+     "Cozen",
+     "controlez",
+     "nin9"
+    ],
+    "from": "2026-09-23",
+    "to": "2026-09-28",
+    "n": 5
+   },
+   {
+    "five": [
+     "Annihilation",
+     "Bart4k",
+     "Cozen",
+     "bexyz",
+     "controlez"
+    ],
+    "from": "2026-09-30",
+    "to": "2026-10-04",
+    "n": 6
+   },
+   {
+    "five": [
+     "Bart4k",
+     "Cozen",
+     "DarkMeister",
+     "bexyz",
+     "controlez"
+    ],
+    "from": "2026-10-07",
+    "to": "2026-11-01",
+    "n": 8
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-09-09",
+    "in": [
+     "Cozen"
+    ],
+    "out": [
+     "controlez"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-09"
+   },
+   {
+    "date": "2026-09-22",
+    "in": [
+     "controlez"
+    ],
+    "out": [
+     "Annihilation"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-09-22"
+   },
+   {
+    "date": "2026-09-23",
+    "in": [
+     "Annihilation"
+    ],
+    "out": [
+     "bexyz"
+    ],
+    "kind": "stand-in",
+    "run_matches": 5,
+    "run_until": "2026-09-28"
+   },
+   {
+    "date": "2026-09-30",
+    "in": [
+     "bexyz"
+    ],
+    "out": [
+     "nin9"
+    ],
+    "kind": "permanent",
+    "run_matches": 6,
+    "run_until": "2026-10-04"
+   },
+   {
+    "date": "2026-10-07",
+    "in": [
+     "DarkMeister"
+    ],
+    "out": [
+     "Annihilation"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 8,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "Sashi": {
+  "rank_nov": 105,
+  "matches": 36,
+  "first": "2026-07-30",
+  "runs": [
+   {
+    "five": [
+     "Anlelele",
+     "Cabbi",
+     "MistR",
+     "Zyphon",
+     "acoR"
+    ],
+    "from": "2026-07-30",
+    "to": "2026-08-09",
+    "n": 13
+   },
+   {
+    "five": [
+     "Anlelele",
+     "Cabbi",
+     "HUNDEN",
+     "Zyphon",
+     "acoR"
+    ],
+    "from": "2026-08-27",
+    "to": "2026-08-27",
+    "n": 1
+   },
+   {
+    "five": [
+     "Anlelele",
+     "Cabbi",
+     "MistR",
+     "Zyphon",
+     "acoR"
+    ],
+    "from": "2026-08-28",
+    "to": "2026-10-02",
+    "n": 16
+   },
+   {
+    "five": [
+     "Anlelele",
+     "TjP",
+     "Zyphon",
+     "acoR",
+     "alexsomfan"
+    ],
+    "from": "2026-10-07",
+    "to": "2026-10-07",
+    "n": 1
+   },
+   {
+    "five": [
+     "Anlelele",
+     "Hatz",
+     "TjP",
+     "Zyphon",
+     "acoR"
+    ],
+    "from": "2026-10-14",
+    "to": "2026-10-19",
+    "n": 5
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-27",
+    "in": [
+     "HUNDEN"
+    ],
+    "out": [
+     "MistR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-27"
+   },
+   {
+    "date": "2026-08-28",
+    "in": [
+     "MistR"
+    ],
+    "out": [
+     "HUNDEN"
+    ],
+    "kind": "permanent",
+    "run_matches": 16,
+    "run_until": "2026-10-02"
+   },
+   {
+    "date": "2026-10-07",
+    "in": [
+     "TjP",
+     "alexsomfan"
+    ],
+    "out": [
+     "Cabbi",
+     "MistR"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-10-07"
+   },
+   {
+    "date": "2026-10-14",
+    "in": [
+     "Hatz"
+    ],
+    "out": [
+     "alexsomfan"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 5,
+    "run_until": "2026-10-19"
+   }
+  ]
+ },
+ "ex-RUSTEC": {
+  "rank_nov": 106,
+  "matches": 102,
+  "first": "2026-05-25",
+  "runs": [
+   {
+    "five": [
+     "Brilliance",
+     "anttzz",
+     "jakekeS",
+     "supra",
+     "youka"
+    ],
+    "from": "2026-05-25",
+    "to": "2026-06-11",
+    "n": 11
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "anttzz",
+     "jakekeS",
+     "youka"
+    ],
+    "from": "2026-06-13",
+    "to": "2026-06-13",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "anttzz",
+     "jakekeS",
+     "supra",
+     "youka"
+    ],
+    "from": "2026-06-15",
+    "to": "2026-06-15",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "jakekeS",
+     "supra",
+     "totsamiy",
+     "yiksrezo"
+    ],
+    "from": "2026-07-09",
+    "to": "2026-07-09",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-07-13",
+    "to": "2026-07-13",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "supra",
+     "yiksrezo"
+    ],
+    "from": "2026-07-21",
+    "to": "2026-07-21",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-07-23",
+    "to": "2026-07-25",
+    "n": 4
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "sugaR",
+     "youka"
+    ],
+    "from": "2026-07-27",
+    "to": "2026-07-27",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-07-27",
+    "to": "2026-07-28",
+    "n": 4
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "sugaR",
+     "youka"
+    ],
+    "from": "2026-07-29",
+    "to": "2026-07-29",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-07-29",
+    "to": "2026-07-29",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "sugaR",
+     "youka"
+    ],
+    "from": "2026-07-30",
+    "to": "2026-07-30",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-07-30",
+    "to": "2026-07-30",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "sugaR",
+     "youka"
+    ],
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "shalfey",
+     "youka"
+    ],
+    "from": "2026-07-31",
+    "to": "2026-07-31",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-08-01",
+    "to": "2026-08-01",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "shalfey",
+     "youka"
+    ],
+    "from": "2026-08-02",
+    "to": "2026-08-02",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-08-03",
+    "to": "2026-08-03",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "shalfey",
+     "youka"
+    ],
+    "from": "2026-08-04",
+    "to": "2026-08-04",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-08-05",
+    "to": "2026-08-05",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "shalfey",
+     "youka"
+    ],
+    "from": "2026-08-06",
+    "to": "2026-08-13",
+    "n": 4
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "bl1x1",
+     "jakekeS",
+     "youka"
+    ],
+    "from": "2026-08-16",
+    "to": "2026-08-16",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "kAlash",
+     "youka"
+    ],
+    "from": "2026-08-16",
+    "to": "2026-08-16",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "bl1x1",
+     "jakekeS",
+     "youka"
+    ],
+    "from": "2026-08-17",
+    "to": "2026-08-17",
+    "n": 2
+   },
+   {
+    "five": [
+     "Brilliance",
+     "Patsi",
+     "jakekeS",
+     "shalfey",
+     "youka"
+    ],
+    "from": "2026-08-18",
+    "to": "2026-08-31",
+    "n": 14
+   },
+   {
+    "five": [
+     "Brilliance",
+     "jakekeS",
+     "shalfey",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-09-07",
+    "to": "2026-09-07",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "jakekeS",
+     "rehard",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-09-08",
+    "to": "2026-09-13",
+    "n": 2
+   },
+   {
+    "five": [
+     "Brilliance",
+     "KIRO",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-09-14",
+    "to": "2026-09-14",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "jakekeS",
+     "shalfey",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-09-16",
+    "to": "2026-09-22",
+    "n": 9
+   },
+   {
+    "five": [
+     "Brilliance",
+     "glowiing",
+     "shalfey",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-09-24",
+    "to": "2026-09-27",
+    "n": 5
+   },
+   {
+    "five": [
+     "Brilliance",
+     "glowiing",
+     "jakekeS",
+     "shalfey",
+     "youka"
+    ],
+    "from": "2026-09-29",
+    "to": "2026-10-07",
+    "n": 6
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "relaxxie",
+     "shalfey",
+     "youka"
+    ],
+    "from": "2026-10-11",
+    "to": "2026-10-12",
+    "n": 4
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "shalfey",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-10-14",
+    "to": "2026-10-14",
+    "n": 2
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "relaxxie",
+     "shalfey",
+     "youka"
+    ],
+    "from": "2026-10-16",
+    "to": "2026-10-16",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "shalfey",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-10-16",
+    "to": "2026-10-16",
+    "n": 2
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "relaxxie",
+     "shalfey",
+     "youka"
+    ],
+    "from": "2026-10-17",
+    "to": "2026-10-18",
+    "n": 2
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "shalfey",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-10-18",
+    "to": "2026-10-18",
+    "n": 2
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-10-20",
+    "to": "2026-10-20",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "relaxxie",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-10-20",
+    "to": "2026-10-20",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-10-23",
+    "to": "2026-10-23",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "shalfey",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-10-23",
+    "to": "2026-10-23",
+    "n": 1
+   },
+   {
+    "five": [
+     "Brilliance",
+     "bl1x1",
+     "jakekeS",
+     "yiksrezo",
+     "youka"
+    ],
+    "from": "2026-10-25",
+    "to": "2026-10-28",
+    "n": 3
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-13",
+    "in": [
+     "Patsi"
+    ],
+    "out": [
+     "supra"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-06-13"
+   },
+   {
+    "date": "2026-06-15",
+    "in": [
+     "supra"
+    ],
+    "out": [
+     "Patsi"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-06-15"
+   },
+   {
+    "date": "2026-07-09",
+    "in": [
+     "totsamiy",
+     "yiksrezo"
+    ],
+    "out": [
+     "anttzz",
+     "youka"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-07-09"
+   },
+   {
+    "date": "2026-07-13",
+    "in": [
+     "Patsi",
+     "youka"
+    ],
+    "out": [
+     "supra",
+     "totsamiy"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-07-13"
+   },
+   {
+    "date": "2026-07-21",
+    "in": [
+     "supra"
+    ],
+    "out": [
+     "youka"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-21"
+   },
+   {
+    "date": "2026-07-23",
+    "in": [
+     "youka"
+    ],
+    "out": [
+     "supra"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-07-25"
+   },
+   {
+    "date": "2026-07-27",
+    "in": [
+     "sugaR"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-27"
+   },
+   {
+    "date": "2026-07-27",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "sugaR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 4,
+    "run_until": "2026-07-28"
+   },
+   {
+    "date": "2026-07-29",
+    "in": [
+     "sugaR"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-29"
+   },
+   {
+    "date": "2026-07-29",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "sugaR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-29"
+   },
+   {
+    "date": "2026-07-30",
+    "in": [
+     "sugaR"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-30"
+   },
+   {
+    "date": "2026-07-30",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "sugaR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-30"
+   },
+   {
+    "date": "2026-07-31",
+    "in": [
+     "sugaR"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-31"
+   },
+   {
+    "date": "2026-07-31",
+    "in": [
+     "shalfey"
+    ],
+    "out": [
+     "sugaR"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-07-31"
+   },
+   {
+    "date": "2026-08-01",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "shalfey"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-01"
+   },
+   {
+    "date": "2026-08-02",
+    "in": [
+     "shalfey"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-02"
+   },
+   {
+    "date": "2026-08-03",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "shalfey"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-03"
+   },
+   {
+    "date": "2026-08-04",
+    "in": [
+     "shalfey"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-04"
+   },
+   {
+    "date": "2026-08-05",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "shalfey"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-05"
+   },
+   {
+    "date": "2026-08-06",
+    "in": [
+     "shalfey"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 4,
+    "run_until": "2026-08-13"
+   },
+   {
+    "date": "2026-08-16",
+    "in": [
+     "bl1x1"
+    ],
+    "out": [
+     "shalfey"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-16"
+   },
+   {
+    "date": "2026-08-16",
+    "in": [
+     "kAlash"
+    ],
+    "out": [
+     "bl1x1"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-16"
+   },
+   {
+    "date": "2026-08-17",
+    "in": [
+     "bl1x1"
+    ],
+    "out": [
+     "kAlash"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-08-17"
+   },
+   {
+    "date": "2026-08-18",
+    "in": [
+     "shalfey"
+    ],
+    "out": [
+     "bl1x1"
+    ],
+    "kind": "stand-in",
+    "run_matches": 14,
+    "run_until": "2026-08-31"
+   },
+   {
+    "date": "2026-09-07",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "Patsi"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-09-07"
+   },
+   {
+    "date": "2026-09-08",
+    "in": [
+     "rehard"
+    ],
+    "out": [
+     "shalfey"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-13"
+   },
+   {
+    "date": "2026-09-14",
+    "in": [
+     "KIRO"
+    ],
+    "out": [
+     "rehard"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-09-14"
+   },
+   {
+    "date": "2026-09-16",
+    "in": [
+     "shalfey"
+    ],
+    "out": [
+     "KIRO"
+    ],
+    "kind": "permanent",
+    "run_matches": 9,
+    "run_until": "2026-09-22"
+   },
+   {
+    "date": "2026-09-24",
+    "in": [
+     "glowiing"
+    ],
+    "out": [
+     "jakekeS"
+    ],
+    "kind": "stand-in",
+    "run_matches": 5,
+    "run_until": "2026-09-27"
+   },
+   {
+    "date": "2026-09-29",
+    "in": [
+     "jakekeS"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 6,
+    "run_until": "2026-10-07"
+   },
+   {
+    "date": "2026-10-11",
+    "in": [
+     "bl1x1",
+     "relaxxie"
+    ],
+    "out": [
+     "glowiing",
+     "jakekeS"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-10-12"
+   },
+   {
+    "date": "2026-10-14",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "relaxxie"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-10-14"
+   },
+   {
+    "date": "2026-10-16",
+    "in": [
+     "relaxxie"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-16"
+   },
+   {
+    "date": "2026-10-16",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "relaxxie"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-10-16"
+   },
+   {
+    "date": "2026-10-17",
+    "in": [
+     "relaxxie"
+    ],
+    "out": [
+     "yiksrezo"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-10-18"
+   },
+   {
+    "date": "2026-10-18",
+    "in": [
+     "yiksrezo"
+    ],
+    "out": [
+     "relaxxie"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-10-18"
+   },
+   {
+    "date": "2026-10-20",
+    "in": [
+     "jakekeS"
+    ],
+    "out": [
+     "shalfey"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-20"
+   },
+   {
+    "date": "2026-10-20",
+    "in": [
+     "relaxxie"
+    ],
+    "out": [
+     "jakekeS"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-20"
+   },
+   {
+    "date": "2026-10-23",
+    "in": [
+     "jakekeS"
+    ],
+    "out": [
+     "relaxxie"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-10-23"
+   },
+   {
+    "date": "2026-10-23",
+    "in": [
+     "shalfey"
+    ],
+    "out": [
+     "jakekeS"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-23"
+   },
+   {
+    "date": "2026-10-25",
+    "in": [
+     "jakekeS"
+    ],
+    "out": [
+     "shalfey"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 3,
+    "run_until": "2026-10-28"
+   }
+  ]
+ },
+ "ENCE": {
+  "rank_nov": 107,
+  "matches": 58,
+  "first": "2026-05-23",
+  "runs": [
+   {
+    "five": [
+     "Cliqq",
+     "HENU",
+     "Schwarz",
+     "millert",
+     "teme"
+    ],
+    "from": "2026-05-23",
+    "to": "2026-07-14",
+    "n": 13
+   },
+   {
+    "five": [
+     "HENU",
+     "joeski",
+     "millert",
+     "myltsi",
+     "teme"
+    ],
+    "from": "2026-07-19",
+    "to": "2026-07-19",
+    "n": 1
+   },
+   {
+    "five": [
+     "Cliqq",
+     "HENU",
+     "Schwarz",
+     "millert",
+     "teme"
+    ],
+    "from": "2026-07-30",
+    "to": "2026-08-01",
+    "n": 5
+   },
+   {
+    "five": [
+     "HENU",
+     "Schwarz",
+     "joeski",
+     "millert",
+     "teme"
+    ],
+    "from": "2026-08-13",
+    "to": "2026-08-15",
+    "n": 3
+   },
+   {
+    "five": [
+     "HENU",
+     "allu",
+     "joeski",
+     "millert",
+     "teme"
+    ],
+    "from": "2026-08-16",
+    "to": "2026-08-16",
+    "n": 1
+   },
+   {
+    "five": [
+     "HENU",
+     "Schwarz",
+     "joeski",
+     "millert",
+     "teme"
+    ],
+    "from": "2026-08-17",
+    "to": "2026-10-17",
+    "n": 35
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-19",
+    "in": [
+     "joeski",
+     "myltsi"
+    ],
+    "out": [
+     "Cliqq",
+     "Schwarz"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-19"
+   },
+   {
+    "date": "2026-07-30",
+    "in": [
+     "Cliqq",
+     "Schwarz"
+    ],
+    "out": [
+     "joeski",
+     "myltsi"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-08-01"
+   },
+   {
+    "date": "2026-08-13",
+    "in": [
+     "joeski"
+    ],
+    "out": [
+     "Cliqq"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-08-15"
+   },
+   {
+    "date": "2026-08-16",
+    "in": [
+     "allu"
+    ],
+    "out": [
+     "Schwarz"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-16"
+   },
+   {
+    "date": "2026-08-17",
+    "in": [
+     "Schwarz"
+    ],
+    "out": [
+     "allu"
+    ],
+    "kind": "permanent",
+    "run_matches": 35,
+    "run_until": "2026-10-17"
+   }
+  ]
+ },
+ "WW": {
+  "rank_nov": 108,
+  "matches": 34,
+  "first": "2026-05-25",
+  "runs": [
+   {
+    "five": [
+     "StRoGo",
+     "ct0m",
+     "deko",
+     "kelieN",
+     "m3wsu"
+    ],
+    "from": "2026-05-25",
+    "to": "2026-05-30",
+    "n": 7
+   },
+   {
+    "five": [
+     "KENSI",
+     "ct0m",
+     "kelieN",
+     "m3wsu",
+     "tried"
+    ],
+    "from": "2026-06-19",
+    "to": "2026-06-19",
+    "n": 1
+   },
+   {
+    "five": [
+     "StRoGo",
+     "ct0m",
+     "deko",
+     "kelieN",
+     "m3wsu"
+    ],
+    "from": "2026-07-16",
+    "to": "2026-09-15",
+    "n": 15
+   },
+   {
+    "five": [
+     "Ryujin",
+     "StRoGo",
+     "kelieN",
+     "m3wsu",
+     "tried"
+    ],
+    "from": "2026-09-21",
+    "to": "2026-09-26",
+    "n": 5
+   },
+   {
+    "five": [
+     "Ryujin",
+     "StRoGo",
+     "enzero",
+     "kelieN",
+     "m3wsu"
+    ],
+    "from": "2026-09-29",
+    "to": "2026-09-29",
+    "n": 2
+   },
+   {
+    "five": [
+     "Ryujin",
+     "StRoGo",
+     "kelieN",
+     "m3wsu",
+     "tried"
+    ],
+    "from": "2026-10-20",
+    "to": "2026-10-22",
+    "n": 4
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-19",
+    "in": [
+     "KENSI",
+     "tried"
+    ],
+    "out": [
+     "StRoGo",
+     "deko"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-06-19"
+   },
+   {
+    "date": "2026-07-16",
+    "in": [
+     "StRoGo",
+     "deko"
+    ],
+    "out": [
+     "KENSI",
+     "tried"
+    ],
+    "kind": "permanent",
+    "run_matches": 15,
+    "run_until": "2026-09-15"
+   },
+   {
+    "date": "2026-09-21",
+    "in": [
+     "Ryujin",
+     "tried"
+    ],
+    "out": [
+     "ct0m",
+     "deko"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-09-26"
+   },
+   {
+    "date": "2026-09-29",
+    "in": [
+     "enzero"
+    ],
+    "out": [
+     "tried"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-29"
+   },
+   {
+    "date": "2026-10-20",
+    "in": [
+     "tried"
+    ],
+    "out": [
+     "enzero"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 4,
+    "run_until": "2026-10-22"
+   }
+  ]
+ },
+ "Just Players": {
+  "rank_nov": 109,
+  "matches": 95,
+  "first": "2026-05-14",
+  "runs": [
+   {
+    "five": [
+     "Something",
+     "h1te",
+     "sm3t",
+     "spirit",
+     "sstiNiX"
+    ],
+    "from": "2026-05-14",
+    "to": "2026-06-29",
+    "n": 18
+   },
+   {
+    "five": [
+     "em0k1d",
+     "h1te",
+     "sm3t",
+     "spirit",
+     "sstiNiX"
+    ],
+    "from": "2026-07-01",
+    "to": "2026-07-01",
+    "n": 1
+   },
+   {
+    "five": [
+     "h1te",
+     "reNIK",
+     "sm3t",
+     "spirit",
+     "sstiNiX"
+    ],
+    "from": "2026-07-06",
+    "to": "2026-07-22",
+    "n": 14
+   },
+   {
+    "five": [
+     "h1te",
+     "kAlash",
+     "reNIK",
+     "sm3t",
+     "sstiNiX"
+    ],
+    "from": "2026-07-23",
+    "to": "2026-07-23",
+    "n": 2
+   },
+   {
+    "five": [
+     "h1te",
+     "reNIK",
+     "sm3t",
+     "spirit",
+     "sstiNiX"
+    ],
+    "from": "2026-07-23",
+    "to": "2026-07-23",
+    "n": 1
+   },
+   {
+    "five": [
+     "h1te",
+     "kAlash",
+     "sm3t",
+     "spirit",
+     "sstiNiX"
+    ],
+    "from": "2026-07-25",
+    "to": "2026-07-25",
+    "n": 1
+   },
+   {
+    "five": [
+     "Something",
+     "h1te",
+     "sm3t",
+     "spirit",
+     "sstiNiX"
+    ],
+    "from": "2026-07-25",
+    "to": "2026-07-25",
+    "n": 1
+   },
+   {
+    "five": [
+     "h1te",
+     "kAlash",
+     "sm3t",
+     "spirit",
+     "sstiNiX"
+    ],
+    "from": "2026-07-27",
+    "to": "2026-08-03",
+    "n": 10
+   },
+   {
+    "five": [
+     "Something",
+     "h1te",
+     "sm3t",
+     "spirit",
+     "sstiNiX"
+    ],
+    "from": "2026-08-04",
+    "to": "2026-08-04",
+    "n": 1
+   },
+   {
+    "five": [
+     "h1te",
+     "kAlash",
+     "sm3t",
+     "spirit",
+     "sstiNiX"
+    ],
+    "from": "2026-08-04",
+    "to": "2026-08-04",
+    "n": 1
+   },
+   {
+    "five": [
+     "Something",
+     "h1te",
+     "sm3t",
+     "spirit",
+     "sstiNiX"
+    ],
+    "from": "2026-08-05",
+    "to": "2026-08-14",
+    "n": 4
+   },
+   {
+    "five": [
+     "Something",
+     "h1te",
+     "sm3t",
+     "sowalio",
+     "sstiNiX"
+    ],
+    "from": "2026-08-18",
+    "to": "2026-08-21",
+    "n": 2
+   },
+   {
+    "five": [
+     "Something",
+     "h1te",
+     "shg",
+     "sm3t",
+     "sstiNiX"
+    ],
+    "from": "2026-08-23",
+    "to": "2026-08-27",
+    "n": 3
+   },
+   {
+    "five": [
+     "D9D9VOLODYA",
+     "faydett",
+     "h1te",
+     "sm3t",
+     "sstiNiX"
+    ],
+    "from": "2026-08-28",
+    "to": "2026-08-29",
+    "n": 2
+   },
+   {
+    "five": [
+     "Something",
+     "h1te",
+     "shg",
+     "sm3t",
+     "sstiNiX"
+    ],
+    "from": "2026-09-01",
+    "to": "2026-09-01",
+    "n": 1
+   },
+   {
+    "five": [
+     "Something",
+     "bl1x1",
+     "h1te",
+     "sm3t",
+     "sstiNiX"
+    ],
+    "from": "2026-09-05",
+    "to": "2026-09-12",
+    "n": 4
+   },
+   {
+    "five": [
+     "Temny Prince",
+     "bl1x1",
+     "h1te",
+     "sm3t",
+     "sstiNiX"
+    ],
+    "from": "2026-09-15",
+    "to": "2026-09-24",
+    "n": 13
+   },
+   {
+    "five": [
+     "Temny Prince",
+     "h1te",
+     "sm3t",
+     "sstiNiX",
+     "wh1teout"
+    ],
+    "from": "2026-10-05",
+    "to": "2026-10-22",
+    "n": 16
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-01",
+    "in": [
+     "em0k1d"
+    ],
+    "out": [
+     "Something"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-01"
+   },
+   {
+    "date": "2026-07-06",
+    "in": [
+     "reNIK"
+    ],
+    "out": [
+     "em0k1d"
+    ],
+    "kind": "permanent",
+    "run_matches": 14,
+    "run_until": "2026-07-22"
+   },
+   {
+    "date": "2026-07-23",
+    "in": [
+     "kAlash"
+    ],
+    "out": [
+     "spirit"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-07-23"
+   },
+   {
+    "date": "2026-07-23",
+    "in": [
+     "spirit"
+    ],
+    "out": [
+     "kAlash"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-23"
+   },
+   {
+    "date": "2026-07-25",
+    "in": [
+     "kAlash"
+    ],
+    "out": [
+     "reNIK"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-07-25"
+   },
+   {
+    "date": "2026-07-25",
+    "in": [
+     "Something"
+    ],
+    "out": [
+     "kAlash"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-25"
+   },
+   {
+    "date": "2026-07-27",
+    "in": [
+     "kAlash"
+    ],
+    "out": [
+     "Something"
+    ],
+    "kind": "stand-in",
+    "run_matches": 10,
+    "run_until": "2026-08-03"
+   },
+   {
+    "date": "2026-08-04",
+    "in": [
+     "Something"
+    ],
+    "out": [
+     "kAlash"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-04"
+   },
+   {
+    "date": "2026-08-04",
+    "in": [
+     "kAlash"
+    ],
+    "out": [
+     "Something"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-04"
+   },
+   {
+    "date": "2026-08-05",
+    "in": [
+     "Something"
+    ],
+    "out": [
+     "kAlash"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-08-14"
+   },
+   {
+    "date": "2026-08-18",
+    "in": [
+     "sowalio"
+    ],
+    "out": [
+     "spirit"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-08-21"
+   },
+   {
+    "date": "2026-08-23",
+    "in": [
+     "shg"
+    ],
+    "out": [
+     "sowalio"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-08-27"
+   },
+   {
+    "date": "2026-08-28",
+    "in": [
+     "D9D9VOLODYA",
+     "faydett"
+    ],
+    "out": [
+     "Something",
+     "shg"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-08-29"
+   },
+   {
+    "date": "2026-09-01",
+    "in": [
+     "Something",
+     "shg"
+    ],
+    "out": [
+     "D9D9VOLODYA",
+     "faydett"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-09-01"
+   },
+   {
+    "date": "2026-09-05",
+    "in": [
+     "bl1x1"
+    ],
+    "out": [
+     "shg"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-09-12"
+   },
+   {
+    "date": "2026-09-15",
+    "in": [
+     "Temny Prince"
+    ],
+    "out": [
+     "Something"
+    ],
+    "kind": "permanent",
+    "run_matches": 13,
+    "run_until": "2026-09-24"
+   },
+   {
+    "date": "2026-10-05",
+    "in": [
+     "wh1teout"
+    ],
+    "out": [
+     "bl1x1"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 16,
+    "run_until": "2026-10-22"
+   }
+  ]
+ },
+ "Inner Circle Academy": {
+  "rank_nov": 110,
+  "matches": 70,
+  "first": "2026-05-16",
+  "runs": [
+   {
+    "five": [
+     "3ippoch",
+     "L1seYoung",
+     "NaYz",
+     "Tamefear",
+     "n0rths"
+    ],
+    "from": "2026-05-16",
+    "to": "2026-08-14",
+    "n": 31
+   },
+   {
+    "five": [
+     "3ippoch",
+     "Flierax",
+     "L1seYoung",
+     "Tamefear",
+     "n0rths"
+    ],
+    "from": "2026-08-15",
+    "to": "2026-08-15",
+    "n": 1
+   },
+   {
+    "five": [
+     "3ippoch",
+     "L1seYoung",
+     "NaYz",
+     "Tamefear",
+     "n0rths"
+    ],
+    "from": "2026-08-16",
+    "to": "2026-08-16",
+    "n": 1
+   },
+   {
+    "five": [
+     "3ippoch",
+     "Flierax",
+     "L1seYoung",
+     "Tamefear",
+     "n0rths"
+    ],
+    "from": "2026-08-16",
+    "to": "2026-08-21",
+    "n": 5
+   },
+   {
+    "five": [
+     "Flierax",
+     "L1seYoung",
+     "St0m4k",
+     "Tamefear",
+     "n0rths"
+    ],
+    "from": "2026-08-23",
+    "to": "2026-08-23",
+    "n": 1
+   },
+   {
+    "five": [
+     "3ippoch",
+     "Flierax",
+     "L1seYoung",
+     "Tamefear",
+     "n0rths"
+    ],
+    "from": "2026-08-25",
+    "to": "2026-09-01",
+    "n": 9
+   },
+   {
+    "five": [
+     "3ippoch",
+     "Flierax",
+     "L1seYoung",
+     "NaYz",
+     "Tamefear"
+    ],
+    "from": "2026-09-05",
+    "to": "2026-10-28",
+    "n": 22
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-15",
+    "in": [
+     "Flierax"
+    ],
+    "out": [
+     "NaYz"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-15"
+   },
+   {
+    "date": "2026-08-16",
+    "in": [
+     "NaYz"
+    ],
+    "out": [
+     "Flierax"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-16"
+   },
+   {
+    "date": "2026-08-16",
+    "in": [
+     "Flierax"
+    ],
+    "out": [
+     "NaYz"
+    ],
+    "kind": "stand-in",
+    "run_matches": 5,
+    "run_until": "2026-08-21"
+   },
+   {
+    "date": "2026-08-23",
+    "in": [
+     "St0m4k"
+    ],
+    "out": [
+     "3ippoch"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-23"
+   },
+   {
+    "date": "2026-08-25",
+    "in": [
+     "3ippoch"
+    ],
+    "out": [
+     "St0m4k"
+    ],
+    "kind": "permanent",
+    "run_matches": 9,
+    "run_until": "2026-09-01"
+   },
+   {
+    "date": "2026-09-05",
+    "in": [
+     "NaYz"
+    ],
+    "out": [
+     "n0rths"
+    ],
+    "kind": "permanent",
+    "run_matches": 22,
+    "run_until": "2026-10-28"
+   }
+  ]
+ },
+ "Rune Eaters": {
+  "rank_nov": 111,
+  "matches": 64,
+  "first": "2026-05-12",
+  "runs": [
+   {
+    "five": [
+     "demente",
+     "forkyz",
+     "her1tage",
+     "kumao",
+     "noni"
+    ],
+    "from": "2026-05-12",
+    "to": "2026-08-16",
+    "n": 43
+   },
+   {
+    "five": [
+     "demente",
+     "dukefissura",
+     "forkyz",
+     "her1tage",
+     "noni"
+    ],
+    "from": "2026-08-23",
+    "to": "2026-10-16",
+    "n": 20
+   },
+   {
+    "five": [
+     "forkyz",
+     "her1tage",
+     "noni",
+     "raiNyyy",
+     "shoxs"
+    ],
+    "from": "2026-10-22",
+    "to": "2026-10-22",
+    "n": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-23",
+    "in": [
+     "dukefissura"
+    ],
+    "out": [
+     "kumao"
+    ],
+    "kind": "permanent",
+    "run_matches": 20,
+    "run_until": "2026-10-16"
+   },
+   {
+    "date": "2026-10-22",
+    "in": [
+     "raiNyyy",
+     "shoxs"
+    ],
+    "out": [
+     "demente",
+     "dukefissura"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 1,
+    "run_until": "2026-10-22"
+   }
+  ]
+ },
+ "Turma do Pagode": {
+  "rank_nov": 112,
+  "matches": 41,
+  "first": "2026-05-07",
+  "runs": [
+   {
+    "five": [
+     "WOOD7",
+     "felps",
+     "ksloks",
+     "naitte",
+     "pesadelo"
+    ],
+    "from": "2026-05-07",
+    "to": "2026-05-10",
+    "n": 6
+   },
+   {
+    "five": [
+     "Lucaozy",
+     "Tuurtle",
+     "WOOD7",
+     "ksloks",
+     "naitte"
+    ],
+    "from": "2026-08-25",
+    "to": "2026-09-04",
+    "n": 6
+   },
+   {
+    "five": [
+     "Tuurtle",
+     "WOOD7",
+     "danoco",
+     "matios",
+     "naitte"
+    ],
+    "from": "2026-09-06",
+    "to": "2026-09-10",
+    "n": 4
+   },
+   {
+    "five": [
+     "Tuurtle",
+     "WOOD7",
+     "danoco",
+     "ksloks",
+     "naitte"
+    ],
+    "from": "2026-09-16",
+    "to": "2026-09-16",
+    "n": 3
+   },
+   {
+    "five": [
+     "Tuurtle",
+     "WOOD7",
+     "danoco",
+     "ksloks",
+     "pesadelo"
+    ],
+    "from": "2026-09-18",
+    "to": "2026-09-18",
+    "n": 1
+   },
+   {
+    "five": [
+     "Tuurtle",
+     "WOOD7",
+     "ksloks",
+     "matios",
+     "naitte"
+    ],
+    "from": "2026-09-22",
+    "to": "2026-09-23",
+    "n": 2
+   },
+   {
+    "five": [
+     "Tuurtle",
+     "WOOD7",
+     "danoco",
+     "ksloks",
+     "matios"
+    ],
+    "from": "2026-09-23",
+    "to": "2026-09-24",
+    "n": 2
+   },
+   {
+    "five": [
+     "Tuurtle",
+     "WOOD7",
+     "ksloks",
+     "matios",
+     "naitte"
+    ],
+    "from": "2026-09-25",
+    "to": "2026-10-04",
+    "n": 9
+   },
+   {
+    "five": [
+     "Tuurtle",
+     "WOOD7",
+     "matios",
+     "naitte",
+     "pesadelo"
+    ],
+    "from": "2026-10-07",
+    "to": "2026-10-07",
+    "n": 1
+   },
+   {
+    "five": [
+     "Tuurtle",
+     "WOOD7",
+     "ksloks",
+     "naitte",
+     "pesadelo"
+    ],
+    "from": "2026-10-08",
+    "to": "2026-10-08",
+    "n": 1
+   },
+   {
+    "five": [
+     "Ceruttera",
+     "Tuurtle",
+     "WOOD7",
+     "naitte",
+     "pesadelo"
+    ],
+    "from": "2026-10-09",
+    "to": "2026-10-09",
+    "n": 1
+   },
+   {
+    "five": [
+     "Tuurtle",
+     "WOOD7",
+     "matios",
+     "naitte",
+     "pesadelo"
+    ],
+    "from": "2026-10-22",
+    "to": "2026-10-31",
+    "n": 5
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08-25",
+    "in": [
+     "Lucaozy",
+     "Tuurtle"
+    ],
+    "out": [
+     "felps",
+     "pesadelo"
+    ],
+    "kind": "permanent",
+    "run_matches": 6,
+    "run_until": "2026-09-04"
+   },
+   {
+    "date": "2026-09-06",
+    "in": [
+     "danoco",
+     "matios"
+    ],
+    "out": [
+     "Lucaozy",
+     "ksloks"
+    ],
+    "kind": "permanent",
+    "run_matches": 4,
+    "run_until": "2026-09-10"
+   },
+   {
+    "date": "2026-09-16",
+    "in": [
+     "ksloks"
+    ],
+    "out": [
+     "matios"
+    ],
+    "kind": "stand-in",
+    "run_matches": 3,
+    "run_until": "2026-09-16"
+   },
+   {
+    "date": "2026-09-18",
+    "in": [
+     "pesadelo"
+    ],
+    "out": [
+     "naitte"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-09-18"
+   },
+   {
+    "date": "2026-09-22",
+    "in": [
+     "matios",
+     "naitte"
+    ],
+    "out": [
+     "danoco",
+     "pesadelo"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-09-23"
+   },
+   {
+    "date": "2026-09-23",
+    "in": [
+     "danoco"
+    ],
+    "out": [
+     "naitte"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-24"
+   },
+   {
+    "date": "2026-09-25",
+    "in": [
+     "naitte"
+    ],
+    "out": [
+     "danoco"
+    ],
+    "kind": "permanent",
+    "run_matches": 9,
+    "run_until": "2026-10-04"
+   },
+   {
+    "date": "2026-10-07",
+    "in": [
+     "pesadelo"
+    ],
+    "out": [
+     "ksloks"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-07"
+   },
+   {
+    "date": "2026-10-08",
+    "in": [
+     "ksloks"
+    ],
+    "out": [
+     "matios"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-08"
+   },
+   {
+    "date": "2026-10-09",
+    "in": [
+     "Ceruttera"
+    ],
+    "out": [
+     "ksloks"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-10-09"
+   },
+   {
+    "date": "2026-10-22",
+    "in": [
+     "matios"
+    ],
+    "out": [
+     "Ceruttera"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 5,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "Butterfly": {
+  "rank_nov": 113,
+  "matches": 74,
+  "first": "2026-05-06",
+  "runs": [
+   {
+    "five": [
+     "HeCkBNk",
+     "Kurama",
+     "ayano",
+     "k1ssly",
+     "nitzie"
+    ],
+    "from": "2026-05-06",
+    "to": "2026-06-13",
+    "n": 25
+   },
+   {
+    "five": [
+     "K1yotaka",
+     "Kurama",
+     "ayano",
+     "k1ssly",
+     "nitzie"
+    ],
+    "from": "2026-06-13",
+    "to": "2026-06-13",
+    "n": 1
+   },
+   {
+    "five": [
+     "HeCkBNk",
+     "Kurama",
+     "ayano",
+     "k1ssly",
+     "nitzie"
+    ],
+    "from": "2026-06-14",
+    "to": "2026-06-18",
+    "n": 2
+   },
+   {
+    "five": [
+     "Kurama",
+     "ayano",
+     "k1ssly",
+     "nitzie",
+     "smith"
+    ],
+    "from": "2026-06-19",
+    "to": "2026-06-19",
+    "n": 1
+   },
+   {
+    "five": [
+     "Forester",
+     "Kurama",
+     "ayano",
+     "k1ssly",
+     "nitzie"
+    ],
+    "from": "2026-07-22",
+    "to": "2026-07-28",
+    "n": 7
+   },
+   {
+    "five": [
+     "Forester",
+     "Kurama",
+     "ax1nty",
+     "k1ssly",
+     "nitzie"
+    ],
+    "from": "2026-07-30",
+    "to": "2026-07-30",
+    "n": 1
+   },
+   {
+    "five": [
+     "Forester",
+     "Kurama",
+     "ayano",
+     "k1ssly",
+     "nitzie"
+    ],
+    "from": "2026-07-30",
+    "to": "2026-10-18",
+    "n": 33
+   },
+   {
+    "five": [
+     "Forester",
+     "Krad",
+     "ayano",
+     "kinqie",
+     "nitzie"
+    ],
+    "from": "2026-10-21",
+    "to": "2026-10-21",
+    "n": 1
+   },
+   {
+    "five": [
+     "Forester",
+     "Kurama",
+     "ayano",
+     "k1ssly",
+     "nitzie"
+    ],
+    "from": "2026-10-22",
+    "to": "2026-10-22",
+    "n": 1
+   },
+   {
+    "five": [
+     "Forester",
+     "Krad",
+     "Kurama",
+     "ayano",
+     "nitzie"
+    ],
+    "from": "2026-10-29",
+    "to": "2026-10-31",
+    "n": 2
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-13",
+    "in": [
+     "K1yotaka"
+    ],
+    "out": [
+     "HeCkBNk"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-06-13"
+   },
+   {
+    "date": "2026-06-14",
+    "in": [
+     "HeCkBNk"
+    ],
+    "out": [
+     "K1yotaka"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-06-18"
+   },
+   {
+    "date": "2026-06-19",
+    "in": [
+     "smith"
+    ],
+    "out": [
+     "HeCkBNk"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-06-19"
+   },
+   {
+    "date": "2026-07-22",
+    "in": [
+     "Forester"
+    ],
+    "out": [
+     "smith"
+    ],
+    "kind": "permanent",
+    "run_matches": 7,
+    "run_until": "2026-07-28"
+   },
+   {
+    "date": "2026-07-30",
+    "in": [
+     "ax1nty"
+    ],
+    "out": [
+     "ayano"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-07-30"
+   },
+   {
+    "date": "2026-07-30",
+    "in": [
+     "ayano"
+    ],
+    "out": [
+     "ax1nty"
+    ],
+    "kind": "permanent",
+    "run_matches": 33,
+    "run_until": "2026-10-18"
+   },
+   {
+    "date": "2026-10-21",
+    "in": [
+     "Krad",
+     "kinqie"
+    ],
+    "out": [
+     "Kurama",
+     "k1ssly"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-21"
+   },
+   {
+    "date": "2026-10-22",
+    "in": [
+     "Kurama",
+     "k1ssly"
+    ],
+    "out": [
+     "Krad",
+     "kinqie"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-10-22"
+   },
+   {
+    "date": "2026-10-29",
+    "in": [
+     "Krad"
+    ],
+    "out": [
+     "k1ssly"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 2,
+    "run_until": "2026-10-31"
+   }
+  ]
+ },
+ "The Last Resort": {
+  "rank_nov": 114,
+  "matches": 52,
+  "first": "2026-05-06",
+  "runs": [
+   {
+    "five": [
+     "Extinct",
+     "Girafffe",
+     "Vacancy",
+     "arTisT",
+     "bevve"
+    ],
+    "from": "2026-05-06",
+    "to": "2026-06-03",
+    "n": 6
+   },
+   {
+    "five": [
+     "Extinct",
+     "Girafffe",
+     "Vacancy",
+     "bevve",
+     "smooya"
+    ],
+    "from": "2026-06-04",
+    "to": "2026-06-08",
+    "n": 2
+   },
+   {
+    "five": [
+     "Extinct",
+     "Girafffe",
+     "Vacancy",
+     "arTisT",
+     "bevve"
+    ],
+    "from": "2026-06-13",
+    "to": "2026-11-01",
+    "n": 44
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-04",
+    "in": [
+     "smooya"
+    ],
+    "out": [
+     "arTisT"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-06-08"
+   },
+   {
+    "date": "2026-06-13",
+    "in": [
+     "arTisT"
+    ],
+    "out": [
+     "smooya"
+    ],
+    "kind": "permanent",
+    "run_matches": 44,
+    "run_until": "2026-11-01"
+   }
+  ]
+ },
+ "Johnny Speeds": {
+  "rank_nov": 115,
+  "matches": 19,
+  "first": "2026-08-03",
+  "runs": [
+   {
+    "five": [
+     "Rack",
+     "Svedjehed",
+     "bsover",
+     "draken",
+     "hampus"
+    ],
+    "from": "2026-08-03",
+    "to": "2026-10-15",
+    "n": 19
+   }
+  ],
+  "events": []
+ },
+ "SPARTA": {
+  "rank_nov": 116,
+  "matches": 79,
+  "first": "2026-05-08",
+  "runs": [
+   {
+    "five": [
+     "El1an",
+     "Forester",
+     "Lack1",
+     "NickelBack",
+     "TRAVIS"
+    ],
+    "from": "2026-05-08",
+    "to": "2026-05-25",
+    "n": 15
+   },
+   {
+    "five": [
+     "Djon8",
+     "El1an",
+     "NickelBack",
+     "TRAVIS",
+     "k4nfuz"
+    ],
+    "from": "2026-06-04",
+    "to": "2026-06-15",
+    "n": 9
+   },
+   {
+    "five": [
+     "El1an",
+     "Forester",
+     "Krad",
+     "NickelBack",
+     "TRAVIS"
+    ],
+    "from": "2026-06-17",
+    "to": "2026-06-17",
+    "n": 1
+   },
+   {
+    "five": [
+     "Djon8",
+     "El1an",
+     "NickelBack",
+     "TRAVIS",
+     "k4nfuz"
+    ],
+    "from": "2026-06-17",
+    "to": "2026-08-06",
+    "n": 25
+   },
+   {
+    "five": [
+     "El1an",
+     "NickelBack",
+     "TRAVIS",
+     "glowiing",
+     "sugaR"
+    ],
+    "from": "2026-08-18",
+    "to": "2026-08-28",
+    "n": 14
+   },
+   {
+    "five": [
+     "El1an",
+     "NickelBack",
+     "S1ren",
+     "TRAVIS",
+     "azukay"
+    ],
+    "from": "2026-08-29",
+    "to": "2026-08-29",
+    "n": 1
+   },
+   {
+    "five": [
+     "El1an",
+     "NickelBack",
+     "TRAVIS",
+     "glowiing",
+     "sugaR"
+    ],
+    "from": "2026-08-30",
+    "to": "2026-09-01",
+    "n": 3
+   },
+   {
+    "five": [
+     "El1an",
+     "NickelBack",
+     "TRAVIS",
+     "azukay",
+     "glowiing"
+    ],
+    "from": "2026-09-01",
+    "to": "2026-09-01",
+    "n": 1
+   },
+   {
+    "five": [
+     "El1an",
+     "NickelBack",
+     "TRAVIS",
+     "glowiing",
+     "sugaR"
+    ],
+    "from": "2026-09-04",
+    "to": "2026-09-04",
+    "n": 1
+   },
+   {
+    "five": [
+     "El1an",
+     "NickelBack",
+     "TRAVIS",
+     "glowiing",
+     "interz"
+    ],
+    "from": "2026-09-06",
+    "to": "2026-09-09",
+    "n": 2
+   },
+   {
+    "five": [
+     "El1an",
+     "NickelBack",
+     "TRAVIS",
+     "glowiing",
+     "sugaR"
+    ],
+    "from": "2026-09-12",
+    "to": "2026-09-12",
+    "n": 1
+   },
+   {
+    "five": [
+     "El1an",
+     "NickelBack",
+     "TRAVIS",
+     "glowiing",
+     "interz"
+    ],
+    "from": "2026-09-16",
+    "to": "2026-09-26",
+    "n": 6
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06-04",
+    "in": [
+     "Djon8",
+     "k4nfuz"
+    ],
+    "out": [
+     "Forester",
+     "Lack1"
+    ],
+    "kind": "permanent",
+    "run_matches": 9,
+    "run_until": "2026-06-15"
+   },
+   {
+    "date": "2026-06-17",
+    "in": [
+     "Forester",
+     "Krad"
+    ],
+    "out": [
+     "Djon8",
+     "k4nfuz"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-06-17"
+   },
+   {
+    "date": "2026-06-17",
+    "in": [
+     "Djon8",
+     "k4nfuz"
+    ],
+    "out": [
+     "Forester",
+     "Krad"
+    ],
+    "kind": "permanent",
+    "run_matches": 25,
+    "run_until": "2026-08-06"
+   },
+   {
+    "date": "2026-08-18",
+    "in": [
+     "glowiing",
+     "sugaR"
+    ],
+    "out": [
+     "Djon8",
+     "k4nfuz"
+    ],
+    "kind": "permanent",
+    "run_matches": 14,
+    "run_until": "2026-08-28"
+   },
+   {
+    "date": "2026-08-29",
+    "in": [
+     "S1ren",
+     "azukay"
+    ],
+    "out": [
+     "glowiing",
+     "sugaR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-29"
+   },
+   {
+    "date": "2026-08-30",
+    "in": [
+     "glowiing",
+     "sugaR"
+    ],
+    "out": [
+     "S1ren",
+     "azukay"
+    ],
+    "kind": "permanent",
+    "run_matches": 3,
+    "run_until": "2026-09-01"
+   },
+   {
+    "date": "2026-09-01",
+    "in": [
+     "azukay"
+    ],
+    "out": [
+     "sugaR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-09-01"
+   },
+   {
+    "date": "2026-09-04",
+    "in": [
+     "sugaR"
+    ],
+    "out": [
+     "azukay"
+    ],
+    "kind": "permanent",
+    "run_matches": 1,
+    "run_until": "2026-09-04"
+   },
+   {
+    "date": "2026-09-06",
+    "in": [
+     "interz"
+    ],
+    "out": [
+     "sugaR"
+    ],
+    "kind": "stand-in",
+    "run_matches": 2,
+    "run_until": "2026-09-09"
+   },
+   {
+    "date": "2026-09-12",
+    "in": [
+     "sugaR"
+    ],
+    "out": [
+     "interz"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-09-12"
+   },
+   {
+    "date": "2026-09-16",
+    "in": [
+     "interz"
+    ],
+    "out": [
+     "sugaR"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 6,
+    "run_until": "2026-09-26"
+   }
+  ]
+ },
+ "HAVU": {
+  "rank_nov": 117,
+  "matches": 52,
+  "first": "2026-05-07",
+  "runs": [
+   {
+    "five": [
+     "Alxc",
+     "ottob",
+     "p3kko",
+     "puuha",
+     "uli"
+    ],
+    "from": "2026-05-07",
+    "to": "2026-05-31",
+    "n": 13
+   },
+   {
+    "five": [
+     "8Juho8",
+     "Alxc",
+     "ottob",
+     "p3kko",
+     "uli"
+    ],
+    "from": "2026-07-31",
+    "to": "2026-08-28",
+    "n": 14
+   },
+   {
+    "five": [
+     "Alxc",
+     "ottob",
+     "p3kko",
+     "peku",
+     "uli"
+    ],
+    "from": "2026-08-31",
+    "to": "2026-09-07",
+    "n": 8
+   },
+   {
+    "five": [
+     "8Juho8",
+     "Alxc",
+     "ottob",
+     "p3kko",
+     "uli"
+    ],
+    "from": "2026-09-25",
+    "to": "2026-10-24",
+    "n": 16
+   },
+   {
+    "five": [
+     "8Juho8",
+     "myltsi",
+     "ottob",
+     "p3kko",
+     "uli"
+    ],
+    "from": "2026-10-26",
+    "to": "2026-10-26",
+    "n": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-31",
+    "in": [
+     "8Juho8"
+    ],
+    "out": [
+     "puuha"
+    ],
+    "kind": "permanent",
+    "run_matches": 14,
+    "run_until": "2026-08-28"
+   },
+   {
+    "date": "2026-08-31",
+    "in": [
+     "peku"
+    ],
+    "out": [
+     "8Juho8"
+    ],
+    "kind": "stand-in",
+    "run_matches": 8,
+    "run_until": "2026-09-07"
+   },
+   {
+    "date": "2026-09-25",
+    "in": [
+     "8Juho8"
+    ],
+    "out": [
+     "peku"
+    ],
+    "kind": "permanent",
+    "run_matches": 16,
+    "run_until": "2026-10-24"
+   },
+   {
+    "date": "2026-10-26",
+    "in": [
+     "myltsi"
+    ],
+    "out": [
+     "Alxc"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 1,
+    "run_until": "2026-10-26"
+   }
+  ]
+ },
+ "STATE": {
+  "rank_nov": 118,
+  "matches": 30,
+  "first": "2026-05-23",
+  "runs": [
+   {
+    "five": [
+     "Patti",
+     "Zanto",
+     "kwezz",
+     "sL1m3",
+     "thamlike"
+    ],
+    "from": "2026-05-23",
+    "to": "2026-06-13",
+    "n": 9
+   },
+   {
+    "five": [
+     "Patti",
+     "Queenix",
+     "Zanto",
+     "kwezz",
+     "sL1m3"
+    ],
+    "from": "2026-07-25",
+    "to": "2026-08-29",
+    "n": 9
+   },
+   {
+    "five": [
+     "Dengzoe",
+     "Queenix",
+     "Zanto",
+     "kwezz",
+     "sL1m3"
+    ],
+    "from": "2026-09-20",
+    "to": "2026-09-22",
+    "n": 2
+   },
+   {
+    "five": [
+     "Altekz",
+     "Queenix",
+     "Zanto",
+     "kwezz",
+     "sL1m3"
+    ],
+    "from": "2026-09-23",
+    "to": "2026-10-25",
+    "n": 10
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-25",
+    "in": [
+     "Queenix"
+    ],
+    "out": [
+     "thamlike"
+    ],
+    "kind": "permanent",
+    "run_matches": 9,
+    "run_until": "2026-08-29"
+   },
+   {
+    "date": "2026-09-20",
+    "in": [
+     "Dengzoe"
+    ],
+    "out": [
+     "Patti"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-09-22"
+   },
+   {
+    "date": "2026-09-23",
+    "in": [
+     "Altekz"
+    ],
+    "out": [
+     "Dengzoe"
+    ],
+    "kind": "permanent",
+    "run_matches": 10,
+    "run_until": "2026-10-25"
+   }
+  ]
+ },
+ "DEPO": {
+  "rank_nov": 119,
+  "matches": 26,
+  "first": "2026-06-25",
+  "runs": [
+   {
+    "five": [
+     "buster",
+     "sh1seido",
+     "shoxs",
+     "w1nt3r",
+     "wetfy"
+    ],
+    "from": "2026-06-25",
+    "to": "2026-06-25",
+    "n": 3
+   },
+   {
+    "five": [
+     "Krad",
+     "buster",
+     "sh1seido",
+     "shoxs",
+     "wetfy"
+    ],
+    "from": "2026-07-24",
+    "to": "2026-09-13",
+    "n": 21
+   },
+   {
+    "five": [
+     "Krad",
+     "SNk",
+     "buster",
+     "shoxs",
+     "wetfy"
+    ],
+    "from": "2026-09-29",
+    "to": "2026-09-29",
+    "n": 2
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-07-24",
+    "in": [
+     "Krad"
+    ],
+    "out": [
+     "w1nt3r"
+    ],
+    "kind": "permanent",
+    "run_matches": 21,
+    "run_until": "2026-09-13"
+   },
+   {
+    "date": "2026-09-29",
+    "in": [
+     "SNk"
+    ],
+    "out": [
+     "sh1seido"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 2,
+    "run_until": "2026-09-29"
+   }
+  ]
+ },
+ "Illyrians": {
+  "rank_nov": 120,
+  "matches": 74,
+  "first": "2026-05-14",
+  "runs": [
+   {
+    "five": [
+     "BledarD",
+     "SENER1",
+     "ammar",
+     "cerber",
+     "xonn1k"
+    ],
+    "from": "2026-05-14",
+    "to": "2026-05-15",
+    "n": 2
+   },
+   {
+    "five": [
+     "BledarD",
+     "ammar",
+     "cerber",
+     "deb0",
+     "xonn1k"
+    ],
+    "from": "2026-05-23",
+    "to": "2026-05-24",
+    "n": 2
+   },
+   {
+    "five": [
+     "BledarD",
+     "ammar",
+     "arbnorz",
+     "cerber",
+     "xonn1k"
+    ],
+    "from": "2026-05-25",
+    "to": "2026-06-09",
+    "n": 5
+   },
+   {
+    "five": [
+     "BledarD",
+     "ammar",
+     "cerber",
+     "vAloN",
+     "xonn1k"
+    ],
+    "from": "2026-06-24",
+    "to": "2026-08-27",
+    "n": 31
+   },
+   {
+    "five": [
+     "BledarD",
+     "ammar",
+     "cerber",
+     "enk0",
+     "xonn1k"
+    ],
+    "from": "2026-08-28",
+    "to": "2026-08-28",
+    "n": 1
+   },
+   {
+    "five": [
+     "BledarD",
+     "ammar",
+     "cerber",
+     "vAloN",
+     "xonn1k"
+    ],
+    "from": "2026-09-14",
+    "to": "2026-09-27",
+    "n": 12
+   },
+   {
+    "five": [
+     "BledarD",
+     "Lewis",
+     "ammar",
+     "cerber",
+     "rosoneriii"
+    ],
+    "from": "2026-09-29",
+    "to": "2026-10-13",
+    "n": 6
+   },
+   {
+    "five": [
+     "BledarD",
+     "Dementor",
+     "ammar",
+     "cerber",
+     "rosoneriii"
+    ],
+    "from": "2026-10-16",
+    "to": "2026-10-21",
+    "n": 9
+   },
+   {
+    "five": [
+     "BledarD",
+     "Lewis",
+     "ammar",
+     "cerber",
+     "rosoneriii"
+    ],
+    "from": "2026-10-22",
+    "to": "2026-10-22",
+    "n": 1
+   },
+   {
+    "five": [
+     "BledarD",
+     "Dementor",
+     "ammar",
+     "cerber",
+     "rosoneriii"
+    ],
+    "from": "2026-10-23",
+    "to": "2026-10-23",
+    "n": 1
+   },
+   {
+    "five": [
+     "BledarD",
+     "Lewis",
+     "ammar",
+     "cerber",
+     "rosoneriii"
+    ],
+    "from": "2026-10-24",
+    "to": "2026-10-30",
+    "n": 4
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05-23",
+    "in": [
+     "deb0"
+    ],
+    "out": [
+     "SENER1"
+    ],
+    "kind": "permanent",
+    "run_matches": 2,
+    "run_until": "2026-05-24"
+   },
+   {
+    "date": "2026-05-25",
+    "in": [
+     "arbnorz"
+    ],
+    "out": [
+     "deb0"
+    ],
+    "kind": "permanent",
+    "run_matches": 5,
+    "run_until": "2026-06-09"
+   },
+   {
+    "date": "2026-06-24",
+    "in": [
+     "vAloN"
+    ],
+    "out": [
+     "arbnorz"
+    ],
+    "kind": "permanent",
+    "run_matches": 31,
+    "run_until": "2026-08-27"
+   },
+   {
+    "date": "2026-08-28",
+    "in": [
+     "enk0"
+    ],
+    "out": [
+     "vAloN"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-08-28"
+   },
+   {
+    "date": "2026-09-14",
+    "in": [
+     "vAloN"
+    ],
+    "out": [
+     "enk0"
+    ],
+    "kind": "permanent",
+    "run_matches": 12,
+    "run_until": "2026-09-27"
+   },
+   {
+    "date": "2026-09-29",
+    "in": [
+     "Lewis",
+     "rosoneriii"
+    ],
+    "out": [
+     "vAloN",
+     "xonn1k"
+    ],
+    "kind": "permanent",
+    "run_matches": 6,
+    "run_until": "2026-10-13"
+   },
+   {
+    "date": "2026-10-16",
+    "in": [
+     "Dementor"
+    ],
+    "out": [
+     "Lewis"
+    ],
+    "kind": "stand-in",
+    "run_matches": 9,
+    "run_until": "2026-10-21"
+   },
+   {
+    "date": "2026-10-22",
+    "in": [
+     "Lewis"
+    ],
+    "out": [
+     "Dementor"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-22"
+   },
+   {
+    "date": "2026-10-23",
+    "in": [
+     "Dementor"
+    ],
+    "out": [
+     "Lewis"
+    ],
+    "kind": "stand-in",
+    "run_matches": 1,
+    "run_until": "2026-10-23"
+   },
+   {
+    "date": "2026-10-24",
+    "in": [
+     "Lewis"
+    ],
+    "out": [
+     "Dementor"
+    ],
+    "kind": "ongoing (check)",
+    "run_matches": 4,
+    "run_until": "2026-10-30"
+   }
+  ]
+ }
+}

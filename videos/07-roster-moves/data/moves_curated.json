@@ -1,0 +1,93 @@
+{
+ "_note": "Real net moves since the Cologne Major (curated with the owner, Nov 7 2026). 'five' = the team's real current five (stand-ins and loans excluded). Teams not listed fall back to the automatic ledger (net_moves.json).",
+ "MOUZ": {
+  "five": [
+   "PR",
+   "Spinx",
+   "torzsi",
+   "xelex",
+   "xertioN"
+  ],
+  "in": [
+   "PR"
+  ],
+  "out": [
+   "Brollan"
+  ],
+  "note": "jL stood in May–June; xelex came from MOUZ NXT before May (background, not a since-Cologne move)"
+ },
+ "Vitality": {
+  "five": [
+   "ZywOo",
+   "apEX",
+   "flameZ",
+   "mezii",
+   "ropz"
+  ],
+  "in": [],
+  "out": [],
+  "note": "jL stood in twice: for mezii (Aug 27–Sep 5) and apEX (from Oct 24)"
+ },
+ "BETBOOM": {
+  "five": "auto-now",
+  "in": [],
+  "out": [],
+  "note": "FL4MUS was on loan from Virtus.pro until Jul 1; S1ren back — no permanent move"
+ },
+ "Astralis": {
+  "five": "auto-prev",
+  "in": [
+   "siuhy",
+   "cmtry"
+  ],
+  "out": [
+   "HooXi",
+   "jabbi"
+  ],
+  "note": "jabbi played again on Oct 28 as a stand-in (real five = the run before Oct 28)"
+ },
+ "The MongolZ": {
+  "five": "auto-now",
+  "in": [
+   "nin9"
+  ],
+  "out": [
+   "mzinho"
+  ],
+  "note": "DarkMeister and tikuak only a short stint; cobrazera and Techno came back; mzinho to BC.Game"
+ },
+ "Legacy": {
+  "five": "auto-now",
+  "in": [
+   "try"
+  ],
+  "out": [
+   "saadzin"
+  ],
+  "note": "bobz stood in for arT (Oct 3–6)"
+ },
+ "1win": {
+  "five": "auto-now",
+  "in": [
+   "BELCHONOKK",
+   "fame"
+  ],
+  "out": [
+   "Xant3r",
+   "sugaR"
+  ],
+  "note": "BELCHONOKK on loan from PARIVISION; ct0m one-match stand-in"
+ },
+ "PARIVISION": {
+  "five": "auto-now",
+  "in": [
+   "FL1T",
+   "HObbit"
+  ],
+  "out": [
+   "BELCHONOKK",
+   "nota"
+  ],
+  "note": "slaxejezzz passed through Jul–Sep"
+ }
+}

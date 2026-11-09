@@ -1,0 +1,1482 @@
+{
+ "cph24": [
+  {
+   "round": "QF",
+   "id": "R1M1",
+   "teams": [
+    "spirit",
+    "faze"
+   ],
+   "series": [
+    1,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      7,
+      13
+     ],
+     "overtime": false,
+     "stats": "172573",
+     "vod": "https://youtu.be/sCdEw2uvXmU"
+    },
+    {
+     "map": "Nuke",
+     "score": [
+      19,
+      16
+     ],
+     "overtime": true,
+     "stats": "172577",
+     "vod": "https://youtu.be/rX-sebNWka8"
+    },
+    {
+     "map": "Vertigo",
+     "score": [
+      14,
+      16
+     ],
+     "overtime": true,
+     "stats": "172583",
+     "vod": "https://youtu.be/-G4FGxRS-8U"
+    }
+   ],
+   "date": "March 28, 2024 - 19:55",
+   "hltv": "2370722"
+  },
+  {
+   "round": "QF",
+   "id": "R1M2",
+   "teams": [
+    "vit",
+    "c9"
+   ],
+   "series": [
+    2,
+    0
+   ],
+   "maps": [
+    {
+     "map": "Inferno",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "172556",
+     "vod": "https://youtu.be/BD3Y6blyQbc"
+    },
+    {
+     "map": "Anubis",
+     "score": [
+      13,
+      2
+     ],
+     "overtime": false,
+     "stats": "172562",
+     "vod": "https://youtu.be/lSgyQfZ1ZR8"
+    }
+   ],
+   "date": "March 28, 2024 - 17:00",
+   "hltv": "2370721"
+  },
+  {
+   "round": "QF",
+   "id": "R1M3",
+   "teams": [
+    "eternal fire",
+    "navi"
+   ],
+   "series": [
+    0,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      13,
+      16
+     ],
+     "overtime": true,
+     "stats": "172603",
+     "vod": "https://youtu.be/8-cbdJeLA5Q"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      9,
+      13
+     ],
+     "overtime": false,
+     "stats": "172609",
+     "vod": "https://youtu.be/-oX2LsAzLuM"
+    }
+   ],
+   "date": "March 29, 2024 - 17:00",
+   "hltv": "2370723"
+  },
+  {
+   "round": "QF",
+   "id": "R1M4",
+   "teams": [
+    "g2",
+    "mouz"
+   ],
+   "series": [
+    2,
+    0
+   ],
+   "maps": [
+    {
+     "map": "Inferno",
+     "score": [
+      13,
+      9
+     ],
+     "overtime": false,
+     "stats": "172612",
+     "vod": "https://youtu.be/qFRYWa9hL40"
+    },
+    {
+     "map": "Vertigo",
+     "score": [
+      13,
+      6
+     ],
+     "overtime": false,
+     "stats": "172615",
+     "vod": "https://youtu.be/asioSmDRrqU"
+    }
+   ],
+   "date": "March 29, 2024 - 20:20",
+   "hltv": "2370724"
+  },
+  {
+   "round": "SF",
+   "id": "R2M1",
+   "teams": [
+    "faze",
+    "vit"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Nuke",
+     "score": [
+      13,
+      7
+     ],
+     "overtime": false,
+     "stats": "172626",
+     "vod": "https://youtu.be/IH0oUv5N35o"
+    },
+    {
+     "map": "Vertigo",
+     "score": [
+      5,
+      13
+     ],
+     "overtime": false,
+     "stats": "172627",
+     "vod": "https://youtu.be/jLwZ1PjVepQ"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "172628",
+     "vod": "https://youtu.be/bw9w-d2H_IQ"
+    }
+   ],
+   "date": "March 30, 2024 - 17:00",
+   "hltv": "2370725"
+  },
+  {
+   "round": "SF",
+   "id": "R2M2",
+   "teams": [
+    "navi",
+    "g2"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Anubis",
+     "score": [
+      16,
+      13
+     ],
+     "overtime": true,
+     "stats": "172629",
+     "vod": "https://youtu.be/b1sLrGJumj8"
+    },
+    {
+     "map": "Nuke",
+     "score": [
+      7,
+      13
+     ],
+     "overtime": false,
+     "stats": "172631",
+     "vod": "https://youtu.be/ylBJgpzs9eI"
+    },
+    {
+     "map": "Ancient",
+     "score": [
+      13,
+      11
+     ],
+     "overtime": false,
+     "stats": "172632",
+     "vod": "https://youtu.be/WaqbutvjyiQ"
+    }
+   ],
+   "date": "March 30, 2024 - 20:50",
+   "hltv": "2370726"
+  },
+  {
+   "round": "Final",
+   "id": "R3M1",
+   "teams": [
+    "faze",
+    "navi"
+   ],
+   "series": [
+    1,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Ancient",
+     "score": [
+      9,
+      13
+     ],
+     "overtime": false,
+     "stats": "172645",
+     "vod": "https://youtu.be/09N-bQbLrx8"
+    },
+    {
+     "map": "Mirage",
+     "score": [
+      13,
+      2
+     ],
+     "overtime": false,
+     "stats": "172646",
+     "vod": "https://youtu.be/L9eBTSwDwaM"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      3,
+      13
+     ],
+     "overtime": false,
+     "stats": "172647",
+     "vod": "https://youtu.be/vdXveK6G70g"
+    }
+   ],
+   "date": "March 31, 2024 - 20:00",
+   "hltv": "2370727"
+  }
+ ],
+ "sha24": [
+  {
+   "round": "QF",
+   "id": "R1M1",
+   "teams": [
+    "mongolz",
+    "mouz"
+   ],
+   "series": [
+    0,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Ancient",
+     "score": [
+      14,
+      16
+     ],
+     "overtime": true,
+     "stats": "189512",
+     "vod": "https://youtu.be/1JcxZzGmYyc?t=0"
+    },
+    {
+     "map": "Nuke",
+     "score": [
+      9,
+      13
+     ],
+     "overtime": false,
+     "stats": "189514",
+     "vod": "https://youtu.be/1JcxZzGmYyc?t=3710"
+    }
+   ],
+   "date": "December 12, 2024 - 14:00",
+   "hltv": "2377729"
+  },
+  {
+   "round": "QF",
+   "id": "R1M2",
+   "teams": [
+    "tl",
+    "spirit"
+   ],
+   "series": [
+    0,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Anubis",
+     "score": [
+      9,
+      13
+     ],
+     "overtime": false,
+     "stats": "189518",
+     "vod": "https://www.youtube.com/watch?v=cmXMFzk-VlU"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      11,
+      13
+     ],
+     "overtime": false,
+     "stats": "189521",
+     "vod": "https://youtu.be/cmXMFzk-VlU?t=3334"
+    }
+   ],
+   "date": "December 12, 2024 - 17:30",
+   "hltv": "2377730"
+  },
+  {
+   "round": "QF",
+   "id": "R1M3",
+   "teams": [
+    "g2",
+    "heroic"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Ancient",
+     "score": [
+      6,
+      13
+     ],
+     "overtime": false,
+     "stats": "189556",
+     "vod": "https://www.youtube.com/watch?v=_FHl0J8Ksj4"
+    },
+    {
+     "map": "Nuke",
+     "score": [
+      13,
+      9
+     ],
+     "overtime": false,
+     "stats": "189557",
+     "vod": "https://youtu.be/_FHl0J8Ksj4?t=2316"
+    },
+    {
+     "map": "Mirage",
+     "score": [
+      16,
+      13
+     ],
+     "overtime": true,
+     "stats": "189558",
+     "vod": "https://youtu.be/_FHl0J8Ksj4?t=4856"
+    }
+   ],
+   "date": "December 13, 2024 - 14:00",
+   "hltv": "2377731"
+  },
+  {
+   "round": "QF",
+   "id": "R1M4",
+   "teams": [
+    "faze",
+    "vit"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Nuke",
+     "score": [
+      6,
+      13
+     ],
+     "overtime": false,
+     "stats": "189564",
+     "vod": "https://www.youtube.com/watch?v=8w-OpLdARJE"
+    },
+    {
+     "map": "Mirage",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "189566",
+     "vod": "https://youtu.be/8w-OpLdARJE?t=2491"
+    },
+    {
+     "map": "Anubis",
+     "score": [
+      13,
+      7
+     ],
+     "overtime": false,
+     "stats": "189569",
+     "vod": "https://youtu.be/8w-OpLdARJE?t=5097"
+    }
+   ],
+   "date": "December 13, 2024 - 18:25",
+   "hltv": "2377732"
+  },
+  {
+   "round": "SF",
+   "id": "R2M1",
+   "teams": [
+    "mouz",
+    "spirit"
+   ],
+   "series": [
+    1,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Nuke",
+     "score": [
+      13,
+      7
+     ],
+     "overtime": false,
+     "stats": "189611",
+     "vod": "https://youtu.be/W2Yk8d1MLec"
+    },
+    {
+     "map": "Ancient",
+     "score": [
+      4,
+      13
+     ],
+     "overtime": false,
+     "stats": "189615",
+     "vod": "https://youtu.be/W2Yk8d1MLec?t=3307"
+    },
+    {
+     "map": "Mirage",
+     "score": [
+      7,
+      13
+     ],
+     "overtime": false,
+     "stats": "189616",
+     "vod": "https://youtu.be/W2Yk8d1MLec?t=5642"
+    }
+   ],
+   "date": "December 14, 2024 - 14:00",
+   "hltv": "2377733"
+  },
+  {
+   "round": "SF",
+   "id": "R2M2",
+   "teams": [
+    "g2",
+    "faze"
+   ],
+   "series": [
+    0,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Ancient",
+     "score": [
+      6,
+      13
+     ],
+     "overtime": false,
+     "stats": "189625",
+     "vod": "https://youtu.be/GypdO_mlA4g?t=35"
+    },
+    {
+     "map": "Nuke",
+     "score": [
+      14,
+      16
+     ],
+     "overtime": true,
+     "stats": "189628",
+     "vod": "https://youtu.be/GypdO_mlA4g?t=2617"
+    }
+   ],
+   "date": "December 14, 2024 - 18:35",
+   "hltv": "2377734"
+  },
+  {
+   "round": "Final",
+   "id": "R3M1",
+   "teams": [
+    "spirit",
+    "faze"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Nuke",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "189688",
+     "vod": "https://www.youtube.com/watch?v=29fMfuSf6gA"
+    },
+    {
+     "map": "Ancient",
+     "score": [
+      6,
+      13
+     ],
+     "overtime": false,
+     "stats": "189691",
+     "vod": "https://youtu.be/29fMfuSf6gA?t=2852"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      13,
+      11
+     ],
+     "overtime": false,
+     "stats": "189697",
+     "vod": "https://youtu.be/29fMfuSf6gA?t=5210"
+    }
+   ],
+   "date": "December 15, 2024 - 17:25",
+   "hltv": "2377735"
+  }
+ ],
+ "aus25": [
+  {
+   "round": "QF",
+   "id": "R1M1",
+   "teams": [
+    "spirit",
+    "mouz"
+   ],
+   "series": [
+    1,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      25,
+      21
+     ],
+     "overtime": true,
+     "stats": "201844",
+     "vod": "https://youtu.be/w6nw37lnFbQ?t=5523"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      9,
+      13
+     ],
+     "overtime": false,
+     "stats": "201850",
+     "vod": "https://youtu.be/w6nw37lnFbQ?t=13271"
+    },
+    {
+     "map": "Nuke",
+     "score": [
+      10,
+      13
+     ],
+     "overtime": false,
+     "stats": "201852",
+     "vod": "https://youtu.be/w6nw37lnFbQ?t=17682"
+    }
+   ],
+   "date": "June 19, 2025 - 14:05",
+   "hltv": "2382614"
+  },
+  {
+   "round": "QF",
+   "id": "R1M2",
+   "teams": [
+    "vit",
+    "navi"
+   ],
+   "series": [
+    2,
+    0
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      13,
+      9
+     ],
+     "overtime": false,
+     "stats": "201895",
+     "vod": "https://youtu.be/2CvomxKQrio?t=5093"
+    },
+    {
+     "map": "Nuke",
+     "score": [
+      13,
+      11
+     ],
+     "overtime": false,
+     "stats": "201898",
+     "vod": "https://youtu.be/2CvomxKQrio?t=9215"
+    }
+   ],
+   "date": "June 20, 2025 - 13:10",
+   "hltv": "2382616"
+  },
+  {
+   "round": "QF",
+   "id": "R1M3",
+   "teams": [
+    "faze",
+    "mongolz"
+   ],
+   "series": [
+    0,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      9,
+      13
+     ],
+     "overtime": false,
+     "stats": "201905",
+     "vod": "https://youtu.be/2CvomxKQrio?t=16463"
+    },
+    {
+     "map": "Anubis",
+     "score": [
+      11,
+      13
+     ],
+     "overtime": false,
+     "stats": "201907",
+     "vod": "https://youtu.be/2CvomxKQrio?t=20388"
+    }
+   ],
+   "date": "June 20, 2025 - 16:15",
+   "hltv": "2382615"
+  },
+  {
+   "round": "QF",
+   "id": "R1M4",
+   "teams": [
+    "pain",
+    "furia"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Nuke",
+     "score": [
+      6,
+      13
+     ],
+     "overtime": false,
+     "stats": "201855",
+     "vod": "https://youtu.be/w6nw37lnFbQ?t=24541"
+    },
+    {
+     "map": "Anubis",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "201856",
+     "vod": "https://youtu.be/w6nw37lnFbQ?t=28354"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      16,
+      12
+     ],
+     "overtime": true,
+     "stats": "201857",
+     "vod": "https://youtu.be/w6nw37lnFbQ?t=32264"
+    }
+   ],
+   "date": "June 19, 2025 - 19:20",
+   "hltv": "2382613"
+  },
+  {
+   "round": "SF",
+   "id": "R2M1",
+   "teams": [
+    "mouz",
+    "vit"
+   ],
+   "series": [
+    1,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      8,
+      13
+     ],
+     "overtime": false,
+     "stats": "201942",
+     "vod": "https://youtu.be/E4fshEGn-zA?t=4442"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      13,
+      4
+     ],
+     "overtime": false,
+     "stats": "201944",
+     "vod": "https://youtu.be/E4fshEGn-zA?t=8303"
+    },
+    {
+     "map": "Train",
+     "score": [
+      6,
+      13
+     ],
+     "overtime": false,
+     "stats": "201949",
+     "vod": "https://youtu.be/E4fshEGn-zA?t=11743"
+    }
+   ],
+   "date": "June 21, 2025 - 13:00",
+   "hltv": "2382618"
+  },
+  {
+   "round": "SF",
+   "id": "R2M2",
+   "teams": [
+    "mongolz",
+    "pain"
+   ],
+   "series": [
+    2,
+    0
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      13,
+      5
+     ],
+     "overtime": false,
+     "stats": "201951",
+     "vod": "https://youtu.be/E4fshEGn-zA?t=17953"
+    },
+    {
+     "map": "Anubis",
+     "score": [
+      13,
+      5
+     ],
+     "overtime": false,
+     "stats": "201953",
+     "vod": "https://youtu.be/E4fshEGn-zA?t=21416"
+    }
+   ],
+   "date": "June 21, 2025 - 16:50",
+   "hltv": "2382617"
+  },
+  {
+   "round": "Final",
+   "id": "R3M1",
+   "teams": [
+    "vit",
+    "mongolz"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      5,
+      13
+     ],
+     "overtime": false,
+     "stats": "202022",
+     "vod": "https://youtu.be/meijWUaxNYg?t=10696"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      13,
+      4
+     ],
+     "overtime": false,
+     "stats": "202027",
+     "vod": "https://youtu.be/meijWUaxNYg?t=14127"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      13,
+      6
+     ],
+     "overtime": false,
+     "stats": "202030",
+     "vod": "https://youtu.be/meijWUaxNYg?t=17605"
+    }
+   ],
+   "date": "June 22, 2025 - 14:30",
+   "hltv": "2382619"
+  }
+ ],
+ "bud25": [
+  {
+   "round": "QF",
+   "id": "R1M1",
+   "teams": [
+    "spirit",
+    "falcons"
+   ],
+   "series": [
+    2,
+    0
+   ],
+   "maps": [
+    {
+     "map": "Nuke",
+     "score": [
+      13,
+      4
+     ],
+     "overtime": false,
+     "stats": "215404",
+     "vod": "https://youtu.be/s6-0QwmLFW0?t=28"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      16,
+      12
+     ],
+     "overtime": true,
+     "stats": "215408",
+     "vod": "https://youtu.be/s6-0QwmLFW0?t=2034"
+    }
+   ],
+   "date": "December 11, 2025 - 17:00",
+   "hltv": "2388125"
+  },
+  {
+   "round": "QF",
+   "id": "R1M2",
+   "teams": [
+    "mongolz",
+    "vit"
+   ],
+   "series": [
+    0,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      5,
+      13
+     ],
+     "overtime": false,
+     "stats": "215412",
+     "vod": "https://youtu.be/1k7B0Ycf3rw?t=32"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      4,
+      13
+     ],
+     "overtime": false,
+     "stats": "215413",
+     "vod": "https://youtu.be/1k7B0Ycf3rw?t=2950"
+    }
+   ],
+   "date": "December 11, 2025 - 20:10",
+   "hltv": "2388124"
+  },
+  {
+   "round": "QF",
+   "id": "R1M3",
+   "teams": [
+    "mouz",
+    "faze"
+   ],
+   "series": [
+    0,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Nuke",
+     "score": [
+      11,
+      13
+     ],
+     "overtime": false,
+     "stats": "215448",
+     "vod": "https://youtu.be/KrRzC81orqQ?t=30"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      2,
+      13
+     ],
+     "overtime": false,
+     "stats": "215451",
+     "vod": "https://youtu.be/KrRzC81orqQ?t=3210"
+    }
+   ],
+   "date": "December 12, 2025 - 17:00",
+   "hltv": "2388126"
+  },
+  {
+   "round": "QF",
+   "id": "R1M4",
+   "teams": [
+    "navi",
+    "furia"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      13,
+      5
+     ],
+     "overtime": false,
+     "stats": "215455",
+     "vod": "https://youtu.be/hIldRX4idpE?t=23"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      13,
+      16
+     ],
+     "overtime": true,
+     "stats": "215459",
+     "vod": "https://youtu.be/hIldRX4idpE?t=2310"
+    },
+    {
+     "map": "Train",
+     "score": [
+      13,
+      3
+     ],
+     "overtime": false,
+     "stats": "215462",
+     "vod": "https://youtu.be/hIldRX4idpE?t=6389"
+    }
+   ],
+   "date": "December 12, 2025 - 20:00",
+   "hltv": "2388127"
+  },
+  {
+   "round": "SF",
+   "id": "R2M1",
+   "teams": [
+    "spirit",
+    "vit"
+   ],
+   "series": [
+    0,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      17,
+      19
+     ],
+     "overtime": true,
+     "stats": "215488",
+     "vod": "https://youtu.be/4dIfPa0NrjY&t=24"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      8,
+      13
+     ],
+     "overtime": false,
+     "stats": "215493",
+     "vod": "https://youtu.be/4dIfPa0NrjY&t=5324"
+    }
+   ],
+   "date": "December 13, 2025 - 17:00",
+   "hltv": "2388128"
+  },
+  {
+   "round": "SF",
+   "id": "R2M2",
+   "teams": [
+    "faze",
+    "navi"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Ancient",
+     "score": [
+      5,
+      13
+     ],
+     "overtime": false,
+     "stats": "215496",
+     "vod": "https://youtu.be/Y-b_JvVds84?t=24"
+    },
+    {
+     "map": "Nuke",
+     "score": [
+      13,
+      11
+     ],
+     "overtime": false,
+     "stats": "215498",
+     "vod": "https://youtu.be/Y-b_JvVds84?t=2067"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "215499",
+     "vod": "https://youtu.be/Y-b_JvVds84?t=5206"
+    }
+   ],
+   "date": "December 13, 2025 - 21:00",
+   "hltv": "2388129"
+  },
+  {
+   "round": "Final",
+   "id": "R3M1",
+   "teams": [
+    "vit",
+    "faze"
+   ],
+   "series": [
+    3,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Nuke",
+     "score": [
+      6,
+      13
+     ],
+     "overtime": false,
+     "stats": "215525",
+     "vod": "https://youtu.be/9qqiaW7sjD0&t=26"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      13,
+      3
+     ],
+     "overtime": false,
+     "stats": "215528",
+     "vod": "https://youtu.be/9qqiaW7sjD0&t=2734"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      13,
+      9
+     ],
+     "overtime": false,
+     "stats": "215531",
+     "vod": "https://youtu.be/9qqiaW7sjD0&t=4819"
+    },
+    {
+     "map": "Overpass",
+     "score": [
+      13,
+      2
+     ],
+     "overtime": false,
+     "stats": "215532",
+     "vod": "https://youtu.be/9qqiaW7sjD0&t=7944"
+    }
+   ],
+   "date": "December 14, 2025 - 18:00",
+   "hltv": "2388130"
+  }
+ ],
+ "col26": [
+  {
+   "round": "QF",
+   "id": "R1M1",
+   "teams": [
+    "spirit",
+    "g2"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Overpass",
+     "score": [
+      9,
+      13
+     ],
+     "overtime": false,
+     "stats": "231751",
+     "vod": "https://youtu.be/IrB3zQotMgs&t=27"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      16,
+      14
+     ],
+     "overtime": true,
+     "stats": "231755",
+     "vod": "https://youtu.be/IrB3zQotMgs&t=3280"
+    },
+    {
+     "map": "Mirage",
+     "score": [
+      25,
+      22
+     ],
+     "overtime": true,
+     "stats": "231762",
+     "vod": "https://youtu.be/IrB3zQotMgs&t=7541"
+    }
+   ],
+   "date": "June 19, 2026 - 15:45",
+   "hltv": "2394998"
+  },
+  {
+   "round": "QF",
+   "id": "R1M2",
+   "teams": [
+    "falcons",
+    "vit"
+   ],
+   "series": [
+    2,
+    1
+   ],
+   "maps": [
+    {
+     "map": "Anubis",
+     "score": [
+      13,
+      11
+     ],
+     "overtime": false,
+     "stats": "231784",
+     "vod": "https://youtu.be/y9--hvRfpLU"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      11,
+      13
+     ],
+     "overtime": false,
+     "stats": "231786",
+     "vod": "https://youtu.be/y9--hvRfpLU&t=3796"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      13,
+      11
+     ],
+     "overtime": false,
+     "stats": "231787",
+     "vod": "https://youtu.be/y9--hvRfpLU&t=7375"
+    }
+   ],
+   "date": "June 19, 2026 - 21:25",
+   "hltv": "2394999"
+  },
+  {
+   "round": "QF",
+   "id": "R1M3",
+   "teams": [
+    "aurora",
+    "betboom"
+   ],
+   "series": [
+    2,
+    0
+   ],
+   "maps": [
+    {
+     "map": "Nuke",
+     "score": [
+      13,
+      6
+     ],
+     "overtime": false,
+     "stats": "231719",
+     "vod": "https://youtu.be/iWRZm3UDpls&t=28"
+    },
+    {
+     "map": "Anubis",
+     "score": [
+      13,
+      9
+     ],
+     "overtime": false,
+     "stats": "231722",
+     "vod": "https://youtu.be/iWRZm3UDpls&t=2426"
+    }
+   ],
+   "date": "June 18, 2026 - 15:45",
+   "hltv": "2394996"
+  },
+  {
+   "round": "QF",
+   "id": "R1M4",
+   "teams": [
+    "9z",
+    "furia"
+   ],
+   "series": [
+    1,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Dust II",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "231729",
+     "vod": "https://youtu.be/MtE7mhPk6ts&t=29"
+    },
+    {
+     "map": "Mirage",
+     "score": [
+      9,
+      13
+     ],
+     "overtime": false,
+     "stats": "231733",
+     "vod": "https://youtu.be/MtE7mhPk6ts&t=3224"
+    },
+    {
+     "map": "Overpass",
+     "score": [
+      6,
+      13
+     ],
+     "overtime": false,
+     "stats": "231738",
+     "vod": "https://youtu.be/MtE7mhPk6ts&t=6512"
+    }
+   ],
+   "date": "June 18, 2026 - 19:00",
+   "hltv": "2394997"
+  },
+  {
+   "round": "SF",
+   "id": "R2M1",
+   "teams": [
+    "spirit",
+    "falcons"
+   ],
+   "series": [
+    1,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Anubis",
+     "score": [
+      14,
+      16
+     ],
+     "overtime": true,
+     "stats": "231824",
+     "vod": "https://youtu.be/fmHU01rVThM?si=sChsSoFtDmYmyHC0&t=37s"
+    },
+    {
+     "map": "Mirage",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "231831",
+     "vod": "https://youtu.be/fmHU01rVThM?si=u_YPEi9sw9Q3n0ua&t=4271s"
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      12,
+      16
+     ],
+     "overtime": true,
+     "stats": "231836",
+     "vod": "https://youtu.be/fmHU01rVThM?si=1k_7cWwQj62zYjCb&t=7184s"
+    }
+   ],
+   "date": "June 20, 2026 - 19:00",
+   "hltv": "2395001"
+  },
+  {
+   "round": "SF",
+   "id": "R2M2",
+   "teams": [
+    "aurora",
+    "furia"
+   ],
+   "series": [
+    0,
+    2
+   ],
+   "maps": [
+    {
+     "map": "Dust II",
+     "score": [
+      9,
+      13
+     ],
+     "overtime": false,
+     "stats": "231814",
+     "vod": "https://youtu.be/HN0F-b28M8M&t=39"
+    },
+    {
+     "map": "Nuke",
+     "score": [
+      4,
+      13
+     ],
+     "overtime": false,
+     "stats": "231815",
+     "vod": "https://youtu.be/HN0F-b28M8M&t=3219"
+    }
+   ],
+   "date": "June 20, 2026 - 15:45",
+   "hltv": "2395000"
+  },
+  {
+   "round": "Final",
+   "id": "R3M1",
+   "teams": [
+    "falcons",
+    "furia"
+   ],
+   "series": [
+    3,
+    0
+   ],
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "231870",
+     "vod": "https://youtu.be/p6U28DEBn8A&t=603"
+    },
+    {
+     "map": "Anubis",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "231871",
+     "vod": "https://youtu.be/p6U28DEBn8A&t=3380"
+    },
+    {
+     "map": "Inferno",
+     "score": [
+      13,
+      8
+     ],
+     "overtime": false,
+     "stats": "231873",
+     "vod": "https://youtu.be/p6U28DEBn8A&t=6506"
+    }
+   ],
+   "date": "June 21, 2026 - 17:00",
+   "hltv": "2395002"
+  }
+ ]
+}

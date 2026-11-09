@@ -1,0 +1,2458 @@
+{
+ "region": "Americas",
+ "spots": 9,
+ "show": 15,
+ "teams": [
+  "9z",
+  "BARCA",
+  "BESTIA",
+  "DENDELE",
+  "FURIA",
+  "Fluxo",
+  "Imperial",
+  "Legacy",
+  "Liquid",
+  "M80",
+  "MIBR",
+  "NRG",
+  "SportsBetExpert",
+  "Voca",
+  "Wildcard",
+  "paiN"
+ ],
+ "frames": [
+  {
+   "label": "Oct 5",
+   "date": "2026-10-05",
+   "teams": [
+    {
+     "name": "Legacy",
+     "points": 1931,
+     "rank": 1
+    },
+    {
+     "name": "FURIA",
+     "points": 1829,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1585,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1543,
+     "rank": 4
+    },
+    {
+     "name": "Liquid",
+     "points": 1527,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1491,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1368,
+     "rank": 7
+    },
+    {
+     "name": "NRG",
+     "points": 1322,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1297,
+     "rank": 9
+    },
+    {
+     "name": "paiN",
+     "points": 1287,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1277,
+     "rank": 11
+    },
+    {
+     "name": "Wildcard",
+     "points": 1239,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1199,
+     "rank": 13
+    },
+    {
+     "name": "BESTIA",
+     "points": 1189,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1182,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 6",
+   "date": "2026-10-06",
+   "teams": [
+    {
+     "name": "Legacy",
+     "points": 1833,
+     "rank": 1
+    },
+    {
+     "name": "FURIA",
+     "points": 1808,
+     "rank": 2
+    },
+    {
+     "name": "9z",
+     "points": 1563,
+     "rank": 3
+    },
+    {
+     "name": "MIBR",
+     "points": 1550,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1529,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1501,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1340,
+     "rank": 7
+    },
+    {
+     "name": "NRG",
+     "points": 1300,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1269,
+     "rank": 9
+    },
+    {
+     "name": "paiN",
+     "points": 1254,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1250,
+     "rank": 11
+    },
+    {
+     "name": "Wildcard",
+     "points": 1209,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1189,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1166,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1164,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 7",
+   "date": "2026-10-07",
+   "teams": [
+    {
+     "name": "Legacy",
+     "points": 1837,
+     "rank": 1
+    },
+    {
+     "name": "FURIA",
+     "points": 1823,
+     "rank": 2
+    },
+    {
+     "name": "9z",
+     "points": 1557,
+     "rank": 3
+    },
+    {
+     "name": "MIBR",
+     "points": 1552,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1528,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1500,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1340,
+     "rank": 7
+    },
+    {
+     "name": "NRG",
+     "points": 1298,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1271,
+     "rank": 9
+    },
+    {
+     "name": "paiN",
+     "points": 1254,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1253,
+     "rank": 11
+    },
+    {
+     "name": "Wildcard",
+     "points": 1209,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1190,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1166,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1165,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 8",
+   "date": "2026-10-08",
+   "teams": [
+    {
+     "name": "Legacy",
+     "points": 1838,
+     "rank": 1
+    },
+    {
+     "name": "FURIA",
+     "points": 1825,
+     "rank": 2
+    },
+    {
+     "name": "9z",
+     "points": 1556,
+     "rank": 3
+    },
+    {
+     "name": "MIBR",
+     "points": 1553,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1529,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1501,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1340,
+     "rank": 7
+    },
+    {
+     "name": "NRG",
+     "points": 1302,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1274,
+     "rank": 9
+    },
+    {
+     "name": "paiN",
+     "points": 1255,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1255,
+     "rank": 11
+    },
+    {
+     "name": "Wildcard",
+     "points": 1208,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1192,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1168,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1167,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 9",
+   "date": "2026-10-09",
+   "teams": [
+    {
+     "name": "Legacy",
+     "points": 1825,
+     "rank": 1
+    },
+    {
+     "name": "FURIA",
+     "points": 1806,
+     "rank": 2
+    },
+    {
+     "name": "9z",
+     "points": 1545,
+     "rank": 3
+    },
+    {
+     "name": "MIBR",
+     "points": 1542,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1520,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1491,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1331,
+     "rank": 7
+    },
+    {
+     "name": "NRG",
+     "points": 1293,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1267,
+     "rank": 9
+    },
+    {
+     "name": "Fluxo",
+     "points": 1248,
+     "rank": 10
+    },
+    {
+     "name": "paiN",
+     "points": 1246,
+     "rank": 11
+    },
+    {
+     "name": "Wildcard",
+     "points": 1200,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1186,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1161,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1160,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 10",
+   "date": "2026-10-10",
+   "teams": [
+    {
+     "name": "Legacy",
+     "points": 1799,
+     "rank": 1
+    },
+    {
+     "name": "FURIA",
+     "points": 1785,
+     "rank": 2
+    },
+    {
+     "name": "9z",
+     "points": 1524,
+     "rank": 3
+    },
+    {
+     "name": "MIBR",
+     "points": 1524,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1506,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1478,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1374,
+     "rank": 7
+    },
+    {
+     "name": "NRG",
+     "points": 1297,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1278,
+     "rank": 9
+    },
+    {
+     "name": "Wildcard",
+     "points": 1265,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1242,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1233,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1209,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1159,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1153,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 11",
+   "date": "2026-10-11",
+   "teams": [
+    {
+     "name": "Legacy",
+     "points": 1793,
+     "rank": 1
+    },
+    {
+     "name": "FURIA",
+     "points": 1784,
+     "rank": 2
+    },
+    {
+     "name": "9z",
+     "points": 1519,
+     "rank": 3
+    },
+    {
+     "name": "MIBR",
+     "points": 1519,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1503,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1478,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1355,
+     "rank": 7
+    },
+    {
+     "name": "Imperial",
+     "points": 1327,
+     "rank": 8
+    },
+    {
+     "name": "NRG",
+     "points": 1314,
+     "rank": 9
+    },
+    {
+     "name": "Wildcard",
+     "points": 1305,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1244,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1234,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1202,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1160,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1156,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 12",
+   "date": "2026-10-12",
+   "teams": [
+    {
+     "name": "Legacy",
+     "points": 1792,
+     "rank": 1
+    },
+    {
+     "name": "FURIA",
+     "points": 1783,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1517,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1516,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1505,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1478,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1369,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1345,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1317,
+     "rank": 9
+    },
+    {
+     "name": "NRG",
+     "points": 1315,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1246,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1236,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1203,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1160,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1156,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 13",
+   "date": "2026-10-13",
+   "teams": [
+    {
+     "name": "Legacy",
+     "points": 1787,
+     "rank": 1
+    },
+    {
+     "name": "FURIA",
+     "points": 1781,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1513,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1511,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1505,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1503,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1367,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1344,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1316,
+     "rank": 9
+    },
+    {
+     "name": "NRG",
+     "points": 1315,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1246,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1234,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1202,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1159,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1155,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 14",
+   "date": "2026-10-14",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1802,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1787,
+     "rank": 2
+    },
+    {
+     "name": "9z",
+     "points": 1552,
+     "rank": 3
+    },
+    {
+     "name": "MIBR",
+     "points": 1491,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1488,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1487,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1354,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1345,
+     "rank": 8
+    },
+    {
+     "name": "NRG",
+     "points": 1302,
+     "rank": 9
+    },
+    {
+     "name": "Imperial",
+     "points": 1300,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1230,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1214,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1188,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1144,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1141,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 15",
+   "date": "2026-10-15",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1807,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1788,
+     "rank": 2
+    },
+    {
+     "name": "9z",
+     "points": 1550,
+     "rank": 3
+    },
+    {
+     "name": "MIBR",
+     "points": 1519,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1488,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1486,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1351,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1342,
+     "rank": 8
+    },
+    {
+     "name": "NRG",
+     "points": 1300,
+     "rank": 9
+    },
+    {
+     "name": "Imperial",
+     "points": 1298,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1230,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1211,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1186,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1143,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1140,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 16",
+   "date": "2026-10-16",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1837,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1754,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1550,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1546,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1490,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1471,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1350,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1341,
+     "rank": 8
+    },
+    {
+     "name": "NRG",
+     "points": 1302,
+     "rank": 9
+    },
+    {
+     "name": "Imperial",
+     "points": 1297,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1229,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1210,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1186,
+     "rank": 13
+    },
+    {
+     "name": "BESTIA",
+     "points": 1140,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1131,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 17",
+   "date": "2026-10-17",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1868,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1759,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1562,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1549,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1493,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1473,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1350,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1342,
+     "rank": 8
+    },
+    {
+     "name": "NRG",
+     "points": 1303,
+     "rank": 9
+    },
+    {
+     "name": "Imperial",
+     "points": 1297,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1230,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1211,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1187,
+     "rank": 13
+    },
+    {
+     "name": "BESTIA",
+     "points": 1139,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1133,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 18",
+   "date": "2026-10-18",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1881,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1756,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1559,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1547,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1491,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1470,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1348,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1339,
+     "rank": 8
+    },
+    {
+     "name": "NRG",
+     "points": 1299,
+     "rank": 9
+    },
+    {
+     "name": "Imperial",
+     "points": 1296,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1228,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1208,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1187,
+     "rank": 13
+    },
+    {
+     "name": "BESTIA",
+     "points": 1137,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1131,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 19",
+   "date": "2026-10-19",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1884,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1757,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1564,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1548,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1495,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1458,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1349,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1343,
+     "rank": 8
+    },
+    {
+     "name": "NRG",
+     "points": 1299,
+     "rank": 9
+    },
+    {
+     "name": "Imperial",
+     "points": 1297,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1230,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1211,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1188,
+     "rank": 13
+    },
+    {
+     "name": "BESTIA",
+     "points": 1136,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1135,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 20",
+   "date": "2026-10-20",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1885,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1759,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1571,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1550,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1498,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1445,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1350,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1347,
+     "rank": 8
+    },
+    {
+     "name": "NRG",
+     "points": 1299,
+     "rank": 9
+    },
+    {
+     "name": "Imperial",
+     "points": 1297,
+     "rank": 10
+    },
+    {
+     "name": "Fluxo",
+     "points": 1231,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1212,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1188,
+     "rank": 13
+    },
+    {
+     "name": "Voca",
+     "points": 1137,
+     "rank": 14
+    },
+    {
+     "name": "BESTIA",
+     "points": 1134,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 21",
+   "date": "2026-10-21",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1887,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1760,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1575,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1554,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1500,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1447,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1355,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1351,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1308,
+     "rank": 9
+    },
+    {
+     "name": "NRG",
+     "points": 1300,
+     "rank": 10
+    },
+    {
+     "name": "paiN",
+     "points": 1287,
+     "rank": 11
+    },
+    {
+     "name": "Fluxo",
+     "points": 1243,
+     "rank": 12
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1189,
+     "rank": 13
+    },
+    {
+     "name": "BESTIA",
+     "points": 1140,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1139,
+     "rank": 15
+    },
+    {
+     "name": "BARCA",
+     "points": 1083,
+     "rank": 17
+    }
+   ]
+  },
+  {
+   "label": "Oct 22",
+   "date": "2026-10-22",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1889,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1760,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1581,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1555,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1502,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1450,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1361,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1354,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1318,
+     "rank": 9
+    },
+    {
+     "name": "NRG",
+     "points": 1301,
+     "rank": 10
+    },
+    {
+     "name": "paiN",
+     "points": 1298,
+     "rank": 11
+    },
+    {
+     "name": "BESTIA",
+     "points": 1241,
+     "rank": 12
+    },
+    {
+     "name": "Fluxo",
+     "points": 1237,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1191,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1143,
+     "rank": 15
+    },
+    {
+     "name": "BARCA",
+     "points": 1093,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 23",
+   "date": "2026-10-23",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1890,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1759,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1582,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1554,
+     "rank": 4
+    },
+    {
+     "name": "M80",
+     "points": 1503,
+     "rank": 5
+    },
+    {
+     "name": "Liquid",
+     "points": 1451,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1364,
+     "rank": 7
+    },
+    {
+     "name": "Wildcard",
+     "points": 1356,
+     "rank": 8
+    },
+    {
+     "name": "Imperial",
+     "points": 1338,
+     "rank": 9
+    },
+    {
+     "name": "NRG",
+     "points": 1302,
+     "rank": 10
+    },
+    {
+     "name": "paiN",
+     "points": 1300,
+     "rank": 11
+    },
+    {
+     "name": "BESTIA",
+     "points": 1277,
+     "rank": 12
+    },
+    {
+     "name": "Fluxo",
+     "points": 1242,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1192,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1144,
+     "rank": 15
+    },
+    {
+     "name": "BARCA",
+     "points": 1095,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 24",
+   "date": "2026-10-24",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1903,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1739,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1586,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1559,
+     "rank": 4
+    },
+    {
+     "name": "Liquid",
+     "points": 1530,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1514,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1388,
+     "rank": 7
+    },
+    {
+     "name": "Imperial",
+     "points": 1375,
+     "rank": 8
+    },
+    {
+     "name": "Wildcard",
+     "points": 1366,
+     "rank": 9
+    },
+    {
+     "name": "NRG",
+     "points": 1332,
+     "rank": 10
+    },
+    {
+     "name": "paiN",
+     "points": 1322,
+     "rank": 11
+    },
+    {
+     "name": "BESTIA",
+     "points": 1280,
+     "rank": 12
+    },
+    {
+     "name": "Fluxo",
+     "points": 1260,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1194,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1156,
+     "rank": 15
+    },
+    {
+     "name": "BARCA",
+     "points": 1095,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 25",
+   "date": "2026-10-25",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1885,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1750,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1583,
+     "rank": 3
+    },
+    {
+     "name": "9z",
+     "points": 1557,
+     "rank": 4
+    },
+    {
+     "name": "Liquid",
+     "points": 1520,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1514,
+     "rank": 6
+    },
+    {
+     "name": "Imperial",
+     "points": 1386,
+     "rank": 7
+    },
+    {
+     "name": "DENDELE",
+     "points": 1382,
+     "rank": 8
+    },
+    {
+     "name": "Wildcard",
+     "points": 1363,
+     "rank": 9
+    },
+    {
+     "name": "paiN",
+     "points": 1348,
+     "rank": 10
+    },
+    {
+     "name": "NRG",
+     "points": 1328,
+     "rank": 11
+    },
+    {
+     "name": "Fluxo",
+     "points": 1258,
+     "rank": 12
+    },
+    {
+     "name": "BESTIA",
+     "points": 1253,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1191,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1153,
+     "rank": 15
+    },
+    {
+     "name": "BARCA",
+     "points": 1093,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 26",
+   "date": "2026-10-26",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1881,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1729,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1582,
+     "rank": 3
+    },
+    {
+     "name": "Liquid",
+     "points": 1569,
+     "rank": 4
+    },
+    {
+     "name": "9z",
+     "points": 1537,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1519,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1433,
+     "rank": 7
+    },
+    {
+     "name": "Imperial",
+     "points": 1403,
+     "rank": 8
+    },
+    {
+     "name": "Wildcard",
+     "points": 1367,
+     "rank": 9
+    },
+    {
+     "name": "paiN",
+     "points": 1334,
+     "rank": 10
+    },
+    {
+     "name": "NRG",
+     "points": 1329,
+     "rank": 11
+    },
+    {
+     "name": "Fluxo",
+     "points": 1258,
+     "rank": 12
+    },
+    {
+     "name": "BESTIA",
+     "points": 1252,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1189,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1152,
+     "rank": 15
+    },
+    {
+     "name": "BARCA",
+     "points": 1090,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 27",
+   "date": "2026-10-27",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1872,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1695,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1595,
+     "rank": 3
+    },
+    {
+     "name": "Liquid",
+     "points": 1553,
+     "rank": 4
+    },
+    {
+     "name": "9z",
+     "points": 1525,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1499,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1412,
+     "rank": 7
+    },
+    {
+     "name": "Imperial",
+     "points": 1391,
+     "rank": 8
+    },
+    {
+     "name": "Wildcard",
+     "points": 1357,
+     "rank": 9
+    },
+    {
+     "name": "paiN",
+     "points": 1323,
+     "rank": 10
+    },
+    {
+     "name": "NRG",
+     "points": 1316,
+     "rank": 11
+    },
+    {
+     "name": "Fluxo",
+     "points": 1248,
+     "rank": 12
+    },
+    {
+     "name": "BESTIA",
+     "points": 1240,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1178,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1142,
+     "rank": 15
+    },
+    {
+     "name": "BARCA",
+     "points": 1080,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 28",
+   "date": "2026-10-28",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1885,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1698,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1610,
+     "rank": 3
+    },
+    {
+     "name": "Liquid",
+     "points": 1550,
+     "rank": 4
+    },
+    {
+     "name": "9z",
+     "points": 1527,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1509,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1412,
+     "rank": 7
+    },
+    {
+     "name": "Imperial",
+     "points": 1390,
+     "rank": 8
+    },
+    {
+     "name": "Wildcard",
+     "points": 1355,
+     "rank": 9
+    },
+    {
+     "name": "paiN",
+     "points": 1323,
+     "rank": 10
+    },
+    {
+     "name": "NRG",
+     "points": 1313,
+     "rank": 11
+    },
+    {
+     "name": "Fluxo",
+     "points": 1246,
+     "rank": 12
+    },
+    {
+     "name": "BESTIA",
+     "points": 1238,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1177,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1141,
+     "rank": 15
+    },
+    {
+     "name": "BARCA",
+     "points": 1078,
+     "rank": 19
+    }
+   ]
+  },
+  {
+   "label": "Oct 29",
+   "date": "2026-10-29",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1882,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1678,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1577,
+     "rank": 3
+    },
+    {
+     "name": "Liquid",
+     "points": 1537,
+     "rank": 4
+    },
+    {
+     "name": "9z",
+     "points": 1511,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1497,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1419,
+     "rank": 7
+    },
+    {
+     "name": "Imperial",
+     "points": 1390,
+     "rank": 8
+    },
+    {
+     "name": "Wildcard",
+     "points": 1350,
+     "rank": 9
+    },
+    {
+     "name": "paiN",
+     "points": 1332,
+     "rank": 10
+    },
+    {
+     "name": "NRG",
+     "points": 1322,
+     "rank": 11
+    },
+    {
+     "name": "Fluxo",
+     "points": 1241,
+     "rank": 12
+    },
+    {
+     "name": "BESTIA",
+     "points": 1231,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1166,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1132,
+     "rank": 15
+    },
+    {
+     "name": "BARCA",
+     "points": 1079,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 30",
+   "date": "2026-10-30",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1909,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1679,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1560,
+     "rank": 3
+    },
+    {
+     "name": "Liquid",
+     "points": 1541,
+     "rank": 4
+    },
+    {
+     "name": "9z",
+     "points": 1511,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1499,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1427,
+     "rank": 7
+    },
+    {
+     "name": "Imperial",
+     "points": 1419,
+     "rank": 8
+    },
+    {
+     "name": "Wildcard",
+     "points": 1381,
+     "rank": 9
+    },
+    {
+     "name": "NRG",
+     "points": 1347,
+     "rank": 10
+    },
+    {
+     "name": "paiN",
+     "points": 1330,
+     "rank": 11
+    },
+    {
+     "name": "Fluxo",
+     "points": 1276,
+     "rank": 12
+    },
+    {
+     "name": "BESTIA",
+     "points": 1264,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1168,
+     "rank": 14
+    },
+    {
+     "name": "Voca",
+     "points": 1135,
+     "rank": 15
+    },
+    {
+     "name": "BARCA",
+     "points": 1088,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 31",
+   "date": "2026-10-31",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1911,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1665,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1548,
+     "rank": 3
+    },
+    {
+     "name": "Liquid",
+     "points": 1529,
+     "rank": 4
+    },
+    {
+     "name": "9z",
+     "points": 1495,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1489,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1443,
+     "rank": 7
+    },
+    {
+     "name": "Imperial",
+     "points": 1417,
+     "rank": 8
+    },
+    {
+     "name": "Wildcard",
+     "points": 1374,
+     "rank": 9
+    },
+    {
+     "name": "NRG",
+     "points": 1337,
+     "rank": 10
+    },
+    {
+     "name": "BESTIA",
+     "points": 1307,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1296,
+     "rank": 12
+    },
+    {
+     "name": "Fluxo",
+     "points": 1250,
+     "rank": 13
+    },
+    {
+     "name": "BARCA",
+     "points": 1158,
+     "rank": 14
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1157,
+     "rank": 15
+    },
+    {
+     "name": "Voca",
+     "points": 1128,
+     "rank": 16
+    }
+   ]
+  },
+  {
+   "label": "Nov 1",
+   "date": "2026-11-01",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1911,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1663,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1548,
+     "rank": 3
+    },
+    {
+     "name": "Liquid",
+     "points": 1529,
+     "rank": 4
+    },
+    {
+     "name": "9z",
+     "points": 1492,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1489,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1444,
+     "rank": 7
+    },
+    {
+     "name": "Imperial",
+     "points": 1419,
+     "rank": 8
+    },
+    {
+     "name": "Wildcard",
+     "points": 1390,
+     "rank": 9
+    },
+    {
+     "name": "NRG",
+     "points": 1324,
+     "rank": 10
+    },
+    {
+     "name": "BESTIA",
+     "points": 1313,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1296,
+     "rank": 12
+    },
+    {
+     "name": "Fluxo",
+     "points": 1249,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1162,
+     "rank": 14
+    },
+    {
+     "name": "BARCA",
+     "points": 1142,
+     "rank": 15
+    },
+    {
+     "name": "Voca",
+     "points": 1128,
+     "rank": 16
+    }
+   ]
+  },
+  {
+   "label": "Nov 2",
+   "date": "2026-11-02",
+   "teams": [
+    {
+     "name": "FURIA",
+     "points": 1912,
+     "rank": 1
+    },
+    {
+     "name": "Legacy",
+     "points": 1663,
+     "rank": 2
+    },
+    {
+     "name": "MIBR",
+     "points": 1548,
+     "rank": 3
+    },
+    {
+     "name": "Liquid",
+     "points": 1529,
+     "rank": 4
+    },
+    {
+     "name": "9z",
+     "points": 1492,
+     "rank": 5
+    },
+    {
+     "name": "M80",
+     "points": 1490,
+     "rank": 6
+    },
+    {
+     "name": "DENDELE",
+     "points": 1466,
+     "rank": 7
+    },
+    {
+     "name": "Imperial",
+     "points": 1406,
+     "rank": 8
+    },
+    {
+     "name": "Wildcard",
+     "points": 1391,
+     "rank": 9
+    },
+    {
+     "name": "NRG",
+     "points": 1323,
+     "rank": 10
+    },
+    {
+     "name": "BESTIA",
+     "points": 1313,
+     "rank": 11
+    },
+    {
+     "name": "paiN",
+     "points": 1296,
+     "rank": 12
+    },
+    {
+     "name": "Fluxo",
+     "points": 1249,
+     "rank": 13
+    },
+    {
+     "name": "SportsBetExpert",
+     "points": 1165,
+     "rank": 14
+    },
+    {
+     "name": "BARCA",
+     "points": 1142,
+     "rank": 15
+    },
+    {
+     "name": "Voca",
+     "points": 1128,
+     "rank": 16
+    }
+   ]
+  }
+ ],
+ "logos": {
+  "9z": "https://img-cdn.hltv.org/teamlogo/COZDFWOIm41AT0srqOHFhM.png?ixlib=java-2.1.0&w=50&s=81c70f301dfc75e014336aa0ccb440f9",
+  "BARCA": "https://img-cdn.hltv.org/teamlogo/OTzPVp91pmfM7Z37y2MLbJ.png?ixlib=java-2.1.0&w=50&s=6790766013d8bcc8d88b7df509ecfa37",
+  "BESTIA": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=88d03008f96f67d8913fd593a883e813",
+  "DENDELE": "https://img-cdn.hltv.org/teamlogo/xKB2zOMgkFKoD-MLU484IV.png?ixlib=java-2.1.0&w=50&s=ca11299f789fb7c48d83130b8396af9f",
+  "FURIA": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c",
+  "Fluxo": "https://img-cdn.hltv.org/teamlogo/zGveLNj821BCJGMu93qnj-.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=b75679391c2e39b840910bf96a6f26a5",
+  "Imperial": "https://img-cdn.hltv.org/teamlogo/bBDk6-rND06sAzn67b5RdP.png?ixlib=java-2.1.0&w=50&s=467e31ba123f509130d647fbf1e04ef2",
+  "Legacy": "https://img-cdn.hltv.org/teamlogo/RWbHH6RA8uGwJurGeLFvSr.png?ixlib=java-2.1.0&w=50&s=3d251032e156cab2f6df8c630ca29745",
+  "Liquid": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+  "M80": "https://img-cdn.hltv.org/teamlogo/YsaWwP_VrkbHzuhszuANEK.png?ixlib=java-2.1.0&w=50&s=47a8cff375da8242af9137a2a592b97d",
+  "MIBR": "https://img-cdn.hltv.org/teamlogo/m_JQ624LNFHWiUY-25uuaE.png?ixlib=java-2.1.0&w=50&s=80a1e479dd1b15b974d3e2d5588763af",
+  "NRG": "https://img-cdn.hltv.org/teamlogo/SJZaPBCyZssru-pUDS3aZe.png?ixlib=java-2.1.0&w=50&s=5f4ca255d90b4ea7092882834bbf1bdc",
+  "SportsBetExpert": "https://img-cdn.hltv.org/teamlogo/gk75xUsUSOXNvyT0A4UBS2.png?ixlib=java-2.1.0&w=50&s=e522fb3aa5ea928b95903bcc31adc39d",
+  "Voca": "https://img-cdn.hltv.org/teamlogo/1Z_CvAJE9Qb5h9WyIi1PoP.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=c5be446ac6e525eacfe7a7dfd8a8cee5",
+  "Wildcard": "https://img-cdn.hltv.org/teamlogo/G1K6vvihgsmN98BxRF8uJ7.png?ixlib=java-2.1.0&w=50&s=3c1bc46a84d52790aa12e89f9887c5bf",
+  "paiN": "https://img-cdn.hltv.org/teamlogo/x7znFH8_QjLXOQRyR2y7Xp.png?ixlib=java-2.1.0&w=50&s=e4435bf7c351b546b867adc1d7886795"
+ },
+ "approximate": []
+}

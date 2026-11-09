@@ -1,0 +1,3479 @@
+{
+	"run": {
+		"runId": "987a34a1-195f-41fc-9fe1-e5db7e4d173d",
+		"simName": "31/10 quick at 20:03",
+		"notes": "-",
+		"createdBy": "188716227433201664",
+		"createdAt": "2026-10-31T20:10:32.948926+00:00",
+		"baseTimestamp": 1793642400,
+		"type": "preset",
+		"production": true,
+		"previousRunId": "07e37171-ad67-4c43-8b13-c05fb7f4b8bf"
+	},
+	"thresholds": {
+		"templateId": "4a71d924-bc23-4e31-b125-28d371258001",
+		"name": "Major",
+		"scope": "regional",
+		"values": {
+			"AM": 9,
+			"AS": 5,
+			"EU": 18
+		},
+		"hasStages": true,
+		"isDefault": false,
+		"stages": {
+			"AM": [
+				{
+					"stageId": 4,
+					"name": "Stage 3",
+					"order": 3,
+					"from": 1,
+					"to": 2
+				},
+				{
+					"stageId": 5,
+					"name": "Stage 2",
+					"order": 2,
+					"from": 3,
+					"to": 3
+				},
+				{
+					"stageId": 6,
+					"name": "Stage 1",
+					"order": 1,
+					"from": 4,
+					"to": 9
+				}
+			],
+			"AS": [
+				{
+					"stageId": 7,
+					"name": "Stage 2",
+					"order": 2,
+					"from": 1,
+					"to": 1
+				},
+				{
+					"stageId": 8,
+					"name": "Stage 1",
+					"order": 1,
+					"from": 2,
+					"to": 5
+				}
+			],
+			"EU": [
+				{
+					"stageId": 1,
+					"name": "Stage 3",
+					"order": 3,
+					"from": 1,
+					"to": 6
+				},
+				{
+					"stageId": 2,
+					"name": "Stage 2",
+					"order": 2,
+					"from": 7,
+					"to": 12
+				},
+				{
+					"stageId": 3,
+					"name": "Stage 1",
+					"order": 1,
+					"from": 13,
+					"to": 18
+				}
+			]
+		}
+	},
+	"config": {
+		"simName": "31/10 quick at 20:03",
+		"presetId": "188716227433201664|global",
+		"overrides": {
+			"teamOdds": {},
+			"coinTossIds": [],
+			"forceWinTeamIds": [],
+			"forceLoseTeamIds": []
+		},
+		"eventOverrides": {},
+		"numSimulations": 2500
+	},
+	"events": [
+		{
+			"eventId": "248074a3-885a-4217-a60a-9ad4ae39c1db",
+			"eventName": "PGL Bucharest Masters",
+			"bracket": "PGL_2026_Masters",
+			"bracketType": "live",
+			"eventStart": "2026-10-24T10:00:00.000Z",
+			"eventEnd": "2026-10-31T23:59:00.000Z",
+			"important": false,
+			"teamCount": 16,
+			"prizeDistribution": [
+				{
+					"prize": 400000,
+					"placement": "1"
+				},
+				{
+					"prize": 187500,
+					"placement": "2"
+				},
+				{
+					"prize": 150000,
+					"placement": "3"
+				},
+				{
+					"prize": 87500,
+					"placement": "4"
+				},
+				{
+					"prize": 62500,
+					"placement": "5-8"
+				},
+				{
+					"prize": 31250,
+					"placement": "9-11"
+				},
+				{
+					"prize": 18750,
+					"placement": "12-14"
+				},
+				{
+					"prize": 12500,
+					"placement": "15-16"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "f7716711-741b-46f9-bb74-1134f2330fc2",
+			"eventName": "HyperX Retake S13",
+			"bracket": "Circuito_Retake_Season_13",
+			"bracketType": "live",
+			"eventStart": "2026-10-29T10:00:00.000Z",
+			"eventEnd": "2026-11-01T23:59:00.000Z",
+			"important": false,
+			"teamCount": 13,
+			"prizeDistribution": [
+				{
+					"prize": 7450,
+					"placement": "1"
+				},
+				{
+					"prize": 3409,
+					"placement": "2"
+				},
+				{
+					"prize": 2045,
+					"placement": "3"
+				},
+				{
+					"prize": 682,
+					"placement": "4"
+				},
+				{
+					"prize": 0,
+					"placement": "5-8"
+				},
+				{
+					"prize": 0,
+					"placement": "9-12"
+				},
+				{
+					"prize": 0,
+					"placement": "13"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "edd21ffc-424c-4e92-a47e-5f8a75efe470",
+			"eventName": "Stake Ranked Episode 5",
+			"bracket": "Stake_Ranked_Episode_5",
+			"bracketType": "live",
+			"eventStart": "2026-10-26T18:00:00.000Z",
+			"eventEnd": "2026-10-30T23:59:00.000Z",
+			"important": false,
+			"teamCount": 8,
+			"prizeDistribution": [
+				{
+					"prize": 25000,
+					"placement": "1"
+				},
+				{
+					"prize": 17500,
+					"placement": "2"
+				},
+				{
+					"prize": 13500,
+					"placement": "3"
+				},
+				{
+					"prize": 11000,
+					"placement": "4"
+				},
+				{
+					"prize": 9000,
+					"placement": "5-6"
+				},
+				{
+					"prize": 7500,
+					"placement": "7-8"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "1f9a57f6-3637-44d9-a8da-9852a2b4522d",
+			"eventName": "RELOG Tesla Cup",
+			"bracket": "Tesla_Cup_2026",
+			"bracketType": "live",
+			"eventStart": "2026-10-26T10:00:00.000Z",
+			"eventEnd": "2026-10-29T23:59:00.000Z",
+			"important": false,
+			"teamCount": 8,
+			"prizeDistribution": [
+				{
+					"prize": 30000,
+					"placement": "1"
+				},
+				{
+					"prize": 12000,
+					"placement": "2"
+				},
+				{
+					"prize": 5000,
+					"placement": "3"
+				},
+				{
+					"prize": 3000,
+					"placement": "4"
+				},
+				{
+					"prize": 0,
+					"placement": "5-6"
+				},
+				{
+					"prize": 0,
+					"placement": "7-8"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "0c7108a4-3aed-4464-ae5e-f96f841ddff5",
+			"eventName": "EPICLAN 49",
+			"bracket": "EPIC49",
+			"bracketType": "live",
+			"eventStart": "2026-10-29T18:00:00.000Z",
+			"eventEnd": "2026-11-01T23:59:00.000Z",
+			"important": false,
+			"teamCount": 12,
+			"prizeDistribution": [
+				{
+					"prize": 3524,
+					"placement": "1"
+				},
+				{
+					"prize": 1396,
+					"placement": "2"
+				},
+				{
+					"prize": 765,
+					"placement": "3"
+				},
+				{
+					"prize": 432,
+					"placement": "4"
+				},
+				{
+					"prize": 133,
+					"placement": "5-6"
+				},
+				{
+					"prize": 133,
+					"placement": "7-8"
+				},
+				{
+					"prize": 0,
+					"placement": "9-12"
+				}
+			],
+			"excludedTeamIds": [
+				"ww team 2024"
+			],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "0deb6950-a5e4-426c-ae0e-3671f37cc62c",
+			"eventName": "Gamers Club",
+			"bracket": "Gamers_Club_Masters_VII",
+			"bracketType": "live",
+			"eventStart": "2026-10-29T13:00:00.000Z",
+			"eventEnd": "2026-11-01T23:59:00.000Z",
+			"important": false,
+			"teamCount": 8,
+			"prizeDistribution": [
+				{
+					"prize": 17500,
+					"placement": "1"
+				},
+				{
+					"prize": 7500,
+					"placement": "2"
+				},
+				{
+					"prize": 3500,
+					"placement": "3"
+				},
+				{
+					"prize": 1500,
+					"placement": "4"
+				},
+				{
+					"prize": 0,
+					"placement": "5-6"
+				},
+				{
+					"prize": 0,
+					"placement": "7-8"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "2c1d5d5a-86cb-45ee-bd1b-bb27d86641c8",
+			"eventName": "CCT Europe Series 12",
+			"bracket": "CCT_2026_Europe_Series_12",
+			"bracketType": "live",
+			"eventStart": "2026-10-19T18:00:00.000Z",
+			"eventEnd": "2026-11-01T23:59:00.000Z",
+			"important": false,
+			"teamCount": 24,
+			"prizeDistribution": [
+				{
+					"prize": 10000,
+					"placement": "1"
+				},
+				{
+					"prize": 5000,
+					"placement": "2"
+				},
+				{
+					"prize": 2500,
+					"placement": "3-4"
+				},
+				{
+					"prize": 1250,
+					"placement": "5-8"
+				},
+				{
+					"prize": 0,
+					"placement": "9-16"
+				},
+				{
+					"prize": 0,
+					"placement": "17-19"
+				},
+				{
+					"prize": 0,
+					"placement": "20-22"
+				},
+				{
+					"prize": 0,
+					"placement": "23"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "37a6d112-2d75-47c1-bed0-bde52483e076",
+			"eventName": "NSTLGA TEXAS",
+			"bracket": "4SEINC3",
+			"bracketType": "templates",
+			"eventStart": "2026-10-29T18:00:00.000Z",
+			"eventEnd": "2026-11-01T23:59:00.000Z",
+			"important": false,
+			"teamCount": 4,
+			"prizeDistribution": [
+				{
+					"prize": 7500,
+					"placement": "1"
+				},
+				{
+					"prize": 3750,
+					"placement": "2"
+				},
+				{
+					"prize": 1500,
+					"placement": "3"
+				},
+				{
+					"prize": 750,
+					"placement": "4"
+				}
+			],
+			"excludedTeamIds": [
+				"team liquid 2024",
+				"nrg 2024",
+				"sportsbetexpert",
+				"m80 orig",
+				"team voca",
+				"wildcard 2024"
+			],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "7983ea2d-b42a-423d-af1a-d1362e0454f8",
+			"eventName": "MSCW4 (pure)",
+			"bracket": "MSCW4",
+			"bracketType": "templates",
+			"eventStart": "2026-10-30T18:00:00.000Z",
+			"eventEnd": "2026-11-01T23:59:00.000Z",
+			"important": false,
+			"teamCount": 4,
+			"prizeDistribution": [
+				{
+					"prize": 96646,
+					"placement": "1"
+				},
+				{
+					"prize": 48323,
+					"placement": "2"
+				},
+				{
+					"prize": 30204,
+					"placement": "3"
+				},
+				{
+					"prize": 6041,
+					"placement": "4"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "d9291197-9b77-4943-b5fc-d0125ae329f6",
+			"eventName": "Fire Conter 75 Last Chance",
+			"bracket": "FiReSPORTS_Last_Chance_2026",
+			"bracketType": "live",
+			"eventStart": "2026-10-29T18:00:00.000Z",
+			"eventEnd": "2026-11-01T23:59:00.000Z",
+			"important": false,
+			"teamCount": 16,
+			"prizeDistribution": [
+				{
+					"prize": 40000,
+					"placement": "1"
+				},
+				{
+					"prize": 15000,
+					"placement": "2"
+				},
+				{
+					"prize": 6500,
+					"placement": "3"
+				},
+				{
+					"prize": 3500,
+					"placement": "4"
+				},
+				{
+					"prize": 2500,
+					"placement": "5-8"
+				},
+				{
+					"prize": 0,
+					"placement": "9-12"
+				},
+				{
+					"prize": 0,
+					"placement": "13-16"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "e8cb238c-b28d-4b10-a9d1-2f949ed62e63",
+			"eventName": "DFRAG Invite",
+			"bracket": "DFRAG_Invitational_2026",
+			"bracketType": "live",
+			"eventStart": "2026-10-24T18:00:00.000Z",
+			"eventEnd": "2026-11-01T23:59:00.000Z",
+			"important": false,
+			"teamCount": 8,
+			"prizeDistribution": [
+				{
+					"prize": 14059,
+					"placement": "1"
+				},
+				{
+					"prize": 7029,
+					"placement": "2"
+				},
+				{
+					"prize": 4217,
+					"placement": "3"
+				},
+				{
+					"prize": 2811,
+					"placement": "4"
+				},
+				{
+					"prize": 0,
+					"placement": "5-6"
+				},
+				{
+					"prize": 0,
+					"placement": "7-8"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "2bfb2b1c-eba0-453f-aaad-ad28d387fe22",
+			"eventName": "MESA Pro Series - Halloween Edition",
+			"bracket": "MESA_Pro_Series_2026_Halloween_Edition",
+			"bracketType": "live",
+			"eventStart": "2026-10-24T00:00:00.000Z",
+			"eventEnd": "2026-10-29T23:59:00.000Z",
+			"important": false,
+			"teamCount": 4,
+			"prizeDistribution": [
+				{
+					"prize": 1800,
+					"placement": "1"
+				},
+				{
+					"prize": 750,
+					"placement": "2"
+				},
+				{
+					"prize": 300,
+					"placement": "3"
+				},
+				{
+					"prize": 150,
+					"placement": "4"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "9f192fea-30a8-474d-b47b-79b69c26ce66",
+			"eventName": "CyberClash S2",
+			"bracket": "CyberClash_Season_2",
+			"bracketType": "live",
+			"eventStart": "2026-10-28T10:00:00.000Z",
+			"eventEnd": "2026-10-31T23:59:00.000Z",
+			"important": false,
+			"teamCount": 8,
+			"prizeDistribution": [
+				{
+					"prize": 15507,
+					"placement": "1"
+				},
+				{
+					"prize": 10338,
+					"placement": "2"
+				},
+				{
+					"prize": 7753,
+					"placement": "3"
+				},
+				{
+					"prize": 5169,
+					"placement": "4"
+				},
+				{
+					"prize": 2584,
+					"placement": "5"
+				},
+				{
+					"prize": 0,
+					"placement": "DQ"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		},
+		{
+			"eventId": "f39c966c-5cb3-4e2d-9f9d-508c424f2ee1",
+			"eventName": "Nodwin Clutch 13",
+			"bracket": "NODWIN_Gaming_Clutch_Series_13",
+			"bracketType": "live",
+			"eventStart": "2026-10-14T10:00:00.000Z",
+			"eventEnd": "2026-10-27T23:59:00.000Z",
+			"important": false,
+			"teamCount": 17,
+			"prizeDistribution": [
+				{
+					"prize": 13200,
+					"placement": "1"
+				},
+				{
+					"prize": 6000,
+					"placement": "2"
+				},
+				{
+					"prize": 3000,
+					"placement": "3-4"
+				},
+				{
+					"prize": 1200,
+					"placement": "5-8"
+				},
+				{
+					"prize": 0,
+					"placement": "9-16"
+				},
+				{
+					"prize": 0,
+					"placement": "17-19"
+				},
+				{
+					"prize": 0,
+					"placement": "20-22"
+				},
+				{
+					"prize": 0,
+					"placement": "23-24"
+				}
+			],
+			"excludedTeamIds": [],
+			"infillTeamIds": [],
+			"eventOverrides": null
+		}
+	],
+	"teams": [
+		{
+			"team_id": "g2 esports 2019",
+			"team_name": "G2 Esports",
+			"team_image": "https://liquipedia.net/commons/images/thumb/c/cd/G2_Esports_2019_darkmode.png/351px-G2_Esports_2019_darkmode.png",
+			"team_color": "#ee3d23",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 9,
+			"init_regional_rank": 7,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 9,
+			"avg_rank_value": 1614.41,
+			"avg_bounty_collected": 0.7372,
+			"avg_bounty_offered": 0.7967,
+			"avg_opponent_network": 0.3422,
+			"avg_lan_factor": 0.8227,
+			"regional_rank_histogram": {
+				"9": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 9,
+				"q1": 9,
+				"median": 9,
+				"q3": 9,
+				"p90": 9,
+				"max": 9
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 9,
+			"assumed_position_previous": 9,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "mibr",
+			"team_name": "MIBR",
+			"team_image": "https://liquipedia.net/commons/images/thumb/7/72/MIBR_2018_darkmode.png/400px-MIBR_2018_darkmode.png",
+			"team_color": "#00325d",
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 13,
+			"init_regional_rank": 3,
+			"max_rank_threshold": 9,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 3,
+			"avg_rank_value": 1545.1,
+			"avg_bounty_collected": 0.5545,
+			"avg_bounty_offered": 0.676,
+			"avg_opponent_network": 0.2954,
+			"avg_lan_factor": 0.949,
+			"regional_rank_histogram": {
+				"3": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 3,
+				"q1": 3,
+				"median": 3,
+				"q3": 3,
+				"p90": 3,
+				"max": 3
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 3,
+			"assumed_position_previous": 3,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "m80 orig",
+			"team_name": "M80",
+			"team_image": "https://liquipedia.net/commons/images/thumb/5/55/M80_2023_allmode.png/350px-M80_2023_allmode.png",
+			"team_color": "#daff00",
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 19,
+			"init_regional_rank": 5,
+			"max_rank_threshold": 9,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 5.11,
+			"avg_rank_value": 1485.97,
+			"avg_bounty_collected": 0.5656,
+			"avg_bounty_offered": 0.547,
+			"avg_opponent_network": 0.2372,
+			"avg_lan_factor": 0.9267,
+			"regional_rank_histogram": {
+				"5": 2234,
+				"6": 266
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 5,
+				"q1": 5,
+				"median": 5,
+				"q3": 5,
+				"p90": 6,
+				"max": 6
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 5,
+			"assumed_position_previous": 6,
+			"assumed_position_delta": 1
+		},
+		{
+			"team_id": "aurora gaming 2025",
+			"team_name": "Aurora Gaming",
+			"team_image": "https://liquipedia.net/commons/images/thumb/1/1c/Aurora_Gaming_2025_allmode.png/400px-Aurora_Gaming_2025_allmode.png",
+			"team_color": "#00ffff",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 5,
+			"init_regional_rank": 4,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 3,
+			"avg_rank_value": 1861.34,
+			"avg_bounty_collected": 0.8439,
+			"avg_bounty_offered": 0.9628,
+			"avg_opponent_network": 0.5328,
+			"avg_lan_factor": 1,
+			"regional_rank_histogram": {
+				"3": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 3,
+				"q1": 3,
+				"median": 3,
+				"q3": 3,
+				"p90": 3,
+				"max": 3
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 3,
+			"assumed_position_previous": 3,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "flyquest 2021",
+			"team_name": "FlyQuest",
+			"team_image": "https://liquipedia.net/commons/images/thumb/b/b2/FlyQuest_2021_allmode.png/400px-FlyQuest_2021_allmode.png",
+			"team_color": "#02884b",
+			"region": "AS",
+			"init_region": "AS",
+			"init_global_rank": 55,
+			"init_regional_rank": 5,
+			"max_rank_threshold": 5,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 3,
+			"avg_rank_value": 1305.95,
+			"avg_bounty_collected": 0.3329,
+			"avg_bounty_offered": 0.4258,
+			"avg_opponent_network": 0.1317,
+			"avg_lan_factor": 1,
+			"regional_rank_histogram": {
+				"3": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 3,
+				"q1": 3,
+				"median": 3,
+				"q3": 3,
+				"p90": 3,
+				"max": 3
+			},
+			"stages": {
+				"region": "AS",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 1,
+						"rankTo": 1,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 2,
+						"rankTo": 5,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 3,
+			"assumed_position_previous": 3,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "mouz 2021",
+			"team_name": "MOUZ",
+			"team_image": "https://liquipedia.net/commons/images/thumb/c/c2/MOUZ_2021_allmode.png/377px-MOUZ_2021_allmode.png",
+			"team_color": "#ff0000",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 2,
+			"init_regional_rank": 2,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 1,
+			"avg_rank_value": 1960.11,
+			"avg_bounty_collected": 0.95,
+			"avg_bounty_offered": 1,
+			"avg_opponent_network": 0.4667,
+			"avg_lan_factor": 0.9999,
+			"regional_rank_histogram": {
+				"1": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 1,
+				"q1": 1,
+				"median": 1,
+				"q3": 1,
+				"p90": 1,
+				"max": 1
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 1,
+			"assumed_position_previous": 2,
+			"assumed_position_delta": 1
+		},
+		{
+			"team_id": "ninjas in pyjamas 2021",
+			"team_name": "Ninjas in Pyjamas",
+			"team_image": "https://liquipedia.net/commons/images/thumb/b/b7/Ninjas_in_Pyjamas_2021_darkmode.png/400px-Ninjas_in_Pyjamas_2021_darkmode.png",
+			"team_color": "#d8ff00",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 14,
+			"init_regional_rank": 11,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 12.61,
+			"avg_rank_value": 1561.06,
+			"avg_bounty_collected": 0.5324,
+			"avg_bounty_offered": 0.626,
+			"avg_opponent_network": 0.2957,
+			"avg_lan_factor": 0.9982,
+			"regional_rank_histogram": {
+				"12": 972,
+				"13": 1528
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 12,
+				"q1": 12,
+				"median": 13,
+				"q3": 13,
+				"p90": 13,
+				"max": 13
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 972,
+						"pct": 38.88,
+						"atLeastCount": 972,
+						"atLeastPct": 38.88
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 1528,
+						"pct": 61.12,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 13,
+			"assumed_position_previous": 12,
+			"assumed_position_delta": -1
+		},
+		{
+			"team_id": "team spirit 2022",
+			"team_name": "Team Spirit",
+			"team_image": "https://liquipedia.net/commons/images/thumb/8/80/Team_Spirit_2022_darkmode.png/343px-Team_Spirit_2022_darkmode.png",
+			"team_color": "#ffffff",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 3,
+			"init_regional_rank": 3,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 4,
+			"avg_rank_value": 1841.47,
+			"avg_bounty_collected": 0.8529,
+			"avg_bounty_offered": 1,
+			"avg_opponent_network": 0.363,
+			"avg_lan_factor": 0.9165,
+			"regional_rank_histogram": {
+				"4": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 4,
+				"q1": 4,
+				"median": 4,
+				"q3": 4,
+				"p90": 4,
+				"max": 4
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 4,
+			"assumed_position_previous": 4,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "parivision",
+			"team_name": "PARIVISION",
+			"team_image": "https://liquipedia.net/commons/images/thumb/9/9d/PARIVISION_allmode.png/400px-PARIVISION_allmode.png",
+			"team_color": "#00c7b1",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 12,
+			"init_regional_rank": 10,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 13.61,
+			"avg_rank_value": 1557.67,
+			"avg_bounty_collected": 0.6306,
+			"avg_bounty_offered": 0.6877,
+			"avg_opponent_network": 0.2723,
+			"avg_lan_factor": 0.8364,
+			"regional_rank_histogram": {
+				"13": 972,
+				"14": 1528
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 13,
+				"q1": 13,
+				"median": 14,
+				"q3": 14,
+				"p90": 14,
+				"max": 14
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 14,
+			"assumed_position_previous": 13,
+			"assumed_position_delta": -1
+		},
+		{
+			"team_id": "heroic sep 2024",
+			"team_name": "HEROIC",
+			"team_image": "https://liquipedia.net/commons/images/thumb/0/0d/HEROIC_2024_allmode.png/400px-HEROIC_2024_allmode.png",
+			"team_color": "#fc0000",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 15,
+			"init_regional_rank": 12,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 14.76,
+			"avg_rank_value": 1544.86,
+			"avg_bounty_collected": 0.4727,
+			"avg_bounty_offered": 0.4965,
+			"avg_opponent_network": 0.3443,
+			"avg_lan_factor": 0.9774,
+			"regional_rank_histogram": {
+				"14": 596,
+				"15": 1904
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 14,
+				"q1": 15,
+				"median": 15,
+				"q3": 15,
+				"p90": 15,
+				"max": 15
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 15,
+			"assumed_position_previous": 14,
+			"assumed_position_delta": -1
+		},
+		{
+			"team_id": "9z team 2024",
+			"team_name": "9z Team",
+			"team_image": "https://liquipedia.net/commons/images/thumb/9/9b/9z_Team_2024_darkmode.png/400px-9z_Team_2024_darkmode.png",
+			"team_color": "#9a0ab7",
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 16,
+			"init_regional_rank": 4,
+			"max_rank_threshold": 9,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 5.89,
+			"avg_rank_value": 1484.05,
+			"avg_bounty_collected": 0.6437,
+			"avg_bounty_offered": 0.7485,
+			"avg_opponent_network": 0.2501,
+			"avg_lan_factor": 0.6569,
+			"regional_rank_histogram": {
+				"5": 266,
+				"6": 2234
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 5,
+				"q1": 6,
+				"median": 6,
+				"q3": 6,
+				"p90": 6,
+				"max": 6
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 6,
+			"assumed_position_previous": 5,
+			"assumed_position_delta": -1
+		},
+		{
+			"team_id": "bc.game esports 2026",
+			"team_name": "BC.Game Esports",
+			"team_image": "https://liquipedia.net/commons/images/thumb/6/6d/BC.Game_2025_allmode.png/340px-BC.Game_2025_allmode.png",
+			"team_color": null,
+			"region": "AS",
+			"init_region": "AS",
+			"init_global_rank": 34,
+			"init_regional_rank": 2,
+			"max_rank_threshold": 5,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 2,
+			"avg_rank_value": 1335.55,
+			"avg_bounty_collected": 0.4294,
+			"avg_bounty_offered": 0.3931,
+			"avg_opponent_network": 0.2478,
+			"avg_lan_factor": 0.9978,
+			"regional_rank_histogram": {
+				"2": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 2,
+				"q1": 2,
+				"median": 2,
+				"q3": 2,
+				"p90": 2,
+				"max": 2
+			},
+			"stages": {
+				"region": "AS",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 1,
+						"rankTo": 1,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 2,
+						"rankTo": 5,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 2,
+			"assumed_position_previous": 2,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "chinggis warriors",
+			"team_name": "Chinggis Warriors",
+			"team_image": "https://liquipedia.net/commons/images/thumb/3/39/Chinggis_Warriors_allmode.png/400px-Chinggis_Warriors_allmode.png",
+			"team_color": "#f42535",
+			"region": "AS",
+			"init_region": "AS",
+			"init_global_rank": 49,
+			"init_regional_rank": 3,
+			"max_rank_threshold": 5,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 4,
+			"avg_rank_value": 1274.59,
+			"avg_bounty_collected": 0.3764,
+			"avg_bounty_offered": 0.3899,
+			"avg_opponent_network": 0.2028,
+			"avg_lan_factor": 1,
+			"regional_rank_histogram": {
+				"4": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 4,
+				"q1": 4,
+				"median": 4,
+				"q3": 4,
+				"p90": 4,
+				"max": 4
+			},
+			"stages": {
+				"region": "AS",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 1,
+						"rankTo": 1,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 2,
+						"rankTo": 5,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 4,
+			"assumed_position_previous": 4,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "furia 2025",
+			"team_name": "FURIA",
+			"team_image": "https://liquipedia.net/commons/images/thumb/a/aa/FURIA_Esports_allmode.png/400px-FURIA_Esports_allmode.png",
+			"team_color": "#ffffff",
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 4,
+			"init_regional_rank": 1,
+			"max_rank_threshold": 9,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 1,
+			"avg_rank_value": 1912.21,
+			"avg_bounty_collected": 0.9137,
+			"avg_bounty_offered": 1,
+			"avg_opponent_network": 0.4824,
+			"avg_lan_factor": 1,
+			"regional_rank_histogram": {
+				"1": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 1,
+				"q1": 1,
+				"median": 1,
+				"q3": 1,
+				"p90": 1,
+				"max": 1
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 1,
+			"assumed_position_previous": 1,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "faze clan 2026",
+			"team_name": "FaZe Clan",
+			"team_image": "https://liquipedia.net/commons/images/thumb/c/c5/FaZe_Esports_2026_darkmode.png/400px-FaZe_Esports_2026_darkmode.png",
+			"team_color": "#e4002b",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 17,
+			"init_regional_rank": 13,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 16,
+			"avg_rank_value": 1538.15,
+			"avg_bounty_collected": 0.5994,
+			"avg_bounty_offered": 0.6311,
+			"avg_opponent_network": 0.2433,
+			"avg_lan_factor": 1,
+			"regional_rank_histogram": {
+				"16": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 16,
+				"q1": 16,
+				"median": 16,
+				"q3": 16,
+				"p90": 16,
+				"max": 16
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 16,
+			"assumed_position_previous": 15,
+			"assumed_position_delta": -1
+		},
+		{
+			"team_id": "eternal fire 2023",
+			"team_name": "Eternal Fire",
+			"team_image": "https://liquipedia.net/commons/images/thumb/e/ec/Eternal_Fire_2023_allmode.png/400px-Eternal_Fire_2023_allmode.png",
+			"team_color": "#8f815e",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 28,
+			"init_regional_rank": 21,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 17.43,
+			"avg_rank_value": 1509.98,
+			"avg_bounty_collected": 0.4573,
+			"avg_bounty_offered": 0.5092,
+			"avg_opponent_network": 0.3075,
+			"avg_lan_factor": 1,
+			"regional_rank_histogram": {
+				"17": 1422,
+				"18": 1078
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 17,
+				"q1": 17,
+				"median": 17,
+				"q3": 18,
+				"p90": 18,
+				"max": 18
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 17,
+			"assumed_position_previous": 17,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "the mongolz 2024 03",
+			"team_name": "The MongolZ",
+			"team_image": "https://liquipedia.net/commons/images/thumb/2/2b/The_MongolZ_2024_03_allmode.png/311px-The_MongolZ_2024_03_allmode.png",
+			"team_color": "#e8b23a",
+			"region": "AS",
+			"init_region": "AS",
+			"init_global_rank": 24,
+			"init_regional_rank": 1,
+			"max_rank_threshold": 5,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 1,
+			"avg_rank_value": 1547.31,
+			"avg_bounty_collected": 0.6389,
+			"avg_bounty_offered": 0.6263,
+			"avg_opponent_network": 0.2422,
+			"avg_lan_factor": 0.8588,
+			"regional_rank_histogram": {
+				"1": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 1,
+				"q1": 1,
+				"median": 1,
+				"q3": 1,
+				"p90": 1,
+				"max": 1
+			},
+			"stages": {
+				"region": "AS",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 1,
+						"rankTo": 1,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 2,
+						"rankTo": 5,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 1,
+			"assumed_position_previous": 1,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "lynn vision gaming 2024",
+			"team_name": "Lynn Vision Gaming",
+			"team_image": "https://liquipedia.net/commons/images/thumb/e/e7/Lynn_Vision_Gaming_2024_allmode.png/400px-Lynn_Vision_Gaming_2024_allmode.png",
+			"team_color": "#b27a2d",
+			"region": "AS",
+			"init_region": "AS",
+			"init_global_rank": 50,
+			"init_regional_rank": 4,
+			"max_rank_threshold": 5,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 5,
+			"avg_rank_value": 1265.82,
+			"avg_bounty_collected": 0.3971,
+			"avg_bounty_offered": 0.5143,
+			"avg_opponent_network": 0.1452,
+			"avg_lan_factor": 0.5574,
+			"regional_rank_histogram": {
+				"5": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 5,
+				"q1": 5,
+				"median": 5,
+				"q3": 5,
+				"p90": 5,
+				"max": 5
+			},
+			"stages": {
+				"region": "AS",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 1,
+						"rankTo": 1,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 2,
+						"rankTo": 5,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 5,
+			"assumed_position_previous": 5,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "fut esports",
+			"team_name": "FUT Esports",
+			"team_image": "https://liquipedia.net/commons/images/thumb/0/08/Futbolist_2021_darkmode.png/211px-Futbolist_2021_darkmode.png",
+			"team_color": "#ec1a39",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 10,
+			"init_regional_rank": 8,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 7,
+			"avg_rank_value": 1723.3,
+			"avg_bounty_collected": 0.7172,
+			"avg_bounty_offered": 0.8567,
+			"avg_opponent_network": 0.3447,
+			"avg_lan_factor": 0.7984,
+			"regional_rank_histogram": {
+				"7": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 7,
+				"q1": 7,
+				"median": 7,
+				"q3": 7,
+				"p90": 7,
+				"max": 7
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 7,
+			"assumed_position_previous": 7,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "astralis 2020",
+			"team_name": "Astralis",
+			"team_image": "https://liquipedia.net/commons/images/thumb/3/3d/Astralis_2020_allmode.png/329px-Astralis_2020_allmode.png",
+			"team_color": "#e9493e",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 11,
+			"init_regional_rank": 9,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 11.61,
+			"avg_rank_value": 1569.09,
+			"avg_bounty_collected": 0.565,
+			"avg_bounty_offered": 0.6161,
+			"avg_opponent_network": 0.372,
+			"avg_lan_factor": 0.9935,
+			"regional_rank_histogram": {
+				"11": 972,
+				"12": 1528
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 11,
+				"q1": 11,
+				"median": 12,
+				"q3": 12,
+				"p90": 12,
+				"max": 12
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 11,
+			"assumed_position_previous": 11,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "team liquid 2024",
+			"team_name": "Team Liquid",
+			"team_image": "https://liquipedia.net/commons/images/thumb/5/59/Team_Liquid_2024_darkmode.png/351px-Team_Liquid_2024_darkmode.png",
+			"team_color": "#001538",
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 25,
+			"init_regional_rank": 6,
+			"max_rank_threshold": 9,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 4,
+			"avg_rank_value": 1529.08,
+			"avg_bounty_collected": 0.6594,
+			"avg_bounty_offered": 0.5909,
+			"avg_opponent_network": 0.3119,
+			"avg_lan_factor": 0.9607,
+			"regional_rank_histogram": {
+				"4": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 4,
+				"q1": 4,
+				"median": 4,
+				"q3": 4,
+				"p90": 4,
+				"max": 4
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 4,
+			"assumed_position_previous": 4,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "team vitality 2023",
+			"team_name": "Team Vitality",
+			"team_image": "https://liquipedia.net/commons/images/thumb/9/96/Team_Vitality_2023_darkmode.png/330px-Team_Vitality_2023_darkmode.png",
+			"team_color": "#ffff00",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 1,
+			"init_regional_rank": 1,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 2,
+			"avg_rank_value": 1920.88,
+			"avg_bounty_collected": 0.8801,
+			"avg_bounty_offered": 1,
+			"avg_opponent_network": 0.4232,
+			"avg_lan_factor": 0.9998,
+			"regional_rank_histogram": {
+				"2": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 2,
+				"q1": 2,
+				"median": 2,
+				"q3": 2,
+				"p90": 2,
+				"max": 2
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 2,
+			"assumed_position_previous": 1,
+			"assumed_position_delta": -1
+		},
+		{
+			"team_id": "1w team 2025",
+			"team_name": "1w Team",
+			"team_image": "https://liquipedia.net/commons/images/thumb/5/5c/1win_Team_2024_allmode.png/400px-1win_Team_2024_allmode.png",
+			"team_color": null,
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 18,
+			"init_regional_rank": 14,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 11.79,
+			"avg_rank_value": 1576.19,
+			"avg_bounty_collected": 0.6776,
+			"avg_bounty_offered": 0.6346,
+			"avg_opponent_network": 0.4295,
+			"avg_lan_factor": 0.7892,
+			"regional_rank_histogram": {
+				"10": 1528,
+				"14": 376,
+				"15": 596
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 10,
+				"q1": 10,
+				"median": 10,
+				"q3": 14,
+				"p90": 15,
+				"max": 15
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 1528,
+						"pct": 61.12,
+						"atLeastCount": 1528,
+						"atLeastPct": 61.12
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 972,
+						"pct": 38.88,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 12,
+			"assumed_position_previous": 16,
+			"assumed_position_delta": 4
+		},
+		{
+			"team_id": "nemiga gaming 2021",
+			"team_name": "Nemiga Gaming",
+			"team_image": "https://liquipedia.net/commons/images/thumb/b/bb/Nemiga_Gaming_2020_temporary.png/400px-Nemiga_Gaming_2020_temporary.png",
+			"team_color": "#ed1c24",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 21,
+			"init_regional_rank": 16,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 8,
+			"avg_rank_value": 1646.25,
+			"avg_bounty_collected": 0.6974,
+			"avg_bounty_offered": 0.745,
+			"avg_opponent_network": 0.3689,
+			"avg_lan_factor": 0.975,
+			"regional_rank_histogram": {
+				"8": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 8,
+				"q1": 8,
+				"median": 8,
+				"q3": 8,
+				"p90": 8,
+				"max": 8
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 8,
+			"assumed_position_previous": 8,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "natus vincere 2021",
+			"team_name": "Natus Vincere",
+			"team_image": "https://liquipedia.net/commons/images/thumb/9/95/Natus_Vincere_2021_allmode.png/400px-Natus_Vincere_2021_allmode.png",
+			"team_color": "#fff243",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 33,
+			"init_regional_rank": 26,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 10.61,
+			"avg_rank_value": 1583.42,
+			"avg_bounty_collected": 0.7321,
+			"avg_bounty_offered": 0.6711,
+			"avg_opponent_network": 0.2508,
+			"avg_lan_factor": 0.8334,
+			"regional_rank_histogram": {
+				"10": 972,
+				"11": 1528
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 10,
+				"q1": 10,
+				"median": 11,
+				"q3": 11,
+				"p90": 11,
+				"max": 11
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 10,
+			"assumed_position_previous": 10,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "team falcons 2022",
+			"team_name": "Team Falcons",
+			"team_image": "https://liquipedia.net/commons/images/thumb/8/83/Team_Falcons_2022_allmode.png/330px-Team_Falcons_2022_allmode.png",
+			"team_color": "#01be6e",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 6,
+			"init_regional_rank": 5,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 6,
+			"avg_rank_value": 1763.73,
+			"avg_bounty_collected": 0.7287,
+			"avg_bounty_offered": 0.9058,
+			"avg_opponent_network": 0.3667,
+			"avg_lan_factor": 0.8687,
+			"regional_rank_histogram": {
+				"6": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 6,
+				"q1": 6,
+				"median": 6,
+				"q3": 6,
+				"p90": 6,
+				"max": 6
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 6,
+			"assumed_position_previous": 6,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "legacy 2023",
+			"team_name": "Legacy",
+			"team_image": "https://liquipedia.net/commons/images/thumb/3/34/Legacy_allmode.png/395px-Legacy_allmode.png",
+			"team_color": "#ffc900",
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 7,
+			"init_regional_rank": 2,
+			"max_rank_threshold": 9,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 2,
+			"avg_rank_value": 1660.35,
+			"avg_bounty_collected": 0.7377,
+			"avg_bounty_offered": 1,
+			"avg_opponent_network": 0.3439,
+			"avg_lan_factor": 0.8708,
+			"regional_rank_histogram": {
+				"2": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 2,
+				"q1": 2,
+				"median": 2,
+				"q3": 2,
+				"p90": 2,
+				"max": 2
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 2,
+			"assumed_position_previous": 2,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "betboom team 2024",
+			"team_name": "BetBoom Team",
+			"team_image": "https://liquipedia.net/commons/images/thumb/5/5b/BetBoom_Team_2024_allmode.png/400px-BetBoom_Team_2024_allmode.png",
+			"team_color": "#ff4655",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 8,
+			"init_regional_rank": 6,
+			"max_rank_threshold": 18,
+			"successes": 2500,
+			"total_sims": 2500,
+			"chance_pct": 100,
+			"avg_regional_rank": 5,
+			"avg_rank_value": 1787.51,
+			"avg_bounty_collected": 0.7568,
+			"avg_bounty_offered": 0.9267,
+			"avg_opponent_network": 0.4271,
+			"avg_lan_factor": 0.9514,
+			"regional_rank_histogram": {
+				"5": 2500
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 5,
+				"q1": 5,
+				"median": 5,
+				"q3": 5,
+				"p90": 5,
+				"max": 5
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 2500,
+						"pct": 100,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 2500,
+						"atLeastPct": 100
+					}
+				],
+				"none": {
+					"count": 0,
+					"pct": 0
+				}
+			},
+			"assumed_position": 5,
+			"assumed_position_previous": 5,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "dendele cs 2026",
+			"team_name": "DENDELE CS",
+			"team_image": "https://liquipedia.net/commons/images/thumb/8/87/DENDELE_CS_allmode.png/303px-DENDELE_CS_allmode.png",
+			"team_color": null,
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 43,
+			"init_regional_rank": 8,
+			"max_rank_threshold": 9,
+			"successes": 2498,
+			"total_sims": 2500,
+			"chance_pct": 99.92,
+			"avg_regional_rank": 7.18,
+			"avg_rank_value": 1435.79,
+			"avg_bounty_collected": 0.5389,
+			"avg_bounty_offered": 0.5438,
+			"avg_opponent_network": 0.2703,
+			"avg_lan_factor": 0.969,
+			"regional_rank_histogram": {
+				"7": 2096,
+				"8": 357,
+				"9": 45,
+				"10": 2
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 7,
+				"q1": 7,
+				"median": 7,
+				"q3": 7,
+				"p90": 8,
+				"max": 10
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 2498,
+						"pct": 99.92,
+						"atLeastCount": 2498,
+						"atLeastPct": 99.92
+					}
+				],
+				"none": {
+					"count": 2,
+					"pct": 0.08
+				}
+			},
+			"assumed_position": 7,
+			"assumed_position_previous": 7,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "imperial esports 2025",
+			"team_name": "Imperial Esports",
+			"team_image": "https://liquipedia.net/commons/images/thumb/8/82/Imperial_Esports_2025_allmode.png/316px-Imperial_Esports_2025_allmode.png",
+			"team_color": "#00d75b",
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 40,
+			"init_regional_rank": 7,
+			"max_rank_threshold": 9,
+			"successes": 2460,
+			"total_sims": 2500,
+			"chance_pct": 98.4,
+			"avg_regional_rank": 8.44,
+			"avg_rank_value": 1390.84,
+			"avg_bounty_collected": 0.3646,
+			"avg_bounty_offered": 0.497,
+			"avg_opponent_network": 0.2092,
+			"avg_lan_factor": 1,
+			"regional_rank_histogram": {
+				"7": 109,
+				"8": 1229,
+				"9": 1122,
+				"10": 37,
+				"11": 3
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 7,
+				"q1": 8,
+				"median": 8,
+				"q3": 9,
+				"p90": 9,
+				"max": 11
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 2460,
+						"pct": 98.4,
+						"atLeastCount": 2460,
+						"atLeastPct": 98.4
+					}
+				],
+				"none": {
+					"count": 40,
+					"pct": 1.6
+				}
+			},
+			"assumed_position": 8,
+			"assumed_position_previous": 8,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "hotu 2022",
+			"team_name": "HOTU",
+			"team_image": "https://liquipedia.net/commons/images/thumb/2/27/HOTU_2022_darkmode.png/400px-HOTU_2022_darkmode.png",
+			"team_color": "#00dfff",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 37,
+			"init_regional_rank": 29,
+			"max_rank_threshold": 18,
+			"successes": 1554,
+			"total_sims": 2500,
+			"chance_pct": 62.16,
+			"avg_regional_rank": 17.99,
+			"avg_rank_value": 1503.66,
+			"avg_bounty_collected": 0.4705,
+			"avg_bounty_offered": 0.6246,
+			"avg_opponent_network": 0.3889,
+			"avg_lan_factor": 0.9348,
+			"regional_rank_histogram": {
+				"17": 972,
+				"18": 582,
+				"19": 946
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 17,
+				"q1": 17,
+				"median": 18,
+				"q3": 19,
+				"p90": 19,
+				"max": 19
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 1554,
+						"pct": 62.16,
+						"atLeastCount": 1554,
+						"atLeastPct": 62.16
+					}
+				],
+				"none": {
+					"count": 946,
+					"pct": 37.84
+				}
+			},
+			"assumed_position": 18,
+			"assumed_position_previous": 18,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "wildcard 2024",
+			"team_name": "Wildcard",
+			"team_image": "https://liquipedia.net/commons/images/thumb/7/77/Wildcard_2024_darkmode.png/338px-Wildcard_2024_darkmode.png",
+			"team_color": "#20acf8",
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 45,
+			"init_regional_rank": 9,
+			"max_rank_threshold": 9,
+			"successes": 1495,
+			"total_sims": 2500,
+			"chance_pct": 59.8,
+			"avg_regional_rank": 9.1,
+			"avg_rank_value": 1370.83,
+			"avg_bounty_collected": 0.4309,
+			"avg_bounty_offered": 0.512,
+			"avg_opponent_network": 0.1918,
+			"avg_lan_factor": 0.991,
+			"regional_rank_histogram": {
+				"7": 142,
+				"8": 522,
+				"9": 831,
+				"10": 948,
+				"11": 57
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 7,
+				"q1": 8,
+				"median": 9,
+				"q3": 10,
+				"p90": 10,
+				"max": 11
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 1495,
+						"pct": 59.8,
+						"atLeastCount": 1495,
+						"atLeastPct": 59.8
+					}
+				],
+				"none": {
+					"count": 1005,
+					"pct": 40.2
+				}
+			},
+			"assumed_position": 9,
+			"assumed_position_previous": 9,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "nrg 2024",
+			"team_name": "NRG",
+			"team_image": "https://liquipedia.net/commons/images/thumb/1/16/NRG_2024_allmode.png/400px-NRG_2024_allmode.png",
+			"team_color": "#f63d0a",
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 48,
+			"init_regional_rank": 11,
+			"max_rank_threshold": 9,
+			"successes": 982,
+			"total_sims": 2500,
+			"chance_pct": 39.28,
+			"avg_regional_rank": 9.49,
+			"avg_rank_value": 1351.09,
+			"avg_bounty_collected": 0.4974,
+			"avg_bounty_offered": 0.4477,
+			"avg_opponent_network": 0.2515,
+			"avg_lan_factor": 0.8497,
+			"regional_rank_histogram": {
+				"7": 153,
+				"8": 391,
+				"9": 438,
+				"10": 1136,
+				"11": 348,
+				"12": 34
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 7,
+				"q1": 9,
+				"median": 10,
+				"q3": 10,
+				"p90": 11,
+				"max": 12
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 982,
+						"pct": 39.28,
+						"atLeastCount": 982,
+						"atLeastPct": 39.28
+					}
+				],
+				"none": {
+					"count": 1518,
+					"pct": 60.72
+				}
+			},
+			"assumed_position": 10,
+			"assumed_position_previous": 10,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "100 thieves",
+			"team_name": "100 Thieves",
+			"team_image": "https://liquipedia.net/commons/images/thumb/7/78/100_Thieves_darkmode.png/400px-100_Thieves_darkmode.png",
+			"team_color": "#ea3031",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 20,
+			"init_regional_rank": 15,
+			"max_rank_threshold": 18,
+			"successes": 710,
+			"total_sims": 2500,
+			"chance_pct": 28.4,
+			"avg_regional_rank": 19.74,
+			"avg_rank_value": 1480.94,
+			"avg_bounty_collected": 0.5006,
+			"avg_bounty_offered": 0.5412,
+			"avg_opponent_network": 0.2977,
+			"avg_lan_factor": 0.9979,
+			"regional_rank_histogram": {
+				"17": 106,
+				"18": 604,
+				"19": 451,
+				"20": 294,
+				"21": 752,
+				"22": 293
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 17,
+				"q1": 18,
+				"median": 20,
+				"q3": 21,
+				"p90": 22,
+				"max": 22
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 710,
+						"pct": 28.4,
+						"atLeastCount": 710,
+						"atLeastPct": 28.4
+					}
+				],
+				"none": {
+					"count": 1790,
+					"pct": 71.6
+				}
+			},
+			"assumed_position": 19,
+			"assumed_position_previous": 19,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "fnatic 2020",
+			"team_name": "Fnatic",
+			"team_image": "https://liquipedia.net/commons/images/thumb/f/f9/Fnatic_2020_allmode.png/400px-Fnatic_2020_allmode.png",
+			"team_color": "#ff5900",
+			"region": "EU",
+			"init_region": "EU",
+			"init_global_rank": 31,
+			"init_regional_rank": 24,
+			"max_rank_threshold": 18,
+			"successes": 236,
+			"total_sims": 2500,
+			"chance_pct": 9.44,
+			"avg_regional_rank": 19.37,
+			"avg_rank_value": 1487.01,
+			"avg_bounty_collected": 0.5019,
+			"avg_bounty_offered": 0.5055,
+			"avg_opponent_network": 0.3132,
+			"avg_lan_factor": 0.9855,
+			"regional_rank_histogram": {
+				"18": 236,
+				"19": 1103,
+				"20": 1161
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 18,
+				"q1": 19,
+				"median": 19,
+				"q3": 20,
+				"p90": 20,
+				"max": 20
+			},
+			"stages": {
+				"region": "EU",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 6,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 7,
+						"rankTo": 12,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 13,
+						"rankTo": 18,
+						"count": 236,
+						"pct": 9.44,
+						"atLeastCount": 236,
+						"atLeastPct": 9.44
+					}
+				],
+				"none": {
+					"count": 2264,
+					"pct": 90.56
+				}
+			},
+			"assumed_position": 20,
+			"assumed_position_previous": 20,
+			"assumed_position_delta": 0
+		},
+		{
+			"team_id": "bestia",
+			"team_name": "BESTIA",
+			"team_image": "https://liquipedia.net/commons/images/thumb/f/f4/BESTIA_darkmode.png/335px-BESTIA_darkmode.png",
+			"team_color": "#ffffff",
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 56,
+			"init_regional_rank": 12,
+			"max_rank_threshold": 9,
+			"successes": 62,
+			"total_sims": 2500,
+			"chance_pct": 2.48,
+			"avg_regional_rank": 11.21,
+			"avg_rank_value": 1292.93,
+			"avg_bounty_collected": 0.3826,
+			"avg_bounty_offered": 0.4249,
+			"avg_opponent_network": 0.1951,
+			"avg_lan_factor": 0.965,
+			"regional_rank_histogram": {
+				"8": 1,
+				"9": 61,
+				"10": 245,
+				"11": 1305,
+				"12": 888
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 8,
+				"q1": 11,
+				"median": 11,
+				"q3": 12,
+				"p90": 12,
+				"max": 12
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 62,
+						"pct": 2.48,
+						"atLeastCount": 62,
+						"atLeastPct": 2.48
+					}
+				],
+				"none": {
+					"count": 2438,
+					"pct": 97.52
+				}
+			},
+			"assumed_position": 11,
+			"assumed_position_previous": 12,
+			"assumed_position_delta": 1
+		},
+		{
+			"team_id": "fluxo w7m",
+			"team_name": "Fluxo W7M",
+			"team_image": "https://liquipedia.net/commons/images/thumb/7/7d/Fluxo_W7M_Dec_2025_darkmode.png/400px-Fluxo_W7M_Dec_2025_darkmode.png",
+			"team_color": null,
+			"region": "AM",
+			"init_region": "AM",
+			"init_global_rank": 58,
+			"init_regional_rank": 13,
+			"max_rank_threshold": 9,
+			"successes": 3,
+			"total_sims": 2500,
+			"chance_pct": 0.12,
+			"avg_regional_rank": 11.6,
+			"avg_rank_value": 1263.61,
+			"avg_bounty_collected": 0.3806,
+			"avg_bounty_offered": 0.4586,
+			"avg_opponent_network": 0.2044,
+			"avg_lan_factor": 0.9614,
+			"regional_rank_histogram": {
+				"9": 3,
+				"10": 132,
+				"11": 787,
+				"12": 1529,
+				"13": 49
+			},
+			"appeared_sims": 2500,
+			"position_summary": {
+				"min": 9,
+				"q1": 11,
+				"median": 12,
+				"q3": 12,
+				"p90": 12,
+				"max": 13
+			},
+			"stages": {
+				"region": "AM",
+				"scope": "regional",
+				"totalSims": 2500,
+				"stages": [
+					{
+						"name": "Stage 3",
+						"order": 3,
+						"rankFrom": 1,
+						"rankTo": 2,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 2",
+						"order": 2,
+						"rankFrom": 3,
+						"rankTo": 3,
+						"count": 0,
+						"pct": 0,
+						"atLeastCount": 0,
+						"atLeastPct": 0
+					},
+					{
+						"name": "Stage 1",
+						"order": 1,
+						"rankFrom": 4,
+						"rankTo": 9,
+						"count": 3,
+						"pct": 0.12,
+						"atLeastCount": 3,
+						"atLeastPct": 0.12
+					}
+				],
+				"none": {
+					"count": 2497,
+					"pct": 99.88
+				}
+			},
+			"assumed_position": 12,
+			"assumed_position_previous": 13,
+			"assumed_position_delta": 1
+		}
+	],
+	"teamCount": 37,
+	"source": "summary"
+}

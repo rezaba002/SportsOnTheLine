@@ -1,0 +1,1094 @@
+{
+ "PARIVISION": [
+  {
+   "date": "2026-07-16",
+   "player": "BELCHONOKK",
+   "dir": "-",
+   "kind": "player",
+   "note": "loan"
+  },
+  {
+   "date": "2026-07-28",
+   "player": "FL1T",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-28",
+   "player": "HObbit",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-08-21",
+   "player": "nota",
+   "dir": "-",
+   "kind": "player",
+   "note": "loan"
+  },
+  {
+   "date": "2026-09-16",
+   "player": "HObbit",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-16",
+   "player": "slaxejezzz",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "Rune Eaters": [
+  {
+   "date": "2026-10-29",
+   "player": "nota",
+   "dir": "+",
+   "kind": "player",
+   "note": "loan"
+  }
+ ],
+ "Legacy": [
+  {
+   "date": "2026-06-30",
+   "player": "lux",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-08",
+   "player": "n1ssim",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-09",
+   "player": "saadzin",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-10",
+   "player": "try",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-27",
+   "player": "ksloks",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-27",
+   "player": "n1ssim",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "GamerLegion": [
+  {
+   "date": "2026-07-13",
+   "player": "PR",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-16",
+   "player": "FL4MUS",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-20",
+   "player": "shalfey",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-20",
+   "player": "Snax",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "Inner Circle": [
+  {
+   "date": "2026-09-01",
+   "player": "Flierax",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-15",
+   "player": "stikle-",
+   "dir": "+",
+   "kind": "coach",
+   "note": ""
+  },
+  {
+   "date": "2026-10-15",
+   "player": "jR",
+   "dir": "-",
+   "kind": "coach",
+   "note": ""
+  }
+ ],
+ "3DMAX": [
+  {
+   "date": "2026-06-23",
+   "player": "Kursy",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-23",
+   "player": "Ex3rcice",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-09-28",
+   "player": "Maka",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-28",
+   "player": "Lucky",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-28",
+   "player": "misutaaa",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-28",
+   "player": "Kursy",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-28",
+   "player": "Graviti",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-13",
+   "player": "wasiNk",
+   "dir": "-",
+   "kind": "coach",
+   "note": ""
+  }
+ ],
+ "Envy": [
+  {
+   "date": "2026-09-28",
+   "player": "Maka",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-28",
+   "player": "Lucky",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-28",
+   "player": "misutaaa",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-28",
+   "player": "Kursy",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-28",
+   "player": "Graviti",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-13",
+   "player": "wasiNk",
+   "dir": "+",
+   "kind": "coach",
+   "note": ""
+  }
+ ],
+ "CYBERSHOKE": [
+  {
+   "date": "2026-08-21",
+   "player": "nota",
+   "dir": "+",
+   "kind": "player",
+   "note": "loan"
+  },
+  {
+   "date": "2026-10-12",
+   "player": "nota",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-10-12",
+   "player": "Alkaren",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "MIBR": [
+  {
+   "date": "2026-06-25",
+   "player": "nqz",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-25",
+   "player": "kl1m",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-08-24",
+   "player": "brnz4n",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-08-27",
+   "player": "tomaszin",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "Astralis": [
+  {
+   "date": "2026-07-15",
+   "player": "NEO",
+   "dir": "+",
+   "kind": "coach",
+   "note": ""
+  },
+  {
+   "date": "2026-10-08",
+   "player": "HooXi",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-10-08",
+   "player": "jabbi",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-10-12",
+   "player": "siuhy",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-12",
+   "player": "cmtry",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "FUT": [
+  {
+   "date": "2026-07-06",
+   "player": "xfl0ud",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-06",
+   "player": "lauNX",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-09-30",
+   "player": "SunPayus",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-30",
+   "player": "cmtry",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "Color": [
+  {
+   "date": "2026-10-05",
+   "player": "lattykk",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "magic": [
+  {
+   "date": "2026-10-05",
+   "player": "lattykk",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-05",
+   "player": "mo0N",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "Luminosity": [
+  {
+   "date": "2026-06-30",
+   "player": "Rainwaker",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-30",
+   "player": "Bymas",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-30",
+   "player": "afro",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-30",
+   "player": "lux",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-30",
+   "player": "AZUWU",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-08-24",
+   "player": "yxngstxr",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-05",
+   "player": "Bymas",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "The Huns": [
+  {
+   "date": "2026-10-04",
+   "player": "nin9",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-04",
+   "player": "DarkMeister",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "The MongolZ": [
+  {
+   "date": "2026-06-22",
+   "player": "Senzu",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-08",
+   "player": "mzinho",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-11",
+   "player": "tikuak",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-11",
+   "player": "DarkMeister",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-11",
+   "player": "cobrazera",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-09-14",
+   "player": "tikuak",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-09-14",
+   "player": "DarkMeister",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-10-04",
+   "player": "nin9",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-04",
+   "player": "cobrazera",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "OG": [
+  {
+   "date": "2026-09-13",
+   "player": "adamb",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-10-03",
+   "player": "Ex3rcice",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "Liquid": [
+  {
+   "date": "2026-07-08",
+   "player": "Jorko",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-08",
+   "player": "ultimate",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-10-01",
+   "player": "siuhy",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "G2": [
+  {
+   "date": "2026-06-24",
+   "player": "r1nkle",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-24",
+   "player": "SunPayus",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "Ninjas in Pyjamas": [
+  {
+   "date": "2026-06-21",
+   "player": "n0te",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-24",
+   "player": "r1nkle",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-29",
+   "player": "ewjerkz",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-30",
+   "player": "cairne",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-08-30",
+   "player": "Snappi",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-09-01",
+   "player": "Krimbo",
+   "dir": "+",
+   "kind": "player",
+   "note": "loan"
+  },
+  {
+   "date": "2026-09-13",
+   "player": "adamb",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-13",
+   "player": "n0te",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "HEROIC": [
+  {
+   "date": "2026-07-05",
+   "player": "doto",
+   "dir": "+",
+   "kind": "coach",
+   "note": ""
+  },
+  {
+   "date": "2026-07-05",
+   "player": "TOBIZ",
+   "dir": "-",
+   "kind": "coach",
+   "note": ""
+  },
+  {
+   "date": "2026-07-06",
+   "player": "xfl0ud",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-06",
+   "player": "Brollan",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-08-24",
+   "player": "yxngstxr",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-30",
+   "player": "Snappi",
+   "dir": "+",
+   "kind": "coach",
+   "note": ""
+  },
+  {
+   "date": "2026-09-30",
+   "player": "doto",
+   "dir": "-",
+   "kind": "coach",
+   "note": "benched"
+  }
+ ],
+ "Chinggis Warriors": [
+  {
+   "date": "2026-07-11",
+   "player": "tikuak",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-26",
+   "player": "tikuak",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "paiN Academy": [
+  {
+   "date": "2026-09-03",
+   "player": "Rkzinho",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-13",
+   "player": "Tatu",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "paiN": [
+  {
+   "date": "2026-06-25",
+   "player": "nqz",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-03",
+   "player": "Rkzinho",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-03",
+   "player": "vsm",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-09-13",
+   "player": "Tatu",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-13",
+   "player": "piriajr",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "Aurora": [
+  {
+   "date": "2026-06-28",
+   "player": "Fabre",
+   "dir": "-",
+   "kind": "coach",
+   "note": "benched"
+  },
+  {
+   "date": "2026-07-01",
+   "player": "MAJ3R",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-07-01",
+   "player": "soulfly",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  },
+  {
+   "date": "2026-07-02",
+   "player": "ash",
+   "dir": "+",
+   "kind": "coach",
+   "note": ""
+  },
+  {
+   "date": "2026-07-02",
+   "player": "Jimpphat",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-07",
+   "player": "kyxsan",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "Eternal Fire": [
+  {
+   "date": "2026-08-22",
+   "player": "soulfly",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-09-10",
+   "player": "Fabre",
+   "dir": "+",
+   "kind": "coach",
+   "note": ""
+  }
+ ],
+ "BIG": [
+  {
+   "date": "2026-09-01",
+   "player": "Krimbo",
+   "dir": "-",
+   "kind": "player",
+   "note": "loan"
+  }
+ ],
+ "Inner Circle Academy": [
+  {
+   "date": "2026-09-01",
+   "player": "Flierax",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "Betclic": [
+  {
+   "date": "2026-08-10",
+   "player": "ultimate",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "9z": [
+  {
+   "date": "2026-07-30",
+   "player": "urban0",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "Bounty Hunters": [
+  {
+   "date": "2026-07-30",
+   "player": "urban0",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "Virtus.pro": [
+  {
+   "date": "2026-07-16",
+   "player": "FL4MUS",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-28",
+   "player": "FL1T",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "TDK": [
+  {
+   "date": "2026-07-16",
+   "player": "BELCHONOKK",
+   "dir": "+",
+   "kind": "player",
+   "note": "loan"
+  }
+ ],
+ "MOUZ": [
+  {
+   "date": "2026-07-02",
+   "player": "Jimpphat",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-06",
+   "player": "Brollan",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-13",
+   "player": "PR",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "The MongolZ Academy": [
+  {
+   "date": "2026-07-11",
+   "player": "DarkMeister",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "Passion UA": [
+  {
+   "date": "2026-07-10",
+   "player": "try",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "Imperial": [
+  {
+   "date": "2026-07-09",
+   "player": "saadzin",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "FOKUS": [
+  {
+   "date": "2026-07-08",
+   "player": "Jorko",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "BC.Game": [
+  {
+   "date": "2026-06-22",
+   "player": "Senzu",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-07-08",
+   "player": "mzinho",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "Falcons": [
+  {
+   "date": "2026-07-07",
+   "player": "kyxsan",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "BETBOOM": [
+  {
+   "date": "2026-07-01",
+   "player": "FL4MUS",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "Natus Vincere": [
+  {
+   "date": "2026-06-30",
+   "player": "jL",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "Gentle Mates": [
+  {
+   "date": "2026-06-30",
+   "player": "repk3ys",
+   "dir": "-",
+   "kind": "coach",
+   "note": ""
+  }
+ ],
+ "Monte": [
+  {
+   "date": "2026-06-30",
+   "player": "Gizmy",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-30",
+   "player": "Rainwaker",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-30",
+   "player": "Bymas",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-30",
+   "player": "afro",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  },
+  {
+   "date": "2026-06-30",
+   "player": "AZUWU",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "100 Thieves": [
+  {
+   "date": "2026-06-30",
+   "player": "Gizmy",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "fnatic": [
+  {
+   "date": "2026-06-30",
+   "player": "cairne",
+   "dir": "+",
+   "kind": "player",
+   "note": ""
+  }
+ ],
+ "BIG Academy": [
+  {
+   "date": "2026-06-24",
+   "player": "JBOEN",
+   "dir": "-",
+   "kind": "player",
+   "note": "loan"
+  }
+ ],
+ "FaZe": [
+  {
+   "date": "2026-06-24",
+   "player": "JBOEN",
+   "dir": "+",
+   "kind": "player",
+   "note": "loan"
+  },
+  {
+   "date": "2026-06-24",
+   "player": "broky",
+   "dir": "-",
+   "kind": "player",
+   "note": "benched"
+  }
+ ],
+ "Young Ninjas": [
+  {
+   "date": "2026-06-21",
+   "player": "n0te",
+   "dir": "-",
+   "kind": "player",
+   "note": ""
+  }
+ ]
+}

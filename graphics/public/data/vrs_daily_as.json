@@ -1,0 +1,2321 @@
+{
+ "region": "Asia",
+ "spots": 5,
+ "show": 10,
+ "teams": [
+  "5star",
+  "Abyssal",
+  "Alter Ego",
+  "BC.Game",
+  "Chinggis Warriors",
+  "DEPO",
+  "FlyQuest",
+  "Ground Zero",
+  "Lynn Vision",
+  "NEXVOID",
+  "Sashi",
+  "THUNDER dOWNUNDER",
+  "TYLOO",
+  "The Huns",
+  "The MongolZ"
+ ],
+ "frames": [
+  {
+   "label": "Oct 5",
+   "date": "2026-10-05",
+   "teams": [
+    {
+     "name": "TYLOO",
+     "points": 1340,
+     "rank": 1
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1318,
+     "rank": 2
+    },
+    {
+     "name": "BC.Game",
+     "points": 1318,
+     "rank": 3
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1190,
+     "rank": 4
+    },
+    {
+     "name": "5star",
+     "points": 1110,
+     "rank": 5
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1093,
+     "rank": 6
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1084,
+     "rank": 7
+    },
+    {
+     "name": "DEPO",
+     "points": 1041,
+     "rank": 8
+    },
+    {
+     "name": "NEXVOID",
+     "points": 995,
+     "rank": 9
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 971,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 944,
+     "rank": 11
+    },
+    {
+     "name": "Ground Zero",
+     "points": 878,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 819,
+     "rank": 14
+    },
+    {
+     "name": "Abyssal",
+     "points": 734,
+     "rank": 16
+    }
+   ]
+  },
+  {
+   "label": "Oct 6",
+   "date": "2026-10-06",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1307,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1298,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1280,
+     "rank": 3
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1158,
+     "rank": 4
+    },
+    {
+     "name": "5star",
+     "points": 1082,
+     "rank": 5
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1070,
+     "rank": 6
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1063,
+     "rank": 7
+    },
+    {
+     "name": "DEPO",
+     "points": 1020,
+     "rank": 8
+    },
+    {
+     "name": "NEXVOID",
+     "points": 974,
+     "rank": 9
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 951,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 925,
+     "rank": 11
+    },
+    {
+     "name": "Ground Zero",
+     "points": 862,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 804,
+     "rank": 14
+    },
+    {
+     "name": "Abyssal",
+     "points": 724,
+     "rank": 16
+    }
+   ]
+  },
+  {
+   "label": "Oct 7",
+   "date": "2026-10-07",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1307,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1297,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1275,
+     "rank": 3
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1155,
+     "rank": 4
+    },
+    {
+     "name": "5star",
+     "points": 1086,
+     "rank": 5
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1075,
+     "rank": 6
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1068,
+     "rank": 7
+    },
+    {
+     "name": "DEPO",
+     "points": 1020,
+     "rank": 8
+    },
+    {
+     "name": "NEXVOID",
+     "points": 977,
+     "rank": 9
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 948,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 900,
+     "rank": 11
+    },
+    {
+     "name": "Ground Zero",
+     "points": 861,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 807,
+     "rank": 14
+    },
+    {
+     "name": "Abyssal",
+     "points": 723,
+     "rank": 17
+    }
+   ]
+  },
+  {
+   "label": "Oct 8",
+   "date": "2026-10-08",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1306,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1299,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1273,
+     "rank": 3
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1171,
+     "rank": 4
+    },
+    {
+     "name": "5star",
+     "points": 1130,
+     "rank": 5
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1068,
+     "rank": 6
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1061,
+     "rank": 7
+    },
+    {
+     "name": "DEPO",
+     "points": 1020,
+     "rank": 8
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1017,
+     "rank": 9
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 946,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 904,
+     "rank": 11
+    },
+    {
+     "name": "Ground Zero",
+     "points": 860,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 795,
+     "rank": 14
+    },
+    {
+     "name": "Abyssal",
+     "points": 723,
+     "rank": 17
+    }
+   ]
+  },
+  {
+   "label": "Oct 9",
+   "date": "2026-10-09",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1296,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1291,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1261,
+     "rank": 3
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1165,
+     "rank": 4
+    },
+    {
+     "name": "5star",
+     "points": 1136,
+     "rank": 5
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1095,
+     "rank": 6
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1061,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1020,
+     "rank": 8
+    },
+    {
+     "name": "DEPO",
+     "points": 1014,
+     "rank": 9
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 939,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 904,
+     "rank": 11
+    },
+    {
+     "name": "Ground Zero",
+     "points": 855,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 822,
+     "rank": 14
+    },
+    {
+     "name": "Abyssal",
+     "points": 720,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 10",
+   "date": "2026-10-10",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1279,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1277,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1249,
+     "rank": 3
+    },
+    {
+     "name": "5star",
+     "points": 1166,
+     "rank": 4
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1156,
+     "rank": 5
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1135,
+     "rank": 6
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1118,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1010,
+     "rank": 8
+    },
+    {
+     "name": "DEPO",
+     "points": 1007,
+     "rank": 9
+    },
+    {
+     "name": "Ground Zero",
+     "points": 927,
+     "rank": 10
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 901,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 895,
+     "rank": 12
+    },
+    {
+     "name": "Alter Ego",
+     "points": 832,
+     "rank": 14
+    },
+    {
+     "name": "Abyssal",
+     "points": 792,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 11",
+   "date": "2026-10-11",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1274,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1274,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1243,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1229,
+     "rank": 4
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1194,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1164,
+     "rank": 6
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1155,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1009,
+     "rank": 8
+    },
+    {
+     "name": "DEPO",
+     "points": 1008,
+     "rank": 9
+    },
+    {
+     "name": "Ground Zero",
+     "points": 949,
+     "rank": 10
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 912,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 900,
+     "rank": 12
+    },
+    {
+     "name": "Abyssal",
+     "points": 877,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 838,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 12",
+   "date": "2026-10-12",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1272,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1270,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1239,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1201,
+     "rank": 4
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1192,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1163,
+     "rank": 6
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1156,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1008,
+     "rank": 8
+    },
+    {
+     "name": "DEPO",
+     "points": 1006,
+     "rank": 9
+    },
+    {
+     "name": "Ground Zero",
+     "points": 948,
+     "rank": 10
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 909,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 901,
+     "rank": 12
+    },
+    {
+     "name": "Abyssal",
+     "points": 878,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 870,
+     "rank": 14
+    }
+   ]
+  },
+  {
+   "label": "Oct 13",
+   "date": "2026-10-13",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1269,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1265,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1233,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1201,
+     "rank": 4
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1191,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1162,
+     "rank": 6
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1152,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1007,
+     "rank": 8
+    },
+    {
+     "name": "DEPO",
+     "points": 1003,
+     "rank": 9
+    },
+    {
+     "name": "Ground Zero",
+     "points": 947,
+     "rank": 10
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 906,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 901,
+     "rank": 12
+    },
+    {
+     "name": "Alter Ego",
+     "points": 883,
+     "rank": 13
+    },
+    {
+     "name": "Abyssal",
+     "points": 878,
+     "rank": 14
+    }
+   ]
+  },
+  {
+   "label": "Oct 14",
+   "date": "2026-10-14",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1255,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1242,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1203,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1187,
+     "rank": 4
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1177,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1145,
+     "rank": 6
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1134,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 993,
+     "rank": 8
+    },
+    {
+     "name": "DEPO",
+     "points": 989,
+     "rank": 9
+    },
+    {
+     "name": "Ground Zero",
+     "points": 937,
+     "rank": 10
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 893,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 889,
+     "rank": 12
+    },
+    {
+     "name": "Abyssal",
+     "points": 870,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 867,
+     "rank": 14
+    }
+   ]
+  },
+  {
+   "label": "Oct 15",
+   "date": "2026-10-15",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1298,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1240,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1200,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1197,
+     "rank": 4
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1182,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1155,
+     "rank": 6
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1138,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1049,
+     "rank": 8
+    },
+    {
+     "name": "DEPO",
+     "points": 986,
+     "rank": 9
+    },
+    {
+     "name": "Ground Zero",
+     "points": 951,
+     "rank": 10
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 900,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 898,
+     "rank": 12
+    },
+    {
+     "name": "Abyssal",
+     "points": 896,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 872,
+     "rank": 14
+    }
+   ]
+  },
+  {
+   "label": "Oct 16",
+   "date": "2026-10-16",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1300,
+     "rank": 1
+    },
+    {
+     "name": "TYLOO",
+     "points": 1236,
+     "rank": 2
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1215,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1195,
+     "rank": 4
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1193,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1153,
+     "rank": 6
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1133,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1048,
+     "rank": 8
+    },
+    {
+     "name": "DEPO",
+     "points": 985,
+     "rank": 9
+    },
+    {
+     "name": "Abyssal",
+     "points": 916,
+     "rank": 10
+    },
+    {
+     "name": "Ground Zero",
+     "points": 914,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 897,
+     "rank": 12
+    },
+    {
+     "name": "Alter Ego",
+     "points": 870,
+     "rank": 14
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 856,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 17",
+   "date": "2026-10-17",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1302,
+     "rank": 1
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1259,
+     "rank": 2
+    },
+    {
+     "name": "TYLOO",
+     "points": 1236,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1200,
+     "rank": 4
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1189,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1159,
+     "rank": 6
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1134,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1069,
+     "rank": 8
+    },
+    {
+     "name": "DEPO",
+     "points": 986,
+     "rank": 9
+    },
+    {
+     "name": "Ground Zero",
+     "points": 922,
+     "rank": 10
+    },
+    {
+     "name": "Abyssal",
+     "points": 922,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 902,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 872,
+     "rank": 14
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 854,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 18",
+   "date": "2026-10-18",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1299,
+     "rank": 1
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1241,
+     "rank": 2
+    },
+    {
+     "name": "TYLOO",
+     "points": 1235,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1208,
+     "rank": 4
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1183,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1168,
+     "rank": 6
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1137,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1137,
+     "rank": 8
+    },
+    {
+     "name": "DEPO",
+     "points": 984,
+     "rank": 9
+    },
+    {
+     "name": "Ground Zero",
+     "points": 922,
+     "rank": 10
+    },
+    {
+     "name": "Abyssal",
+     "points": 922,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 909,
+     "rank": 12
+    },
+    {
+     "name": "Alter Ego",
+     "points": 874,
+     "rank": 14
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 850,
+     "rank": 15
+    }
+   ]
+  },
+  {
+   "label": "Oct 19",
+   "date": "2026-10-19",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1342,
+     "rank": 1
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1258,
+     "rank": 2
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1242,
+     "rank": 3
+    },
+    {
+     "name": "TYLOO",
+     "points": 1233,
+     "rank": 4
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1209,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1172,
+     "rank": 6
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1138,
+     "rank": 7
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1135,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1039,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 983,
+     "rank": 10
+    },
+    {
+     "name": "Abyssal",
+     "points": 922,
+     "rank": 11
+    },
+    {
+     "name": "Ground Zero",
+     "points": 922,
+     "rank": 12
+    },
+    {
+     "name": "The Huns",
+     "points": 910,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 873,
+     "rank": 15
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 847,
+     "rank": 16
+    }
+   ]
+  },
+  {
+   "label": "Oct 20",
+   "date": "2026-10-20",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1376,
+     "rank": 1
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1254,
+     "rank": 2
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1250,
+     "rank": 3
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1250,
+     "rank": 4
+    },
+    {
+     "name": "TYLOO",
+     "points": 1238,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1191,
+     "rank": 6
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1171,
+     "rank": 7
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1169,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1043,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 984,
+     "rank": 10
+    },
+    {
+     "name": "Abyssal",
+     "points": 924,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 924,
+     "rank": 12
+    },
+    {
+     "name": "Ground Zero",
+     "points": 923,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 863,
+     "rank": 15
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 845,
+     "rank": 17
+    }
+   ]
+  },
+  {
+   "label": "Oct 21",
+   "date": "2026-10-21",
+   "teams": [
+    {
+     "name": "BC.Game",
+     "points": 1397,
+     "rank": 1
+    },
+    {
+     "name": "The MongolZ",
+     "points": 1357,
+     "rank": 2
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1303,
+     "rank": 3
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1254,
+     "rank": 4
+    },
+    {
+     "name": "TYLOO",
+     "points": 1240,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1202,
+     "rank": 6
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1201,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1170,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1050,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 986,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 931,
+     "rank": 11
+    },
+    {
+     "name": "Abyssal",
+     "points": 926,
+     "rank": 12
+    },
+    {
+     "name": "Ground Zero",
+     "points": 925,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 844,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 843,
+     "rank": 17
+    }
+   ]
+  },
+  {
+   "label": "Oct 22",
+   "date": "2026-10-22",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1453,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1407,
+     "rank": 2
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1311,
+     "rank": 3
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1259,
+     "rank": 4
+    },
+    {
+     "name": "TYLOO",
+     "points": 1241,
+     "rank": 5
+    },
+    {
+     "name": "5star",
+     "points": 1213,
+     "rank": 6
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1205,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1194,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1052,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 984,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 939,
+     "rank": 11
+    },
+    {
+     "name": "Abyssal",
+     "points": 927,
+     "rank": 12
+    },
+    {
+     "name": "Ground Zero",
+     "points": 925,
+     "rank": 13
+    },
+    {
+     "name": "Alter Ego",
+     "points": 847,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 839,
+     "rank": 17
+    }
+   ]
+  },
+  {
+   "label": "Oct 23",
+   "date": "2026-10-23",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1452,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1408,
+     "rank": 2
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1298,
+     "rank": 3
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1263,
+     "rank": 4
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1251,
+     "rank": 5
+    },
+    {
+     "name": "TYLOO",
+     "points": 1241,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1218,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1175,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1053,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 985,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 946,
+     "rank": 12
+    },
+    {
+     "name": "Abyssal",
+     "points": 929,
+     "rank": 13
+    },
+    {
+     "name": "Ground Zero",
+     "points": 927,
+     "rank": 14
+    },
+    {
+     "name": "Alter Ego",
+     "points": 849,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 837,
+     "rank": 17
+    }
+   ]
+  },
+  {
+   "label": "Oct 24",
+   "date": "2026-10-24",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1542,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1416,
+     "rank": 2
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1294,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1289,
+     "rank": 4
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1267,
+     "rank": 5
+    },
+    {
+     "name": "TYLOO",
+     "points": 1266,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1224,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1186,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1056,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 998,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 948,
+     "rank": 11
+    },
+    {
+     "name": "Abyssal",
+     "points": 928,
+     "rank": 13
+    },
+    {
+     "name": "Ground Zero",
+     "points": 926,
+     "rank": 14
+    },
+    {
+     "name": "Alter Ego",
+     "points": 848,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 832,
+     "rank": 17
+    }
+   ]
+  },
+  {
+   "label": "Oct 25",
+   "date": "2026-10-25",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1541,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1413,
+     "rank": 2
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1290,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1287,
+     "rank": 4
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1265,
+     "rank": 5
+    },
+    {
+     "name": "TYLOO",
+     "points": 1259,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1221,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1184,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1051,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 995,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 947,
+     "rank": 11
+    },
+    {
+     "name": "Abyssal",
+     "points": 927,
+     "rank": 13
+    },
+    {
+     "name": "Ground Zero",
+     "points": 924,
+     "rank": 14
+    },
+    {
+     "name": "Alter Ego",
+     "points": 849,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 827,
+     "rank": 17
+    }
+   ]
+  },
+  {
+   "label": "Oct 26",
+   "date": "2026-10-26",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1537,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1412,
+     "rank": 2
+    },
+    {
+     "name": "TYLOO",
+     "points": 1324,
+     "rank": 3
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1296,
+     "rank": 4
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1294,
+     "rank": 5
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1271,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1225,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1176,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1048,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 996,
+     "rank": 10
+    },
+    {
+     "name": "Alter Ego",
+     "points": 976,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 959,
+     "rank": 12
+    },
+    {
+     "name": "Abyssal",
+     "points": 931,
+     "rank": 15
+    },
+    {
+     "name": "Ground Zero",
+     "points": 911,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 824,
+     "rank": 17
+    }
+   ]
+  },
+  {
+   "label": "Oct 27",
+   "date": "2026-10-27",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1593,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1404,
+     "rank": 2
+    },
+    {
+     "name": "TYLOO",
+     "points": 1310,
+     "rank": 3
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1298,
+     "rank": 4
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1287,
+     "rank": 5
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1286,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1187,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1172,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1040,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 993,
+     "rank": 10
+    },
+    {
+     "name": "Alter Ego",
+     "points": 971,
+     "rank": 11
+    },
+    {
+     "name": "The Huns",
+     "points": 957,
+     "rank": 12
+    },
+    {
+     "name": "Abyssal",
+     "points": 943,
+     "rank": 15
+    },
+    {
+     "name": "Ground Zero",
+     "points": 921,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 818,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 28",
+   "date": "2026-10-28",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1581,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1404,
+     "rank": 2
+    },
+    {
+     "name": "TYLOO",
+     "points": 1310,
+     "rank": 3
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1301,
+     "rank": 4
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1285,
+     "rank": 5
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1262,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1213,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1184,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1039,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 991,
+     "rank": 10
+    },
+    {
+     "name": "Abyssal",
+     "points": 982,
+     "rank": 11
+    },
+    {
+     "name": "Alter Ego",
+     "points": 971,
+     "rank": 12
+    },
+    {
+     "name": "The Huns",
+     "points": 961,
+     "rank": 13
+    },
+    {
+     "name": "Ground Zero",
+     "points": 929,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 813,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 29",
+   "date": "2026-10-29",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1566,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1392,
+     "rank": 2
+    },
+    {
+     "name": "TYLOO",
+     "points": 1298,
+     "rank": 3
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1290,
+     "rank": 4
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1274,
+     "rank": 5
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1266,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1188,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1173,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1034,
+     "rank": 9
+    },
+    {
+     "name": "DEPO",
+     "points": 985,
+     "rank": 10
+    },
+    {
+     "name": "Abyssal",
+     "points": 974,
+     "rank": 11
+    },
+    {
+     "name": "Alter Ego",
+     "points": 964,
+     "rank": 12
+    },
+    {
+     "name": "The Huns",
+     "points": 953,
+     "rank": 13
+    },
+    {
+     "name": "Ground Zero",
+     "points": 920,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 803,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 30",
+   "date": "2026-10-30",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1569,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1372,
+     "rank": 2
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1314,
+     "rank": 3
+    },
+    {
+     "name": "TYLOO",
+     "points": 1296,
+     "rank": 4
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1274,
+     "rank": 5
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1267,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1189,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1166,
+     "rank": 8
+    },
+    {
+     "name": "Sashi",
+     "points": 1038,
+     "rank": 9
+    },
+    {
+     "name": "Alter Ego",
+     "points": 1004,
+     "rank": 10
+    },
+    {
+     "name": "DEPO",
+     "points": 985,
+     "rank": 11
+    },
+    {
+     "name": "Abyssal",
+     "points": 960,
+     "rank": 12
+    },
+    {
+     "name": "The Huns",
+     "points": 956,
+     "rank": 13
+    },
+    {
+     "name": "Ground Zero",
+     "points": 920,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 799,
+     "rank": 18
+    }
+   ]
+  },
+  {
+   "label": "Oct 31",
+   "date": "2026-10-31",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1556,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1337,
+     "rank": 2
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1308,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1270,
+     "rank": 4
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1269,
+     "rank": 5
+    },
+    {
+     "name": "TYLOO",
+     "points": 1268,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1189,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1155,
+     "rank": 8
+    },
+    {
+     "name": "Alter Ego",
+     "points": 1072,
+     "rank": 9
+    },
+    {
+     "name": "Sashi",
+     "points": 1032,
+     "rank": 10
+    },
+    {
+     "name": "The Huns",
+     "points": 982,
+     "rank": 11
+    },
+    {
+     "name": "DEPO",
+     "points": 979,
+     "rank": 12
+    },
+    {
+     "name": "Abyssal",
+     "points": 949,
+     "rank": 14
+    },
+    {
+     "name": "Ground Zero",
+     "points": 912,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 790,
+     "rank": 19
+    }
+   ]
+  },
+  {
+   "label": "Nov 1",
+   "date": "2026-11-01",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1555,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1338,
+     "rank": 2
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1318,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1272,
+     "rank": 4
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1268,
+     "rank": 5
+    },
+    {
+     "name": "TYLOO",
+     "points": 1267,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1169,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1158,
+     "rank": 8
+    },
+    {
+     "name": "Alter Ego",
+     "points": 1069,
+     "rank": 9
+    },
+    {
+     "name": "The Huns",
+     "points": 1032,
+     "rank": 10
+    },
+    {
+     "name": "Sashi",
+     "points": 1032,
+     "rank": 11
+    },
+    {
+     "name": "DEPO",
+     "points": 978,
+     "rank": 12
+    },
+    {
+     "name": "Abyssal",
+     "points": 949,
+     "rank": 14
+    },
+    {
+     "name": "Ground Zero",
+     "points": 912,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 786,
+     "rank": 19
+    }
+   ]
+  },
+  {
+   "label": "Nov 2",
+   "date": "2026-11-02",
+   "teams": [
+    {
+     "name": "The MongolZ",
+     "points": 1556,
+     "rank": 1
+    },
+    {
+     "name": "BC.Game",
+     "points": 1338,
+     "rank": 2
+    },
+    {
+     "name": "FlyQuest",
+     "points": 1318,
+     "rank": 3
+    },
+    {
+     "name": "Chinggis Warriors",
+     "points": 1272,
+     "rank": 4
+    },
+    {
+     "name": "Lynn Vision",
+     "points": 1268,
+     "rank": 5
+    },
+    {
+     "name": "TYLOO",
+     "points": 1266,
+     "rank": 6
+    },
+    {
+     "name": "5star",
+     "points": 1169,
+     "rank": 7
+    },
+    {
+     "name": "NEXVOID",
+     "points": 1158,
+     "rank": 8
+    },
+    {
+     "name": "Alter Ego",
+     "points": 1069,
+     "rank": 9
+    },
+    {
+     "name": "The Huns",
+     "points": 1032,
+     "rank": 10
+    },
+    {
+     "name": "Sashi",
+     "points": 1031,
+     "rank": 11
+    },
+    {
+     "name": "DEPO",
+     "points": 978,
+     "rank": 12
+    },
+    {
+     "name": "Abyssal",
+     "points": 949,
+     "rank": 14
+    },
+    {
+     "name": "Ground Zero",
+     "points": 912,
+     "rank": 16
+    },
+    {
+     "name": "THUNDER dOWNUNDER",
+     "points": 785,
+     "rank": 19
+    }
+   ]
+  }
+ ],
+ "logos": {
+  "5star": "https://img-cdn.hltv.org/teamlogo/pBTqJCv1AfJpZWmYUgNmRW.png?ixlib=java-2.1.0&w=50&s=3a6e3c34ff5efb69cac88df66e24030a",
+  "Abyssal": "https://img-cdn.hltv.org/teamlogo/U7fek6lTSLbntoy7CPINPF.png?ixlib=java-2.1.0&w=50&s=f0a0344c53af44f00dd7f1de67ed1303",
+  "Alter Ego": "https://img-cdn.hltv.org/teamlogo/rcVrbr1QiFUoakiO5jGExR.png?ixlib=java-2.1.0&w=50&s=81bf2c78f6ef16e4f315ef2024527fc6",
+  "BC.Game": "https://img-cdn.hltv.org/teamlogo/Hwf-Y5nN-3qSvd0FZXOCh5.png?ixlib=java-2.1.0&w=50&s=a139a056665fc6d1534bd4d969ad2eaf",
+  "Chinggis Warriors": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e",
+  "DEPO": "https://img-cdn.hltv.org/teamlogo/QMj_KGH98bGzvokFoPi3ms.png?ixlib=java-2.1.0&w=50&s=757dbe54d797746b30add6c7231d2fb5",
+  "FlyQuest": "https://img-cdn.hltv.org/teamlogo/fmqTgF6Ziw0uied7MO3_ri.png?ixlib=java-2.1.0&w=50&s=255b5a4c460ad03161509ff7eb77b2dc",
+  "Ground Zero": "https://img-cdn.hltv.org/teamlogo/rGAB_PzwZbvmNy3V8Xrven.png?ixlib=java-2.1.0&w=50&s=09d53655350132af167d0b5471525cd0",
+  "Lynn Vision": "https://img-cdn.hltv.org/teamlogo/DPcHT21uWwK1hDD_3txlL9.png?ixlib=java-2.1.0&w=50&s=4b5d5a187f00caf9bbae2d0fcbca6ff6",
+  "NEXVOID": "https://img-cdn.hltv.org/teamlogo/zyy3eHTeRqdTqLKRIUJ9P-.png?ixlib=java-2.1.0&w=50&s=056b3b5aaa5520a3522d69954e992120",
+  "Sashi": "https://img-cdn.hltv.org/teamlogo/xa5M31PECYUvHs6wlM9nzM.png?ixlib=java-2.1.0&w=50&s=e3f81637bc8dc9f9e3ab89a0a5c78d7d",
+  "THUNDER dOWNUNDER": "https://img-cdn.hltv.org/teamlogo/bSRhbVtvK3S64DVmh5XIgi.png?ixlib=java-2.1.0&w=50&s=83a402b5b6e8c40009d10e796645e479",
+  "TYLOO": "https://img-cdn.hltv.org/teamlogo/hMPKtNMDxp07n3lrBEHCuq.svg?ixlib=java-2.1.0&s=6d22fc4af07d0cd9d31fcd7f3023af9a",
+  "The Huns": "https://img-cdn.hltv.org/teamlogo/VgVw2z9BmJJ2knbbyXeDfc.png?ixlib=java-2.1.0&w=50&s=c1577bd514234eb3d106357de5ea6aa4",
+  "The MongolZ": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d"
+ },
+ "approximate": []
+}

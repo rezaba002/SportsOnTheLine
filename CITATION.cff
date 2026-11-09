@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "SportsOnTheLine: code and data behind the videos"
+authors:
+  - given-names: Reza
+    family-names: Baghestani
+    alias: rezaba002
+type: software
+repository-code: "https://github.com/rezaba002/sportsontheline"
+url: "https://www.youtube.com/@SportsOnTheLine"
+license: MIT
+keywords:
+  - counter-strike
+  - cs2
+  - esports
+  - sports analytics
+  - data visualization
+  - remotion

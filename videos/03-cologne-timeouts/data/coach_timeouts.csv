@@ -1,0 +1,48 @@
+stage,match,map,map_no,vod,team,before_round,secs_from_r1,part1
+QF,spirit-vs-g2,Overpass,1,https://youtu.be/IrB3zQotMgs&t=27,Team Spirit,20,2812,True
+QF,spirit-vs-g2,Dust II,2,https://youtu.be/IrB3zQotMgs&t=3280,Team Spirit,2,87,True
+QF,spirit-vs-g2,Mirage,3,https://youtu.be/IrB3zQotMgs&t=7541,Team Spirit,22,1158,True
+QF,spirit-vs-g2,Mirage,3,https://youtu.be/IrB3zQotMgs&t=7541,Team Spirit,35,2924,True
+QF,aurora-vs-betboom,Nuke,1,https://youtu.be/iWRZm3UDpls&t=28,Aurora Gaming,10,952,True
+QF,aurora-vs-betboom,Anubis,2,https://youtu.be/iWRZm3UDpls&t=2426,Aurora Gaming,4,413,True
+QF,aurora-vs-betboom,Anubis,2,https://youtu.be/iWRZm3UDpls&t=2426,Aurora Gaming,19,2441,True
+QF,9z-vs-furia,Dust II,1,https://youtu.be/MtE7mhPk6ts&t=29,FURIA,6,626,True
+QF,9z-vs-furia,Dust II,1,https://youtu.be/MtE7mhPk6ts&t=29,FURIA,10,1206,True
+QF,9z-vs-furia,Dust II,1,https://youtu.be/MtE7mhPk6ts&t=29,FURIA,20,2834,True
+QF,9z-vs-furia,Mirage,2,https://youtu.be/MtE7mhPk6ts&t=3224,FURIA,9,118,True
+QF,9z-vs-furia,Mirage,2,https://youtu.be/MtE7mhPk6ts&t=3224,FURIA,21,1972,True
+QF,9z-vs-furia,Overpass,3,https://youtu.be/MtE7mhPk6ts&t=6512,FURIA,9,998,True
+QF,9z-vs-furia,Overpass,3,https://youtu.be/MtE7mhPk6ts&t=6512,FURIA,18,2432,True
+SF,spirit-vs-falcons,Anubis,1,https://youtu.be/fmHU01rVThM?si=sChsSoFtDmYmyHC0&t=37s,Team Falcons,9,989,True
+SF,spirit-vs-falcons,Anubis,1,https://youtu.be/fmHU01rVThM?si=sChsSoFtDmYmyHC0&t=37s,Team Falcons,19,2433,True
+SF,spirit-vs-falcons,Anubis,1,https://youtu.be/fmHU01rVThM?si=sChsSoFtDmYmyHC0&t=37s,Team Falcons,23,3072,True
+SF,spirit-vs-falcons,Anubis,1,https://youtu.be/fmHU01rVThM?si=sChsSoFtDmYmyHC0&t=37s,Team Falcons,29,3872,True
+SF,spirit-vs-falcons,Mirage,2,https://youtu.be/fmHU01rVThM?si=u_YPEi9sw9Q3n0ua&t=4271s,Team Spirit,3,280,True
+SF,spirit-vs-falcons,Mirage,2,https://youtu.be/fmHU01rVThM?si=u_YPEi9sw9Q3n0ua&t=4271s,Team Falcons,5,451,True
+SF,spirit-vs-falcons,Mirage,2,https://youtu.be/fmHU01rVThM?si=u_YPEi9sw9Q3n0ua&t=4271s,Team Falcons,10,1142,True
+SF,spirit-vs-falcons,Mirage,2,https://youtu.be/fmHU01rVThM?si=u_YPEi9sw9Q3n0ua&t=4271s,Team Falcons,16,2167,True
+SF,spirit-vs-falcons,Dust II,3,https://youtu.be/fmHU01rVThM?si=1k_7cWwQj62zYjCb&t=7184s,Team Falcons,17,2117,True
+SF,spirit-vs-falcons,Dust II,3,https://youtu.be/fmHU01rVThM?si=1k_7cWwQj62zYjCb&t=7184s,Team Falcons,23,2898,True
+SF,aurora-vs-furia,Dust II,1,https://youtu.be/HN0F-b28M8M&t=39,Aurora Gaming,7,651,True
+SF,aurora-vs-furia,Dust II,1,https://youtu.be/HN0F-b28M8M&t=39,FURIA,8,813,True
+SF,aurora-vs-furia,Dust II,1,https://youtu.be/HN0F-b28M8M&t=39,Aurora Gaming,10,1133,True
+SF,aurora-vs-furia,Dust II,1,https://youtu.be/HN0F-b28M8M&t=39,FURIA,14,1959,True
+SF,aurora-vs-furia,Dust II,1,https://youtu.be/HN0F-b28M8M&t=39,Aurora Gaming,16,2162,True
+SF,aurora-vs-furia,Dust II,1,https://youtu.be/HN0F-b28M8M&t=39,FURIA,22,3014,True
+SF,aurora-vs-furia,Nuke,2,https://youtu.be/HN0F-b28M8M&t=3219,Aurora Gaming,5,453,True
+SF,aurora-vs-furia,Nuke,2,https://youtu.be/HN0F-b28M8M&t=3219,Aurora Gaming,10,1185,True
+SF,aurora-vs-furia,Nuke,2,https://youtu.be/HN0F-b28M8M&t=3219,Aurora Gaming,16,2169,True
+Final,falcons-vs-furia,Mirage,1,https://youtu.be/p6U28DEBn8A&t=603,FURIA,6,486,True
+Final,falcons-vs-furia,Mirage,1,https://youtu.be/p6U28DEBn8A&t=603,FURIA,8,753,True
+Final,falcons-vs-furia,Mirage,1,https://youtu.be/p6U28DEBn8A&t=603,Team Falcons,10,966,True
+Final,falcons-vs-furia,Mirage,1,https://youtu.be/p6U28DEBn8A&t=603,FURIA,16,2020,True
+Final,falcons-vs-furia,Mirage,1,https://youtu.be/p6U28DEBn8A&t=603,Team Falcons,21,2508,True
+Final,falcons-vs-furia,Anubis,2,https://youtu.be/p6U28DEBn8A&t=3380,FURIA,5,437,True
+Final,falcons-vs-furia,Anubis,2,https://youtu.be/p6U28DEBn8A&t=3380,Team Falcons,8,800,True
+Final,falcons-vs-furia,Anubis,2,https://youtu.be/p6U28DEBn8A&t=3380,Team Falcons,11,1240,True
+Final,falcons-vs-furia,Anubis,2,https://youtu.be/p6U28DEBn8A&t=3380,FURIA,17,2260,True
+Final,falcons-vs-furia,Anubis,2,https://youtu.be/p6U28DEBn8A&t=3380,FURIA,21,2887,True
+Final,falcons-vs-furia,Inferno,3,https://youtu.be/p6U28DEBn8A&t=6506,FURIA,8,978,True
+Final,falcons-vs-furia,Inferno,3,https://youtu.be/p6U28DEBn8A&t=6506,FURIA,11,1365,True
+Final,falcons-vs-furia,Inferno,3,https://youtu.be/p6U28DEBn8A&t=6506,FURIA,18,2489,True
+Final,falcons-vs-furia,Inferno,3,https://youtu.be/p6U28DEBn8A&t=6506,Team Falcons,19,2653,True

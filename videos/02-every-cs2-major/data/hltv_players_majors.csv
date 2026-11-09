@@ -1,0 +1,21 @@
+# HLTV player stats, CS2 Majors only, 2024-03-17 to 2026-06-21, min 20 maps, both sides, Rating 3.0
+# Source: screenshot from the user (hltv.org/stats/players?startDate=2024-03-17&endDate=2026-06-21&matchType=Majors&minMapCount=20), 2026-10-15
+player,country,teams,maps,rounds,kd_diff,kd,rating3
+donk,Russia,Spirit,56,1276,372,1.44,1.49
+ZywOo,France,Vitality,58,1185,327,1.49,1.36
+m0NESY,Russia,Falcons;G2,63,1422,300,1.36,1.25
+JamYoung,China,TYLOO,36,758,61,1.12,1.21
+w0nderful,Ukraine,Natus Vincere,65,1425,211,1.25,1.18
+latto,Brazil,?,51,1067,118,1.18,1.18
+KSCERATO,Brazil,FURIA,63,1317,152,1.20,1.18
+kyousuke,Russia,Falcons,31,702,38,1.08,1.18
+sh1ro,Russia,Spirit,56,1276,293,1.43,1.18
+ropz,Estonia,Vitality;FaZe,73,1494,230,1.25,1.18
+NiKo,Bosnia and Herzegovina,Falcons;G2,63,1422,149,1.17,1.17
+Magnojez,Russia,BetBoom,32,676,44,1.10,1.17
+frozen,Slovakia,FaZe,77,1624,133,1.13,1.17
+luchov,Argentina,?,22,455,33,1.10,1.16
+ICY,Kazakhstan,?;?;Cloud9,23,491,63,1.22,1.15
+Twistzz,Canada,FaZe;Liquid,47,1004,70,1.11,1.15
+molodoy,Kazakhstan,FURIA,35,699,141,1.36,1.15
+Senzu,Mongolia,The MongolZ,39,873,80,1.15,1.15

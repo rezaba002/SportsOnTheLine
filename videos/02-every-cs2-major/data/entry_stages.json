@@ -1,0 +1,172 @@
+{
+ "cph24": {
+  "c9": [
+   "Opening Stage Invites",
+   "quarters"
+  ],
+  "eternal fire": [
+   "Opening Stage Invites",
+   "quarters"
+  ],
+  "faze": [
+   "Elimination Stage Invites",
+   "final"
+  ],
+  "g2": [
+   "Elimination Stage Invites",
+   "semis"
+  ],
+  "mouz": [
+   "Elimination Stage Invites",
+   "quarters"
+  ],
+  "navi": [
+   "Elimination Stage Invites",
+   "won"
+  ],
+  "spirit": [
+   "Elimination Stage Invites",
+   "quarters"
+  ],
+  "vit": [
+   "Elimination Stage Invites",
+   "semis"
+  ]
+ },
+ "sha24": {
+  "faze": [
+   "Elimination Stage Invites",
+   "final"
+  ],
+  "g2": [
+   "Elimination Stage Invites",
+   "semis"
+  ],
+  "heroic": [
+   "Elimination Stage Invites",
+   "quarters"
+  ],
+  "mongolz": [
+   "Opening Stage Invites",
+   "quarters"
+  ],
+  "mouz": [
+   "Elimination Stage Invites",
+   "semis"
+  ],
+  "spirit": [
+   "Elimination Stage Invites",
+   "won"
+  ],
+  "tl": [
+   "Opening Stage Invites",
+   "quarters"
+  ],
+  "vit": [
+   "Elimination Stage Invites",
+   "quarters"
+  ]
+ },
+ "aus25": {
+  "faze": [
+   "Stage 2 Invites",
+   "quarters"
+  ],
+  "furia": [
+   "Stage 2 Invites",
+   "quarters"
+  ],
+  "mongolz": [
+   "Stage 3 Invites",
+   "final"
+  ],
+  "mouz": [
+   "Stage 3 Invites",
+   "semis"
+  ],
+  "navi": [
+   "Stage 3 Invites",
+   "quarters"
+  ],
+  "pain": [
+   "Stage 2 Invites",
+   "semis"
+  ],
+  "spirit": [
+   "Stage 3 Invites",
+   "quarters"
+  ],
+  "vit": [
+   "Stage 3 Invites",
+   "won"
+  ]
+ },
+ "bud25": {
+  "falcons": [
+   "Stage 3 Invites",
+   "quarters"
+  ],
+  "faze": [
+   "Stage 1 Invites",
+   "final"
+  ],
+  "furia": [
+   "Stage 3 Invites",
+   "quarters"
+  ],
+  "mongolz": [
+   "Stage 3 Invites",
+   "quarters"
+  ],
+  "mouz": [
+   "Stage 3 Invites",
+   "quarters"
+  ],
+  "navi": [
+   "Stage 2 Invites",
+   "semis"
+  ],
+  "spirit": [
+   "Stage 3 Invites",
+   "semis"
+  ],
+  "vit": [
+   "Stage 3 Invites",
+   "won"
+  ]
+ },
+ "col26": {
+  "9z": [
+   "Stage 2 Invites",
+   "quarters"
+  ],
+  "aurora": [
+   "Stage 3 Invites",
+   "semis"
+  ],
+  "betboom": [
+   "Stage 1 Invites",
+   "quarters"
+  ],
+  "falcons": [
+   "Stage 3 Invites",
+   "won"
+  ],
+  "furia": [
+   "Stage 3 Invites",
+   "final"
+  ],
+  "g2": [
+   "Stage 2 Invites",
+   "quarters"
+  ],
+  "spirit": [
+   "Stage 2 Invites",
+   "semis"
+  ],
+  "vit": [
+   "Stage 3 Invites",
+   "quarters"
+  ]
+ }
+}

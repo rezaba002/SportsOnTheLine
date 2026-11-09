@@ -1,0 +1,332 @@
+{
+ "100 Thieves": {
+  "file": "logos/100-thieves.png",
+  "page": "100 Thieves",
+  "source": "100 Thieves full darkmode.png"
+ },
+ "1win": {
+  "file": "logos/1win.png",
+  "page": "1w Team",
+  "source": "1win Team 2024 allmode.png"
+ },
+ "3DMAX": {
+  "file": "logos/3dmax.png",
+  "page": "3DMAX",
+  "source": "3DMAX 2024 allmode.png"
+ },
+ "5star": {
+  "file": "logos/5star.png",
+  "page": "5star eSports",
+  "source": "5star eSports full darkmode.png"
+ },
+ "9z": {
+  "file": "logos/9z.png",
+  "page": "9z Team",
+  "source": "9z Team 2026 darkmode.png"
+ },
+ "Alliance": {
+  "file": "logos/alliance.png",
+  "page": "Alliance",
+  "source": "Alliance 2024 full allmode.png"
+ },
+ "Alter Ego": {
+  "file": "logos/alter-ego.png",
+  "page": "Alter Ego",
+  "source": "Alter Ego 2022 allmode.png"
+ },
+ "Astralis": {
+  "file": "logos/astralis.png",
+  "page": "Astralis",
+  "source": "Astralis 2020 full allmode.png"
+ },
+ "Aurora": {
+  "file": "logos/aurora.png",
+  "page": "Aurora Gaming",
+  "source": "Aurora Gaming 2025 full allmode.png"
+ },
+ "B8": {
+  "file": "logos/b8.png",
+  "page": "B8",
+  "source": "B8 darkmode.png"
+ },
+ "BC.Game": {
+  "file": "logos/bc-game.png",
+  "page": "BC.Game Esports",
+  "source": "BC.Game Esports 2025 full darkmode.png"
+ },
+ "BESTIA": {
+  "file": "logos/bestia.png",
+  "page": "BESTIA",
+  "source": "BESTIA full darkmode.png"
+ },
+ "BETBOOM": {
+  "file": "logos/betboom.png",
+  "page": "BetBoom Team",
+  "source": "BetBoom Team 2024 allmode.png"
+ },
+ "BIG": {
+  "file": "logos/big.png",
+  "page": "BIG",
+  "source": "BIG 2020 full darkmode.png"
+ },
+ "Chinggis Warriors": {
+  "file": "logos/chinggis-warriors.png",
+  "page": "Chinggis Warriors",
+  "source": "CW allmode.png"
+ },
+ "DENDELE": {
+  "file": "logos/dendele.png",
+  "page": "DENDELE CS",
+  "source": "DENDELE CS allmode.png"
+ },
+ "DEPO": {
+  "file": "logos/depo.png",
+  "page": "DEPO",
+  "source": "Depo 2025 darkmode.png"
+ },
+ "Envy": {
+  "file": "logos/envy.png",
+  "page": "ENVY",
+  "source": "ENVY 2025 full darkmode.png"
+ },
+ "Eternal Fire": {
+  "file": "logos/eternal-fire.png",
+  "page": "Eternal Fire",
+  "source": "Eternal Fire 2023 allmode.png"
+ },
+ "FURIA": {
+  "file": "logos/furia.png",
+  "page": "FURIA",
+  "source": "FURIA Esports full darkmode.png"
+ },
+ "FUT": {
+  "file": "logos/fut.png",
+  "page": "FUT Esports",
+  "source": "Futbolist 2021 darkmode.png"
+ },
+ "FaZe": {
+  "file": "logos/faze.png",
+  "page": "FaZe Clan",
+  "source": "FaZe Esports 2026 full darkmode.png"
+ },
+ "Falcons": {
+  "file": "logos/falcons.png",
+  "page": "Team Falcons",
+  "source": "Team Falcons 2022 full darkmode.png"
+ },
+ "Fluxo": {
+  "file": "logos/fluxo.png",
+  "page": "Fluxo",
+  "source": "Fluxo darkmode.png"
+ },
+ "FlyQuest": {
+  "file": "logos/flyquest.png",
+  "page": "FlyQuest",
+  "source": "FlyQuest 2021 full allmode.png"
+ },
+ "G2": {
+  "file": "logos/g2.png",
+  "page": "G2 Esports",
+  "source": "G2 Esports 2020 full darkmode.png"
+ },
+ "GamerLegion": {
+  "file": "logos/gamerlegion.png",
+  "page": "GamerLegion",
+  "source": "GamerLegion 2026 allmode.png"
+ },
+ "Ground Zero": {
+  "file": "logos/ground-zero.png",
+  "page": "Ground Zero Gaming",
+  "source": "Ground Zero Gaming 2019.png"
+ },
+ "HEROIC": {
+  "file": "logos/heroic.png",
+  "page": "HEROIC",
+  "source": "HEROIC 2024 full darkmode.png"
+ },
+ "HOTU": {
+  "file": "logos/hotu.png",
+  "page": "HOTU",
+  "source": "HOTU 2022 full darkmode.png"
+ },
+ "Iberian Soul": {
+  "file": "logos/iberian-soul.png",
+  "page": "Iberian Soul",
+  "source": "Iberian Soul allmode.png"
+ },
+ "Imperial": {
+  "file": "logos/imperial.png",
+  "page": "Imperial Esports",
+  "source": "Imperial Esports 2025 allmode.png"
+ },
+ "Inner Circle": {
+  "file": "logos/inner-circle.png",
+  "page": "IC Esports",
+  "source": "Inner Circle 2025 allmode.png"
+ },
+ "Isurus": {
+  "file": "logos/isurus.png",
+  "page": "Isurus",
+  "source": "Isurus 2025 allmode.png"
+ },
+ "JiJieHao": {
+  "file": "logos/jijiehao.png",
+  "page": "JiJieHao",
+  "source": "JiJieHao International allmode.png"
+ },
+ "K27": {
+  "file": "logos/k27.png",
+  "page": "K27",
+  "source": "K27 allmode.png"
+ },
+ "Legacy": {
+  "file": "logos/legacy.png",
+  "page": "Legacy",
+  "source": "Legacy full darkmode.png"
+ },
+ "Liquid": {
+  "file": "logos/liquid.png",
+  "page": "Team Liquid",
+  "source": "Team Liquid 2024 full darkmode.png"
+ },
+ "Luminosity": {
+  "file": "logos/luminosity.png",
+  "page": "Luminosity Gaming",
+  "source": "Luminosity Gaming 2018 full darkmode.png"
+ },
+ "Lynn Vision": {
+  "file": "logos/lynn-vision.png",
+  "page": "Lynn Vision Gaming",
+  "source": "Lynn Vision Gaming 2024 full allmode.png"
+ },
+ "M80": {
+  "file": "logos/m80.png",
+  "page": "M80",
+  "source": "M80 2023 allmode.png"
+ },
+ "MIBR": {
+  "file": "logos/mibr.png",
+  "page": "MIBR",
+  "source": "MIBR 2018 darkmode.png"
+ },
+ "MOUZ": {
+  "file": "logos/mouz.png",
+  "page": "MOUZ",
+  "source": "MOUZ full allmode.png"
+ },
+ "Metizport": {
+  "file": "logos/metizport.png",
+  "page": "Metizport",
+  "source": "Metizport 2025 allmode.png"
+ },
+ "NAVI Junior": {
+  "file": "logos/navi-junior.png",
+  "page": "Natus Vincere Junior",
+  "source": "Natus Vincere Junior 2021 darkmode.png"
+ },
+ "NEXVOID": {
+  "file": "logos/nexvoid.png",
+  "page": "NEXVOID",
+  "source": "NEXVOID 2026 allmode.png"
+ },
+ "NRG": {
+  "file": "logos/nrg.png",
+  "page": "NRG",
+  "source": "NRG 2024 allmode.png"
+ },
+ "Natus Vincere": {
+  "file": "logos/natus-vincere.png",
+  "page": "Natus Vincere",
+  "source": "Natus Vincere 2021 allmode.png"
+ },
+ "Nemesis": {
+  "file": "logos/nemesis.png",
+  "page": "Team Nemesis",
+  "source": "Team Nemesis full darkmode.png"
+ },
+ "Nemiga": {
+  "file": "logos/nemiga.png",
+  "page": "Nemiga Gaming",
+  "source": "Nemiga Gaming 2020 red full allmode.png"
+ },
+ "Ninjas in Pyjamas": {
+  "file": "logos/ninjas-in-pyjamas.png",
+  "page": "Ninjas in Pyjamas",
+  "source": "Ninjas in Pyjamas 2021 full darkmode.png"
+ },
+ "PARIVISION": {
+  "file": "logos/parivision.png",
+  "page": "PARIVISION",
+  "source": "PARIVISION allmode.png"
+ },
+ "Sangal": {
+  "file": "logos/sangal.png",
+  "page": "Sangal Esports",
+  "source": "Sangal Esports 2020 allmode.png"
+ },
+ "Sashi": {
+  "file": "logos/sashi.png",
+  "page": "Sashi Esport",
+  "source": "Sashi Esport 2023 allmode.png"
+ },
+ "Spirit": {
+  "file": "logos/spirit.png",
+  "page": "Team Spirit",
+  "source": "Team Spirit 2022 full darkmode.png"
+ },
+ "SportsBetExpert": {
+  "file": "logos/sportsbetexpert.png",
+  "page": "SportsBetExpert",
+  "source": "SportsBetExpert allmode.png"
+ },
+ "THUNDER dOWNUNDER": {
+  "file": "logos/thunder-downunder.png",
+  "page": "Off Chops",
+  "source": "Off Chops darkmode.png"
+ },
+ "TYLOO": {
+  "file": "logos/tyloo.png",
+  "page": "TYLOO",
+  "source": "TyLoo 2016 allmode.png"
+ },
+ "The MongolZ": {
+  "file": "logos/the-mongolz.png",
+  "page": "The MongolZ",
+  "source": "The MongolZ 2024 03 allmode.png"
+ },
+ "Virtus.pro": {
+  "file": "logos/virtus-pro.png",
+  "page": "Virtus.pro",
+  "source": "Virtus.pro 2019 allmode.png"
+ },
+ "Vitality": {
+  "file": "logos/vitality.png",
+  "page": "Team Vitality",
+  "source": "Team Vitality 2026 full darkmode.png"
+ },
+ "Voca": {
+  "file": "logos/voca.png",
+  "page": "Team Voca",
+  "source": "Team Voca lightmode.png"
+ },
+ "Wildcard": {
+  "file": "logos/wildcard.png",
+  "page": "Wildcard",
+  "source": "Wildcard 2024 full darkmode.png"
+ },
+ "fnatic": {
+  "file": "logos/fnatic.png",
+  "page": "Fnatic",
+  "source": "Fnatic 2020 full darkmode.png"
+ },
+ "magic": {
+  "file": "logos/magic.png",
+  "page": "Magic",
+  "source": "Magic (Russian team) allmode.png"
+ },
+ "paiN": {
+  "file": "logos/pain.png",
+  "page": "PaiN Gaming",
+  "source": "PaiN Gaming 2023 darkmode.png"
+ }
+}

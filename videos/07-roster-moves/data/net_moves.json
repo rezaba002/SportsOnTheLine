@@ -1,0 +1,1509 @@
+{
+ "MOUZ": {
+  "rank_nov": 1,
+  "cologne_five": [
+   "Spinx",
+   "jL",
+   "torzsi",
+   "xelex",
+   "xertioN"
+  ],
+  "now_five": [
+   "PR",
+   "Spinx",
+   "torzsi",
+   "xelex",
+   "xertioN"
+  ],
+  "in": [
+   "PR"
+  ],
+  "out": [
+   "jL"
+  ],
+  "passed_through": [
+   "Brollan"
+  ],
+  "now_since": "2026-07-21",
+  "now_matches": 31,
+  "check": false
+ },
+ "Vitality": {
+  "rank_nov": 2,
+  "cologne_five": [
+   "ZywOo",
+   "apEX",
+   "flameZ",
+   "mezii",
+   "ropz"
+  ],
+  "now_five": [
+   "ZywOo",
+   "flameZ",
+   "jL",
+   "mezii",
+   "ropz"
+  ],
+  "in": [
+   "jL"
+  ],
+  "out": [
+   "apEX"
+  ],
+  "passed_through": [],
+  "now_since": "2026-10-24",
+  "now_matches": 7,
+  "check": true
+ },
+ "FURIA": {
+  "rank_nov": 3,
+  "cologne_five": [
+   "FalleN",
+   "KSCERATO",
+   "YEKINDAR",
+   "molodoy",
+   "yuurih"
+  ],
+  "now_five": [
+   "FalleN",
+   "KSCERATO",
+   "YEKINDAR",
+   "molodoy",
+   "yuurih"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-09",
+  "now_matches": 49,
+  "check": false
+ },
+ "Aurora": {
+  "rank_nov": 4,
+  "cologne_five": [
+   "MAJ3R",
+   "Wicadia",
+   "XANTARES",
+   "soulfly",
+   "woxic"
+  ],
+  "now_five": [
+   "Jimpphat",
+   "Wicadia",
+   "XANTARES",
+   "kyxsan",
+   "woxic"
+  ],
+  "in": [
+   "Jimpphat",
+   "kyxsan"
+  ],
+  "out": [
+   "MAJ3R",
+   "soulfly"
+  ],
+  "passed_through": [],
+  "now_since": "2026-07-22",
+  "now_matches": 34,
+  "check": false
+ },
+ "Spirit": {
+  "rank_nov": 5,
+  "cologne_five": [
+   "donk",
+   "magixx",
+   "sh1ro",
+   "tN1R",
+   "zont1x"
+  ],
+  "now_five": [
+   "donk",
+   "magixx",
+   "sh1ro",
+   "tN1R",
+   "zont1x"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-09",
+  "now_matches": 44,
+  "check": false
+ },
+ "BETBOOM": {
+  "rank_nov": 6,
+  "cologne_five": [
+   "Boombl4",
+   "FL4MUS",
+   "Magnojez",
+   "d1Ledez",
+   "zorte"
+  ],
+  "now_five": [
+   "Boombl4",
+   "Magnojez",
+   "S1ren",
+   "d1Ledez",
+   "zorte"
+  ],
+  "in": [
+   "S1ren"
+  ],
+  "out": [
+   "FL4MUS"
+  ],
+  "passed_through": [],
+  "now_since": "2026-07-01",
+  "now_matches": 23,
+  "check": false
+ },
+ "Falcons": {
+  "rank_nov": 7,
+  "cologne_five": [
+   "NiKo",
+   "TeSeS",
+   "karrigan",
+   "kyousuke",
+   "m0NESY"
+  ],
+  "now_five": [
+   "NiKo",
+   "TeSeS",
+   "karrigan",
+   "kyousuke",
+   "m0NESY"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-09",
+  "now_matches": 38,
+  "check": false
+ },
+ "FUT": {
+  "rank_nov": 8,
+  "cologne_five": [
+   "Krabeni",
+   "cmtry",
+   "dem0n",
+   "dziugss",
+   "lauNX"
+  ],
+  "now_five": [
+   "Krabeni",
+   "SunPayus",
+   "dem0n",
+   "dziugss",
+   "xfl0ud"
+  ],
+  "in": [
+   "SunPayus",
+   "xfl0ud"
+  ],
+  "out": [
+   "cmtry",
+   "lauNX"
+  ],
+  "passed_through": [],
+  "now_since": "2026-10-24",
+  "now_matches": 4,
+  "check": true
+ },
+ "Legacy": {
+  "rank_nov": 9,
+  "cologne_five": [
+   "arT",
+   "dumau",
+   "latto",
+   "n1ssim",
+   "saadzin"
+  ],
+  "now_five": [
+   "arT",
+   "dumau",
+   "latto",
+   "n1ssim",
+   "try"
+  ],
+  "in": [
+   "try"
+  ],
+  "out": [
+   "saadzin"
+  ],
+  "passed_through": [
+   "bobz"
+  ],
+  "now_since": "2026-10-14",
+  "now_matches": 7,
+  "check": true
+ },
+ "Nemiga": {
+  "rank_nov": 10,
+  "cologne_five": [
+   "1eeR",
+   "KaiR0N-",
+   "khaN",
+   "sowalio",
+   "syph0"
+  ],
+  "now_five": [
+   "KaiR0N-",
+   "Xant3r",
+   "khaN",
+   "robo",
+   "syph0"
+  ],
+  "in": [
+   "Xant3r",
+   "robo"
+  ],
+  "out": [
+   "1eeR",
+   "sowalio"
+  ],
+  "passed_through": [],
+  "now_since": "2026-08-22",
+  "now_matches": 54,
+  "check": false
+ },
+ "G2": {
+  "rank_nov": 11,
+  "cologne_five": [
+   "HeavyGod",
+   "MATYS",
+   "NertZ",
+   "SunPayus",
+   "huNter-"
+  ],
+  "now_five": [
+   "HeavyGod",
+   "MATYS",
+   "NertZ",
+   "huNter-",
+   "r1nkle"
+  ],
+  "in": [
+   "r1nkle"
+  ],
+  "out": [
+   "SunPayus"
+  ],
+  "passed_through": [],
+  "now_since": "2026-07-22",
+  "now_matches": 25,
+  "check": false
+ },
+ "1win": {
+  "rank_nov": 12,
+  "cologne_five": [
+   "ArtFr0st",
+   "Ax1Le",
+   "Xant3r",
+   "nafany",
+   "sugaR"
+  ],
+  "now_five": [
+   "ArtFr0st",
+   "Ax1Le",
+   "BELCHONOKK",
+   "fame",
+   "nafany"
+  ],
+  "in": [
+   "BELCHONOKK",
+   "fame"
+  ],
+  "out": [
+   "Xant3r",
+   "sugaR"
+  ],
+  "passed_through": [
+   "ct0m"
+  ],
+  "now_since": "2026-09-04",
+  "now_matches": 20,
+  "check": false
+ },
+ "Natus Vincere": {
+  "rank_nov": 13,
+  "cologne_five": [
+   "Aleksib",
+   "b1t",
+   "iM",
+   "makazze",
+   "w0nderful"
+  ],
+  "now_five": [
+   "Aleksib",
+   "b1t",
+   "iM",
+   "makazze",
+   "w0nderful"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-11",
+  "now_matches": 32,
+  "check": false
+ },
+ "Astralis": {
+  "rank_nov": 14,
+  "cologne_five": [
+   "HooXi",
+   "Staehr",
+   "jabbi",
+   "phzy",
+   "ryu"
+  ],
+  "now_five": [
+   "Staehr",
+   "jabbi",
+   "phzy",
+   "ryu",
+   "siuhy"
+  ],
+  "in": [
+   "siuhy"
+  ],
+  "out": [
+   "HooXi"
+  ],
+  "passed_through": [
+   "cmtry"
+  ],
+  "now_since": "2026-10-28",
+  "now_matches": 3,
+  "check": true
+ },
+ "Ninjas in Pyjamas": {
+  "rank_nov": 15,
+  "cologne_five": [
+   "Snappi",
+   "cairne",
+   "sjuush",
+   "stavn",
+   "xKacpersky"
+  ],
+  "now_five": [
+   "Krimbo",
+   "adamb",
+   "sjuush",
+   "stavn",
+   "xKacpersky"
+  ],
+  "in": [
+   "Krimbo",
+   "adamb"
+  ],
+  "out": [
+   "Snappi",
+   "cairne"
+  ],
+  "passed_through": [
+   "n0te"
+  ],
+  "now_since": "2026-09-17",
+  "now_matches": 25,
+  "check": false
+ },
+ "PARIVISION": {
+  "rank_nov": 16,
+  "cologne_five": [
+   "BELCHONOKK",
+   "Jame",
+   "nota",
+   "xiELO",
+   "zweih"
+  ],
+  "now_five": [
+   "FL1T",
+   "HObbit",
+   "Jame",
+   "xiELO",
+   "zweih"
+  ],
+  "in": [
+   "FL1T",
+   "HObbit"
+  ],
+  "out": [
+   "BELCHONOKK",
+   "nota"
+  ],
+  "passed_through": [
+   "slaxejezzz"
+  ],
+  "now_since": "2026-10-03",
+  "now_matches": 12,
+  "check": false
+ },
+ "The MongolZ": {
+  "rank_nov": 17,
+  "cologne_five": [
+   "910",
+   "Techno",
+   "bLitz",
+   "cobrazera",
+   "mzinho"
+  ],
+  "now_five": [
+   "910",
+   "Techno",
+   "bLitz",
+   "cobrazera",
+   "nin9"
+  ],
+  "in": [
+   "nin9"
+  ],
+  "out": [
+   "mzinho"
+  ],
+  "passed_through": [
+   "DarkMeister",
+   "tikuak"
+  ],
+  "now_since": "2026-10-19",
+  "now_matches": 11,
+  "check": false
+ },
+ "HEROIC": {
+  "rank_nov": 18,
+  "cologne_five": [
+   "Chr1zN",
+   "nilo",
+   "susp",
+   "xfl0ud",
+   "yxngstxr"
+  ],
+  "now_five": [
+   "Brollan",
+   "Chr1zN",
+   "MartinezSa",
+   "nilo",
+   "susp"
+  ],
+  "in": [
+   "Brollan",
+   "MartinezSa"
+  ],
+  "out": [
+   "xfl0ud",
+   "yxngstxr"
+  ],
+  "passed_through": [],
+  "now_since": "2026-07-15",
+  "now_matches": 41,
+  "check": false
+ },
+ "MIBR": {
+  "rank_nov": 19,
+  "cologne_five": [
+   "LNZ",
+   "brnz4n",
+   "insani",
+   "kl1m",
+   "venomzera"
+  ],
+  "now_five": [
+   "LNZ",
+   "insani",
+   "nqz",
+   "tomaszin",
+   "venomzera"
+  ],
+  "in": [
+   "nqz",
+   "tomaszin"
+  ],
+  "out": [
+   "brnz4n",
+   "kl1m"
+  ],
+  "passed_through": [],
+  "now_since": "2026-09-02",
+  "now_matches": 23,
+  "check": false
+ },
+ "FaZe": {
+  "rank_nov": 20,
+  "cologne_five": [
+   "Neityu",
+   "Twistzz",
+   "broky",
+   "frozen",
+   "jcobbb"
+  ],
+  "now_five": [
+   "JBOEN",
+   "Neityu",
+   "Twistzz",
+   "frozen",
+   "jcobbb"
+  ],
+  "in": [
+   "JBOEN"
+  ],
+  "out": [
+   "broky"
+  ],
+  "passed_through": [],
+  "now_since": "2026-07-01",
+  "now_matches": 31,
+  "check": false
+ },
+ "Liquid": {
+  "rank_nov": 21,
+  "cologne_five": [
+   "EliGE",
+   "NAF",
+   "malbsMd",
+   "siuhy",
+   "ultimate"
+  ],
+  "now_five": [
+   "EliGE",
+   "JT",
+   "Jorko",
+   "NAF",
+   "malbsMd"
+  ],
+  "in": [
+   "JT",
+   "Jorko"
+  ],
+  "out": [
+   "siuhy",
+   "ultimate"
+  ],
+  "passed_through": [
+   "VLDN"
+  ],
+  "now_since": "2026-09-25",
+  "now_matches": 15,
+  "check": false
+ },
+ "Eternal Fire": {
+  "rank_nov": 22,
+  "cologne_five": [
+   "DemQQ",
+   "MisteM",
+   "jottAAA",
+   "regali",
+   "rigoN"
+  ],
+  "now_five": [
+   "Kvem",
+   "MisteM",
+   "jottAAA",
+   "regali",
+   "soulfly"
+  ],
+  "in": [
+   "Kvem",
+   "soulfly"
+  ],
+  "out": [
+   "DemQQ",
+   "rigoN"
+  ],
+  "passed_through": [
+   "br0"
+  ],
+  "now_since": "2026-08-24",
+  "now_matches": 47,
+  "check": false
+ },
+ "100 Thieves": {
+  "rank_nov": 23,
+  "cologne_five": [
+   "Ag1l",
+   "device",
+   "poiii",
+   "rain",
+   "sirah"
+  ],
+  "now_five": [
+   "Gizmy",
+   "device",
+   "poiii",
+   "rain",
+   "sirah"
+  ],
+  "in": [
+   "Gizmy"
+  ],
+  "out": [
+   "Ag1l"
+  ],
+  "passed_through": [],
+  "now_since": "2026-07-22",
+  "now_matches": 39,
+  "check": false
+ },
+ "9z": {
+  "rank_nov": 24,
+  "cologne_five": [
+   "HUASOPEEK",
+   "dgt",
+   "luchov",
+   "max",
+   "meyern"
+  ],
+  "now_five": [
+   "HUASOPEEK",
+   "dgt",
+   "luchov",
+   "max",
+   "meyern"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-09",
+  "now_matches": 44,
+  "check": false
+ },
+ "M80": {
+  "rank_nov": 25,
+  "cologne_five": [
+   "JBa",
+   "Lake",
+   "Swisher",
+   "s1n",
+   "slaxz-"
+  ],
+  "now_five": [
+   "JBa",
+   "Lake",
+   "Swisher",
+   "s1n",
+   "slaxz-"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-11",
+  "now_matches": 45,
+  "check": false
+ },
+ "HOTU": {
+  "rank_nov": 26,
+  "cologne_five": [
+   "dwushka",
+   "frontales",
+   "kade0",
+   "mizu",
+   "n0rb3r7"
+  ],
+  "now_five": [
+   "dwushka",
+   "frontales",
+   "kade0",
+   "mizu",
+   "n0rb3r7"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [
+   "gokushima"
+  ],
+  "now_since": "2026-05-29",
+  "now_matches": 65,
+  "check": false
+ },
+ "fnatic": {
+  "rank_nov": 27,
+  "cologne_five": [
+   "Br4tkO",
+   "KRIMZ",
+   "fEAR",
+   "jackasmo",
+   "jambo"
+  ],
+  "now_five": [
+   "cairne",
+   "fEAR",
+   "jackasmo",
+   "jambo",
+   "mazay"
+  ],
+  "in": [
+   "cairne",
+   "mazay"
+  ],
+  "out": [
+   "Br4tkO",
+   "KRIMZ"
+  ],
+  "passed_through": [
+   "Polbandana"
+  ],
+  "now_since": "2026-07-12",
+  "now_matches": 45,
+  "check": false
+ },
+ "B8": {
+  "rank_nov": 28,
+  "cologne_five": [
+   "alex666",
+   "esenthial",
+   "kensizor",
+   "npl",
+   "s1zzi"
+  ],
+  "now_five": [
+   "alex666",
+   "esenthial",
+   "kensizor",
+   "npl",
+   "s1zzi"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-11",
+  "now_matches": 52,
+  "check": false
+ },
+ "DENDELE": {
+  "rank_nov": 29,
+  "cologne_five": [
+   "doc",
+   "gafolo",
+   "koala",
+   "maxxkor",
+   "rdnzao"
+  ],
+  "now_five": [
+   "doc",
+   "gafolo",
+   "koala",
+   "maxxkor",
+   "rdnzao"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-22",
+  "now_matches": 49,
+  "check": false
+ },
+ "Inner Circle": {
+  "rank_nov": 30,
+  "cologne_five": [
+   "Dawy",
+   "cptkurtka023",
+   "headtr1ck",
+   "onic",
+   "zeRRoFIX"
+  ],
+  "now_five": [
+   "Dawy",
+   "cptkurtka023",
+   "headtr1ck",
+   "onic",
+   "zeRRoFIX"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-21",
+  "now_matches": 45,
+  "check": false
+ },
+ "Virtus.pro": {
+  "rank_nov": 31,
+  "cologne_five": [
+   "AquaRS",
+   "F0R3VER",
+   "b1st",
+   "mir",
+   "tO0RO"
+  ],
+  "now_five": [
+   "AquaRS",
+   "Patsi",
+   "b1st",
+   "mir",
+   "tO0RO"
+  ],
+  "in": [
+   "Patsi"
+  ],
+  "out": [
+   "F0R3VER"
+  ],
+  "passed_through": [],
+  "now_since": "2026-10-21",
+  "now_matches": 5,
+  "check": true
+ },
+ "BIG": {
+  "rank_nov": 32,
+  "cologne_five": [
+   "JDC",
+   "blameF",
+   "faveN",
+   "gr1ks",
+   "tabseN"
+  ],
+  "now_five": [
+   "JDC",
+   "blameF",
+   "faveN",
+   "gr1ks",
+   "tabseN"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-06-02",
+  "now_matches": 39,
+  "check": false
+ },
+ "SINNERS": {
+  "rank_nov": 33,
+  "cologne_five": [
+   "MoDo",
+   "SHOCK",
+   "beastik",
+   "kisserek",
+   "stressarN"
+  ],
+  "now_five": [
+   "MoDo",
+   "SHOCK",
+   "beastik",
+   "kisserek",
+   "stressarN"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-11",
+  "now_matches": 56,
+  "check": false
+ },
+ "K27": {
+  "rank_nov": 34,
+  "cologne_five": [
+   "X5G7V",
+   "fame",
+   "kashl1d",
+   "qw1nk1",
+   "xeedo"
+  ],
+  "now_five": [
+   "X5G7V",
+   "clax",
+   "kashl1d",
+   "qw1nk1",
+   "xeedo"
+  ],
+  "in": [
+   "clax"
+  ],
+  "out": [
+   "fame"
+  ],
+  "passed_through": [
+   "azukay",
+   "shalfey"
+  ],
+  "now_since": "2026-08-07",
+  "now_matches": 46,
+  "check": false
+ },
+ "Imperial": {
+  "rank_nov": 35,
+  "cologne_five": [
+   "VINI",
+   "chelo",
+   "decenty",
+   "levi",
+   "noway"
+  ],
+  "now_five": [
+   "VINI",
+   "chelo",
+   "decenty",
+   "noway",
+   "saadzin"
+  ],
+  "in": [
+   "saadzin"
+  ],
+  "out": [
+   "levi"
+  ],
+  "passed_through": [],
+  "now_since": "2026-07-06",
+  "now_matches": 58,
+  "check": false
+ },
+ "JiJieHao": {
+  "rank_nov": 36,
+  "cologne_five": [
+   "0SAMAS",
+   "Bibu",
+   "CacaNito",
+   "m1N1",
+   "sinnopsyy"
+  ],
+  "now_five": [
+   "0SAMAS",
+   "Bibu",
+   "CacaNito",
+   "m1N1",
+   "sinnopsyy"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-11",
+  "now_matches": 46,
+  "check": false
+ },
+ "GamerLegion": {
+  "rank_nov": 37,
+  "cologne_five": [
+   "PR",
+   "REZ",
+   "Snax",
+   "Tauson",
+   "hypex"
+  ],
+  "now_five": [
+   "FL4MUS",
+   "REZ",
+   "Tauson",
+   "hypex",
+   "shalfey"
+  ],
+  "in": [
+   "FL4MUS",
+   "shalfey"
+  ],
+  "out": [
+   "PR",
+   "Snax"
+  ],
+  "passed_through": [
+   "Grashog",
+   "Maden",
+   "kRaSnaL"
+  ],
+  "now_since": "2026-10-28",
+  "now_matches": 4,
+  "check": true
+ },
+ "Wildcard": {
+  "rank_nov": 38,
+  "cologne_five": [
+   "Cxzi",
+   "HexT",
+   "mhL",
+   "nEMANHA",
+   "reck"
+  ],
+  "now_five": [
+   "Cxzi",
+   "HexT",
+   "fr3nd",
+   "nEMANHA",
+   "reck"
+  ],
+  "in": [
+   "fr3nd"
+  ],
+  "out": [
+   "mhL"
+  ],
+  "passed_through": [],
+  "now_since": "2026-09-25",
+  "now_matches": 18,
+  "check": false
+ },
+ "Nemesis": {
+  "rank_nov": 39,
+  "cologne_five": [
+   "SELLTER",
+   "Sdaim",
+   "mag1k3Y",
+   "r3salt",
+   "tex1y"
+  ],
+  "now_five": [
+   "Sdaim",
+   "heis999",
+   "mag1k3Y",
+   "notineki",
+   "r3salt"
+  ],
+  "in": [
+   "heis999",
+   "notineki"
+  ],
+  "out": [
+   "SELLTER",
+   "tex1y"
+  ],
+  "passed_through": [],
+  "now_since": "2026-10-28",
+  "now_matches": 1,
+  "check": true
+ },
+ "Luminosity": {
+  "rank_nov": 40,
+  "cologne_five": [
+   "AZUWU",
+   "Bymas",
+   "Gizmy",
+   "Rainwaker",
+   "afro"
+  ],
+  "now_five": [
+   "AZUWU",
+   "Rainwaker",
+   "afro",
+   "lux",
+   "yxngstxr"
+  ],
+  "in": [
+   "lux",
+   "yxngstxr"
+  ],
+  "out": [
+   "Bymas",
+   "Gizmy"
+  ],
+  "passed_through": [],
+  "now_since": "2026-09-11",
+  "now_matches": 20,
+  "check": false
+ },
+ "magic": {
+  "rank_nov": 41,
+  "cologne_five": [
+   "AW",
+   "MaSvAl",
+   "mo0N",
+   "sFade8",
+   "tenzy"
+  ],
+  "now_five": [
+   "AW",
+   "MaSvAl",
+   "lattykk",
+   "sFade8",
+   "tenzy"
+  ],
+  "in": [
+   "lattykk"
+  ],
+  "out": [
+   "mo0N"
+  ],
+  "passed_through": [
+   "eksiver"
+  ],
+  "now_since": "2026-10-19",
+  "now_matches": 5,
+  "check": true
+ },
+ "BBL": {
+  "rank_nov": 42,
+  "cologne_five": [
+   "Boye",
+   "IceBerg",
+   "NickyB",
+   "leakz",
+   "salazar"
+  ],
+  "now_five": [
+   "IceBerg",
+   "MistR",
+   "NickyB",
+   "leakz",
+   "salazar"
+  ],
+  "in": [
+   "MistR"
+  ],
+  "out": [
+   "Boye"
+  ],
+  "passed_through": [
+   "Altekz",
+   "Lucky",
+   "Vster"
+  ],
+  "now_since": "2026-10-13",
+  "now_matches": 8,
+  "check": true
+ },
+ "Envy": {
+  "rank_nov": 43,
+  "cologne_five": [
+   "Ex3rcice",
+   "Graviti",
+   "Lucky",
+   "Maka",
+   "misutaaa"
+  ],
+  "now_five": [
+   "Graviti",
+   "Kursy",
+   "Lucky",
+   "Maka",
+   "misutaaa"
+  ],
+  "in": [
+   "Kursy"
+  ],
+  "out": [
+   "Ex3rcice"
+  ],
+  "passed_through": [],
+  "now_since": "2026-07-24",
+  "now_matches": 33,
+  "check": false
+ },
+ "NRG": {
+  "rank_nov": 47,
+  "cologne_five": [
+   "Grim",
+   "Sonic",
+   "br0",
+   "nitr0",
+   "oSee"
+  ],
+  "now_five": [
+   "Grim",
+   "Jeorge",
+   "Sonic",
+   "hallzerk",
+   "nitr0"
+  ],
+  "in": [
+   "Jeorge",
+   "hallzerk"
+  ],
+  "out": [
+   "br0",
+   "oSee"
+  ],
+  "passed_through": [
+   "daps"
+  ],
+  "now_since": "2026-07-28",
+  "now_matches": 25,
+  "check": false
+ },
+ "FlyQuest": {
+  "rank_nov": 48,
+  "cologne_five": [
+   "INS",
+   "Vexite",
+   "jks",
+   "nettik",
+   "story"
+  ],
+  "now_five": [
+   "INS",
+   "Vexite",
+   "aliStair",
+   "jks",
+   "nettik"
+  ],
+  "in": [
+   "aliStair"
+  ],
+  "out": [
+   "story"
+  ],
+  "passed_through": [
+   "Gratisfaction"
+  ],
+  "now_since": "2026-09-02",
+  "now_matches": 29,
+  "check": false
+ },
+ "BESTIA": {
+  "rank_nov": 49,
+  "cologne_five": [
+   "buda",
+   "cass1n",
+   "nacho",
+   "timo",
+   "tomaszin"
+  ],
+  "now_five": [
+   "buda",
+   "cass1n",
+   "drop",
+   "kauez",
+   "timo"
+  ],
+  "in": [
+   "drop",
+   "kauez"
+  ],
+  "out": [
+   "nacho",
+   "tomaszin"
+  ],
+  "passed_through": [],
+  "now_since": "2026-09-09",
+  "now_matches": 20,
+  "check": false
+ },
+ "FOKUS": {
+  "rank_nov": 51,
+  "cologne_five": [
+   "Banjo",
+   "Jorko",
+   "Matheos",
+   "volt",
+   "ztr"
+  ],
+  "now_five": [
+   "Banjo",
+   "Matheos",
+   "jocab",
+   "podi",
+   "ztr"
+  ],
+  "in": [
+   "jocab",
+   "podi"
+  ],
+  "out": [
+   "Jorko",
+   "volt"
+  ],
+  "passed_through": [],
+  "now_since": "2026-07-21",
+  "now_matches": 47,
+  "check": false
+ },
+ "Alliance": {
+  "rank_nov": 52,
+  "cologne_five": [
+   "avid",
+   "bobeksde",
+   "eraa",
+   "twist",
+   "upE"
+  ],
+  "now_five": [
+   "avid",
+   "bobeksde",
+   "eraa",
+   "twist",
+   "upE"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [
+   "MaiL09"
+  ],
+  "now_since": "2026-06-13",
+  "now_matches": 29,
+  "check": false
+ },
+ "paiN": {
+  "rank_nov": 53,
+  "cologne_five": [
+   "biguzera",
+   "piriajr",
+   "saffee",
+   "snow",
+   "vsm"
+  ],
+  "now_five": [
+   "Rkzinho",
+   "Tatu",
+   "biguzera",
+   "saffee",
+   "snow"
+  ],
+  "in": [
+   "Rkzinho",
+   "Tatu"
+  ],
+  "out": [
+   "piriajr",
+   "vsm"
+  ],
+  "passed_through": [],
+  "now_since": "2026-09-16",
+  "now_matches": 15,
+  "check": false
+ },
+ "Iberian Soul": {
+  "rank_nov": 54,
+  "cologne_five": [
+   "MartinezSa",
+   "alex",
+   "dav1g",
+   "mopoz",
+   "sausol"
+  ],
+  "now_five": [
+   "Ag1l",
+   "alex",
+   "dav1g",
+   "mopoz",
+   "sausol"
+  ],
+  "in": [
+   "Ag1l"
+  ],
+  "out": [
+   "MartinezSa"
+  ],
+  "passed_through": [
+   "CRUC1AL"
+  ],
+  "now_since": "2026-09-24",
+  "now_matches": 21,
+  "check": false
+ },
+ "Lynn Vision": {
+  "rank_nov": 56,
+  "cologne_five": [
+   "C4LLM3SU3",
+   "EmiliaQAQ",
+   "Starry",
+   "Westmelon",
+   "z4KR"
+  ],
+  "now_five": [
+   "C4LLM3SU3",
+   "EmiliaQAQ",
+   "Starry",
+   "Westmelon",
+   "z4KR"
+  ],
+  "in": [],
+  "out": [],
+  "passed_through": [],
+  "now_since": "2026-05-11",
+  "now_matches": 41,
+  "check": false
+ },
+ "Metizport": {
+  "rank_nov": 57,
+  "cologne_five": [
+   "F1KU",
+   "Plopski",
+   "forsyy",
+   "isak",
+   "stanislaw"
+  ],
+  "now_five": [
+   "F1KU",
+   "MaiL09",
+   "Plopski",
+   "forsyy",
+   "stanislaw"
+  ],
+  "in": [
+   "MaiL09"
+  ],
+  "out": [
+   "isak"
+  ],
+  "passed_through": [],
+  "now_since": "2026-08-03",
+  "now_matches": 42,
+  "check": false
+ },
+ "Nuclear TigeRES": {
+  "rank_nov": 58,
+  "cologne_five": [
+   "ayuki",
+   "flouzer",
+   "m1QUSE",
+   "senka",
+   "z1k4"
+  ],
+  "now_five": [
+   "Djon8",
+   "ayuki",
+   "flouzer",
+   "senka",
+   "tronic"
+  ],
+  "in": [
+   "Djon8",
+   "tronic"
+  ],
+  "out": [
+   "m1QUSE",
+   "z1k4"
+  ],
+  "passed_through": [],
+  "now_since": "2026-10-11",
+  "now_matches": 22,
+  "check": false
+ },
+ "TYLOO": {
+  "rank_nov": 59,
+  "cologne_five": [
+   "JamYoung",
+   "Jee",
+   "Mercury",
+   "Moseyuh",
+   "Zero"
+  ],
+  "now_five": [
+   "JamYoung",
+   "Mercury",
+   "Moseyuh",
+   "Zero",
+   "zhokiNg"
+  ],
+  "in": [
+   "zhokiNg"
+  ],
+  "out": [
+   "Jee"
+  ],
+  "passed_through": [],
+  "now_since": "2026-10-26",
+  "now_matches": 5,
+  "check": true
+ },
+ "Fluxo": {
+  "rank_nov": 60,
+  "cologne_five": [
+   "Ltz",
+   "Lucaozy",
+   "dav1deuS",
+   "exit",
+   "zevy"
+  ],
+  "now_five": [
+   "Ltz",
+   "dav1deuS",
+   "exit",
+   "kye",
+   "zevy"
+  ],
+  "in": [
+   "kye"
+  ],
+  "out": [
+   "Lucaozy"
+  ],
+  "passed_through": [],
+  "now_since": "2026-06-27",
+  "now_matches": 50,
+  "check": false
+ }
+}

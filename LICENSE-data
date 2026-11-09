@@ -1,0 +1,10 @@
+The derived data in this repository (files under videos/*/data/ and graphics/public/data/)
+is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You may share and adapt it for any purpose, including commercially, as long as you give
+credit: "Reza Baghestani / SportsOnTheLine (https://github.com/rezaba002/sportsontheline)".
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Underlying match data belongs to its original sources (HLTV, bo3.gg, Liquipedia, Valve);
+this license covers only the counts, rates and simulation outputs computed from it.
