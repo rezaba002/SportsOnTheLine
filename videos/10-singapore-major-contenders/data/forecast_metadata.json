@@ -1,0 +1,66 @@
+{
+  "forecast_date": "2026-11-16",
+  "results_cutoff": "2026-11-15",
+  "standings_snapshot": "2026-11-02",
+  "sample_unique_maps": 2619,
+  "baseline_retained_by_validation": true,
+  "baseline": {
+    "half_life_days": 21,
+    "simulations": 100000,
+    "parameters": {
+      "half": 21,
+      "sr": 2.0,
+      "sd": 0.3,
+      "beta": 0.75,
+      "rho": 0.25,
+      "tau": 0.5
+    }
+  },
+  "recency_comparator": {
+    "half_life_days": 60,
+    "simulations": 100000
+  },
+  "scenarios": {
+    "roster_only": {
+      "simulations": 50000,
+      "roster_discount": 0.5,
+      "gammas": [
+        0,
+        0,
+        0
+      ],
+      "experience_snapshot": "2026-11-04"
+    },
+    "moderate_pressure": {
+      "simulations": 50000,
+      "roster_discount": 0.5,
+      "gammas": [
+        0.2,
+        0.2,
+        0.4
+      ],
+      "experience_snapshot": "2026-11-04"
+    },
+    "strong_pressure": {
+      "simulations": 50000,
+      "roster_discount": 0.25,
+      "gammas": [
+        0.4,
+        0.8,
+        0.8
+      ],
+      "experience_snapshot": "2026-11-04"
+    }
+  },
+  "coefficient_units": "Per-map logit addition = gamma_LAN*mean-log-LAN-map difference + gamma_titles*mean-log-Major-title difference + gamma_sub*(missing_B-missing_A).",
+  "roster_weight": "Training map weight multiplies recency by roster_discount**(missing_A+missing_B); unknown actual lineups remain undiscounted and flagged unknown.",
+  "pressure_scope": "Experience and pedigree scenario uplift applies throughout the simulated Major; historical validation applied it to known LAN series.",
+  "warning": "Pressure scenario coefficients are explicit sensitivity assumptions, not validated estimates. Current chronological validation selects the result-only configuration. No claim of measured Major-specific causal advantage.",
+  "limitations": [
+    "Model probabilities conditional on team form and greedy model-based veto; no explicit player substitution adjustment.",
+    "Latest official available standings snapshot is November 2. Match results refreshed through November 15.",
+    "Monte Carlo intervals quantify simulation noise only, not model or roster uncertainty.",
+    "Map outcomes treated as independent given ratings; team strength fixed throughout each simulated Major.",
+    "Current invited-team cohort defines historical data coverage; not a full-world historical backtest."
+  ]
+}

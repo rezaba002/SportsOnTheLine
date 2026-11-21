@@ -1,0 +1,217 @@
+{
+  "beijing_unbeaten": {
+    "type": "observed",
+    "value": "MOUZ won Beijing unbeaten in maps; final 3-0 vs The MongolZ",
+    "source": "https://www.hltv.org/news/45942/mouz-dominate-the-mongolz-to-complete-flawless-run-to-iem-beijing-trophy"
+  },
+  "mouz_map_window": {
+    "type": "observed map results",
+    "value": {
+      "Mirage": [
+        10,
+        2
+      ],
+      "Nuke": [
+        6,
+        1
+      ],
+      "Cache": [
+        2,
+        2
+      ]
+    },
+    "period": [
+      "2026-10-16",
+      "2026-11-15"
+    ],
+    "source": "Frozen invited-team match aggregation (source matches not distributed)",
+    "caveat": "Raw wins/losses; different opponents; Cache n=4. Not opponent-adjusted strengths."
+  },
+  "hongkong_final": {
+    "type": "observed",
+    "value": "FURIA 3-0 Spirit; Ancient13-11 Dust2 13-5 Mirage13-8",
+    "source": "https://www.hltv.org/news/45995/furia-rout-spirit-in-hong-kong-final-to-win-third-trophy-in-four-events"
+  },
+  "furia_recent": {
+    "type": "observed",
+    "value": "Hong Kong was third trophy in four events",
+    "source": "https://www.hltv.org/news/45995/furia-rout-spirit-in-hong-kong-final-to-win-third-trophy-in-four-events"
+  },
+  "cologne_final": {
+    "type": "observed",
+    "value": "Falcons 3-0 FURIA, Cologne Major2026 final",
+    "source": "https://www.hltv.org/news/44972/falcons-sweep-furia-to-win-iem-cologne-major"
+  },
+  "spirit_mouz": {
+    "type": "observed",
+    "value": "Spirit 2-0 MOUZ, Hong Kong semifinal Nov14",
+    "source": "https://www.hltv.org/team/7020/spirit"
+  },
+  "vitality_playing_five": {
+    "type": "announced roster",
+    "value": "apEX replaces registered jL for Major; expected five apEX ZywOo flameZ mezii ropz",
+    "source": "https://news.pglesports.com/news/1794219566606"
+  },
+  "sample": {
+    "type": "dataset",
+    "value": 2619,
+    "unit": "unique maps",
+    "cutoff": "2026-11-15",
+    "source": "Frozen invited-team match aggregation (source matches not distributed)"
+  },
+  "recency": {
+    "type": "model setting",
+    "value": 21,
+    "unit": "days half-life",
+    "source": "Frozen model selection (see forecast_metadata.json)"
+  },
+  "simulation_method": {
+    "type": "method",
+    "value": "Swiss stages, map-based team strength and greedy model-based veto; fixed form through simulation",
+    "source": "Forecast methodology (see forecast_metadata.json)"
+  },
+  "vitality_standins": {
+    "type": "observed lineup audit",
+    "value": {
+      "Porto": 14,
+      "Bucharest": 16
+    },
+    "unit": "maps with temporary player",
+    "source": "Frozen Vitality lineup audit (match-level rows not distributed)"
+  },
+  "roster_discount": {
+    "type": "scenario assumption",
+    "value": 0.5,
+    "unit": "training weight per missing starter, both wins/losses",
+    "source": "Derived pressure scenarios (pressure_sensitivity.csv and forecast_metadata.json)"
+  },
+  "experience_gap": {
+    "type": "dated descriptive snapshot",
+    "value": {
+      "Vitality": 1083,
+      "MOUZ": 542.8
+    },
+    "unit": "mean career LAN maps",
+    "asof": "2026-11-04",
+    "source": "Derived contender roster summary (contender_experience.csv)"
+  },
+  "major_credits": {
+    "type": "player achievement credits",
+    "value": {
+      "Vitality": 14,
+      "MOUZ": 1
+    },
+    "unit": "sum of individual Major titles",
+    "source": "Derived contender roster summary (contender_experience.csv)",
+    "caveat": "Not distinct team championships; titles through June21 before evaluation period."
+  },
+  "vitality_sensitivity": {
+    "type": "model/scenario comparison",
+    "value": [
+      0.13485,
+      0.15826,
+      0.3325
+    ],
+    "source": "Derived pressure scenarios (pressure_sensitivity.csv and forecast_metadata.json)",
+    "caveat": "Experience coefficients are judgment assumptions, not validated pressure effects."
+  },
+  "validation_limit": {
+    "type": "evaluation",
+    "value": "Experience did not demonstrate reliable improvement; recent holdout20 series, incomplete older lineup coverage",
+    "source": "Chronological roster/experience validation (see forecast_metadata.json)"
+  },
+  "vitality_hongkong": {
+    "type": "observed maps",
+    "value": {
+      "wins": 3,
+      "losses": 4
+    },
+    "source": "Frozen Vitality lineup audit (match-level rows not distributed)"
+  },
+  "fallen_retirement": {
+    "type": "announced plan",
+    "value": "Retirement at end2026; Singapore scheduled final Major",
+    "source": "https://www.hltv.org/news/44399/fallen-announces-he-will-retire-at-the-end-of-2026",
+    "caveat": "Recheck before script lock; no claim that plans cannot change."
+  },
+  "fallen_epithets": {
+    "type": "descriptive",
+    "value": "The Professor; Godfather of Brazilian Counter-Strike",
+    "source": "https://liquipedia.net/counterstrike/FalleN"
+  },
+  "forecast_commitment": {
+    "type": "editorial commitment",
+    "value": "Dated forecasts retained and to be graded after the Major",
+    "source": "Derived full-Major forecast (major_probabilities.csv and forecast_metadata.json)"
+  },
+  "baseline_trio": {
+    "type": "model estimates",
+    "value": {
+      "MOUZ": 0.231,
+      "Vitality": 0.13485,
+      "FURIA": 0.16685
+    },
+    "source": "Derived full-Major forecast (major_probabilities.csv and forecast_metadata.json)"
+  },
+  "moderate_trio": {
+    "type": "scenario estimates",
+    "value": {
+      "MOUZ": 0.16566,
+      "Vitality": 0.3325,
+      "FURIA": 0.1752
+    },
+    "source": "Derived pressure scenarios (pressure_sensitivity.csv and forecast_metadata.json)"
+  },
+  "furia_sensitivity": {
+    "type": "model/scenario estimates",
+    "value": [
+      0.16685,
+      0.1752
+    ],
+    "source": "Derived pressure scenarios (pressure_sensitivity.csv and forecast_metadata.json)"
+  },
+  "baseline_mouz": {
+    "type": "model estimate",
+    "value": 0.231,
+    "unit": "P(title)",
+    "source": "Derived full-Major forecast (major_probabilities.csv and forecast_metadata.json)"
+  },
+  "conditional_mouz": {
+    "type": "conditional model estimate",
+    "value": 0.2760153421514858,
+    "unit": "P(title given playoffs)",
+    "source": "Derived full-Major forecast (major_probabilities.csv and forecast_metadata.json)",
+    "caveat": "Averages simulated paths; not a named-opponent head-to-head probability."
+  },
+  "baseline_furia": {
+    "type": "model estimate",
+    "value": 0.16685,
+    "unit": "P(title)",
+    "source": "Derived full-Major forecast (major_probabilities.csv and forecast_metadata.json)"
+  },
+  "conditional_furia": {
+    "type": "conditional model estimate",
+    "value": 0.21287861389675672,
+    "unit": "P(title given playoffs)",
+    "source": "Derived full-Major forecast (major_probabilities.csv and forecast_metadata.json)",
+    "caveat": "Averages simulated paths; not a named-opponent head-to-head probability."
+  },
+  "experience_furia": {
+    "type": "dated descriptive snapshot",
+    "value": {
+      "roster": [
+        "yuurih",
+        "KSCERATO",
+        "FalleN",
+        "molodoy",
+        "YEKINDAR"
+      ],
+      "lan": 914.2,
+      "credits": 2,
+      "winningPlayers": 1
+    },
+    "asof": "2026-11-04",
+    "source": "Derived contender roster summary (contender_experience.csv)",
+    "caveat": "Player achievement credits, not distinct team championships; no estimated causal pressure effect."
+  }
+}
