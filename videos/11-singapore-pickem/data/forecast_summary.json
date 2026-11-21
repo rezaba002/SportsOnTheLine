@@ -1,0 +1,199 @@
+{
+  "forecast_date": "2026-11-16",
+  "results_cutoff": "2026-11-15",
+  "standings_snapshot": "2026-11-02",
+  "field_order": [
+    "Ninjas in Pyjamas",
+    "PARIVISION",
+    "HEROIC",
+    "FaZe",
+    "Liquid",
+    "Eternal Fire",
+    "100 Thieves",
+    "9z",
+    "M80",
+    "DENDELE",
+    "Imperial",
+    "Wildcard",
+    "BC.Game",
+    "FlyQuest",
+    "Chinggis Warriors",
+    "Lynn Vision"
+  ],
+  "baseline_half_life_days": 21,
+  "search_draws": 30000,
+  "tickets": {
+    "model": {
+      "picks": {
+        "3-0": [
+          "100 Thieves",
+          "HEROIC"
+        ],
+        "0-3": [
+          "Chinggis Warriors",
+          "Imperial"
+        ],
+        "advance": [
+          "PARIVISION",
+          "Eternal Fire",
+          "Ninjas in Pyjamas",
+          "Liquid",
+          "DENDELE",
+          "FaZe"
+        ]
+      },
+      "evaluation": {
+        "p_5_or_more": 0.31855714285714287,
+        "expected_correct": 3.8352857142857144,
+        "mc_ci95": [
+          0.3151055827013872,
+          0.3220087030128985
+        ],
+        "n": 70000
+      }
+    },
+    "eye_test": {
+      "picks": {
+        "3-0": [
+          "100 Thieves",
+          "Ninjas in Pyjamas"
+        ],
+        "0-3": [
+          "Chinggis Warriors",
+          "Imperial"
+        ],
+        "advance": [
+          "PARIVISION",
+          "Eternal Fire",
+          "HEROIC",
+          "Liquid",
+          "FaZe",
+          "9z"
+        ]
+      },
+      "evaluation": {
+        "p_5_or_more": 0.2881714285714286,
+        "mc_ci95": [
+          0.2848162146200985,
+          0.29152664252275867
+        ],
+        "expected_correct": 3.7241285714285715,
+        "n": 70000
+      }
+    },
+    "naive": {
+      "picks": {
+        "3-0": [
+          "100 Thieves",
+          "Ninjas in Pyjamas"
+        ],
+        "0-3": [
+          "Chinggis Warriors",
+          "Imperial"
+        ],
+        "advance": [
+          "PARIVISION",
+          "Eternal Fire",
+          "HEROIC",
+          "Liquid",
+          "DENDELE",
+          "FaZe"
+        ]
+      },
+      "evaluation": {
+        "p_5_or_more": 0.31694285714285714,
+        "expected_correct": 3.8342,
+        "mc_ci95": [
+          0.3134959780146021,
+          0.32038973627111217
+        ],
+        "n": 70000
+      }
+    },
+    "nov_5_ticket_under_updated_model": {
+      "picks": {
+        "3-0": [
+          "100 Thieves",
+          "PARIVISION"
+        ],
+        "0-3": [
+          "Chinggis Warriors",
+          "Imperial"
+        ],
+        "advance": [
+          "Ninjas in Pyjamas",
+          "HEROIC",
+          "Liquid",
+          "FaZe",
+          "Eternal Fire",
+          "BC.Game"
+        ]
+      },
+      "evaluation": {
+        "p_5_or_more": 0.28674285714285713,
+        "expected_correct": 3.710185714285714,
+        "mc_ci95": [
+          0.2833926132802107,
+          0.29009310100550356
+        ],
+        "n": 70000
+      }
+    }
+  },
+  "sensitivity": {
+    "21": {
+      "p_5_or_more": 0.31855714285714287,
+      "expected_correct": 3.8352857142857144,
+      "mc_ci95": [
+        0.3151055827013872,
+        0.3220087030128985
+      ],
+      "n": 70000
+    },
+    "14": {
+      "p_5_or_more": 0.32805,
+      "expected_correct": 3.8693,
+      "mc_ci95": [
+        0.3215430184743001,
+        0.3345569815256999
+      ],
+      "n": 20000
+    },
+    "30": {
+      "p_5_or_more": 0.4096,
+      "expected_correct": 4.1906,
+      "mc_ci95": [
+        0.4027845549296323,
+        0.41641544507036776
+      ],
+      "n": 20000
+    },
+    "45": {
+      "p_5_or_more": 0.40015,
+      "expected_correct": 4.1544,
+      "mc_ci95": [
+        0.39335993681338677,
+        0.40694006318661324
+      ],
+      "n": 20000
+    },
+    "60": {
+      "p_5_or_more": 0.39258571428571426,
+      "expected_correct": 4.115442857142857,
+      "mc_ci95": [
+        0.3889681454948272,
+        0.3962032830766013
+      ],
+      "n": 70000
+    },
+    "90": {
+      "p_5_or_more": 0.3845,
+      "expected_correct": 4.0825,
+      "mc_ci95": [
+        0.37775777449353704,
+        0.391242225506463
+      ],
+      "n": 20000
+    }
+  }
+}
