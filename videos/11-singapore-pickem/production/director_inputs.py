@@ -6,6 +6,11 @@ import math
 import pathlib
 import sys
 
+# ---- EDIT ME: network proxy for Edge TTS -----------------------------------------
+# If you need a proxy to reach Microsoft's speech service, put its URL here,
+# e.g. "http://127.0.0.1:8080". Leave it as None to connect directly.
+PROXY = None
+
 WORK = pathlib.Path(__file__).resolve().parent
 ROOT = WORK.parents[1]
 PUBLIC = ROOT / "sotl-graphics/public"
@@ -45,7 +50,7 @@ async def prepare():
             audio = CUT / f"{sid}-{digest}.mp3"
             meta = audio.with_suffix(".json")
             if not audio.exists() or not meta.exists():
-                for proxy in [None]:
+                for proxy in [PROXY, None] if PROXY else [None]:
                     async def fetch():
                         data, marks = bytearray(), []
                         talk = edge_tts.Communicate(text, "en-US-BrianNeural", rate="+3%", boundary="WordBoundary", proxy=proxy)

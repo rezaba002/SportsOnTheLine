@@ -5,9 +5,24 @@ import json, pathlib, re, subprocess, sys
 
 HERE = pathlib.Path(__file__).parent
 ROOT = HERE.parent
-FFB = r"EDIT_ME\ffmpeg\bin"
+# ---- EDIT ME: ffmpeg path -------------------------------------------------------
+# Folder that holds ffmpeg and ffprobe, e.g. r"C:\ffmpeg\bin" or "/usr/bin".
+# Leave it as None to use the ffmpeg on your PATH.
+FFMPEG_DIR = None
+import pathlib, shutil, sys  # noqa: E401,E402
+
+
+def ffmpeg_dir(d=FFMPEG_DIR):
+    found = pathlib.Path(d) if d else (pathlib.Path(shutil.which("ffmpeg")).parent if shutil.which("ffmpeg") else None)
+    if not found or not any((found / n).exists() for n in ("ffmpeg", "ffmpeg.exe")):
+        sys.exit(f"[ffmpeg] not found. Install ffmpeg, or set FFMPEG_DIR in the EDIT ME block "
+                 f"at the top of {pathlib.Path(__file__).name} (now: {d!r}).")
+    return found
+# ---------------------------------------------------------------------------------
+FFB = str(ffmpeg_dir())
 FF, FFP = FFB + r"\ffmpeg.exe", FFB + r"\ffprobe.exe"
-LIB = pathlib.Path(r"EDIT_ME\sound-library")
+# EDIT ME: sound library. My CC0 sound effects and music are not in this repo; point this at your own folder with the same file names.
+LIB = pathlib.Path("EDIT_ME/sound-library")
 ORDER = ["s00", "s01", "s02", "s03", "s04",
          "c1a", "c1b", "C6", "C1", "c1m", "c2a", "c2b", "S5", "S3", "c2m", "c3a", "c3b", "A3", "A2", "c3m",
          "c4a", "c4b", "B1", "B5", "c4m", "c5a", "c5b", "K1", "K2", "c5m", "a00", "a01", "a02", "a03", "z99"]

@@ -25,7 +25,21 @@ def network_hint(what):
           f"EDIT ME block at the top of {pathlib.Path(__file__).name} (now: {PROXY!r}).", file=sys.stderr)
 # ---------------------------------------------------------------------------------
 RATE = sys.argv[sys.argv.index("--rate") + 1] if "--rate" in sys.argv else "+0%"
-FFPROBE = r"EDIT_ME\ffmpeg\bin\ffprobe.exe"
+# ---- EDIT ME: ffmpeg path -------------------------------------------------------
+# Folder that holds ffmpeg and ffprobe, e.g. r"C:\ffmpeg\bin" or "/usr/bin".
+# Leave it as None to use the ffmpeg on your PATH.
+FFMPEG_DIR = None
+import pathlib, shutil, sys  # noqa: E401,E402
+
+
+def ffmpeg_dir(d=FFMPEG_DIR):
+    found = pathlib.Path(d) if d else (pathlib.Path(shutil.which("ffmpeg")).parent if shutil.which("ffmpeg") else None)
+    if not found or not any((found / n).exists() for n in ("ffmpeg", "ffmpeg.exe")):
+        sys.exit(f"[ffmpeg] not found. Install ffmpeg, or set FFMPEG_DIR in the EDIT ME block "
+                 f"at the top of {pathlib.Path(__file__).name} (now: {d!r}).")
+    return found
+# ---------------------------------------------------------------------------------
+FFPROBE = str(ffmpeg_dir() / "ffprobe")
 
 
 def paragraphs():

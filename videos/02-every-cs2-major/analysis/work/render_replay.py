@@ -13,7 +13,21 @@ from awpy import Demo, data as awdata
 HERE = pathlib.Path(__file__).parent
 DEMO = HERE.parent / "demos" / "g2-vs-spirit-m3-mirage-p2.dem"
 OUT = HERE / "replays" / "r34_magixx_1v4.mp4"
-FF = r"EDIT_ME\ffmpeg\bin\ffmpeg.exe"
+# ---- EDIT ME: ffmpeg path -------------------------------------------------------
+# Folder that holds ffmpeg and ffprobe, e.g. r"C:\ffmpeg\bin" or "/usr/bin".
+# Leave it as None to use the ffmpeg on your PATH.
+FFMPEG_DIR = None
+import pathlib, shutil, sys  # noqa: E401,E402
+
+
+def ffmpeg_dir(d=FFMPEG_DIR):
+    found = pathlib.Path(d) if d else (pathlib.Path(shutil.which("ffmpeg")).parent if shutil.which("ffmpeg") else None)
+    if not found or not any((found / n).exists() for n in ("ffmpeg", "ffmpeg.exe")):
+        sys.exit(f"[ffmpeg] not found. Install ffmpeg, or set FFMPEG_DIR in the EDIT ME block "
+                 f"at the top of {pathlib.Path(__file__).name} (now: {d!r}).")
+    return found
+# ---------------------------------------------------------------------------------
+FF = str(ffmpeg_dir() / "ffmpeg")
 W, H, FPS, SS = 1280, 720, 30, 2          # output size; supersample factor for smooth shapes
 ROUND, HERO = 34, "magixx"
 SPIRIT = {"sh1ro", "zont1x", "magixx", "donk", "tN1R"}

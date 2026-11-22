@@ -1,7 +1,21 @@
 """Contact sheet of a rendered clip: python clip_sheet.py <path> [n=16] [cols=4] -> <path>_sheet.jpg"""
 import subprocess, sys
 from PIL import Image, ImageDraw, ImageFont
-FFB = r"EDIT_ME\ffmpeg\bin"
+# ---- EDIT ME: ffmpeg path -------------------------------------------------------
+# Folder that holds ffmpeg and ffprobe, e.g. r"C:\ffmpeg\bin" or "/usr/bin".
+# Leave it as None to use the ffmpeg on your PATH.
+FFMPEG_DIR = None
+import pathlib, shutil, sys  # noqa: E401,E402
+
+
+def ffmpeg_dir(d=FFMPEG_DIR):
+    found = pathlib.Path(d) if d else (pathlib.Path(shutil.which("ffmpeg")).parent if shutil.which("ffmpeg") else None)
+    if not found or not any((found / n).exists() for n in ("ffmpeg", "ffmpeg.exe")):
+        sys.exit(f"[ffmpeg] not found. Install ffmpeg, or set FFMPEG_DIR in the EDIT ME block "
+                 f"at the top of {pathlib.Path(__file__).name} (now: {d!r}).")
+    return found
+# ---------------------------------------------------------------------------------
+FFB = str(ffmpeg_dir())
 path = sys.argv[1]; n = int(sys.argv[2]) if len(sys.argv) > 2 else 16; cols = int(sys.argv[3]) if len(sys.argv) > 3 else 4
 dur = float(subprocess.run([FFB + r"\ffprobe.exe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", path], capture_output=True, text=True).stdout)
 font = ImageFont.truetype(r"C:\Windows\Fonts\arialbd.ttf", 18)

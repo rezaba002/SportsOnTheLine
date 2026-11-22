@@ -6,11 +6,26 @@ import json, pathlib, subprocess, sys
 
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
-FFB = r"EDIT_ME\ffmpeg\bin"
+# ---- EDIT ME: ffmpeg path -------------------------------------------------------
+# Folder that holds ffmpeg and ffprobe, e.g. r"C:\ffmpeg\bin" or "/usr/bin".
+# Leave it as None to use the ffmpeg on your PATH.
+FFMPEG_DIR = None
+import pathlib, shutil, sys  # noqa: E401,E402
+
+
+def ffmpeg_dir(d=FFMPEG_DIR):
+    found = pathlib.Path(d) if d else (pathlib.Path(shutil.which("ffmpeg")).parent if shutil.which("ffmpeg") else None)
+    if not found or not any((found / n).exists() for n in ("ffmpeg", "ffmpeg.exe")):
+        sys.exit(f"[ffmpeg] not found. Install ffmpeg, or set FFMPEG_DIR in the EDIT ME block "
+                 f"at the top of {pathlib.Path(__file__).name} (now: {d!r}).")
+    return found
+# ---------------------------------------------------------------------------------
+FFB = str(ffmpeg_dir())
 FF, FFP = FFB + r"\ffmpeg.exe", FFB + r"\ffprobe.exe"
 RAW = pathlib.Path(r"D:\Youtube\sotl-graphics\out\video05_raw.mp4")
 TL = pathlib.Path(r"D:\Youtube\sotl-graphics\public\data\video05_timeline.json")
-MUSIC = pathlib.Path(r"EDIT_ME\sound-library\music\music-tension-soft.mp3")  # CC0, see library/LICENSES.md
+# EDIT ME: sound library. My CC0 sound effects and music are not in this repo; point this at your own folder with the same file names.
+MUSIC = pathlib.Path("EDIT_ME/sound-library/music/music-tension-soft.mp3")  # CC0, see library/LICENSES.md
 MUSIC_DB = -17.0
 
 

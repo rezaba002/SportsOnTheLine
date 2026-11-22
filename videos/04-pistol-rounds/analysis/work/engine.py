@@ -10,12 +10,27 @@ import functools, json, math, os, pathlib, re, subprocess
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
-FFDIR = pathlib.Path(r"EDIT_ME\ffmpeg\bin")
+# ---- EDIT ME: ffmpeg path -------------------------------------------------------
+# Folder that holds ffmpeg and ffprobe, e.g. r"C:\ffmpeg\bin" or "/usr/bin".
+# Leave it as None to use the ffmpeg on your PATH.
+FFMPEG_DIR = None
+import pathlib, shutil, sys  # noqa: E401,E402
+
+
+def ffmpeg_dir(d=FFMPEG_DIR):
+    found = pathlib.Path(d) if d else (pathlib.Path(shutil.which("ffmpeg")).parent if shutil.which("ffmpeg") else None)
+    if not found or not any((found / n).exists() for n in ("ffmpeg", "ffmpeg.exe")):
+        sys.exit(f"[ffmpeg] not found. Install ffmpeg, or set FFMPEG_DIR in the EDIT ME block "
+                 f"at the top of {pathlib.Path(__file__).name} (now: {d!r}).")
+    return found
+# ---------------------------------------------------------------------------------
+FFDIR = ffmpeg_dir()
 FFMPEG, FFPROBE = str(FFDIR / "ffmpeg.exe"), str(FFDIR / "ffprobe.exe")
 HERE = pathlib.Path(__file__).parent
 ROOT = HERE.parent
 CLIPS = ROOT / "clips"
-SFX_LIB = pathlib.Path(r"EDIT_ME\sound-library")
+# EDIT ME: sound library. My CC0 sound effects and music are not in this repo; point this at your own folder with the same file names.
+SFX_LIB = pathlib.Path("EDIT_ME/sound-library")
 NAR_DIR = HERE / os.environ.get("NAR_DIR", "narration")
 NAR = {p["id"]: p for p in json.loads((NAR_DIR / "narration.json").read_text(encoding="utf-8"))}
 

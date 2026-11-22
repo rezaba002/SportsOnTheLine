@@ -1,7 +1,21 @@
 """One row of 0.1 s frames per window: python sheet_rows.py <clip> "2.9-3.6,4.0-4.7" [crop x,y,w,h]"""
 import pathlib, subprocess, sys
 from PIL import Image, ImageDraw, ImageFont
-FF = r"EDIT_ME\ffmpeg\bin\ffmpeg.exe"
+# ---- EDIT ME: ffmpeg path -------------------------------------------------------
+# Folder that holds ffmpeg and ffprobe, e.g. r"C:\ffmpeg\bin" or "/usr/bin".
+# Leave it as None to use the ffmpeg on your PATH.
+FFMPEG_DIR = None
+import pathlib, shutil, sys  # noqa: E401,E402
+
+
+def ffmpeg_dir(d=FFMPEG_DIR):
+    found = pathlib.Path(d) if d else (pathlib.Path(shutil.which("ffmpeg")).parent if shutil.which("ffmpeg") else None)
+    if not found or not any((found / n).exists() for n in ("ffmpeg", "ffmpeg.exe")):
+        sys.exit(f"[ffmpeg] not found. Install ffmpeg, or set FFMPEG_DIR in the EDIT ME block "
+                 f"at the top of {pathlib.Path(__file__).name} (now: {d!r}).")
+    return found
+# ---------------------------------------------------------------------------------
+FF = str(ffmpeg_dir() / "ffmpeg")
 ROOT = pathlib.Path(__file__).parent.parent
 cid, wins = sys.argv[1], [tuple(map(float, w.split("-"))) for w in sys.argv[2].split(",")]
 crop = sys.argv[3].split(",") if len(sys.argv) > 3 else None

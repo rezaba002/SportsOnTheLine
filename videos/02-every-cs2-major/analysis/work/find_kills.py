@@ -11,7 +11,21 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = pathlib.Path(__file__).parent.parent
-FF = r"EDIT_ME\ffmpeg\bin\ffmpeg.exe"
+# ---- EDIT ME: ffmpeg path -------------------------------------------------------
+# Folder that holds ffmpeg and ffprobe, e.g. r"C:\ffmpeg\bin" or "/usr/bin".
+# Leave it as None to use the ffmpeg on your PATH.
+FFMPEG_DIR = None
+import pathlib, shutil, sys  # noqa: E401,E402
+
+
+def ffmpeg_dir(d=FFMPEG_DIR):
+    found = pathlib.Path(d) if d else (pathlib.Path(shutil.which("ffmpeg")).parent if shutil.which("ffmpeg") else None)
+    if not found or not any((found / n).exists() for n in ("ffmpeg", "ffmpeg.exe")):
+        sys.exit(f"[ffmpeg] not found. Install ffmpeg, or set FFMPEG_DIR in the EDIT ME block "
+                 f"at the top of {pathlib.Path(__file__).name} (now: {d!r}).")
+    return found
+# ---------------------------------------------------------------------------------
+FF = str(ffmpeg_dir() / "ffmpeg")
 FPS = 10
 SW, SH = 480, 270                                   # analysis size (1/4 of 1080p)
 FEED = (370, 14, 480, 80)                           # kill-feed box in analysis pixels (x0, y0, x1, y1) ≈ 1480–1920 × 56–320

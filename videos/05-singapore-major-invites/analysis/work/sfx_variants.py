@@ -8,7 +8,8 @@ The Sfx component (src/cards/Sfx.tsx) picks a variant per play when variation is
 """
 import json, pathlib, subprocess
 
-LIB = pathlib.Path(r"EDIT_ME\sound-library")
+# EDIT ME: sound library. My CC0 sound effects and music are not in this repo; point this at your own folder with the same file names.
+LIB = pathlib.Path("EDIT_ME/sound-library")
 PUB = pathlib.Path(r"D:\Youtube\sotl-graphics\public\sfx")
 FFMPEG = "ffmpeg"
 CLICKS = ["tap", "click-soft", "click-sharp", "select-1", "toggle", "hover-2"]
