@@ -1,0 +1,401 @@
+{
+  "passed": true,
+  "coverage": {
+    "maps_attempted": 2142,
+    "maps": 2141,
+    "expected_maps": 2142,
+    "rounds": 45672,
+    "missing_maps": 0,
+    "round_errors": 187,
+    "excluded_roster_or_outcome_rounds": 458
+  },
+  "donk_original_fullbuy_opening_pct": 20.8,
+  "featured": {
+    "donk": {
+      "team": "Spirit",
+      "role": "entry",
+      "igl": false,
+      "maps": 159,
+      "swing_per_map": 0.641,
+      "by_time": {
+        "0-30": 0.211,
+        "30-60": 0.191,
+        "60+": 0.238
+      },
+      "by_phase": {
+        "preplant": 0.596,
+        "postplant_attack": -0.046,
+        "retake": 0.091
+      },
+      "late_by_phase": {
+        "preplant": 0.206,
+        "postplant_attack": -0.03,
+        "retake": 0.062
+      },
+      "current_team_maps": 159,
+      "current_team_swing_per_map": 0.641,
+      "ci95_match_bootstrap": [
+        0.458,
+        0.839
+      ],
+      "old_swing_per_map": 0.71
+    },
+    "sh1ro": {
+      "team": "Spirit",
+      "role": "AWPer",
+      "igl": false,
+      "maps": 159,
+      "swing_per_map": 0.595,
+      "by_time": {
+        "0-30": 0.129,
+        "30-60": 0.116,
+        "60+": 0.351
+      },
+      "by_phase": {
+        "preplant": 0.521,
+        "postplant_attack": -0.077,
+        "retake": 0.151
+      },
+      "late_by_phase": {
+        "preplant": 0.267,
+        "postplant_attack": -0.051,
+        "retake": 0.135
+      },
+      "current_team_maps": 159,
+      "current_team_swing_per_map": 0.595,
+      "ci95_match_bootstrap": [
+        0.463,
+        0.742
+      ],
+      "old_swing_per_map": 0.65
+    },
+    "zont1x": {
+      "team": "Spirit",
+      "role": "rifler",
+      "igl": false,
+      "maps": 159,
+      "swing_per_map": -0.25,
+      "by_time": {
+        "0-30": -0.026,
+        "30-60": -0.138,
+        "60+": -0.086
+      },
+      "by_phase": {
+        "preplant": -0.253,
+        "postplant_attack": -0.037,
+        "retake": 0.04
+      },
+      "late_by_phase": {
+        "preplant": -0.074,
+        "postplant_attack": -0.026,
+        "retake": 0.014
+      },
+      "current_team_maps": 159,
+      "current_team_swing_per_map": -0.25,
+      "ci95_match_bootstrap": [
+        -0.383,
+        -0.112
+      ],
+      "old_swing_per_map": -0.24
+    },
+    "nilo": {
+      "team": "HEROIC",
+      "role": "rifler",
+      "igl": false,
+      "maps": 120,
+      "swing_per_map": 0.376,
+      "by_time": {
+        "0-30": 0.063,
+        "30-60": 0.166,
+        "60+": 0.147
+      },
+      "by_phase": {
+        "preplant": 0.252,
+        "postplant_attack": -0.041,
+        "retake": 0.165
+      },
+      "late_by_phase": {
+        "preplant": 0.05,
+        "postplant_attack": -0.022,
+        "retake": 0.12
+      },
+      "current_team_maps": 120,
+      "current_team_swing_per_map": 0.376,
+      "ci95_match_bootstrap": [
+        0.215,
+        0.544
+      ],
+      "old_swing_per_map": 0.44
+    },
+    "Brollan": {
+      "team": "HEROIC",
+      "role": "entry",
+      "igl": false,
+      "maps": 113,
+      "swing_per_map": -0.179,
+      "by_time": {
+        "0-30": -0.065,
+        "30-60": -0.015,
+        "60+": -0.099
+      },
+      "by_phase": {
+        "preplant": -0.219,
+        "postplant_attack": -0.041,
+        "retake": 0.081
+      },
+      "late_by_phase": {
+        "preplant": -0.14,
+        "postplant_attack": -0.038,
+        "retake": 0.078
+      },
+      "current_team_maps": 47,
+      "current_team_swing_per_map": -0.077,
+      "ci95_match_bootstrap": [
+        -0.359,
+        -0.002
+      ],
+      "old_swing_per_map": -0.31
+    },
+    "susp": {
+      "team": "HEROIC",
+      "role": "rifler",
+      "igl": false,
+      "maps": 120,
+      "swing_per_map": -0.132,
+      "by_time": {
+        "0-30": -0.059,
+        "30-60": -0.088,
+        "60+": 0.014
+      },
+      "by_phase": {
+        "preplant": -0.154,
+        "postplant_attack": -0.043,
+        "retake": 0.065
+      },
+      "late_by_phase": {
+        "preplant": 0.003,
+        "postplant_attack": -0.047,
+        "retake": 0.058
+      },
+      "current_team_maps": 120,
+      "current_team_swing_per_map": -0.132,
+      "ci95_match_bootstrap": [
+        -0.34,
+        0.05
+      ],
+      "old_swing_per_map": -0.3
+    },
+    "ZywOo": {
+      "team": "Vitality",
+      "role": "AWPer",
+      "igl": false,
+      "maps": 168,
+      "swing_per_map": 0.919,
+      "by_time": {
+        "0-30": 0.221,
+        "30-60": 0.227,
+        "60+": 0.471
+      },
+      "by_phase": {
+        "preplant": 0.772,
+        "postplant_attack": 0.028,
+        "retake": 0.119
+      },
+      "late_by_phase": {
+        "preplant": 0.336,
+        "postplant_attack": 0.025,
+        "retake": 0.11
+      },
+      "current_team_maps": 168,
+      "current_team_swing_per_map": 0.919,
+      "ci95_match_bootstrap": [
+        0.752,
+        1.08
+      ],
+      "old_swing_per_map": 0.97
+    },
+    "Jame": {
+      "team": "PARIVISION",
+      "role": "AWPer",
+      "igl": true,
+      "maps": 176,
+      "swing_per_map": 0.515,
+      "by_time": {
+        "0-30": 0.145,
+        "30-60": 0.149,
+        "60+": 0.221
+      },
+      "by_phase": {
+        "preplant": 0.495,
+        "postplant_attack": -0.062,
+        "retake": 0.081
+      },
+      "late_by_phase": {
+        "preplant": 0.203,
+        "postplant_attack": -0.043,
+        "retake": 0.061
+      },
+      "current_team_maps": 138,
+      "current_team_swing_per_map": 0.464,
+      "ci95_match_bootstrap": [
+        0.375,
+        0.644
+      ],
+      "old_swing_per_map": 0.51
+    },
+    "m0NESY": {
+      "team": "Falcons",
+      "role": "AWPer",
+      "igl": false,
+      "maps": 161,
+      "swing_per_map": 0.938,
+      "by_time": {
+        "0-30": 0.223,
+        "30-60": 0.287,
+        "60+": 0.428
+      },
+      "by_phase": {
+        "preplant": 0.793,
+        "postplant_attack": -0.043,
+        "retake": 0.188
+      },
+      "late_by_phase": {
+        "preplant": 0.323,
+        "postplant_attack": -0.049,
+        "retake": 0.154
+      },
+      "current_team_maps": 150,
+      "current_team_swing_per_map": 0.95,
+      "ci95_match_bootstrap": [
+        0.79,
+        1.091
+      ],
+      "old_swing_per_map": 0.88
+    },
+    "910": {
+      "team": "The MongolZ",
+      "role": "AWPer",
+      "igl": false,
+      "maps": 151,
+      "swing_per_map": 0.556,
+      "by_time": {
+        "0-30": 0.196,
+        "30-60": 0.092,
+        "60+": 0.268
+      },
+      "by_phase": {
+        "preplant": 0.564,
+        "postplant_attack": -0.055,
+        "retake": 0.047
+      },
+      "late_by_phase": {
+        "preplant": 0.285,
+        "postplant_attack": -0.048,
+        "retake": 0.031
+      },
+      "current_team_maps": 126,
+      "current_team_swing_per_map": 0.555,
+      "ci95_match_bootstrap": [
+        0.415,
+        0.707
+      ],
+      "old_swing_per_map": 0.54
+    },
+    "karrigan": {
+      "team": "Falcons",
+      "role": "rifler",
+      "igl": true,
+      "maps": 142,
+      "swing_per_map": -0.856,
+      "by_time": {
+        "0-30": -0.192,
+        "30-60": -0.259,
+        "60+": -0.405
+      },
+      "by_phase": {
+        "preplant": -0.792,
+        "postplant_attack": -0.07,
+        "retake": 0.005
+      },
+      "late_by_phase": {
+        "preplant": -0.349,
+        "postplant_attack": -0.067,
+        "retake": 0.011
+      },
+      "current_team_maps": 93,
+      "current_team_swing_per_map": -0.951,
+      "ci95_match_bootstrap": [
+        -1.028,
+        -0.672
+      ],
+      "old_swing_per_map": -0.84
+    }
+  },
+  "validation": {
+    "split": "5-fold held-out matches; equal total weight per round",
+    "brier": 0.13043562861693297,
+    "log_loss": 0.39960898535025186,
+    "no_phase_control_brier": 0.13309622293588222,
+    "calibration": [
+      {
+        "n": 112424,
+        "predicted": 0.0356762991891885,
+        "observed": 0.02649059513533526
+      },
+      {
+        "n": 51139,
+        "predicted": 0.14335091465673788,
+        "observed": 0.1368194595904227
+      },
+      {
+        "n": 56774,
+        "predicted": 0.2497656387313378,
+        "observed": 0.25138529768092954
+      },
+      {
+        "n": 34149,
+        "predicted": 0.3345295207732944,
+        "observed": 0.33721744400151765
+      },
+      {
+        "n": 48768,
+        "predicted": 0.4616802894789469,
+        "observed": 0.4615798031018185
+      },
+      {
+        "n": 46890,
+        "predicted": 0.5430285988974667,
+        "observed": 0.5450170290618976
+      },
+      {
+        "n": 25135,
+        "predicted": 0.6473415701255573,
+        "observed": 0.6446835159748464
+      },
+      {
+        "n": 46686,
+        "predicted": 0.7573302267505547,
+        "observed": 0.7544702297323961
+      },
+      {
+        "n": 42148,
+        "predicted": 0.8557240868745897,
+        "observed": 0.861164754163127
+      },
+      {
+        "n": 77830,
+        "predicted": 0.9560985603400287,
+        "observed": 0.9696268613724531
+      }
+    ]
+  },
+  "limits": [
+    "Kill/death probability swing is not causal player value or a forecast.",
+    "Objective execution counts are separate; planter is not awarded all team-created site value.",
+    "Opponent strength, positioning, utility and health are not modelled.",
+    "Intervals resample matches with scoring model fixed; they exclude model uncertainty.",
+    "Kills in the final sampled frame around objective resolution are conservatively excluded.",
+    "Same-frame kill credit averages marginal state changes over all within-frame orderings.",
+    "Current-team summaries restrict actual team, but do not require identical five-player rosters."
+  ]
+}

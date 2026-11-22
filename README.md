@@ -11,6 +11,10 @@ Each video has its own folder with the scripts I ran and the derived tables behi
 | 04 | [Do Pistol Rounds Decide CS2 maps? I Checked Every Major](https://youtu.be/Vjlev_o5zDY) | [videos/04-pistol-rounds](videos/04-pistol-rounds) |
 | 05 | [How the Singapore Major 2026 Invites Were Decided (and Who Dropped Out)](https://youtu.be/YKWjoljq4JY) | [videos/05-singapore-major-invites](videos/05-singapore-major-invites) |
 | 07 | [Which CS2 Transfer Actually Worked?](https://youtu.be/zwpl93MQuU4) | [videos/07-roster-moves](videos/07-roster-moves) |
+| 08 | [The Smallest Country Dominating CS2](https://youtu.be/lCIl8yoWiUg) | [videos/08-smallest-country-cs2](videos/08-smallest-country-cs2) |
+| 09 | [Singapore Major: 3 Players You Shouldn’t Overlook](https://youtu.be/C_JbnVVSQGY) | [videos/09-singapore-major-players](videos/09-singapore-major-players) |
+| 10 | [Predicting The Singapore Major Champion Using Data !](https://youtu.be/iA88kOETvlA) | [videos/10-singapore-major-contenders](videos/10-singapore-major-contenders) |
+| 11 | [Stage 1 Simulated 100,000 Times / Honest Singapore Major Pick’Em](https://youtu.be/Zf1xwtK5IjQ) | [videos/11-singapore-pickem](videos/11-singapore-pickem) |
 
 New videos are added here when they go live.
 
