@@ -1,0 +1,30 @@
+{
+  "source_cutoff": "2026-11-22",
+  "runs_per_strategy": 20000,
+  "skill_challenge_counts_0_through_6": {
+    "model": [713, 2937, 5317, 6073, 3721, 1106, 133],
+    "seeding": [2086, 5127, 6399, 4311, 1704, 353, 20],
+    "random": [3888, 6641, 5983, 2916, 534, 37, 1]
+  },
+  "shop": {
+    "pass_usd": "9.99",
+    "usd_per_token": "0.0099",
+    "buyer_paid_per_seller_dollar": "1.15",
+    "paper_tokens": 25,
+    "holo_tokens": 800
+  },
+  "token_budgets": {"silver": 300, "gold": 600, "diamond": 900},
+  "cologne": {
+    "holo_histories_n": 390,
+    "event_holo": {
+      "paired_launch_and_recent_n": 197,
+      "cheaper_in_recent_window": 161
+    },
+    "souvenir_window": ["2026-06-02", "2026-09-29"],
+    "souvenir_pairs": [
+      {"item": "R8 Revolver | Bone Mask (Factory New)", "base_eur": "1.8152", "souvenir_eur": "4.6432", "souvenir_sales": 25, "quote_tokens": 103},
+      {"item": "SSG 08 | Blue Spruce (Factory New)", "base_eur": "1.138", "souvenir_eur": "4.2677", "souvenir_sales": 72, "quote_tokens": 133},
+      {"item": "AK-47 | Elite Build (Field-Tested)", "base_eur": "2.4181", "souvenir_eur": "21.5965", "souvenir_sales": 15, "quote_tokens": null}
+    ]
+  }
+}
